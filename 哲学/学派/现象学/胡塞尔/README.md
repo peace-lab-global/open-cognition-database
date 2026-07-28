@@ -104,7 +104,7 @@ related-comparative:
 
 | 母题 | 代表作 | 子条目 |
 |---|---|---|
-| **意向性** | 《逻辑研究》第五/六研究 | [意向性.md](concepts/意向性.md) |
+| **意向性** | 《逻辑研究》第五/六研究 | [意向性.md](概念/意向性.md) |
 | **现象学还原** | 《观念 I》 | [phenomenological-reduction.md](concepts/phenomenological-reduction.md) |
 | **生活世界** | 《危机》 | [lifeworld.md](concepts/lifeworld.md) |
 | **内时间意识** | 《时间意识讲演》 | [time-consciousness.md](concepts/time-consciousness.md) |
@@ -162,11 +162,11 @@ related-comparative:
 - [萨特](../existentialism/sartre/README.md) `[发展]` 将意向性激进化为"意识即虚无"
 - [康德](../german-idealism/康德.md) `[平行]` 先验哲学传统
 - [德里达](../post-structuralism/derrida.md) `[发展]` 解构在场形而上学
-- [维特根斯坦](../analytic/维特根斯坦.md) `[对照]` 语言哲学路径的分歧
+- [维特根斯坦](../../分析哲学/维特根斯坦.md) `[对照]` 语言哲学路径的分歧
 
 ### 东方思想
-- [唯识 · Yogācāra](../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 四分说、唯识无境与意向性的方法论呼应
-- [量论 · Pramāṇa](../../../宗教/佛教/概念/cognitive-theory/量论.md) `[平行]` 现象学直观与瑜伽现量
+- [唯识 · Yogācāra](../../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 四分说、唯识无境与意向性的方法论呼应
+- [量论 · Pramāṇa](../../../../宗教/佛教/概念/cognitive-theory/量论.md) `[平行]` 现象学直观与瑜伽现量
 
 ### 认知科学
 - [具身认知](../../../心理学/概念/生成认知.md) `[发展]` 现象学作为哲学基础
@@ -219,7 +219,7 @@ related-comparative:
 
 | 子条目 | 内容 |
 |---|---|
-| [concepts/意向性.md](concepts/意向性.md) | 意向性 · noesis / noema |
+| [concepts/意向性.md](概念/意向性.md) | 意向性 · noesis / noema |
 | [concepts/phenomenological-reduction.md](concepts/phenomenological-reduction.md) | 现象学还原 · 悬置 |
 | [concepts/lifeworld.md](concepts/lifeworld.md) | 生活世界 · 科学危机 |
 | [concepts/time-consciousness.md](concepts/time-consciousness.md) | 内时间意识 · 滞留/前摄 |

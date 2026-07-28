@@ -208,7 +208,7 @@ Milarepa's song tradition influenced later Tibetan Buddhist literature, music, t
 
 - **佛教内部 Buddhist**: [玛尔巴 Marpa](../marpa.md) — 上师 Guru；[冈波巴 Gampopa](../gampopa.md) — 首席弟子 Chief disciple；[那洛巴 Naropa](../indian-masters/naropa.md) — 传承祖师 Source lineage
 - **藏传佛教 Tibetan Buddhism**: [宗喀巴 Tsongkhapa](../tsongkhapa.md) — 格鲁派创始人，与噶举派形成对照
-- **心理学 Psychology**: [荣格 Jung](../../../心理学/学派/分析心理学/卡尔.md) — 阴影整合与个体化 Shadow integration
+- **心理学 Psychology**: [荣格 Jung](../../../../心理学/学派/分析心理学/卡尔.md) — 阴影整合与个体化 Shadow integration
 - **文学 Literature**: 与鲁米 Rumi、哈菲兹 Hafez 等苏菲派诗人并列
 
 ---

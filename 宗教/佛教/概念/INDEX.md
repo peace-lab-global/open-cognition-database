@@ -33,7 +33,7 @@
 | 《金刚经》 | 无相/无住/无所得 | [diamond-sutra-non-attachment](cognitive-theory/金刚经.md) |
 
 ### 对应 Skills
-见 [`../skills/`](../skills/)，共 15 个。
+见 [`../skills/`](../技能)，共 15 个。
 
 ---
 
@@ -43,5 +43,5 @@
 - 📚 十三经：[`../sutras/README.md`](../sutras/README.md)
 - 🧠 认知理论：[`./cognitive-theory/README.md`](cognitive-theory/README.md)
 - 🎯 基础概念：[`./foundational/`](foundational/)（三宝、三法印、缘起…）
-- 🏛️ 宗派：[`../schools/`](../schools)（上座部、中观、唯识、天台…）
-- 👤 高僧：[`../masters/`](../masters)（龙树、世亲、智顗、慧能…）
+- 🏛️ 宗派：[`../schools/`](../学派)（上座部、中观、唯识、天台…）
+- 👤 高僧：[`../masters/`](../大师)（龙树、世亲、智顗、慧能…）

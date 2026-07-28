@@ -92,19 +92,19 @@ cross-refs:
 ## 六大核心命题 · Six Core Theses
 
 ### 1. 解构作为对文本不稳定性的揭示 · Deconstruction as the revealing of textual instability
-解构不是破坏或摧毁，而是一种谨慎、忠实的阅读方式：它通过追踪文本内部的等级对立（言语/书写、自然/文化、内/外……），揭示这些对立如何被文本自身所颠覆，暴露意义赖以成立的"不可能条件"。详见 → [concepts/解构.md](concepts/解构.md)。
+解构不是破坏或摧毁，而是一种谨慎、忠实的阅读方式：它通过追踪文本内部的等级对立（言语/书写、自然/文化、内/外……），揭示这些对立如何被文本自身所颠覆，暴露意义赖以成立的"不可能条件"。详见 → [concepts/解构.md](概念/解构.md)。
 
-*Deconstruction is neither destruction nor demolition but a careful, faithful reading that tracks hierarchical oppositions inside a text (speech/writing, nature/culture, inside/outside…) and shows how the text itself overturns them, exposing the "conditions of impossibility" on which meaning depends.* See → [concepts/解构.md](concepts/解构.md).
+*Deconstruction is neither destruction nor demolition but a careful, faithful reading that tracks hierarchical oppositions inside a text (speech/writing, nature/culture, inside/outside…) and shows how the text itself overturns them, exposing the "conditions of impossibility" on which meaning depends.* See → [concepts/解构.md](概念/解构.md).
 
 ### 2. 延异：差异 + 延宕 · *Différance*: difference + deferral
-*Différance* 是德里达发明的"非概念"——法语动词 *différer* 同时意味着"差异"与"延宕"，而名词 *différence* 无法体现后者。意义永远在差异与延迟的双重运动中生成，永远无法抵达在场的圆满。详见 → [concepts/延异.md](concepts/延异.md)。
+*Différance* 是德里达发明的"非概念"——法语动词 *différer* 同时意味着"差异"与"延宕"，而名词 *différence* 无法体现后者。意义永远在差异与延迟的双重运动中生成，永远无法抵达在场的圆满。详见 → [concepts/延异.md](概念/延异.md)。
 
-*Différance* is Derrida's "non-concept": the French verb *différer* means both *to differ* and *to defer*, but the noun *différence* suppresses the latter. Meaning is generated in a double movement of difference and deferral, never arriving at the plenitude of presence. → [concepts/延异.md](concepts/延异.md).
+*Différance* is Derrida's "non-concept": the French verb *différer* means both *to differ* and *to defer*, but the noun *différence* suppresses the latter. Meaning is generated in a double movement of difference and deferral, never arriving at the plenitude of presence. → [concepts/延异.md](概念/延异.md).
 
 ### 3. 对逻各斯中心主义的批判 · Critique of logocentrism
-西方形而上学从柏拉图到胡塞尔一直预设"在场"为真理的本源，将语音置于书写之上、将理性置于身体之上、将同一置于差异之上。德里达把这一整套传统命名为"逻各斯中心主义"，并通过颠倒其等级、再瓦解其对立本身来加以解构。详见 → [concepts/逻各斯中心主义.md](concepts/逻各斯中心主义.md)。
+西方形而上学从柏拉图到胡塞尔一直预设"在场"为真理的本源，将语音置于书写之上、将理性置于身体之上、将同一置于差异之上。德里达把这一整套传统命名为"逻各斯中心主义"，并通过颠倒其等级、再瓦解其对立本身来加以解构。详见 → [concepts/逻各斯中心主义.md](概念/逻各斯中心主义.md)。
 
-*Western metaphysics from Plato to Husserl presupposes presence as the origin of truth, privileging speech over writing, reason over body, identity over difference. Derrida names this tradition "logocentrism," then deconstructs it by first reversing its hierarchies, then dislocating the opposition itself.* → [concepts/逻各斯中心主义.md](concepts/逻各斯中心主义.md).
+*Western metaphysics from Plato to Husserl presupposes presence as the origin of truth, privileging speech over writing, reason over body, identity over difference. Derrida names this tradition "logocentrism," then deconstructs it by first reversing its hierarchies, then dislocating the opposition itself.* → [concepts/逻各斯中心主义.md](概念/逻各斯中心主义.md).
 
 ### 4. 踪迹 · Trace
 每个符号都携带着它所不是之物的痕迹；不存在"纯粹的当下"，只有"原初踪迹"（archi-trace）。踪迹既铭刻又擦除，是意义得以可能的同时又使之不可能的条件。详见 → [concepts/trace.md](concepts/trace.md)。
@@ -271,10 +271,10 @@ cross-refs:
 
 | 文件 · File | 内容 · Content |
 |---|---|
-| [concepts/解构.md](concepts/解构.md) | 解构的三重姿态：颠倒、位移、不可决断 / The triple gesture |
-| [concepts/延异.md](concepts/延异.md) | 延异的语音-文字游戏 / The phonographic play |
+| [concepts/解构.md](概念/解构.md) | 解构的三重姿态：颠倒、位移、不可决断 / The triple gesture |
+| [concepts/延异.md](概念/延异.md) | 延异的语音-文字游戏 / The phonographic play |
 | [concepts/trace.md](concepts/trace.md) | 踪迹与 archi-trace / Trace and archi-trace |
-| [concepts/逻各斯中心主义.md](concepts/逻各斯中心主义.md) | 逻各斯中心主义与语音中心主义 / Logocentrism and phonocentrism |
+| [concepts/逻各斯中心主义.md](概念/逻各斯中心主义.md) | 逻各斯中心主义与语音中心主义 / Logocentrism and phonocentrism |
 | [concepts/supplement.md](concepts/supplement.md) | 补充、药、危险补充 / Supplement, pharmakon, dangerous supplement |
 | [著作.md](著作.md) | 完整著作年表 / Complete chronological works |
 | [时间线.md](时间线.md) | 生平与思想事件年表 / Life and thought timeline |

@@ -166,7 +166,7 @@ The pervasive sense of emptiness that arises when the will to meaning is frustra
 在痛苦、内疚和死亡——即生命的「悲剧三联征」——面前，仍然保持乐观的能力。不是无视苦难，而是在苦难中看到意义的可能性。将痛苦转化为人类成就，将内疚转化为自我改变的机会，将生命的有限性转化为负责任行动的动力。
 The capacity to remain optimistic in the face of pain, guilt, and death — the "tragic triad" of human existence. Not ignoring suffering but seeing within it the possibility of meaning. Turning suffering into human achievement, guilt into opportunity for self-transformation, and life's finiteness into motivation for responsible action.
 
-### 5. 意义意志 / Will to Meaning（→ [concepts/will-to-meaning](concepts/意义意志.md)）
+### 5. 意义意志 / Will to Meaning（→ [concepts/will-to-meaning](概念/意义意志.md)）
 人的原初驱力——对生命意义的追求。区别于弗洛伊德的快乐意志（追求快乐、避免痛苦）和阿德勒/尼采的权力意志（追求优越和控制）。意义意志是前反思的、不可还原的、指向未来的。
 The primordial human drive — the pursuit of meaning in life. Distinguished from Freud's will to pleasure (pursuit of pleasure, avoidance of pain) and Adler/Nietzsche's will to power (pursuit of superiority and control). The will to meaning is pre-reflective, irreducible, and future-oriented.
 
@@ -318,7 +318,7 @@ Zhuangzi's "Free and Easy Wandering" (xiaoyao you) and Frankl's "self-transcende
 | [concepts/meaning-of-life](concepts/meaning-of-life.md) | concept | 生命意义——弗兰克尔的意义观与三种价值 |
 | [concepts/existential-vacuum](concepts/existential-vacuum.md) | concept | 存在真空——意义意志受挫后的空虚感 |
 | [concepts/tragic-optimism](concepts/tragic-optimism.md) | concept | 悲剧乐观主义——面对苦难时保持乐观的能力 |
-| [concepts/will-to-meaning](concepts/意义意志.md) | concept | 意义意志——人类追求意义的原初驱力 |
+| [concepts/will-to-meaning](概念/意义意志.md) | concept | 意义意志——人类追求意义的原初驱力 |
 | [works](著作.md) | works | 弗兰克尔著作年表 |
 | [timeline](时间线.md) | timeline | 弗兰克尔生平年表 |
 | [reading-list](阅读.md) | reading-list | 推荐阅读清单 |

@@ -215,7 +215,7 @@ children: ["concepts/monks-no-bowing", "concepts/three-times-karma", "concepts/b
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **政治哲学**: [奥古斯丁](../../../传统/基督教/恩典与救赎.md) — 《上帝之城》的精神-世俗二元论平行
-- **佛教内部**: [道安](daoan.md) — 师长；[鸠摩罗什](kumarajiva.md) — 通信论学；[善导](shandao.md) — 净土宗实际创立者；[印光](yinguang.md) — 近代净土继承者
+- **佛教内部**: [道安](daoan.md) — 师长；[鸠摩罗什](../鸠摩罗什.md) — 通信论学；[善导](../善导.md) — 净土宗实际创立者；[印光](../印光.md) — 近代净土继承者
 - **伦理学**: 道德运气、跨代正义、报应正义
 - **宗教社会学**: 宗教结社、集体灵修、宗教权威
 - **认知科学**: 观想冥想、意象训练、意识连续性

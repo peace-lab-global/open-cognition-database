@@ -114,4 +114,4 @@ Thomas Reid is the true founder of modern direct realism and founder of the Scot
 
 - [亚里士多德 Aristotle](../ancient-greek/aristotle/README.md) `[同源]` 朴素直接实在论
 - [休谟 Hume](../empiricism/hume/README.md) `[对立]` 观念体系的批判对象
-- [吉布森 Gibson](../../../认知系统/学派/生态认知/吉布森/README.md) `[平行]` 直接知觉
+- [吉布森 Gibson](../../../../认知系统/学派/生态认知/吉布森/README.md) `[平行]` 直接知觉

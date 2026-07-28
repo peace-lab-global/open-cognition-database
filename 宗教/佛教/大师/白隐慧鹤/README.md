@@ -267,7 +267,7 @@ Although Hakuin criticized treating kōans as literary objects, he was himself a
 ## 跨学科关联 / Interdisciplinary Connections
 
 - [荣西 Yōsai](../yosai.md) — [继承 inheritance] 日本临济宗创始人，白隐的思想先驱
-- [大慧宗杲 Dahui Zonggao](../../schools/禅宗.md) — [继承 inheritance] 看话禅创始人，白隐的方法论渊源
+- [大慧宗杲 Dahui Zonggao](../../学派/禅宗.md) — [继承 inheritance] 看话禅创始人，白隐的方法论渊源
 - [道元 Dōgen](../道元.md) — [对比 contrast] 日本禅的另一大传统——曹洞宗
 - [菩提达摩 Bodhidharma](../bodhidharma.md) — [继承 inheritance] 禅宗法脉的源头
 - [公案参究法 Koan Practice](../../skills/koan-practice/SKILL.md) — [同源 cognate] 白隐的公案体系是此 Skill 的主要依据

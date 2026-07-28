@@ -155,7 +155,7 @@ Spinoza's final seven years were devoted almost entirely to completing his magnu
 
 | 概念 / Concept | 说明 / Description | 详见 / See |
 |------|------|------|
-| 实体一元论 (Substance Monism) | 只有一个实体——上帝/自然 | [实体一元论.md](concepts/实体一元论.md) |
+| 实体一元论 (Substance Monism) | 只有一个实体——上帝/自然 | [实体一元论.md](概念/实体一元论.md) |
 | Conatus (努力/欲力) | 万物保持自身存在的努力 | [conatus.md](concepts/conatus.md) |
 | 上帝即自然 (Deus sive Natura) | 上帝与自然的同一性 | [god-or-nature.md](concepts/god-or-nature.md) |
 | 充分观念 (Adequate Ideas) | 仅通过自身即可理解的观念 | [adequate-ideas.md](concepts/adequate-ideas.md) |
@@ -227,12 +227,12 @@ In contemporary philosophy, Spinoza was revived through Gilles Deleuze's creativ
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **神经科学** → 身心平行论与达马西奥的"斯宾诺莎问题" → [Somatic Marker](../../neuroscience/concepts/躯体标记.md)
-- **存在主义** → 权力意志与命运之爱 → [Nietzsche (amor fati)](../existentialism/尼采.md)
+- **神经科学** → 身心平行论与达马西奥的"斯宾诺莎问题" → [Somatic Marker](../../../../心理学/学派/认知心理学/达玛西奥/概念/躯体标记.md)
+- **存在主义** → 权力意志与命运之爱 → [Nietzsche (amor fati)](../../存在主义/尼采.md)
 - **心灵哲学** → 泛心论的当代复兴 → [当代泛心论](../../concepts/panpsychism.md)
 - **政治哲学** → 内格里的"诸众"理论 → [Multitude](../../political-philosophy/concepts/multitude.md)
 - **生态哲学** → 深层生态学的形而上学基础 → [Deep Ecology](../../ecology/concepts/deep-ecology.md)
-- **文学** → 歌德的自然哲学、艾略特的"客观对应物" → [Goethe](../../文学/goethe.md)
+- **文学** → 歌德的自然哲学、艾略特的"客观对应物" → [Goethe](../../../../文学/学派/诗人/goethe.md)
 
 ## 进阶阅读 / Further Reading
 
@@ -242,7 +242,7 @@ In contemporary philosophy, Spinoza was revived through Gilles Deleuze's creativ
 
 | 子条目 | 说明 |
 |--------|------|
-| [实体一元论.md](concepts/实体一元论.md) | 实体一元论 — 斯宾诺莎形而上学的基石 |
+| [实体一元论.md](概念/实体一元论.md) | 实体一元论 — 斯宾诺莎形而上学的基石 |
 | [conatus.md](concepts/conatus.md) | 努力/欲力 — 万物保持存在的内在倾向 |
 | [god-or-nature.md](concepts/god-or-nature.md) | 上帝即自然 — 斯宾诺莎最具革命性的命题 |
 | [adequate-ideas.md](concepts/adequate-ideas.md) | 充分观念 — 通向自由的认识论钥匙 |

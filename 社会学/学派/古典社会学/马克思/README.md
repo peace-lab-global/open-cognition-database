@@ -142,7 +142,7 @@ The central achievement of this phase was Capital (Volume I published in 1867; V
 
 1. **历史唯物主义** / Historical Materialism → [详细条目 / See detailed entry](concepts/historical-materialism.md)
 2. **阶级斗争** / Class Struggle → [详细条目 / See detailed entry](concepts/class-struggle.md)
-3. **异化** / Alienation (Entfremdung) → [详细条目 / See detailed entry](concepts/异化.md)
+3. **异化** / Alienation (Entfremdung) → [详细条目 / See detailed entry](概念/异化.md)
 4. **剩余价值** / Surplus Value (Mehrwert) → [详细条目 / See detailed entry](concepts/surplus-value.md)
 5. **经济基础与上层建筑** / Base and Superstructure → [详细条目 / See detailed entry](concepts/base-superstructure.md)
 6. **商品拜物教** / Commodity Fetishism — 商品关系掩盖了人与人之间的社会关系 / Commodity relations obscure the social relations between people
@@ -291,7 +291,7 @@ Japan was one of the earliest Asian countries to systematically engage with Marx
 |---|---|
 | [历史唯物主义](concepts/historical-materialism.md) | 社会存在决定社会意识的历史观 / Historical theory of social being determining consciousness |
 | [阶级斗争](concepts/class-struggle.md) | 历史发展的直接动力 / The direct motor of historical development |
-| [异化](concepts/异化.md) | 资本主义条件下人的本质异化 / Alienation of human essence under capitalism |
+| [异化](概念/异化.md) | 资本主义条件下人的本质异化 / Alienation of human essence under capitalism |
 | [剩余价值](concepts/surplus-value.md) | 资本主义剥削的核心机制 / The core mechanism of capitalist exploitation |
 | [经济基础与上层建筑](concepts/base-superstructure.md) | 社会结构的两个层次及其辩证关系 / Two levels of social structure and their dialectical relation |
 | [著作年表](著作.md) | 马克思主要著作详述 / Detailed survey of Marx's major works |

@@ -134,7 +134,7 @@ In 1995, Kabat-Zinn founded the Center for Mindfulness in Medicine, Health Care,
 | 概念 / Concept | 简述 / Brief Description |
 |:---|:---|
 | [正念减压 · MBSR](concepts/mindfulness-based-stress-reduction.md) | 八周结构化正念训练课程，正念运动的起点 / Eight-week structured mindfulness training; origin of the mindfulness movement |
-| [当下觉察 · Present Moment](concepts/当下觉察.md) | 正念的核心指向——将注意力锚定于此刻的经验 / Core orientation of mindfulness — anchoring attention in present experience |
+| [当下觉察 · Present Moment](概念/当下觉察.md) | 正念的核心指向——将注意力锚定于此刻的经验 / Core orientation of mindfulness — anchoring attention in present experience |
 | [不评判的觉察 · Nonjudgmental Awareness](concepts/nonjudgmental-awareness.md) | 以开放、好奇、不评价的态度观察经验 / Observing experience with openness, curiosity, and without evaluation |
 | [身体扫描 · Body Scan](concepts/body-scan.md) | 系统性地将注意力依次引导到身体各部位的练习 / Systematic practice of directing attention sequentially through body regions |
 | [冥想 · Meditation](concepts/meditation.md) | 卡巴金对冥想的世俗化理解与教学方法 / Kabat-Zinn's secularized understanding and teaching of meditation |
@@ -300,7 +300,7 @@ Zhuangzi's "fasting of the mind" (心斋) and "sitting and forgetting" (坐忘) 
 | 条目 / Entry | 路径 / Path |
 |:---|:---|
 | 概念：正念减压 · MBSR | [concepts/mindfulness-based-stress-reduction.md](concepts/mindfulness-based-stress-reduction.md) |
-| 概念：当下觉察 · Present Moment | [concepts/当下觉察.md](concepts/当下觉察.md) |
+| 概念：当下觉察 · Present Moment | [concepts/当下觉察.md](概念/当下觉察.md) |
 | 概念：不评判的觉察 · Nonjudgmental Awareness | [concepts/nonjudgmental-awareness.md](concepts/nonjudgmental-awareness.md) |
 | 概念：身体扫描 · Body Scan | [concepts/body-scan.md](concepts/body-scan.md) |
 | 概念：冥想 · Meditation | [concepts/meditation.md](concepts/meditation.md) |

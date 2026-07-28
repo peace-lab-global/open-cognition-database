@@ -96,7 +96,7 @@ Kūkai (774–835), Heian period monk, founder of the **Shingon (True Word) scho
 - [密乘](../schools/vajrayana.md) — [日本传承]
 - [荣西](yosai/README.md) — [对照] 禅 vs 密
 - [道元](dogen/README.md) — [对照] 日本佛教两大传统
-- [德里达](../../../哲学/学派/后结构主义/雅克.md) — [平行] 声字实相 vs 书写学
+- [德里达](../../../../哲学/学派/后结构主义/雅克.md) — [平行] 声字实相 vs 书写学
 - [莲花生](padmasambhava/README.md) — [比较] 藏密 vs 东密
 
 ## 进阶阅读 Further Reading

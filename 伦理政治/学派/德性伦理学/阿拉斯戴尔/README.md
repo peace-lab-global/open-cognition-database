@@ -133,15 +133,15 @@ The 1999 publication of *Dependent Rational Animals* marked an important turn in
 
 ## 重要概念 / Key Concepts
 
-1. **追寻美德 / After Virtue** — 对现代道德话语崩溃的诊断，以及通过回归亚里士多德传统来重建美德伦理学的方案。The diagnosis of the collapse of modern moral discourse and the project of rebuilding virtue ethics through a return to the Aristotelian tradition. [→ concepts/after-德性.md](concepts/after-德性.md)
+1. **追寻美德 / After Virtue** — 对现代道德话语崩溃的诊断，以及通过回归亚里士多德传统来重建美德伦理学的方案。The diagnosis of the collapse of modern moral discourse and the project of rebuilding virtue ethics through a return to the Aristotelian tradition. [→ concepts/after-德性.md](概念/追寻美德.md)
 
-2. **实践与叙事 / Practice and Narrative** — 实践是人类卓越品质得以展现的社会合作形式；叙事是人类行为获得可理解性的基本框架。Practice is the form of social cooperation within which human excellences are displayed; narrative is the fundamental framework through which human actions become intelligible. [→ concepts/practice-narrative.md](concepts/practice-narrative.md)
+2. **实践与叙事 / Practice and Narrative** — 实践是人类卓越品质得以展现的社会合作形式；叙事是人类行为获得可理解性的基本框架。Practice is the form of social cooperation within which human excellences are displayed; narrative is the fundamental framework through which human actions become intelligible. [→ concepts/practice-narrative.md](概念/实践与叙事.md)
 
-3. **传统构成的合理性 / Tradition-Constituted Rationality** — 所有理性推理都嵌入在特定传统之中；合理性不是超越传统的普遍能力，而是通过传统的学习和实践而获得的。All rational reasoning is embedded in particular traditions; rationality is not a universal faculty transcending traditions but is acquired through learning and practicing within a tradition. [→ concepts/tradition-constituted.md](concepts/tradition-constituted.md)
+3. **传统构成的合理性 / Tradition-Constituted Rationality** — 所有理性推理都嵌入在特定传统之中；合理性不是超越传统的普遍能力，而是通过传统的学习和实践而获得的。All rational reasoning is embedded in particular traditions; rationality is not a universal faculty transcending traditions but is acquired through learning and practicing within a tradition. [→ concepts/tradition-constituted.md](概念/传统构成的合理性.md)
 
-4. **内在善与外在善 / Internal Goods and External Goods** — 内在善是只有通过参与实践本身才能获得的卓越品质；外在善（金钱、权力、名誉）则可以通过多种途径获得。美德实践追求内在善而非外在善。Internal goods are excellences attainable only through participation in a practice itself; external goods (money, power, fame) can be achieved through many avenues. Virtuous practice pursues internal goods over external goods. [→ concepts/internal-goods.md](concepts/internal-goods.md)
+4. **内在善与外在善 / Internal Goods and External Goods** — 内在善是只有通过参与实践本身才能获得的卓越品质；外在善（金钱、权力、名誉）则可以通过多种途径获得。美德实践追求内在善而非外在善。Internal goods are excellences attainable only through participation in a practice itself; external goods (money, power, fame) can be achieved through many avenues. Virtuous practice pursues internal goods over external goods. [→ concepts/internal-goods.md](概念/内在善与外在善.md)
 
-5. **情感主义批判 / Critique of Emotivism** — 当代道德话语表面上是客观的道德断言，实质上是情感主义——道德判断不过是个人偏好和情感的表达，这是现代道德哲学的核心危机。Contemporary moral discourse appears to consist of objective moral assertions but is in substance emotivist — moral judgments are nothing more than expressions of personal preference and feeling, and this constitutes the core crisis of modern moral 哲学. [→ concepts/emotivism-critique.md](concepts/emotivism-critique.md)
+5. **情感主义批判 / Critique of Emotivism** — 当代道德话语表面上是客观的道德断言，实质上是情感主义——道德判断不过是个人偏好和情感的表达，这是现代道德哲学的核心危机。Contemporary moral discourse appears to consist of objective moral assertions but is in substance emotivist — moral judgments are nothing more than expressions of personal preference and feeling, and this constitutes the core crisis of modern moral 哲学. [→ concepts/emotivism-critique.md](概念/情感主义批判.md)
 
 6. **承认依赖的美德 / Virtues of Acknowledged Dependence** — 人类本质上是脆弱的、依赖性的动物；真正的美德伦理学必须承认这一现实，并将感恩、同情和慷慨等"承认依赖的美德"纳入核心范畴。Human beings are essentially vulnerable and dependent animals; genuine virtue ethics must acknowledge this reality and incorporate the "virtues of acknowledged dependence" — gratitude, compassion, and generosity — into its central catalogue.
 
@@ -247,11 +247,11 @@ Moreover, MacIntyre's late concern with human vulnerability and dependence in *D
 
 | 子条目 / Sub-entry | 内容 / Content |
 |---|---|
-| [concepts/after-德性.md](concepts/after-德性.md) | 追寻美德 · 现代道德危机诊断 / After Virtue · diagnosing modern moral crisis |
-| [concepts/practice-narrative.md](concepts/practice-narrative.md) | 实践与叙事 · 美德的基础结构 / Practice & Narrative · foundational structure of virtue |
-| [concepts/tradition-constituted.md](concepts/tradition-constituted.md) | 传统构成的合理性 / Tradition-constituted rationality |
-| [concepts/internal-goods.md](concepts/internal-goods.md) | 内在善与外在善 / Internal & external goods |
-| [concepts/emotivism-critique.md](concepts/emotivism-critique.md) | 情感主义批判 / Critique of emotivism |
+| [concepts/after-德性.md](概念/追寻美德.md) | 追寻美德 · 现代道德危机诊断 / After Virtue · diagnosing modern moral crisis |
+| [concepts/practice-narrative.md](概念/实践与叙事.md) | 实践与叙事 · 美德的基础结构 / Practice & Narrative · foundational structure of virtue |
+| [concepts/tradition-constituted.md](概念/传统构成的合理性.md) | 传统构成的合理性 / Tradition-constituted rationality |
+| [concepts/internal-goods.md](概念/内在善与外在善.md) | 内在善与外在善 / Internal & external goods |
+| [concepts/emotivism-critique.md](概念/情感主义批判.md) | 情感主义批判 / Critique of emotivism |
 | [著作.md](著作.md) | 完整著作目录 / Complete works bibliography |
 | [时间线.md](时间线.md) | 生平大事记 / Biographical timeline |
 | [阅读.md](阅读.md) | 阅读指南 / Annotated reading guide |

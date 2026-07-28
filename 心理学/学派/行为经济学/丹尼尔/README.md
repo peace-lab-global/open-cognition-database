@@ -122,11 +122,11 @@ In 1979, Kahneman and Tversky published "Prospect Theory" in *Econometrica*, dir
 
 ## 重要概念 · Key Concepts
 
-1. **系统1与系统2（System 1 and System 2）** — 快思考与慢思考的双系统模型。→ [详细条目](concepts/系统1与系统2.md)
-2. **启发式与偏差（Heuristics and Biases）** — 认知捷径及其系统性错误。→ [详细条目](concepts/启发式与偏差.md)
-3. **前景理论（Prospect Theory）** — 参考点依赖、损失厌恶、概率加权。→ [详细条目](concepts/前景理论.md)
-4. **锚定效应（Anchoring Effect）** — 初始信息对后续判断的过度影响。→ [详细条目](concepts/锚定效应.md)
-5. **可得性启发（Availability Heuristic）** — 基于记忆易提取性的频率判断。→ [详细条目](concepts/可得性启发.md)
+1. **系统1与系统2（System 1 and System 2）** — 快思考与慢思考的双系统模型。→ [详细条目](概念/系统1与系统2.md)
+2. **启发式与偏差（Heuristics and Biases）** — 认知捷径及其系统性错误。→ [详细条目](概念/启发式与偏差.md)
+3. **前景理论（Prospect Theory）** — 参考点依赖、损失厌恶、概率加权。→ [详细条目](概念/前景理论.md)
+4. **锚定效应（Anchoring Effect）** — 初始信息对后续判断的过度影响。→ [详细条目](概念/锚定效应.md)
+5. **可得性启发（Availability Heuristic）** — 基于记忆易提取性的频率判断。→ [详细条目](概念/可得性启发.md)
 6. **框架效应（Framing Effect）** — 同一问题的不同表述方式导致不同选择。
 7. **损失厌恶（Loss Aversion）** — 损失带来的痛苦约为同等收益快乐的两倍。
 8. **禀赋效应（Endowment Effect）** — 拥有某物后对其评价升高。
@@ -236,11 +236,11 @@ The core of Buddhist mindfulness — **observing automatic reactions without imm
 
 | 条目 / Entry | 路径 / Path |
 |---|---|
-| 概念：系统1与系统2 | [concepts/系统1与系统2.md](concepts/系统1与系统2.md) |
-| 概念：启发式与偏差 | [concepts/启发式与偏差.md](concepts/启发式与偏差.md) |
-| 概念：前景理论 | [concepts/前景理论.md](concepts/前景理论.md) |
-| 概念：锚定效应 | [concepts/锚定效应.md](concepts/锚定效应.md) |
-| 概念：可得性启发 | [concepts/可得性启发.md](concepts/可得性启发.md) |
+| 概念：系统1与系统2 | [concepts/系统1与系统2.md](概念/系统1与系统2.md) |
+| 概念：启发式与偏差 | [concepts/启发式与偏差.md](概念/启发式与偏差.md) |
+| 概念：前景理论 | [concepts/前景理论.md](概念/前景理论.md) |
+| 概念：锚定效应 | [concepts/锚定效应.md](概念/锚定效应.md) |
+| 概念：可得性启发 | [concepts/可得性启发.md](概念/可得性启发.md) |
 | 关键著作 | [著作.md](著作.md) |
 | 生平年表 | [时间线.md](时间线.md) |
 | 进阶阅读 | [阅读.md](阅读.md) |

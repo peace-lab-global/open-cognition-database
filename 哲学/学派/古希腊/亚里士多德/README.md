@@ -131,11 +131,11 @@ In 335 BCE, Aristotle returned to Athens and founded his school at the Lyceum. H
 ## 重要概念 Key Concepts
 
 - **[实体论 Substance (Ousia)](concepts/substance.md)** — 第一存在范畴 / The primary category of being
-- **[四因说 Four Causes](concepts/four-causes.md)** — 质料因、形式因、动力因、目的因 / Material, formal, efficient, final causes
-- **[德性伦理 Virtue Ethics](concepts/德性.md)** — 以品格为中心的伦理学 / Character-centered ethics
-- **[中道 Golden Mean (Mesotēs)](concepts/中道.md)** — 在过度与不及之间寻找合宜 / Finding the appropriate between excess and deficiency
-- **[幸福论 Eudaimonia](concepts/幸福论.md)** — 人之繁荣与合乎德性的活动 / Human flourishing and virtuous activity
-- **[认识论 Epistemology](../../concepts/认识论.md)** — 经验—归纳—演绎的知识阶梯 / Empirical-inductive-deductive ladder of knowledge
+- **[四因说 Four Causes](../../../../伦理政治/学派/德性伦理学/亚里士多德/概念/四因说.md)** — 质料因、形式因、动力因、目的因 / Material, formal, efficient, final causes
+- **[德性伦理 Virtue Ethics](../../../../伦理政治/概念/德性.md)** — 以品格为中心的伦理学 / Character-centered ethics
+- **[中道 Golden Mean (Mesotēs)](../../../../伦理政治/学派/德性伦理学/亚里士多德/概念/中道.md)** — 在过度与不及之间寻找合宜 / Finding the appropriate between excess and deficiency
+- **[幸福论 Eudaimonia](../../../../伦理政治/学派/德性伦理学/亚里士多德/概念/幸福.md)** — 人之繁荣与合乎德性的活动 / Human flourishing and virtuous activity
+- **[认识论 Epistemology](../../../概念/认识论.md)** — 经验—归纳—演绎的知识阶梯 / Empirical-inductive-deductive ladder of knowledge
 - **潜能与现实 Dynamis & Energeia** — 变化的本体论框架 / Ontological framework for change
 - **实践智慧 Phronēsis** — 具体处境中的道德判断力 / Moral judgment in concrete situations
 - **范畴论 Categories** — 十种存在方式 / Ten modes of being
@@ -238,11 +238,11 @@ Aristotle's "immanent teleology"—things developing according to their nature�
 
 ## 跨学科关联 Interdisciplinary Connections
 
-- [马斯洛 · 自我实现 Maslow's Self-Actualization](../../../心理学/学派/人本主义/马斯洛.md) `[同源 Derived]` — "实现潜能"概念可追溯至亚里士多德 energeia / "Realizing potential" traces to Aristotelian *energeia*
-- [米哈里 · 心流 Csikszentmihalyi's Flow](../../../心理学/学派/积极心理学/米哈里.md) `[平行 Parallel]` — 心流体验与"合乎德性的活动"在结构上相似 / Flow structurally resembles "virtuous activity"
+- [马斯洛 · 自我实现 Maslow's Self-Actualization](../../../../心理学/学派/人本主义/马斯洛.md) `[同源 Derived]` — "实现潜能"概念可追溯至亚里士多德 energeia / "Realizing potential" traces to Aristotelian *energeia*
+- [米哈里 · 心流 Csikszentmihalyi's Flow](../../../../心理学/学派/积极心理学/米哈里.md) `[平行 Parallel]` — 心流体验与"合乎德性的活动"在结构上相似 / Flow structurally resembles "virtuous activity"
 - [MacIntyre · 德性之后 MacIntyre's After Virtue](../../../哲学/schools/communitarian/macintyre.md) `[发展 Developed]` — 亚里士多德德性伦理学的现代复兴 / Modern revival of Aristotelian virtue ethics
 - [Nussbaum · 能力方法 Nussbaum's Capability Approach](../../../哲学/schools/political/nussbaum.md) `[应用 Applied]` — eudaimonia 在发展经济学中的应用 / *Eudaimonia* applied in development economics
-- [阿奎那 · 经院哲学 Aquinas' Scholasticism](../../../宗教/传统/基督教/aquinas.md) `[综合 Synthesized]` — 亚里士多德哲学与基督教神学的融合 / Fusion of Aristotelian 哲学 with Christian theology
+- [阿奎那 · 经院哲学 Aquinas' Scholasticism](../../中世纪经院/aquinas.md) `[综合 Synthesized]` — 亚里士多德哲学与基督教神学的融合 / Fusion of Aristotelian 哲学 with Christian theology
 
 ---
 
@@ -272,10 +272,10 @@ Aristotle's "immanent teleology"—things developing according to their nature�
 | 子条目 Sub-Entry | 路径 Path |
 |-------------------|-----------|
 | 实体论 Substance (Ousia) | [concepts/substance.md](concepts/substance.md) |
-| 四因说 Four Causes | [concepts/four-causes.md](concepts/four-causes.md) |
-| 德性伦理 Virtue Ethics | [concepts/德性.md](concepts/德性.md) |
-| 中道 Golden Mean (Mesotēs) | [concepts/中道.md](concepts/中道.md) |
-| 幸福论 Eudaimonia | [concepts/幸福论.md](concepts/幸福论.md) |
+| 四因说 Four Causes | [concepts/four-causes.md](../../../../伦理政治/学派/德性伦理学/亚里士多德/概念/四因说.md) |
+| 德性伦理 Virtue Ethics | [concepts/德性.md](../../../../伦理政治/概念/德性.md) |
+| 中道 Golden Mean (Mesotēs) | [concepts/中道.md](../../../../伦理政治/学派/德性伦理学/亚里士多德/概念/中道.md) |
+| 幸福论 Eudaimonia | [concepts/幸福论.md](../../../../伦理政治/学派/德性伦理学/亚里士多德/概念/幸福.md) |
 | 著作年表 Works Chronology | [著作.md](著作.md) |
 | 生平年表 Timeline | [时间线.md](时间线.md) |
 | 推荐阅读 Reading List | [阅读.md](阅读.md) |

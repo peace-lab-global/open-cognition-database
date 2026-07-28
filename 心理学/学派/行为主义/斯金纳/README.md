@@ -101,9 +101,9 @@ In his later years, Skinner increasingly focused on the philosophical foundation
 
 ## 重要概念 / Key Concepts
 
-1. **操作性条件反射 / Operant Conditioning** — 行为由其后果决定的学习过程。有机体自发产生行为，如果该行为被强化，则在未来更有可能再次出现。这是斯金纳理论的核心概念。→ [详见 操作性条件反射.md](concepts/操作性条件反射.md)
+1. **操作性条件反射 / Operant Conditioning** — 行为由其后果决定的学习过程。有机体自发产生行为，如果该行为被强化，则在未来更有可能再次出现。这是斯金纳理论的核心概念。→ [详见 操作性条件反射.md](概念/操作性条件反射.md)
 
-2. **强化 / Reinforcement** — 任何能够增加行为频率的后果。分为正强化（呈现愉快刺激）和负强化（移除厌恶刺激）。强化物的有效性取决于个体的剥夺-满足状态。→ [详见 强化.md](concepts/强化.md)
+2. **强化 / Reinforcement** — 任何能够增加行为频率的后果。分为正强化（呈现愉快刺激）和负强化（移除厌恶刺激）。强化物的有效性取决于个体的剥夺-满足状态。→ [详见 强化.md](概念/强化.md)
 
 3. **行为矫正 / Behavior Modification** — 运用操作性条件反射原理系统地改变人类行为的技术。广泛应用于临床心理学、教育和组织管理等领域。→ [详见 behavior-modification.md](concepts/behavior-modification.md)
 
@@ -252,8 +252,8 @@ Skinner's behavior analysis emphasizes causal relationships between behavior and
 
 | 子条目 / Sub-entry | 文件 / File | 主题 / Topic |
 |---|---|---|
-| 操作性条件反射 / Operant Conditioning | [操作性条件反射.md](concepts/操作性条件反射.md) | 行为由后果决定的学习过程 / Learning process where behavior is determined by consequences |
-| 强化 / Reinforcement | [强化.md](concepts/强化.md) | 增加行为频率的后果机制 / Consequence mechanism that increases behavior frequency |
+| 操作性条件反射 / Operant Conditioning | [操作性条件反射.md](概念/操作性条件反射.md) | 行为由后果决定的学习过程 / Learning process where behavior is determined by consequences |
+| 强化 / Reinforcement | [强化.md](概念/强化.md) | 增加行为频率的后果机制 / Consequence mechanism that increases behavior frequency |
 | 行为矫正 / Behavior Modification | [behavior-modification.md](concepts/behavior-modification.md) | 运用行为原理系统改变行为 / Systematic application of behavioral principles to change behavior |
 | 激进行为主义 / Radical Behaviorism | [radical-behaviorism.md](concepts/radical-behaviorism.md) | 斯金纳的哲学立场 / Skinner's philosophical position |
 | 强化时程表 / Schedules of Reinforcement | [schedules.md](concepts/schedules.md) | 控制强化递送的规则系统 / Rule systems controlling reinforcement delivery |

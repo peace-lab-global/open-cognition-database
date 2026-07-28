@@ -2,9 +2,11 @@
 
 > 本文件是 AI Agent（Qoder、Claude Code、Claude Skills、Cursor、自定义 RAG 等）调用本知识库的快速入口。人类读者请从 [README.md](README.md) 进入。
 
-[![Skills](https://img.shields.io/badge/skills-130-blue.svg)](#代表-skill-示例)
-[![Concepts](https://img.shields.io/badge/concepts-110-green.svg)](./INDEX.md)
-[![Thinkers](https://img.shields.io/badge/thinkers-154-orange.svg)](./INDEX.md)
+[![Skills](https://img.shields.io/badge/skills-137-blue.svg)](#代表-skill-示例)
+[![Concepts](https://img.shields.io/badge/concepts-1112-green.svg)](./INDEX.md)
+[![Thinkers](https://img.shields.io/badge/thinkers-1075-orange.svg)](./INDEX.md)
+
+> 以上计数以 `index.json`（`_meta/scripts/build-index.py` 生成）为单一数据源，含思想家专题子条目。
 
 ---
 

@@ -5,7 +5,7 @@ domain: 心理学
 linked_thinker: ../../schools/developmental/piaget.md
 linked_concepts:
   - ../../心理学/概念/cognitive-development-stages.md
-  - ../../concepts/constructivism.md
+  - ../../概念/建构主义.md
 tags:
   - 认知发展
   - 儿童思维
@@ -36,7 +36,7 @@ tags:
 ## 理论基础
 
 - 来源思想家：[让·皮亚杰](../../schools/developmental/piaget.md)
-- 来源概念：[认知发展阶段](../../concepts/cognitive-development-stages.md)、[建构主义](../../concepts/constructivism.md)
+- 来源概念：[认知发展阶段](../../concepts/cognitive-development-stages.md)、[建构主义](../../概念/建构主义.md)
 - 关键文献：《儿童智慧的起源》、《发生认识论》
 
 ## 操作流程
@@ -102,5 +102,5 @@ tags:
 ## 关联条目
 
 - 思想家：[让·皮亚杰](../../schools/developmental/piaget.md)
-- 概念：[认知发展阶段](../../concepts/cognitive-development-stages.md)、[建构主义](../../concepts/constructivism.md)
+- 概念：[认知发展阶段](../../concepts/cognitive-development-stages.md)、[建构主义](../../概念/建构主义.md)
 - 相关 Skill：[constructivist-learning](../../../宗教/佛教/技能/从前五识/SKILL.md)、[maslow-needs-diagnosis](../../../宗教/佛教/技能/从前五识/SKILL.md)

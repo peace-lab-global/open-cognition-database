@@ -136,12 +136,12 @@ sources:
 
 - [阿奎那 Aquinas](../../../哲学/学派/中世纪经院/aquinas.md) `[同源]` 共同的中世纪综合传统
 - [亚里士多德 Aristotle](../../../哲学/学派/古希腊/亚里士多德.md) `[发展]` 伦理学与形而上学的继承
-- [基督教神秘主义](../schools/mysticism/christian-mysticism.md) `[同源]` 爱的形而上学的共同直觉
+- [基督教神秘主义](../../../宗教/传统/基督教/基督教神秘主义.md) `[同源]` 爱的形而上学的共同直觉
 - [维吉尔 Virgil](./virgil.md) `[发展]` 古典诗歌传统的继承与超越
 
 ## 关联 Skills
 
 - **哲学 Skills**: [Aquinas 阿奎那](../../../哲学/学派/中世纪经院/aquinas.md) — 中世纪综合传统的同源发展 [同源]
 - **哲学 Skills**: [Aristotle 亚里士多德](../../../哲学/学派/古希腊/亚里士多德.md) — 伦理学与形而上学基础 [发展]
-- **美学 Skills**: [Christian Mysticism 基督教神秘主义](../schools/mysticism/christian-mysticism.md) — 爱的形而上学 [同源]
+- **美学 Skills**: [Christian Mysticism 基督教神秘主义](../../../宗教/传统/基督教/基督教神秘主义.md) — 爱的形而上学 [同源]
 - **美学 Skills**: [Virgil 维吉尔](./virgil.md) — 古典诗歌传统 [发展]

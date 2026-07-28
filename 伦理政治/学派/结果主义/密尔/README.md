@@ -113,9 +113,9 @@ children:
 
 ## 思想坐标
 
-- **继承**：[边沁](bentham/README.md)的功利主义 → 质的修正
+- **继承**：[边沁](../边沁/README.md)的功利主义 → 质的修正
 - **批判**：[边沁]的量化的功利主义忽视精神维度
-- **影响**：[罗尔斯](../social-contract/rawls/README.md)的伤害原则在正义论中的回响
+- **影响**：[罗尔斯](../../社会契约论/约翰-rawls/README.md)的伤害原则在正义论中的回响
 - **发展**：[泰勒](../communitarianism/taylor/README.md)的多元主义对密尔自由主义的回应
 
 ## 当代应用
@@ -135,9 +135,9 @@ children:
 
 | 子条目 | 内容 |
 |---|---|
-| [concepts/harm-principle.md](concepts/harm-principle.md) | 伤害原则 · 自由边界 |
+| [concepts/harm-principle.md](概念/伤害原则.md) | 伤害原则 · 自由边界 |
 | [concepts/higher-pleasures.md](concepts/higher-pleasures.md) | 高级快乐 · 质的功利 |
-| [concepts/tyranny-of-majority.md](concepts/tyranny-of-majority.md) | 多数暴政 · 社会压迫 |
+| [concepts/tyranny-of-majority.md](概念/多数暴政.md) | 多数暴政 · 社会压迫 |
 | [concepts/feminism.md](concepts/feminism.md) | 女性解放 · 平等 |
 | [concepts/freedom-of-expression.md](concepts/freedom-of-expression.md) | 言论自由 · 意见市场 |
 | [著作.md](著作.md) | 作品总览 |

@@ -232,7 +232,7 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **哲学**: [龙树](../nagarjuna/README.md) — 中观基础；[黑格尔](../../../哲学/学派/德国唯心论/黑格尔.md) — 辩证法平行；[怀特海](../../../哲学/schools/process/whitehead.md) — 过程哲学
+- **哲学**: [龙树](../nagarjuna/README.md) — 中观基础；[黑格尔](../../../../哲学/学派/德国唯心论/黑格尔.md) — 辩证法平行；[怀特海](../../../哲学/schools/process/whitehead.md) — 过程哲学
 - **佛教内部**: [慧思](../nagarjuna/README.md) — 师承；[灌顶] — 首席弟子；[湛然] — 天台复兴者；[法藏](../fazang/README.md) — 华严宗对照
 - **学派**: [天台宗](../schools/天台.md) — 创始人
 - **认知科学**: 注意力训练、元认知、全息认知、分布式表征

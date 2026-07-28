@@ -75,7 +75,7 @@
 
 ### 功能主义 functionalism
 - [詹姆斯 William James](schools/functionalism/james/README.md) — 意识流、习惯、宗教经验
-- [威廉·詹姆斯 William James](schools/functionalism/william-james/README.md) — 实用主义心理学
+- [威廉·詹姆斯 William James](学派/功能主义/威廉-william-james/README.md) — 实用主义心理学
 
 ### 存在心理学 existential-psychology
 - [弗兰克尔 Viktor Frankl](schools/existential-psychology/frankl/README.md) — 意义治疗、意义意志
@@ -95,7 +95,7 @@
 ## 跨流派概念
 
 - [集体无意识 Collective Unconscious](concepts/collective-unconscious.md)
-- [心流 Flow](concepts/心流.md)
+- [心流 Flow](概念/心流.md)
 - [认知失调 Cognitive Dissonance](concepts/cognitive-dissonance.md)
 
 ## 关联 Skills

@@ -65,7 +65,7 @@ The Enlightenment's most profound internal critic — judging civilization in th
 
 Political legitimacy derives not from nature or force but from a covenant in which all members alienate their rights entirely to the community. This "total alienation" ensures each associate, while obeying the community, obeys only themselves — achieving "moral freedom" through self-given law. Rousseau rejected both Hobbes's absolute sovereignty transfer and Locke's limited government, proposing radical popular sovereignty: the sovereign is the whole citizen body, and sovereignty is inalienable, unrepresentable, and indivisible.
 
-> 详见 → [社会契约 / Social Contract](concepts/社会契约.md)
+> 详见 → [社会契约 / Social Contract](../../../../伦理政治/学派/社会契约论/托马斯/概念/社会契约.md)
 
 ### 2. 公意（Volonté Générale / General Will）
 
@@ -129,7 +129,7 @@ The 1762 persecution opened Rousseau's exile. The *Confessions* inaugurated mode
 
 | 概念 | 法文 | 英文 | 简述 | 详见 |
 |------|------|------|------|------|
-| 社会契约 | Contrat Social | Social Contract | 政治合法性的来源：全体对全体的让渡 | [→](concepts/社会契约.md) |
+| 社会契约 | Contrat Social | Social Contract | 政治合法性的来源：全体对全体的让渡 | [→](../../../../伦理政治/学派/社会契约论/托马斯/概念/社会契约.md) |
 | 公意 | Volonté Générale | General Will | 以公共利益为对象的集体意志 | [→](concepts/general-will.md) |
 | 自然状态 | État de Nature | State of Nature | 前社会的假想人类境况 | [→](concepts/noble-savage.md) |
 | 高贵的野蛮人 | Bon Sauvage | Noble Savage | 自然状态中未被腐蚀的理想人 | [→](concepts/noble-savage.md) |
@@ -138,7 +138,7 @@ The 1762 persecution opened Rousseau's exile. The *Confessions* inaugurated mode
 | 怜悯 | Pitié | Pity/Compassion | 先于理性的自然同情 | [→](concepts/amour-propre.md) |
 | 消极教育 | Éducation Négative | Negative Education | 保护自然发展免受社会偏见 | [→](concepts/education.md) |
 | 众意 | Volonté de Tous | Will of All | 私人利益的加总（非公意） | [→](concepts/general-will.md) |
-| 道德自由 | Liberté Morale | Moral Freedom | 服从自己制定的法律 | [→](concepts/社会契约.md) |
+| 道德自由 | Liberté Morale | Moral Freedom | 服从自己制定的法律 | [→](../../../../伦理政治/学派/社会契约论/托马斯/概念/社会契约.md) |
 
 ## 思想风格与修辞 / Intellectual Style and Rhetoric
 
@@ -290,7 +290,7 @@ Rousseau's "return to nature" is achieved through institutional reform — the s
 
 | 条目 | 内容 |
 |------|------|
-| [社会契约 / Social Contract](concepts/社会契约.md) | 合法政治权威、总体让渡、与霍布斯/洛克的比较 |
+| [社会契约 / Social Contract](../../../../伦理政治/学派/社会契约论/托马斯/概念/社会契约.md) | 合法政治权威、总体让渡、与霍布斯/洛克的比较 |
 | [公意 / General Will](concepts/general-will.md) | 公共利益、众意之别、不可分割性、可谬性争论 |
 | [高贵的野蛮人 / Noble Savage](concepts/noble-savage.md) | 自然状态、自然善良、术语本身的批判 |
 | [自爱与虚荣 / Amour-Propre](concepts/amour-propre.md) | 自爱 vs 虚荣、社会比较、健康形态与病态形态 |

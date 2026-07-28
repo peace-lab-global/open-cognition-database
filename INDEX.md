@@ -39,7 +39,7 @@
 - 神道教：[神道核心教义 (Core Teachings of Shinto)](宗教/传统/神道教/神道教核心教义.md)
 - 锡克教：[锡克教核心教义 (Core Teachings of Sikhism)](宗教/传统/锡克教/锡克教核心教义.md)
 - 跨传统概念：[救赎 (Salvation（跨传统）)](宗教/概念/救赎.md) · [神圣性 (The Sacred（跨传统）)](宗教/概念/神圣性.md) · [仪式 (Ritual)](宗教/概念/仪式.md) · [冥想 (Meditation)](宗教/概念/冥想与默观.md)
-- 佛教认知理论体系：[导览 (Buddhist Cognitive Theory)](宗教/佛教/概念/cognitive-theory/README.md) · [八识体系 (Eight-Consciousness System)](宗教/佛教/概念/cognitive-theory/八识体系.md) · [心物一元 (Mind-World Identity)](宗教/佛教/概念/cognitive-theory/转识成智.md) · [六根六尘六识 (Six Sense Constituents)](宗教/智慧大师/masters/印度.md) · [转识成智 (Transformation of Consciousness)](宗教/佛教/概念/cognitive-theory/六根六尘六识.md) · [中观·空](宗教/佛教/概念/cognitive-theory/心物一元.md) · [七处征心 (Seven Investigations of the Heart-Mind)](宗教/佛教/概念/cognitive-theory/七处征心.md) · [八还辨见 (Eight Returnings to Discern Seeing)](宗教/佛教/概念/cognitive-theory/八还辨见.md) · [金刚经·无相](宗教/佛教/概念/cognitive-theory/金刚经.md)
+- 佛教认知理论体系：[导览 (Buddhist Cognitive Theory)](宗教/佛教/概念/cognitive-theory/README.md) · [八识体系 (Eight-Consciousness System)](宗教/佛教/概念/cognitive-theory/八识体系.md) · [心物一元 (Mind-World Identity)](宗教/佛教/概念/cognitive-theory/心物一元.md) · [六根六尘六识 (Six Sense Constituents)](宗教/佛教/概念/cognitive-theory/六根六尘六识.md) · [转识成智 (Transformation of Consciousness)](宗教/佛教/概念/cognitive-theory/转识成智.md) · [中观·空](宗教/佛教/概念/cognitive-theory/中观.md) · [七处征心 (Seven Investigations of the Heart-Mind)](宗教/佛教/概念/cognitive-theory/七处征心.md) · [八还辨见 (Eight Returnings to Discern Seeing)](宗教/佛教/概念/cognitive-theory/八还辨见.md) · [金刚经·无相](宗教/佛教/概念/cognitive-theory/金刚经.md)
 - 佛教认知理论 Skills：[八识认知诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md) · [心物辨析 (mind-world-analysis)](宗教/佛教/技能/通过四分结构/SKILL.md) · [六根诊断 (six-constituents-diagnosis)](宗教/佛教/技能/认知卡点在根/SKILL.md) · [转识诊断 (consciousness-transformation-diagnosis)](宗教/佛教/技能/转识成智诊断/SKILL.md) · [中观四句破 (madhyamaka-four-fallacies)](宗教/佛教/技能/中观四句破/SKILL.md) · [七处征心解构 (qichu-zhengxin-deconstruction)](宗教/佛教/技能/七处征心/SKILL.md) · [八还辨见 (Eight Returnings to Discern Seeing)](宗教/佛教/技能/八还辨见/SKILL.md) · [金刚经无住 (diamond-sutra-no-dwelling)](宗教/佛教/技能/金刚经/SKILL.md)
 
 ### 社会学 Sociology
@@ -231,7 +231,7 @@
 ### 人工智能 Artificial Intelligence
 - 名言：[机器能思考吗？ (Turing)](名言/人工智能/图灵-机器能思考吗.md) · [语法不等于语义 (Searle)](名言/人工智能/塞尔-语法不等于语义.md) · [世界充满意义 (Dreyfus)](名言/人工智能/德雷福斯-世界充满意义.md)
 - 认知系统：[图灵 · 机器能思考吗](认知系统/学派/人工智能/艾伦.md)
-- 哲学：[塞尔 · 中文房间](哲学/学派/分析哲学/约翰.md) · [德雷福斯 · 具身 AI 批判](哲学/学派/现象学/休伯特.md)
+- 哲学：[塞尔 · 中文房间](哲学/学派/分析哲学/约翰.md) · 德雷福斯 · 具身 AI 批判（待撰写）
 
 ### 后人类 Posthuman
 - 名言：[超越自身 (Huxley)](名言/后人类/赫胥黎-超越自身.md) · [后人类条件 (More)](名言/后人类/莫尔-后人类条件.md) · [赛博格定义 (Haraway)](名言/后人类/哈拉维-赛博格定义.md)
@@ -520,14 +520,14 @@
 - [佛教-道教对话 (buddhism-taoism-dialogue)](./宗教/技能/佛教道教对话/SKILL.md) — 佛教与道教的比较对话
 
 ### 社会学框架 Sociology Frameworks
-- [布迪厄场域分析 (bourdieu-field-analysis)](./社会学/技能/布迪厄场域分析析/SKILL.md) — 场域—惯习—资本
+- [布迪厄场域分析 (bourdieu-field-analysis)](社会学/技能/布迪厄场域分析/SKILL.md) — 场域—惯习—资本
 - [福柯权力分析 (foucault-power-analysis)](./社会学/技能/福柯权力分析/SKILL.md) — 微观权力—规训—知识
-- [戈夫曼拟剧分析 (goffman-dramaturgy)](./社会学/技能/戈夫曼拟剧分析析/SKILL.md) — 前台/后台/印象管理
+- [戈夫曼拟剧分析 (goffman-dramaturgy)](社会学/技能/戈夫曼拟剧分析/SKILL.md) — 前台/后台/印象管理
 - [韦伯理想类型 (weber-ideal-type)](./社会学/技能/韦伯理想类型/SKILL.md) — 类型化建模
 - [阶级分析 (class-analysis)](./社会学/技能/阶级分析/SKILL.md) — 马克思主义阶级分析框架
 - [社会事实分析 (social-fact-analysis)](./社会学/技能/社会事实分析/SKILL.md) — 涂尔干社会事实分析框架
 - [交往行为分析 (communicative-action-analysis)](./社会学/技能/交往行为分析/SKILL.md) — 哈贝马斯交往理性分析
-- [液态现代性分析 (liquid-modernity-analysis)](./社会学/技能/液态现代性分析析/SKILL.md) — 鲍曼液态现代性分析
+- [液态现代性分析 (liquid-modernity-analysis)](社会学/技能/液态现代性分析/SKILL.md) — 鲍曼液态现代性分析
 - [理性化分析 (rationalization-analysis)](./社会学/技能/理性化分析/SKILL.md) — 韦伯理性化分析框架
 - [规训分析 (discipline-analysis)](./社会学/技能/规训分析/SKILL.md) — 福柯规训权力分析
 - [社会形式分析 (social-forms-analysis)](./社会学/技能/社会形式分析/SKILL.md) — 齐美尔社会形式分析
@@ -539,25 +539,25 @@
 ### 心理学框架 Psychology Frameworks
 - [荣格原型识别 (jungian-archetype-identification)](./心理学/技能/荣格原型识别/SKILL.md) — 阴影/阿尼玛/英雄等
 - [CBT 认知扭曲识别 (cbt-cognitive-distortion)](./心理学/技能/认知扭曲识别/SKILL.md) — 自动思维与重构
-- [马斯洛需求诊断 (maslow-needs-diagnosis)](./心理学/技能/马斯洛需求诊断断/SKILL.md) — 层次卡点定位
+- [马斯洛需求诊断 (maslow-needs-diagnosis)](心理学/技能/马斯洛需求诊断/SKILL.md) — 层次卡点定位
 - [心流条件评估 (flow-conditions-assessment)](./心理学/技能/心流条件评估/SKILL.md) — 8 条件体检
-- [双系统思维分析 (dual-system-analysis)](./心理学/技能/双系统思维分析析/SKILL.md) — 卡尼曼双系统理论应用
+- [双系统思维分析 (dual-system-analysis)](心理学/技能/双系统思维分析/SKILL.md) — 卡尼曼双系统理论应用
 - [认知发展阶段评估 (cognitive-development-assessment)](./心理学/技能/认知发展阶段/SKILL.md) — 皮亚杰认知发展阶段评估
 - [行为强化分析 (behavior-reinforcement-analysis)](./心理学/技能/行为强化分析/SKILL.md) — 斯金纳行为强化分析
-- [来访者中心对话 (client-centered-dialogue)](./心理学/技能/来访者中心对话话/SKILL.md) — 罗杰斯来访者中心对话
+- [来访者中心对话 (client-centered-dialogue)](心理学/技能/来访者中心对话/SKILL.md) — 罗杰斯来访者中心对话
 - [潜意识分析 (unconscious-analysis)](./心理学/技能/潜意识分析/SKILL.md) — 弗洛伊德潜意识分析
 - [个体化引导 (individuation-guidance)](./心理学/技能/个体化引导/SKILL.md) — 荣格个体化引导
-- [自卑与超越分析 (inferiority-transcendence)](./心理学/技能/自卑与超越分析析/SKILL.md) — 阿德勒自卑与超越分析
+- [自卑与超越分析 (inferiority-transcendence)](心理学/技能/自卑与超越分析/SKILL.md) — 阿德勒自卑与超越分析
 - [依恋分析 (attachment-analysis)](./心理学/技能/依恋分析/SKILL.md) — 鲍尔比依恋分析
 - [自我效能分析 (self-efficacy-analysis)](./心理学/技能/自我效能分析/SKILL.md) — 班杜拉自我效能分析
 - [意义疗法 (logotherapy)](./心理学/技能/意义疗法/SKILL.md) — 弗兰克尔意义疗法
-- [最近发展区分析 (zpd-analysis)](./心理学/技能/最近发展区分析析/SKILL.md) — 维果茨基最近发展区分析
+- [最近发展区分析 (zpd-analysis)](心理学/技能/最近发展区分析/SKILL.md) — 维果茨基最近发展区分析
 - [躯体标记分析 (somatic-marker-analysis)](./心理学/技能/躯体标记分析/SKILL.md) — 达玛西奥躯体标记分析
 
 ### 伦理学与政治哲学框架 Ethics & Political Philosophy Frameworks
 - [苦乐计算 (pleasure-calculus)](./伦理政治/技能/苦乐计算法/SKILL.md) — 功利原则的七维量化分析
 - [无知之幕分析 (veil-of-ignorance-analysis)](./伦理政治/技能/无知之幕分析/SKILL.md) — 公正性检验的思想实验
-- [亚里士多德德性检验 (aristotle-virtue-test)](./伦理政治/技能/亚里士多德德性检验性检验/SKILL.md) — 中庸之道与功能检验
+- [亚里士多德德性检验 (aristotle-virtue-test)](伦理政治/技能/亚里士多德德性检验/SKILL.md) — 中庸之道与功能检验
 - [正义原则检验 (justice-principle-test)](./伦理政治/技能/正义原则检验/SKILL.md) — 罗尔斯正义二原则评估
 - [自由主义论证分析 (liberalism-analysis)](./伦理政治/技能/自由主义论证/SKILL.md) — 伤害原则与自由边界
 - [自然状态分析 (state-of-nature-analysis)](./伦理政治/技能/自然状态分析/SKILL.md) — 霍布斯自然状态分析
@@ -596,7 +596,7 @@
 - [可供性分析 (affordance-analysis)](./认知系统/技能/可供性分析/SKILL.md) — Gibson/Norman 行动可能性诊断
 - [认知任务分析 (cognitive-task-analysis)](./认知系统/技能/认知任务分析/SKILL.md) — Klein 专家隐性知识提取
 - [STPA 事故分析 (stpa-accident-analysis)](./认知系统/技能/STPA事故分析/SKILL.md) — Leveson 系统理论事故模型
-- [自动化级别评估 (automation-level-assessment)](./认知系统/技能/自动化级别评估估/SKILL.md) — Parasuraman 四阶段自动化评估
+- [自动化级别评估 (automation-level-assessment)](认知系统/技能/自动化级别评估/SKILL.md) — Parasuraman 四阶段自动化评估
 - [人 AI 协作设计 (human-ai-teaming)](./认知系统/技能/人AI协作设计/SKILL.md) — 人机协作的功能分配与信任校准
 - [安全学习分析 (safety-learning-analysis)](./认知系统/技能/安全学习分析/SKILL.md) — Hollnagel Safety-II 正常工作分析
 - [人因可靠性分析 (Human Reliability Analysis (HRA))](./认知系统/技能/人因可靠性分析/SKILL.md) — THERP/CREAM/SPAR-H 人误概率评估

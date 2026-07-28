@@ -94,7 +94,7 @@ One of Ajahn Chah's most distinctive teaching methods was using observations of 
 
 He taught his disciples to "learn from nature" — not to understand impermanence from books, but to experience its reality by directly observing a leaf as it sprouts, grows, yellows, and falls. This teaching method was inseparable from his forest living environment — the forest itself was a living textbook, demonstrating the law of change everywhere.
 
-> 详见 → [自然观察 / Natural Observation](concepts/自然观察.md)
+> 详见 → [自然观察 / Natural Observation](概念/自然观察.md)
 
 ### 二、森林禅修 / Forest Meditation
 
@@ -102,7 +102,7 @@ He taught his disciples to "learn from nature" — not to understand impermanenc
 
 Forest meditation was the foundational environment of Ajahn Chah's entire practice system. He firmly believed that solitude and practice in the forest, away from urban noise and material temptations, was most conducive to cultivating inner tranquility and insight. The forest not only provided a quiet external environment, but more importantly, offered a living space synchronized with natural rhythms, enabling practitioners to experience the reality of life more directly.
 
-> 详见 → [森林禅修 / Forest Meditation](concepts/森林禅修.md)
+> 详见 → [森林禅修 / Forest Meditation](概念/森林禅修.md)
 
 ### 三、当下觉察 / Present-Moment Awareness
 
@@ -110,7 +110,7 @@ Forest meditation was the foundational environment of Ajahn Chah's entire practi
 
 Ajahn Chah repeatedly emphasized that practice is neither in the past nor in the future, but in this very moment. He taught his disciples to maintain awareness in every daily activity — knowing that you are eating while eating, knowing that you are walking while walking, knowing that you are breathing while breathing. This awareness requires no special posture or location, only an awake mind.
 
-> 详见 → [当下觉察 / Present-Moment Awareness](concepts/当下觉察.md)
+> 详见 → [当下觉察 / Present-Moment Awareness](概念/当下觉察.md)
 
 ### 四、简单生活 / Simple Living
 
@@ -164,7 +164,7 @@ In one famous example, when someone asked him "What is Dhamma?", he picked up a 
 |---|---|---|
 | [阿姜曼](../ajahn-mun.md) / Ajahn Mun | 南传·森林传统 | 师父 / Teacher |
 | [佛使比丘](../buddhadasa.md) / Buddhadasa | 南传佛教 | 同代泰国大师 / Contemporary Thai master |
-| [一行禅师](../west/一行禅师.md) / Thich Nhat Hanh | 入世佛教 | 平行：正念生活 / Parallel: mindful living |
+| [一行禅师](../../西方/一行禅师.md) / Thich Nhat Hanh | 入世佛教 | 平行：正念生活 / Parallel: mindful living |
 | [道元](../japan/道元.md) / Dogen | 日本·曹洞宗 | 平行：日常修行 / Parallel: practice in daily life |
 | [米拉日巴](../tibet/milarepa.md) / Milarepa | 藏传·噶举派 | 平行：苦行证悟 / Parallel: ascetic realization |
 

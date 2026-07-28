@@ -92,7 +92,7 @@ children:
 
 ## 思想坐标
 - **批判**：功利主义（后果不等于道德）、幸福论（幸福不是道德标准）
-- **影响**：[罗尔斯](../social-contract/rawls/README.md)（原初状态是定言命令的程序化）
+- **影响**：[罗尔斯](../../社会契约论/约翰-rawls/README.md)（原初状态是定言命令的程序化）
 - **对立**：[亚里士多德](../virtue-ethics/aristotle/README.md)（美德 vs 义务）
 - **下游**：哈贝马斯的商谈伦理、当代人权理论
 
@@ -104,7 +104,7 @@ children:
 ## 子条目索引
 | 子条目 | 内容 |
 |---|---|
-| [concepts/定言命令.md](concepts/定言命令.md) | 定言命令 · 三公式 |
+| [concepts/定言命令.md](概念/定言命令.md) | 定言命令 · 三公式 |
 | [concepts/autonomy.md](concepts/autonomy.md) | 自律 · 自我立法 |
 | [concepts/duty-and-good-will.md](concepts/duty-and-good-will.md) | 义务 · 善良意志 |
 | [concepts/kingdom-of-ends.md](concepts/kingdom-of-ends.md) | 目的王国 |

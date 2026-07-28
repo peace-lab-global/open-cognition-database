@@ -81,7 +81,7 @@ IQ predicts academic performance, but EQ — self-awareness, self-management, so
 
 ### 2. 冥想特质效应论 Altered Traits over Altered States
 
-冥想的真正价值不在于练习时的暂时放松（状态效应，altered states），而在于长期练习导致的持久改变（特质效应，altered traits）——大脑结构与功能发生可测量的变化，如默认模式网络 (DMN) 活动降低、前脑岛灰质增厚、杏仁核反应性下降。详见 [正念.md](concepts/正念.md)。
+冥想的真正价值不在于练习时的暂时放松（状态效应，altered states），而在于长期练习导致的持久改变（特质效应，altered traits）——大脑结构与功能发生可测量的变化，如默认模式网络 (DMN) 活动降低、前脑岛灰质增厚、杏仁核反应性下降。详见 [正念.md](概念/正念.md)。
 
 The true value of meditation lies not in temporary relaxation during practice (altered states) but in lasting changes produced by sustained practice (altered traits) — measurable changes in brain structure and function, such as reduced default mode network (DMN) activity, thickened anterior insula gray matter, and decreased amygdala reactivity.
 
@@ -99,7 +99,7 @@ Social intelligence is not merely a set of social skills but is rooted in the br
 
 ### 5. 共情多元论 The Plurality of Empathy
 
-共情不是单一能力，而是由三种不同的神经回路支撑的多元能力：情绪共情 (emotional empathy，感受他人情绪)、认知共情 (cognitive empathy，理解他人视角)、共情关注 (empathic concern，关心他人福祉)。不同职业和角色需要不同共情能力的组合。详见 [共情.md](concepts/共情.md)。
+共情不是单一能力，而是由三种不同的神经回路支撑的多元能力：情绪共情 (emotional empathy，感受他人情绪)、认知共情 (cognitive empathy，理解他人视角)、共情关注 (empathic concern，关心他人福祉)。不同职业和角色需要不同共情能力的组合。详见 [共情.md](概念/共情.md)。
 
 Empathy is not a single capacity but a plural one, supported by three distinct neural circuits: emotional empathy (feeling what others feel), cognitive empathy (understanding others' perspectives), and empathic concern (caring about others' welfare). Different professions and roles require different combinations of empathic capacities.
 
@@ -154,9 +154,9 @@ In 1990, Salovey and Mayer published the academic concept of "emotional intellig
 |---|---|---|
 | **情绪智力 Emotional Intelligence** | 自我意识、自我管理、社会意识、关系管理的四维度能力框架 | [emotional-intelligence.md](concepts/emotional-intelligence.md) |
 | **社会智力 Social Intelligence** | 根植于社会神经系统的关系感知与管理能力 | [social-intelligence.md](concepts/social-intelligence.md) |
-| **正念 Mindfulness** | 不评判的当下觉察，冥想核心训练方法 | [正念.md](concepts/正念.md) |
+| **正念 Mindfulness** | 不评判的当下觉察，冥想核心训练方法 | [正念.md](概念/正念.md) |
 | **自我调节 Self-Regulation** | 情绪调控、冲动管理与适应性应对能力 | [self-regulation.md](concepts/self-regulation.md) |
-| **共情 Empathy** | 情绪共情、认知共情、共情关注的三维结构 | [共情.md](concepts/共情.md) |
+| **共情 Empathy** | 情绪共情、认知共情、共情关注的三维结构 | [共情.md](概念/共情.md) |
 | **注意力三维度 Tripartite Attention** | 内在专注、他人专注、外在专注的协同模型 | — (见 README 命题 3) |
 | **状态 vs 特质 States vs Traits** | 冥想的暂时效应与持久效应的关键区分 | — (见 README 命题 2) |
 | **社会情绪学习 SEL** | 通过教育培养情绪能力的系统性方法 | — (见 README 命题 6) |
@@ -238,8 +238,8 @@ Goleman's "EQ is learnable" proposition resonates deeply with the Confucian trad
 
 ### 佛教 Buddhism
 
-- [四念处 Satipaṭṭhāna](../../宗教/佛教/概念/cognitive-theory/四念处作为元认知训练.md) `[应用]` — 正念作为情绪调节的基础训练
-- [阿毗达磨心识论 Abhidharma](../../宗教/佛教/概念/cognitive-theory/阿毗达磨心识论.md) `[平行]` — 心所分类 = 情绪粒度的古典资源
+- [四念处 Satipaṭṭhāna](../../../../宗教/佛教/概念/cognitive-theory/四念处作为元认知训练.md) `[应用]` — 正念作为情绪调节的基础训练
+- [阿毗达磨心识论 Abhidharma](../../../../宗教/佛教/概念/cognitive-theory/阿毗达磨心识论.md) `[平行]` — 心所分类 = 情绪粒度的古典资源
 
 ### 教育 Education
 
@@ -274,9 +274,9 @@ Goleman's "EQ is learnable" proposition resonates deeply with the Confucian trad
 |---|---|
 | [concepts/emotional-intelligence.md](concepts/emotional-intelligence.md) | 情绪智力 — EQ 的四维度能力框架 |
 | [concepts/social-intelligence.md](concepts/social-intelligence.md) | 社会智力 — 社会神经系统与关系能力 |
-| [concepts/正念.md](concepts/正念.md) | 正念 — 不评判的当下觉察与冥想训练 |
+| [concepts/正念.md](概念/正念.md) | 正念 — 不评判的当下觉察与冥想训练 |
 | [concepts/self-regulation.md](concepts/self-regulation.md) | 自我调节 — 情绪调控与冲动管理 |
-| [concepts/共情.md](concepts/共情.md) | 共情 — 三维共情结构与神经基础 |
+| [concepts/共情.md](概念/共情.md) | 共情 — 三维共情结构与神经基础 |
 | [著作.md](著作.md) | 作品总览 Works Overview |
 | [时间线.md](时间线.md) | 思想年表 Timeline |
 | [阅读.md](阅读.md) | 进阶阅读指南 Reading Guide |

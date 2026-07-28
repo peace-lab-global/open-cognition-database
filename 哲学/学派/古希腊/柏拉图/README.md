@@ -128,13 +128,13 @@ Late dialogues display profound self-critical spirit. The "Third Man Argument" i
 
 ## 重要概念 Key Concepts
 
-- **[理念论 Theory of Forms](concepts/理念论.md)** — 永恒不变的真实存在 / Eternal, unchanging true reality
+- **[理念论 Theory of Forms](概念/理念论.md)** — 永恒不变的真实存在 / Eternal, unchanging true reality
 - **[洞穴比喻 Cave Allegory](concepts/cave-allegory.md)** — 教育是灵魂的转向 / Education as the turning of the soul
 - **[哲学王 Philosopher-King](concepts/philosopher-king.md)** — 知识与权力应当统一 / Knowledge and power should be unified
 - **[回忆说 Anamnesis](concepts/anamnesis.md)** — 知识是灵魂对前世所知的回忆 / Knowledge as recollection of what the soul knew before birth
-- **[灵魂三分 Tripartite Soul](concepts/灵魂三分.md)** — 理性、激情与欲望的和谐 / Harmony of reason, spirit, and appetite
+- **[灵魂三分 Tripartite Soul](概念/灵魂三分.md)** — 理性、激情与欲望的和谐 / Harmony of reason, spirit, and appetite
 - **[辩证法 Dialectics](../../concepts/辩证法.md)** — 上升至理念的认识方法 / Method of ascent to the Forms
-- **[认识论 Epistemology](../../concepts/认识论.md)** — 知识（epistēmē）vs 意见（doxa）/ Knowledge vs. opinion
+- **[认识论 Epistemology](../../../概念/认识论.md)** — 知识（epistēmē）vs 意见（doxa）/ Knowledge vs. opinion
 - **爱欲 Erōs** — 从美的身体上升到美本身的灵魂动力 / The soul's drive ascending from beautiful bodies to Beauty itself
 - **造物主 Demiurge** — 《蒂迈欧篇》中的理性创造者 / The rational creator in the *Timaeus*
 - **分有 Methexis** — 具体事物与理念之间的关系 / The relationship between particulars and Forms
@@ -173,7 +173,7 @@ Late dialogues display profound self-critical spirit. The "Third Man Argument" i
 
 4. **教育哲学 Philosophy of Education**：洞穴比喻和"教育即灵魂转向"的理念被广泛应用于教育改革的理论讨论。
 
-5. **心理学 Psychology**：灵魂三分模型被视为弗洛伊德本我/自我/超我理论的古代先驱（→ [弗洛伊德](../../../心理学/学派/精神分析/西格蒙德.md)）。
+5. **心理学 Psychology**：灵魂三分模型被视为弗洛伊德本我/自我/超我理论的古代先驱（→ [弗洛伊德](../../../../心理学/学派/精神分析/西格蒙德.md)）。
 
 6. **虚拟现实与认识论 VR and Epistemology**：洞穴比喻在数字时代被重新解读——虚拟世界是否是新的"洞穴"？（参见 "Simulation Hypothesis"。）
 
@@ -239,8 +239,8 @@ Zhu Xi's concept of *lǐ* (Principle)—each thing has its own *lǐ*, and all *l
 
 ## 跨学科关联 Interdisciplinary Connections
 
-- [荣格 · 集体无意识 Jung's Collective Unconscious](../../../心理学/学派/分析心理学/卡尔.md) `[平行 Parallel]` — 原型（archetype）概念与柏拉图理念的结构相似 / Archetypes structurally resemble Forms
-- [弗洛伊德 · 精神分析 Freud's Psychoanalysis](../../../心理学/学派/精神分析/西格蒙德.md) `[同源 Derived]` — 本我/自我/超我与灵魂三分 / Id/Ego/Superego and tripartite soul
+- [荣格 · 集体无意识 Jung's Collective Unconscious](../../../../心理学/学派/分析心理学/卡尔.md) `[平行 Parallel]` — 原型（archetype）概念与柏拉图理念的结构相似 / Archetypes structurally resemble Forms
+- [弗洛伊德 · 精神分析 Freud's Psychoanalysis](../../../../心理学/学派/精神分析/西格蒙德.md) `[同源 Derived]` — 本我/自我/超我与灵魂三分 / Id/Ego/Superego and tripartite soul
 - [基督教 · 神秘主义 Christian Mysticism](../../../宗教/传统/基督教/mysticism.md) `[同源 Derived]` — 新柏拉图主义经奥古斯丁进入基督教神学 / Neoplatonism via Augustine into Christian theology
 - [怀特海 · 过程哲学 Whitehead's Process Philosophy](../../../哲学/schools/continental/whitehead.md) `[引用 Cited]` — "柏拉图脚注"名言的出处 / Source of the "footnotes to Plato" quote
 - [哥德尔 · 数学柏拉图主义 Gödel's Mathematical Platonism](../../../mathematics/) `[应用 Applied]` — 数学对象的独立存在性 / Independent existence of mathematical objects
@@ -271,11 +271,11 @@ Zhu Xi's concept of *lǐ* (Principle)—each thing has its own *lǐ*, and all *l
 
 | 子条目 Sub-Entry | 路径 Path |
 |-------------------|-----------|
-| 理念论 Theory of Forms | [concepts/理念论.md](concepts/理念论.md) |
+| 理念论 Theory of Forms | [concepts/理念论.md](概念/理念论.md) |
 | 洞穴比喻 Cave Allegory | [concepts/cave-allegory.md](concepts/cave-allegory.md) |
 | 哲学王 Philosopher-King | [concepts/philosopher-king.md](concepts/philosopher-king.md) |
 | 回忆说 Anamnesis | [concepts/anamnesis.md](concepts/anamnesis.md) |
-| 灵魂三分 Tripartite Soul | [concepts/灵魂三分.md](concepts/灵魂三分.md) |
+| 灵魂三分 Tripartite Soul | [concepts/灵魂三分.md](概念/灵魂三分.md) |
 | 著作年表 Works Chronology | [著作.md](著作.md) |
 | 生平年表 Timeline | [时间线.md](时间线.md) |
 | 推荐阅读 Reading List | [阅读.md](阅读.md) |

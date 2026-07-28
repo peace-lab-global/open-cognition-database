@@ -56,7 +56,7 @@ children: ["concepts/buddhacarita", "concepts/tathagatagarbha", "concepts/one-mi
 
 **The *Awakening of Faith* (attributed to Aśvaghoṣa) proposes that all beings inherently possess tathāgatagarbha — Buddha-nature — obscured by ignorance. This profoundly shaped East Asian Buddhism.**
 
-详见 [如来藏](concepts/如来藏 Tathāgatagarbha.md)。
+详见 [如来藏](../../概念/foundational/如来藏 Tathāgatagarbha.md)。
 
 ### 3. 一心二门 / One Mind, Two Gates
 
@@ -255,7 +255,7 @@ children: ["concepts/buddhacarita", "concepts/tathagatagarbha", "concepts/one-mi
 | 条目 | 类型 | 内容概述 |
 |------|------|----------|
 | [佛所行赞](concepts/buddhacarita.md) | 概念 | 以诗传佛的叙事哲学 |
-| [如来藏](concepts/如来藏 Tathāgatagarbha.md) | 概念 | 众生本具佛性的思想体系 |
+| [如来藏](../../概念/foundational/如来藏 Tathāgatagarbha.md) | 概念 | 众生本具佛性的思想体系 |
 | [一心二门](concepts/one-mind-two-gates.md) | 概念 | 真如门与生灭门的哲学架构 |
 | [文学与哲学融合](concepts/literature-philosophy.md) | 概念 | 审美体验作为觉悟途径 |
 | [梵语佛教诗歌](concepts/sanskrit-poetry.md) | 概念 | kāvya 传统与 dharma-rasa 美学 |

@@ -167,7 +167,7 @@ In the final two decades of his life, Bowlby devoted himself to clinical applica
 
 ## 重要概念 / Key Concepts
 
-1. **依恋行为系统（Attachment Behavioural System）** — 一种进化而来的、以维持与照顾者接近为目标的行为组织系统 → [concepts/attachment-theory](concepts/依恋.md)
+1. **依恋行为系统（Attachment Behavioural System）** — 一种进化而来的、以维持与照顾者接近为目标的行为组织系统 → [concepts/attachment-theory](../../../概念/依恋.md)
 2. **安全基地（Secure Base）** — 可靠的照顾者为儿童提供的心理与物理"基地"，支撑探索行为 → [concepts/secure-base](concepts/secure-base.md)
 3. **内部工作模型（Internal Working Models）** — 基于依恋经验建构的关于自我与他人的无意识心理表征 → [concepts/internal-working-models](concepts/internal-working-models.md)
 4. **分离焦虑（Separation Anxiety）** — 与依恋对象分离时引发的阶段性痛苦反应 → [concepts/separation-anxiety](concepts/separation-anxiety.md)
@@ -312,7 +312,7 @@ This dialogue suggests a potential synthesis: psychological health may require b
 
 | 类型 / Type | 条目 / Entry | 简述 / Description |
 |------|------|------|
-| 概念 / Concept | [attachment-theory](concepts/依恋.md) | 依恋行为系统的进化基础、核心机制与类型学 / Evolutionary basis, core mechanisms, and typology of the attachment behavioural system |
+| 概念 / Concept | [attachment-theory](../../../概念/依恋.md) | 依恋行为系统的进化基础、核心机制与类型学 / Evolutionary basis, core mechanisms, and typology of the attachment behavioural system |
 | 概念 / Concept | [secure-base](concepts/secure-base.md) | 安全基地的功能、发展意义与临床应用 / Secure base function, developmental significance, and clinical applications |
 | 概念 / Concept | [internal-working-models](concepts/internal-working-models.md) | 内部工作模型的形成、运作与修正机制 / Formation, operation, and modification of internal working models |
 | 概念 / Concept | [separation-anxiety](concepts/separation-anxiety.md) | 分离反应的三阶段模型与社会政策影响 / Three-phase model of separation response and social policy impact |

@@ -124,10 +124,10 @@ In the early 1930s, Adler emigrated to the United States, teaching at Long Islan
 
 ## 重要概念 / Key Concepts
 
-1. **自卑情结 / Inferiority Complex** — 当自卑感未能得到有效补偿时形成的神经症性格局。详见 [inferiority-complex](concepts/自卑情结.md)
+1. **自卑情结 / Inferiority Complex** — 当自卑感未能得到有效补偿时形成的神经症性格局。详见 [inferiority-complex](概念/自卑情结.md)
 2. **个体心理学 / Individual Psychology** — 阿德勒创立的心理学学派，强调人的整体性、目的性和社会性。详见 [individual-psychology](concepts/individual-psychology.md)
 3. **生活风格 / Lifestyle** — 个体在早年形成的关于自我和世界的核心信念与行为模式。详见 [lifestyle](concepts/lifestyle.md)
-4. **社会兴趣 / Social Interest (Gemeinschaftsgefühl)** — 对人类社会共同体的归属感与合作意愿。详见 [social-interest](concepts/社会兴趣.md)
+4. **社会兴趣 / Social Interest (Gemeinschaftsgefühl)** — 对人类社会共同体的归属感与合作意愿。详见 [social-interest](概念/社会兴趣.md)
 5. **出生顺序 / Birth Order** — 出生顺序对人格发展的系统影响。详见 [birth-order](concepts/birth-order.md)
 6. **追求优越 / Striving for Superiority** — 从"减号状态"向"加号状态"运动的根本驱力
 7. **虚构目的论 / Fictional Finalism** — 个体受主观建构的最终目标引导的概念，受Vaihinger"仿佛哲学"影响
@@ -238,8 +238,8 @@ Adler's teleology and Zhuangzi's ideal of "free and easy wandering" (*xiāoyáo 
 
 | 学科 / Discipline | 关联 / Connection |
 |---|---|
-| 精神分析 / Psychoanalysis | 与 [弗洛伊德](../精神分析/西格蒙德.md) 的分歧定义了深度心理学的两条路径 / Divergence with [Freud](../精神分析/西格蒙德.md) defined two paths of depth 心理学 |
-| 人本主义心理学 / Humanistic Psychology | 马斯洛 [马斯洛](../humanistic/马斯洛.md) 和罗杰斯 [罗杰斯](../humanistic/卡尔.md) 深受阿德勒影响 / [Maslow](../humanistic/马斯洛.md) and [Rogers](../humanistic/卡尔.md) were deeply influenced by Adler |
+| 精神分析 / Psychoanalysis | 与 [弗洛伊德](../../精神分析/西格蒙德.md) 的分歧定义了深度心理学的两条路径 / Divergence with [Freud](../../精神分析/西格蒙德.md) defined two paths of depth 心理学 |
+| 人本主义心理学 / Humanistic Psychology | 马斯洛 [马斯洛](../../人本主义/马斯洛.md) 和罗杰斯 [罗杰斯](../humanistic/卡尔.md) 深受阿德勒影响 / [Maslow](../../人本主义/马斯洛.md) and [Rogers](../humanistic/卡尔.md) were deeply influenced by Adler |
 | 发展心理学 / Developmental Psychology | 埃里克森 [埃里克森](../developmental/erikson.md) 的心理社会发展理论与阿德勒的社会发展观呼应 / [Erikson](../developmental/erikson.md)'s psychosocial development theory echoes Adler's social development view |
 | 认知心理学 / Cognitive Psychology | 阿德勒的"图式"概念预示了认知疗法的核心概念 / Adler's "schema" concept anticipated core concepts in cognitive therapy |
 | 积极心理学 / Positive Psychology | 塞利格曼 [塞利格曼](../positive/seligman.md) 的幸福研究继承了阿德勒对社会兴趣和生命意义的关注 / [Seligman](../positive/seligman.md)'s well-being 研究 inherits Adler's focus on social interest and life meaning |
@@ -275,10 +275,10 @@ Adler's teleology and Zhuangzi's ideal of "free and easy wandering" (*xiāoyáo 
 
 | 条目 / Entry | 路径 / Path |
 |---|---|
-| 自卑情结 / Inferiority Complex | [concepts/自卑情结.md](concepts/自卑情结.md) |
+| 自卑情结 / Inferiority Complex | [concepts/自卑情结.md](概念/自卑情结.md) |
 | 个体心理学 / Individual Psychology | [concepts/individual-psychology.md](concepts/individual-psychology.md) |
 | 生活风格 / Lifestyle | [concepts/lifestyle.md](concepts/lifestyle.md) |
-| 社会兴趣 / Social Interest | [concepts/社会兴趣.md](concepts/社会兴趣.md) |
+| 社会兴趣 / Social Interest | [concepts/社会兴趣.md](概念/社会兴趣.md) |
 | 出生顺序 / Birth Order | [concepts/birth-order.md](concepts/birth-order.md) |
 | 著作年表 / Works Chronology | [著作.md](著作.md) |
 | 生平年表 / Life Timeline | [时间线.md](时间线.md) |

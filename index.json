@@ -1,10 +1,10 @@
 {
   "version": "v0.6",
-  "generated": "2026-07-20",
+  "generated": "2026-07-28",
   "stats": {
-    "entries": 2436,
+    "entries": 2438,
     "skills": 0,
-    "total": 2436,
+    "total": 2438,
     "domains": [
       "伦理政治",
       "哲学",
@@ -7708,6 +7708,26 @@
         "purity",
         "matsuri",
         "nature"
+      ]
+    },
+    {
+      "path": "宗教/传统/耆那教/核心教义.md",
+      "id": "jainism-core-teachings",
+      "title": "耆那教核心教义 · Core Teachings of Jainism",
+      "type": "tradition",
+      "domain": "宗教",
+      "school": "jainism",
+      "tags": [
+        "非暴力",
+        "不害",
+        "业",
+        "苦行",
+        "多面论",
+        "ahimsa",
+        "karma",
+        "asceticism",
+        "anekantavada",
+        "non-absolutism"
       ]
     },
     {
@@ -19452,6 +19472,26 @@
       "title": "丹尼尔·卡尼曼 · Daniel Kahneman",
       "type": "thinker",
       "domain": "心理学"
+    },
+    {
+      "path": "心理学/学派/认知心理学/乔姆斯基.md",
+      "id": "心理学.cognitive.chomsky",
+      "title": "乔姆斯基 · Noam Chomsky",
+      "type": "thinker",
+      "domain": "心理学",
+      "school": "cognitive",
+      "tags": [
+        "生成语法",
+        "普遍语法",
+        "语言习得",
+        "认知革命",
+        "心智主义",
+        "generative-grammar",
+        "universal-grammar",
+        "language-acquisition",
+        "cognitive-revolution",
+        "mentalism"
+      ]
     },
     {
       "path": "心理学/学派/认知心理学/卡巴金/时间线.md",

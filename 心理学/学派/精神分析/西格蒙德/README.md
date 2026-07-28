@@ -230,11 +230,11 @@ The Confucian ideal of "restraining oneself and returning to the rites" (克己�
 | 个体心理学 / Individual Psychology | [阿德勒 Adler](../adler/README.md) | 从性驱力到社会兴趣与权力追求 / From sexual drive to social interest and power striving |
 | 发展心理学 / Developmental Psychology | [埃里克森 Erikson](../../developmental/erikson/README.md) | 从性心理发展到心理社会八阶段 / From psychosexual to psychosocial eight-stage development |
 | 结构主义精神分析 / Structuralist Psychoanalysis | [拉康 Lacan](../lacan/README.md) | "回归弗洛伊德"——以语言学重读潜意识 / "Return to Freud" — rereading the unconscious through linguistics |
-| 存在主义哲学 / Existentialist Philosophy | [尼采 Nietzsche](../../../哲学/学派/存在主义/尼采/README.md) | 权力意志与潜意识驱动力的哲学先驱 / Philosophical precursor of will to power and unconscious drives |
+| 存在主义哲学 / Existentialist Philosophy | [尼采 Nietzsche](../../../../哲学/学派/存在主义/尼采/README.md) | 权力意志与潜意识驱动力的哲学先驱 / Philosophical precursor of will to power and unconscious drives |
 | 创伤神经科学 / Trauma Neuroscience | [范德科尔克 Van der Kolk](../../trauma-psychology/van-der-kolk/README.md) | 从精神分析创伤理论到身体导向的神经科学 / From psychoanalytic trauma theory to body-oriented neuroscience |
-| 佛教认知理论 / Buddhist Cognitive Theory | [种子与熏习 Bīja and Vāsanā](../../../宗教/佛教/概念/cognitive-theory/种子与熏习.md) | 早期经验的持久影响——平行比较 / Enduring influence of early experience — parallel comparison |
-| 佛教认知理论 / Buddhist Cognitive Theory | [八识体系 Eight Consciousnesses](../../../宗教/佛教/概念/cognitive-theory/八识体系.md) | 阿赖耶识与潜意识的储存功能 / The storage function of ālaya-vijñāna and the unconscious |
-| 功能主义心理学 / Functionalist Psychology | [詹姆斯 William James](../../functionalism/william-james/README.md) | 同时代开创者——潜意识与意识流的不同切入 / Contemporary founders — unconscious vs. stream of consciousness |
+| 佛教认知理论 / Buddhist Cognitive Theory | [种子与熏习 Bīja and Vāsanā](../../../../宗教/佛教/概念/cognitive-theory/种子与熏习.md) | 早期经验的持久影响——平行比较 / Enduring influence of early experience — parallel comparison |
+| 佛教认知理论 / Buddhist Cognitive Theory | [八识体系 Eight Consciousnesses](../../../../宗教/佛教/概念/cognitive-theory/八识体系.md) | 阿赖耶识与潜意识的储存功能 / The storage function of ālaya-vijñāna and the unconscious |
+| 功能主义心理学 / Functionalist Psychology | [詹姆斯 William James](../../功能主义/威廉-william-james/README.md) | 同时代开创者——潜意识与意识流的不同切入 / Contemporary founders — unconscious vs. stream of consciousness |
 | 批判理论 / Critical Theory | 法兰克福学派 Frankfurt School | 精神分析与马克思主义的综合 / Synthesis of psychoanalysis and Marxism |
 | 文学批评 / Literary Criticism | [精神分析批评 Psychoanalytic Criticism](../../../文学/criticism/psychoanalytic/README.md) | 精神分析视角在文学与文化研究中的应用 / Application of psychoanalytic perspective in literary and cultural studies |
 

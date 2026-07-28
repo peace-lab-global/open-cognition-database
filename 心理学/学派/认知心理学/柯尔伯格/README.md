@@ -340,4 +340,4 @@ Kohlberg's "just community" ideal forms a triangular dialogue with Rawls's "just
 
 ---
 
-> **相关条目 / Related Entries**: [Piaget 皮亚杰](../piaget/) · [Rawls 罗尔斯](../../../伦理政治/学派/社会契约论/约翰-rawls/) · [Gilligan 吉利根](../../schools/feminist/gilligan/) · [Erikson 埃里克森](../../schools/psychoanalysis/erikson/) · [Bandura 班杜拉](../../schools/social-learning/bandura/) · [Noddings 诺丁斯](../../../伦理政治/学派/关怀伦理学/内尔/)
+> **相关条目 / Related Entries**: [Piaget 皮亚杰](../piaget/) · [Rawls 罗尔斯](../../../../伦理政治/学派/社会契约论/约翰-rawls.md) · [Gilligan 吉利根](../../schools/feminist/gilligan/) · [Erikson 埃里克森](../../schools/psychoanalysis/erikson/) · [Bandura 班杜拉](../../schools/social-learning/bandura/) · [Noddings 诺丁斯](../../../伦理政治/学派/关怀伦理学/内尔/)

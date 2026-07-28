@@ -235,7 +235,7 @@ Siegel's "river model" — integration as flexible navigation between chaos and 
 | 认知行为治疗 / Cognitive Behavioral Therapy | [贝克 Beck](../../cognitive/beck/README.md) | 整合框架与认知三角（认知-情感-行为）的对话空间 / Dialogue space between the integration framework and the cognitive triad |
 | 复杂系统理论 / Complex Systems Theory | 复杂适应系统 Complex Adaptive Systems | 自组织、涌现与非线性动力学为整合提供系统论基础 / Self-organization, emergence, and nonlinear dynamics provide systems-theoretic foundations |
 | 佛教心理学 / Buddhist Psychology | [正念与觉知 Mindfulness and Awareness](../../../宗教/佛教/概念/mindfulness-awareness.md) | 正念觉知传统的心理学转化 / Psychological transformation of the mindfulness-awareness tradition |
-| 功能主义心理学 / Functionalist Psychology | [詹姆斯 William James](../../functionalism/william-james/README.md) | 意识流与心智的关系性涌现——两种"心智不是实体"的观点 / Stream of consciousness and relational emergence of mind — two "mind is not entity" perspectives |
+| 功能主义心理学 / Functionalist Psychology | [詹姆斯 William James](../../功能主义/威廉-william-james/README.md) | 意识流与心智的关系性涌现——两种"心智不是实体"的观点 / Stream of consciousness and relational emergence of mind — two "mind is not entity" perspectives |
 
 ## 进阶阅读 / Further Reading
 

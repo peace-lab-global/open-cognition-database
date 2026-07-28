@@ -225,9 +225,9 @@ children: ["concepts/humanistic-buddhism", "concepts/three-revolutions", "concep
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **佛教内部**: [印光](yinguang.md) — 净土传统的对照；[智顗](zhiyi.md) — 判教传统的先驱；[惠能](huineng.md) — 禅宗的人间化方向
+- **佛教内部**: [印光](../印光.md) — 净土传统的对照；[智顗](../智顗.md) — 判教传统的先驱；[惠能](../慧能.md) — 禅宗的人间化方向
 - **佛教改革**: [印顺](../scholars/yinshun.md) — 人间佛教的理论深化者；[星云](../scholars/hsingyun.md) — 人间佛教的实践者
-- **社会学**: [韦伯](../../../社会学/学派/古典社会学/韦伯.md) — 新教伦理与宗教改革的现代化动力
+- **社会学**: [韦伯](../../../../社会学/学派/古典社会学/韦伯.md) — 新教伦理与宗教改革的现代化动力
 - **哲学**: [梁漱溟](../../../哲学/chinese-modern/liang-shuming.md) — 现代新儒家的宗教关怀
 - **教育学**: 现代佛教教育体系的奠基者
 

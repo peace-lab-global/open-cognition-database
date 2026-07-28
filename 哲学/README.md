@@ -123,23 +123,23 @@
 
 ## 跨学派核心概念
 
-- [辩证法 Dialectics](concepts/辩证法.md)
-- [认识论 Epistemology](concepts/认识论.md)
+- [辩证法 Dialectics](概念/辩证法.md)
+- [认识论 Epistemology](概念/认识论.md)
 - [存在 Being](concepts/being.md)
 
 ## 跨传统比较
 
-- [存在主义 × 唯识 Existentialism vs Yogācāra](schools/comparative/existentialism-vs-yogacara.md) — 自由与种子、自欺与遍计所执、本真与转识成智
-- [博尔赫斯 × 唯识 Borges vs Yogācāra](schools/comparative/borges-vs-yogacara.md) — 特隆/遍计所执、阿莱夫/大圆镜智、巴别图书馆/阿赖耶识
+- [存在主义 × 唯识 Existentialism vs Yogācāra](学派/比较哲学/存在主义唯识.md) — 自由与种子、自欺与遍计所执、本真与转识成智
+- [博尔赫斯 × 唯识 Borges vs Yogācāra](学派/比较哲学/博尔赫斯唯识.md) — 特隆/遍计所执、阿莱夫/大圆镜智、巴别图书馆/阿赖耶识
 
 ## 关联 Skills
 
-详见 [哲学/skills/](./skills/)。
+详见 [哲学/skills/](技能)。
 
-- [苏格拉底诘问](./skills/socratic-questioning/SKILL.md)
-- [辩证法分析](./skills/dialectical-analysis/SKILL.md)
-- [现象学还原](./skills/phenomenological-reduction/SKILL.md)
-- [语言游戏分析](./skills/language-game-analysis/SKILL.md)
+- [苏格拉底诘问](技能/苏格拉底式诘/SKILL.md)
+- [辩证法分析](技能/辩证法分析/SKILL.md)
+- [现象学还原](技能/现象学还原/SKILL.md)
+- [语言游戏分析](技能/语言游戏分析/SKILL.md)
 
 ## 参考起点
 

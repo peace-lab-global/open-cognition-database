@@ -203,8 +203,8 @@ Ordinary mind is not drifting with the current or indulging desires. It is "with
 - [南岳怀让 Huairang](../../masters/huairang.md) — [师承 teacher] 磨砖作镜 / Polishing a brick
 - [百丈怀海 Baizhang](baizhang-huaihai.md) — [弟子 disciple] 丛林清规 / Monastic regulations
 - [临济义玄 Linji](linji-yixuan.md) — [法脉后裔 lineage descendant] 临济宗 / Linji School
-- [老庄 Laozi & Zhuangzi](../../../传统/道教/masters/老子.md) — [平行 parallel] 道法自然 / Dao following nature
-- [海德格尔 Heidegger](../../../哲学/学派/存在主义/海德格尔.md) — [平行 parallel] 本真存在 / Authentic being
+- [老庄 Laozi & Zhuangzi](../../../../传统/道教/masters/老子.md) — [平行 parallel] 道法自然 / Dao following nature
+- [海德格尔 Heidegger](../../../../../哲学/学派/存在主义/海德格尔.md) — [平行 parallel] 本真存在 / Authentic being
 
 ---
 

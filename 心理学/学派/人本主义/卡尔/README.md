@@ -161,10 +161,10 @@ After moving to La Jolla, California in 1964, his work expanded into cross-cultu
 | 概念 | 英文 | 核心要义 | 详见 |
 |------|------|---------|------|
 | 来访者中心疗法 | Client-Centered Therapy | 以来访者为主体，治疗师提供核心条件而非指导 | [client-centered](concepts/client-centered.md) |
-| 无条件积极关注 | Unconditional Positive Regard | 无条件接纳来访者的全部经验，不评判不附带条件 | [unconditional-positive-regard](concepts/无条件积极关注.md) |
+| 无条件积极关注 | Unconditional Positive Regard | 无条件接纳来访者的全部经验，不评判不附带条件 | [unconditional-positive-regard](概念/无条件积极关注.md) |
 | 自我实现倾向 | Actualizing Tendency | 有机体内在的成长驱动力，朝向潜能实现的方向 | [actualizing-tendency](concepts/actualizing-tendency.md) |
 | 真诚一致 | Congruence | 治疗师内在经验与外在表达的一致性，不戴面具 | [congruence](concepts/congruence.md) |
-| 共情理解 | Empathic Understanding | 深入来访者的主观世界，感受其感受而非同情 | [empathy](concepts/共情.md) |
+| 共情理解 | Empathic Understanding | 深入来访者的主观世界，感受其感受而非同情 | [empathy](../../认知心理学/戈尔曼/概念/共情.md) |
 | 充分发挥功能的人 | The Fully Functioning Person | 心理健康的理想状态：开放、信任、灵活、投入 | — |
 | 自我概念 | Self-Concept | 个体对自身的知觉和评价，经验与自我不一致导致焦虑 | — |
 | 价值条件 | Conditions of Worth | 他人施加的接纳条件，导致个体压抑真实经验 | — |
@@ -342,10 +342,10 @@ Rogers' "empathy" engages in deep dialogue with Buddhism's "karuṇā" (compassi
 ## 子条目索引 / Sub-entry Index
 
 - [来访者中心疗法 / Client-Centered Therapy](concepts/client-centered.md)
-- [无条件积极关注 / Unconditional Positive Regard](concepts/无条件积极关注.md)
+- [无条件积极关注 / Unconditional Positive Regard](概念/无条件积极关注.md)
 - [自我实现倾向 / Actualizing Tendency](concepts/actualizing-tendency.md)
 - [真诚一致 / Congruence](concepts/congruence.md)
-- [共情理解 / Empathic Understanding](concepts/共情.md)
+- [共情理解 / Empathic Understanding](../../认知心理学/戈尔曼/概念/共情.md)
 - [著作年表 / Works Chronology](著作.md)
 - [生平年表 / Life Timeline](时间线.md)
 - [推荐阅读 / Reading List](阅读.md)

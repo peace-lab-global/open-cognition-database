@@ -23,19 +23,19 @@ tags:
 
 | 序号 | 经名 | 核心路径 | 难度 | 文件 |
 |------|------|----------|------|------|
-| 1 | 《般若波罗蜜多心经》 | 五蕴皆空 → 度一切苦厄 | 入门 | [heart-sutra.md](heart-sutra.md) |
-| 2 | 《金刚般若波罗蜜经》 | 无相 → 无住 → 无所得 | 进阶 | [diamond-sutra.md](diamond-sutra.md) |
+| 1 | 《般若波罗蜜多心经》 | 五蕴皆空 → 度一切苦厄 | 入门 | [heart-sutra.md](般若波罗蜜多心经.md) |
+| 2 | 《金刚般若波罗蜜经》 | 无相 → 无住 → 无所得 | 进阶 | [diamond-sutra.md](金刚般若波罗蜜经.md) |
 | 3 | 《妙法莲华经》 | 会三归一 → 开佛知见 | 专研 | [妙法莲华经.md](妙法莲华经.md) |
-| 4 | 《大佛顶首楞严经》 | 七处征心 → 五阴魔境 | 专研 | [surangama-sutra.md](surangama-sutra.md) |
-| 5 | 《大方广佛华严经》 | 法界缘起 → 事事无碍 | 专研 | [华严经.md](华严经.md) |
-| 6 | 《大方广圆觉修多罗了义经》 | 知幻 → 离幻 → 圆觉 | 进阶 | [perfect-enlightenment-sutra.md](perfect-enlightenment-sutra.md) |
-| 7 | 《维摩诘所说经》 | 不二法门 → 烦恼即菩提 | 进阶 | [vimalakirti-sutra.md](vimalakirti-sutra.md) |
-| 8 | 《大般涅槃经》 | 一切众生有佛性 → 常乐我净 | 专研 | [mahaparinirvana-sutra.md](mahaparinirvana-sutra.md) |
-| 9 | 《楞伽阿跋多罗宝经》 | 三界唯心 → 八识 → 转识成智 | 专研 | [lankavatara-sutra.md](lankavatara-sutra.md) |
-| 10 | 《四十二章经》 | 出家 → 断欲 → 证果 | 入门 | [forty-two-sections.md](forty-two-sections.md) |
-| 11 | 《佛说无量寿经》 | 发愿 → 念佛 → 往生净土 | 进阶 | [amitayus-sutra.md](amitayus-sutra.md) |
-| 12 | 《观无量寿佛经》 | 日观 → 佛菩萨观 → 九品往生 | 进阶 | [contemplation-sutra.md](contemplation-sutra.md) |
-| 13 | 《六祖坛经》 | 见性 → 无念为宗 → 定慧等学 | 进阶 | [platform-sutra.md](platform-sutra.md) |
+| 4 | 《大佛顶首楞严经》 | 七处征心 → 五阴魔境 | 专研 | [surangama-sutra.md](大佛顶首楞严经-surangama-sutra.md) |
+| 5 | 《大方广佛华严经》 | 法界缘起 → 事事无碍 | 专研 | [华严经.md](大方广佛华严经.md) |
+| 6 | 《大方广圆觉修多罗了义经》 | 知幻 → 离幻 → 圆觉 | 进阶 | [perfect-enlightenment-sutra.md](大方广圆觉修多罗了义经.md) |
+| 7 | 《维摩诘所说经》 | 不二法门 → 烦恼即菩提 | 进阶 | [vimalakirti-sutra.md](维摩诘所说经.md) |
+| 8 | 《大般涅槃经》 | 一切众生有佛性 → 常乐我净 | 专研 | [mahaparinirvana-sutra.md](大般涅槃经.md) |
+| 9 | 《楞伽阿跋多罗宝经》 | 三界唯心 → 八识 → 转识成智 | 专研 | [lankavatara-sutra.md](楞伽阿跋多罗宝经.md) |
+| 10 | 《四十二章经》 | 出家 → 断欲 → 证果 | 入门 | [forty-two-sections.md](四十二章经.md) |
+| 11 | 《佛说无量寿经》 | 发愿 → 念佛 → 往生净土 | 进阶 | [amitayus-sutra.md](佛说无量寿经.md) |
+| 12 | 《观无量寿佛经》 | 日观 → 佛菩萨观 → 九品往生 | 进阶 | [contemplation-sutra.md](佛说观无量寿佛经.md) |
+| 13 | 《六祖坛经》 | 见性 → 无念为宗 → 定慧等学 | 进阶 | [platform-sutra.md](六祖坛经.md) |
 
 ---
 
@@ -118,7 +118,7 @@ graph TB
 
 | 认知科学主题 | 相关经文 | 交叉引用 |
 |-------------|----------|----------|
-| **八识论** | 楞伽经、楞严经 | [八识论](../../concepts/cognitive-theory/八识体系.md) |
+| **八识论** | 楞伽经、楞严经 | [八识论](../概念/cognitive-theory/八识体系.md) |
 | **认知建构论** | 楞伽经、坛经、金刚经 | [建构论](../../concepts/cognitive-theory/constructivism.md) |
 | **注意力与觉察** | 观无量寿经、无量寿经 | [注意力](../../concepts/cognitive-theory/attention-awareness.md) |
 | **元认知** | 楞伽经、坛经 | [元认知](../../concepts/cognitive-theory/metacognition.md) |
@@ -126,7 +126,7 @@ graph TB
 | **自我认知** | 四十二章经、金刚经 | [自我认知](../../concepts/cognitive-theory/self-cognition.md) |
 | **意象认知** | 观无量寿经（十六观） | [意象认知](../../concepts/cognitive-theory/mental-imagery.md) |
 | **认知承诺** | 无量寿经（四十八愿） | [认知承诺](../../concepts/cognitive-theory/cognitive-commitment.md) |
-| **先验认知潜能** | 涅槃经（佛性论） | [八识论](../../concepts/cognitive-theory/八识体系.md) |
+| **先验认知潜能** | 涅槃经（佛性论） | [八识论](../概念/cognitive-theory/八识体系.md) |
 | **正念觉察** | 坛经、圆觉经 | [正念](../../concepts/cognitive-theory/正念.md) |
 
 ---

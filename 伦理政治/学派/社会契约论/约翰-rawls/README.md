@@ -174,11 +174,11 @@ The 1985 paper "Justice as Fairness: Political not Metaphysical" marked the form
 
 ## 重要概念 / Key Concepts
 
-1. **原初状态 / Original Position** — 选择正义原则的假想起始情境，替代传统社会契约论中的"自然状态"。[详见 →](concepts/original-position.md)
-2. **无知之幕 / Veil of Ignorance** — 原初状态中屏蔽身份信息的思想装置，确保选择不偏袒任何特定群体。[详见 →](concepts/无知之幕.md)
-3. **作为公平的正义 / Justice as Fairness** — 正义原则来源于公平的程序，而非独立的道德实在或功利计算。[详见 →](concepts/justice-as-fairness.md)
-4. **差别原则 / Difference Principle** — 社会与经济不平等只有在对最不利者最为有利时才被允许。[详见 →](concepts/difference-principle.md)
-5. **重叠共识 / Overlapping Consensus** — 多元社会中不同整全性学说对政治正义原则的汇聚认同。[详见 →](concepts/overlapping-consensus.md)
+1. **原初状态 / Original Position** — 选择正义原则的假想起始情境，替代传统社会契约论中的"自然状态"。[详见 →](概念/原初状态.md)
+2. **无知之幕 / Veil of Ignorance** — 原初状态中屏蔽身份信息的思想装置，确保选择不偏袒任何特定群体。[详见 →](概念/无知之幕.md)
+3. **作为公平的正义 / Justice as Fairness** — 正义原则来源于公平的程序，而非独立的道德实在或功利计算。[详见 →](概念/作为公平的正义.md)
+4. **差别原则 / Difference Principle** — 社会与经济不平等只有在对最不利者最为有利时才被允许。[详见 →](概念/差别原则.md)
+5. **重叠共识 / Overlapping Consensus** — 多元社会中不同整全性学说对政治正义原则的汇聚认同。[详见 →](概念/重叠共识.md)
 6. **反思平衡 / Reflective Equilibrium** — 在深思熟虑的判断与抽象原则之间不断往返调节以达融贯的方法。
 7. **基本善 / Primary Goods** — 权利与自由、机会与权力、收入与财富、自尊的社会基础——理性人无论其善的观念如何都需要的社会条件。
 8. **公共理性 / Public Reason** — 在宪政根本与基本正义问题上，公民应诉诸其他公民可以合理接受的推理方式。
@@ -268,7 +268,7 @@ Meaningful dialogue exists between Rawls's political liberalism and East Asian i
 ### 哲学 / Philosophy
 - [康德 Kant](../deontology/kant/README.md) `[继承/inherits]` — 自律、人是目的、定言命令的正义论转化
 - [洛克 Locke](../locke/README.md) `[对话/dialogue]` — 社会契约论传统的现代重构
-- [诺齐克 Nozick](../libertarianism/nozick/README.md) `[对立/opposes]` — 持有正义 vs 分配正义的根本分歧
+- [诺齐克 Nozick](../../自由至上主义/nozick/README.md) `[对立/opposes]` — 持有正义 vs 分配正义的根本分歧
 - [哈贝马斯 Habermas] `[对话/dialogue]` — 审议民主与公共理性
 
 ### 经济学 / Economics
@@ -309,11 +309,11 @@ Meaningful dialogue exists between Rawls's political liberalism and East Asian i
 
 ## 子条目索引 / Sub-entry Index
 
-- [无知之幕 · Veil of Ignorance](concepts/无知之幕.md)
-- [作为公平的正义 · Justice as Fairness](concepts/justice-as-fairness.md)
-- [原初状态 · Original Position](concepts/original-position.md)
-- [重叠共识 · Overlapping Consensus](concepts/overlapping-consensus.md)
-- [差别原则 · Difference Principle](concepts/difference-principle.md)
+- [无知之幕 · Veil of Ignorance](概念/无知之幕.md)
+- [作为公平的正义 · Justice as Fairness](概念/作为公平的正义.md)
+- [原初状态 · Original Position](概念/原初状态.md)
+- [重叠共识 · Overlapping Consensus](概念/重叠共识.md)
+- [差别原则 · Difference Principle](概念/差别原则.md)
 - [著作年表 · Works Catalogue](著作.md)
 - [生平大事记 · Biographical Timeline](时间线.md)
 - [阅读指南 · Reading Guide](阅读.md)

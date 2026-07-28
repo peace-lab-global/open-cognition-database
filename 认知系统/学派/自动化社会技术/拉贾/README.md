@@ -169,7 +169,7 @@ His final decade witnessed a complete academic evolution arc from behavioral 心
   - [Christopher Wickens](../wickens.md) `[互补]`：认知负荷与多资源理论为自动化设计提供补充视角
   - [Mica Endsley](../README.md) `[互补]`：情境意识理论与自动化自满研究形成理论互补
   - [Donald Norman](../../认知工程/诺曼.md) `[平行]`：设计心理学与自动化人因的平行探索
-  - [Daniel Kahneman](../../../心理学/学派/行为经济学/丹尼尔.md) `[互补]`：双系统理论为自动化自满的认知机制提供解释
+  - [Daniel Kahneman](../../../../心理学/学派/行为经济学/丹尼尔.md) `[互补]`：双系统理论为自动化自满的认知机制提供解释
   - 当代自动驾驶人因研究 / Contemporary Autonomous Driving HRI Research `[下游应用]`
   - AI可解释性研究 / AI Explainability Research `[下游应用]`
 

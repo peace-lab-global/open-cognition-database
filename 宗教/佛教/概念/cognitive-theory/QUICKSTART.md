@@ -41,9 +41,9 @@
 
 | Skill | 何时用 |
 |-------|--------|
-| [**三性诊断**](skills/three-natures-diagnosis/SKILL.md) | 来访者被某个叙事困住，"我对他的故事"远超事实 |
-| [**种子模式分析**](skills/bija-pattern-analysis/SKILL.md) | 来访者说"我总是…"，需要追溯熏习来源与转化路径 |
-| [**缘起链追溯**](skills/dependent-origination-tracing/SKILL.md) | 重复性困境（成瘾、情绪爆发），需要找到最上游的断点 |
+| [**三性诊断**](../../技能/以唯识三性/SKILL.md) | 来访者被某个叙事困住，"我对他的故事"远超事实 |
+| [**种子模式分析**](../../技能/后的种子类型/SKILL.md) | 来访者说"我总是…"，需要追溯熏习来源与转化路径 |
+| [**缘起链追溯**](../../技能/定位关键断点/SKILL.md) | 重复性困境（成瘾、情绪爆发），需要找到最上游的断点 |
 
 ### 可选深化
 
@@ -76,7 +76,7 @@
 
 ### 推荐 Agent 集成
 
-如果你在做 AI Agent，建议用 [**量论三量验证**](skills/pramana-validation/SKILL.md) 作为 RAG 系统中的"有效性判断层"。详见 [../../AGENT.md](../../AGENT.md)。
+如果你在做 AI Agent，建议用 [**量论三量验证**](../../技能/以佛教量论/SKILL.md) 作为 RAG 系统中的"有效性判断层"。详见 [../../AGENT.md](../../../../AGENT.md)。
 
 ---
 
@@ -141,7 +141,7 @@
 ### 按宗派分流
 
 - **唯识**：八识 → 三性 → 种子 → 转识成智 → [解深密经](../sutras/sandhinirmocana-sutra.md)
-- **中观**：中观·空 → 二谛 → 量论 → [中论](../../../../../哲学/学派/分析哲学/龙树.md) 研究
+- **中观**：中观·空 → 二谛 → 量论 → [中论](../../大师/龙树.md) 研究
 - **天台**：八识 → 三性 → [天台](../schools/天台.md) 的三谛圆融
 - **华严**：心物一元 → [华严](../华严.md) 的法界四层
 - **禅**：七处征心 → 公案 → 默照 → [六祖坛经](../sutras/platform-sutra.md)
@@ -154,11 +154,11 @@
 
 佛教认知专题提供 15 个 Skill，每个都有完整的操作流程、提问范式、完整示例与反例。建议：
 
-1. **第一次用**：从 [八识认知诊断](skills/eight-consciousness-diagnosis/SKILL.md) 开始——最通用
-2. **想拆自我叙事**：[三性诊断](skills/three-natures-diagnosis/SKILL.md)
-3. **想追溯习惯**：[种子模式分析](skills/bija-pattern-analysis/SKILL.md)
-4. **想评估认知**：[量论三量验证](skills/pramana-validation/SKILL.md)
-5. **想松绑自我认同**：[五蕴解构](skills/five-aggregates-deconstruction/SKILL.md)
+1. **第一次用**：从 [八识认知诊断](../../技能/从前五识/SKILL.md) 开始——最通用
+2. **想拆自我叙事**：[三性诊断](../../技能/以唯识三性/SKILL.md)
+3. **想追溯习惯**：[种子模式分析](../../技能/后的种子类型/SKILL.md)
+4. **想评估认知**：[量论三量验证](../../技能/以佛教量论/SKILL.md)
+5. **想松绑自我认同**：[五蕴解构](../../技能/以五蕴/SKILL.md)
 
 完整 Skill 列表见 [SKILLS.md](./SKILLS.md)（待建）或 [README.md](README.md) 的"认知地图"表。
 
@@ -166,15 +166,15 @@
 
 ## 给 AI Agent 的入口
 
-如果你是 AI Agent（Qoder、Claude、Cursor 等），请读 [../../AGENT.md](../../AGENT.md)。其中代表 Skill 调用示例：
+如果你是 AI Agent（Qoder、Claude、Cursor 等），请读 [../../AGENT.md](../../../../AGENT.md)。其中代表 Skill 调用示例：
 
-- 认知卡点诊断 → [八识诊断](skills/eight-consciousness-diagnosis/SKILL.md)
-- 叙事剥离 → [三性诊断](skills/three-natures-diagnosis/SKILL.md)
-- 习惯溯源 → [种子分析](skills/bija-pattern-analysis/SKILL.md)
-- 认知评估 → [量论验证](skills/pramana-validation/SKILL.md)
-- 视角协调 → [二谛重构](skills/two-truths-reframing/SKILL.md)
-- 自我松绑 → [五蕴解构](skills/five-aggregates-deconstruction/SKILL.md)
-- 困境追溯 → [缘起追溯](skills/dependent-origination-tracing/SKILL.md)
+- 认知卡点诊断 → [八识诊断](../../技能/从前五识/SKILL.md)
+- 叙事剥离 → [三性诊断](../../技能/以唯识三性/SKILL.md)
+- 习惯溯源 → [种子分析](../../技能/后的种子类型/SKILL.md)
+- 认知评估 → [量论验证](../../技能/以佛教量论/SKILL.md)
+- 视角协调 → [二谛重构](../../技能/以佛教二谛/SKILL.md)
+- 自我松绑 → [五蕴解构](../../技能/以五蕴/SKILL.md)
+- 困境追溯 → [缘起追溯](../../技能/定位关键断点/SKILL.md)
 
 ---
 

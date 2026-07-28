@@ -41,7 +41,7 @@ Wiener (控制论)
 ## 关键概念
 
 - [自动化偏见](../../concepts/automation-bias.md) · Automation Bias
-- [脱离回路](../../concepts/脱离回路.md) · Out-of-the-Loop
+- [脱离回路](../../概念/脱离回路.md) · Out-of-the-Loop
 - [社会技术系统](../../concepts/sociotechnical-system.md) · Sociotechnical System
 - [生态界面设计](../../concepts/ecological-interface-design.md) · Ecological Interface Design
 - [自动化-自主性光谱](../../concepts/automation-autonomy-spectrum.md) · Automation-Autonomy Spectrum

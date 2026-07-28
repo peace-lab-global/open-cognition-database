@@ -241,8 +241,8 @@ children: ["concepts/translation-method", "concepts/emptiness-teaching", "concep
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **佛教内部**: [龙树 Nāgārjuna](龙树.md) — 中观思想的源头；[僧肇 Sengzhao](sengzhao.md) — 嫡传弟子"解空第一"；[慧远 Huiyuan](huiyuan.md) — 同时代通信论法义；[智顗 Zhiyi](zhiyi.md) — 以罗什译《法华经》立宗
-- **哲学**: [瓦尔特·本雅明 Walter Benjamin](../../../美学/学派/批判美学/瓦尔特.md) — 翻译者任务；[奈达 Eugene Nida](../../../哲学/学派/分析哲学/nida.md) — 动态对等翻译理论
+- **佛教内部**: [龙树 Nāgārjuna](../龙树.md) — 中观思想的源头；[僧肇 Sengzhao](../僧肇.md) — 嫡传弟子"解空第一"；[慧远 Huiyuan](../慧远.md) — 同时代通信论法义；[智顗 Zhiyi](../智顗.md) — 以罗什译《法华经》立宗
+- **哲学**: [瓦尔特·本雅明 Walter Benjamin](../../../../美学/学派/批判美学/瓦尔特.md) — 翻译者任务；[奈达 Eugene Nida](../../../哲学/学派/分析哲学/nida.md) — 动态对等翻译理论
 - **翻译学**: 与玄奘 (Xuanzang) 的"新译"对照——翻译理念从"意译"到"直译"的演变
 - **文化史**: 丝绸之路文化传播、东亚佛教文明共同基础
 

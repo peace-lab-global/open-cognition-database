@@ -78,13 +78,13 @@
 
 ## 跨学派概念
 
-- [有限理性](concepts/有限理性.md) · [可供性](concepts/可供性.md) · [认知负荷](concepts/认知负荷.md) · [态势感知](concepts/态势感知.md) · [分布式认知](concepts/分布式认知.md) · [意义建构](concepts/意义建构.md) · [心智模型](concepts/心智模型.md) · [活动理论](concepts/活动理论.md) · [韧性工程](concepts/韧性工程.md) · [联合认知系统](concepts/联合认知系统.md) · [预测加工](concepts/预测加工.md) · [生成认知](concepts/enaction.md)
+- [有限理性](概念/有限理性.md) · [可供性](概念/可供性.md) · [认知负荷](概念/认知负荷.md) · [态势感知](概念/态势感知.md) · [分布式认知](概念/分布式认知.md) · [意义建构](概念/意义建构.md) · [心智模型](概念/心智模型.md) · [活动理论](概念/活动理论.md) · [韧性工程](概念/韧性工程.md) · [联合认知系统](概念/联合认知系统.md) · [预测加工](概念/预测加工.md) · [生成认知](concepts/enaction.md)
 
 ---
 
 ## 关联 Skills
 
-见 [认知系统/skills/](./skills/)
+见 [认知系统/skills/](技能)
 
 ---
 

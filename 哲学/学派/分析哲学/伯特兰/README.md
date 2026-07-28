@@ -111,7 +111,7 @@ sub-entries:
 
 ## 重要概念 / Key Concepts
 
-1. **逻辑原子主义 / Logical Atomism** — 世界由简单事实构成，语言映射事实的逻辑结构 → [logical-atomism](concepts/逻辑原子主义.md)
+1. **逻辑原子主义 / Logical Atomism** — 世界由简单事实构成，语言映射事实的逻辑结构 → [logical-atomism](概念/逻辑原子主义.md)
 2. **描述理论 / Theory of Descriptions** — 限定描述的逻辑分析 → [theory-of-descriptions](concepts/theory-of-descriptions.md)
 3. **类型论 / Theory of Types** — 解决悖论的分层逻辑系统 → [types-theory](concepts/types-theory.md)
 4. **感觉材料 / Sense-Data** — 认识的直接对象 → [sense-data](concepts/sense-data.md)
@@ -171,8 +171,8 @@ Yogacara similarly uses precise analytic methods to deconstruct everyday cogniti
 - [怀特海 Whitehead](../whitehead/README.md) `[合作/collaboration]` 《数学原理》的共同作者
 - [维特根斯坦 Wittgenstein](../wittgenstein/README.md) `[师承/student]` 逻辑原子主义的分歧
 - [卡尔纳普 Carnap](../carnap/README.md) `[影响/influence]` 描述理论对逻辑经验主义的影响
-- [量论 · Pramana](../../../宗教/佛教/概念/cognitive-theory/量论.md) `[对照/contrast]` 知识的来源与有效性
-- [二谛 · Satyadvaya](../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` 逻辑分析层面 vs 日常理解层面
+- [量论 · Pramana](../../../../宗教/佛教/概念/cognitive-theory/量论.md) `[对照/contrast]` 知识的来源与有效性
+- [二谛 · Satyadvaya](../../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` 逻辑分析层面 vs 日常理解层面
 
 ## 进阶阅读 / Further Reading
 
@@ -195,7 +195,7 @@ Yogacara similarly uses precise analytic methods to deconstruct everyday cogniti
 
 | 条目 / Entry | 主题 / Topic |
 |---|---|
-| [logical-atomism](concepts/逻辑原子主义.md) | 逻辑原子主义 / Logical Atomism |
+| [logical-atomism](概念/逻辑原子主义.md) | 逻辑原子主义 / Logical Atomism |
 | [theory-of-descriptions](concepts/theory-of-descriptions.md) | 描述理论 / Theory of Descriptions |
 | [types-theory](concepts/types-theory.md) | 类型论 / Theory of Types |
 | [sense-data](concepts/sense-data.md) | 感觉材料 / Sense-Data |

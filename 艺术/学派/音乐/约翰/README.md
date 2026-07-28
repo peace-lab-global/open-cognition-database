@@ -222,11 +222,11 @@ Bach's inexhaustible exploration of variations on a single subject parallels the
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **[莱布尼茨 Leibniz](../../../../../哲学/学派/理性论/戈特弗里德.md)** `[同源/Co-origin]` 预定和谐与对位秩序——莱布尼茨将音乐定义为"心灵不知不觉地做算术练习"（*Musica est exercitium arithmeticae occultum nescientis se numerare animi*），与巴赫的音乐实践互为印证。
-- **[斯宾诺莎 Spinoza](../../../../../哲学/学派/理性论/巴鲁赫.md)** `[平行/Parallel]` 在必然秩序中体会上帝与自然（*Deus sive Natura*）——巴赫的对位宇宙可视为斯宾诺莎"在永恒的形式下"（*sub specie aeternitatis*）观看万物的音乐等价物。
-- **[康德美学 Kant Aesthetics](../../../../../美学/学派/德国美学/康德美学.md)** `[互补/Complementary]` 无目的的合目的性（*Zweckmäßigkeit ohne Zweck*）与赋格的形式游戏——赋格看似无外在目的，却展现出最高程度的内在合目的性。
-- **[黑格尔美学 Hegel Aesthetics](../../../../../美学/学派/德国美学/黑格尔美学.md)** `[发展/Development]` 将巴赫式的内在秩序纳入绝对精神的感性显现——音乐作为"内在性"的艺术，将精神的内容以声音的形式外化。
-- **[毕达哥拉斯传统 Pythagorean Tradition](../../../../../哲学/学派/古希腊/柏拉图.md)** `[同源/Co-origin]` 音乐作为宇宙数学秩序的可听化身——"天球的音乐"（*musica universalis*）概念在巴赫的对位中得到最完美的实现。
+- **[莱布尼茨 Leibniz](../../../../哲学/学派/理性论/戈特弗里德.md)** `[同源/Co-origin]` 预定和谐与对位秩序——莱布尼茨将音乐定义为"心灵不知不觉地做算术练习"（*Musica est exercitium arithmeticae occultum nescientis se numerare animi*），与巴赫的音乐实践互为印证。
+- **[斯宾诺莎 Spinoza](../../../../哲学/学派/理性论/巴鲁赫.md)** `[平行/Parallel]` 在必然秩序中体会上帝与自然（*Deus sive Natura*）——巴赫的对位宇宙可视为斯宾诺莎"在永恒的形式下"（*sub specie aeternitatis*）观看万物的音乐等价物。
+- **[康德美学 Kant Aesthetics](../../../../美学/学派/德国美学/康德美学.md)** `[互补/Complementary]` 无目的的合目的性（*Zweckmäßigkeit ohne Zweck*）与赋格的形式游戏——赋格看似无外在目的，却展现出最高程度的内在合目的性。
+- **[黑格尔美学 Hegel Aesthetics](../../../../美学/学派/德国美学/黑格尔美学.md)** `[发展/Development]` 将巴赫式的内在秩序纳入绝对精神的感性显现——音乐作为"内在性"的艺术，将精神的内容以声音的形式外化。
+- **[毕达哥拉斯传统 Pythagorean Tradition](../../../../哲学/学派/古希腊/柏拉图.md)** `[同源/Co-origin]` 音乐作为宇宙数学秩序的可听化身——"天球的音乐"（*musica universalis*）概念在巴赫的对位中得到最完美的实现。
 - **[莫扎特 Mozart](../mozart/)** `[继承/Inherits]` 莫扎特晚期作品中大量运用对位技法（《朱庇特交响曲》终乐章的五声部赋格段），直接受益于对巴赫的研究。
 - **[贝多芬 Beethoven](../beethoven/)** `[继承/Inherits]` 贝多芬自幼研习《平均律钢琴曲集》，其晚期弦乐四重奏与《大赋格》将对位思维推至浪漫主义的边界。
 

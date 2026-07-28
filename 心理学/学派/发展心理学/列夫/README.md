@@ -125,9 +125,9 @@ On June 11, 1934, Vygotsky died of tuberculosis at the age of 37. His theories w
 The distance between the actual developmental level (independent problem-solving) and the potential level achievable with guidance. See → [zone-proximal-development.md](concepts/zone-proximal-development.md)
 
 ### 2. 支架教学 / Scaffolding
-布鲁纳在ZPD基础上发展的教学概念——教师提供临时性支持，随学习者能力增长逐步撤除。详见 → [支架教学.md](concepts/支架教学.md)
+布鲁纳在ZPD基础上发展的教学概念——教师提供临时性支持，随学习者能力增长逐步撤除。详见 → [支架教学.md](概念/支架教学.md)
 
-An instructional concept developed by Bruner building on ZPD — teachers provide temporary support, gradually removing it as learner competence grows. See → [支架教学.md](concepts/支架教学.md)
+An instructional concept developed by Bruner building on ZPD — teachers provide temporary support, gradually removing it as learner competence grows. See → [支架教学.md](概念/支架教学.md)
 
 ### 3. 内部言语 / Inner Speech
 从外部社会言语经由自我中心言语内化而成的内部思维工具，具有省略性、谓语化和语义优先的结构特征。详见 → [inner-speech.md](concepts/inner-speech.md)
@@ -348,7 +348,7 @@ Contemporary Cultural Neuroscience 研究 provides empirical support for Vygotsk
 | 概念 / Concept | 文件 / File | 简述 / Summary |
 |----------------|-------------|----------------|
 | 最近发展区 / Zone of Proximal Development | [zone-proximal-development.md](concepts/zone-proximal-development.md) | 实际发展水平与潜在水平之间的差距 |
-| 支架教学 / Scaffolding | [支架教学.md](concepts/支架教学.md) | 临时性教学支持的结构化方法 |
+| 支架教学 / Scaffolding | [支架教学.md](概念/支架教学.md) | 临时性教学支持的结构化方法 |
 | 内部言语 / Inner Speech | [inner-speech.md](concepts/inner-speech.md) | 从外部言语内化的思维工具 |
 | 中介 / Mediation | [mediation.md](concepts/mediation.md) | 文化工具在认知中的中介作用 |
 | 文化-历史理论 / Cultural-Historical Theory | [cultural-historical.md](concepts/cultural-historical.md) | 心理发展的文化-历史框架 |

@@ -95,7 +95,7 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 
 ## 重要概念 / Key Concepts
 
-1. **语言游戏 Language-Games** — 语言与活动交织的整体，每种游戏有自己的规则和意义标准。详见 → [language-game](concepts/语言游戏.md)
+1. **语言游戏 Language-Games** — 语言与活动交织的整体，每种游戏有自己的规则和意义标准。详见 → [language-game](概念/语言游戏.md)
 2. **家族相似 Family Resemblance** — 概念由交叉重叠的相似性统一，而非共同本质。详见 → [family-resemblance](concepts/family-resemblance.md)
 3. **私人语言论证 Private Language Argument** — 反驳笛卡尔式内在认识论，论证语言本质上是公共的。详见 → [private-language](concepts/private-language.md)
 4. **生活形式 Forms of Life** — 语言根植于人类共同的行为方式和自然历史。详见 → [forms-of-life](concepts/forms-of-life.md)
@@ -151,11 +151,11 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [金刚经·无相 · Diamond Sutra: Non-Attachment](../../../宗教/佛教/概念/cognitive-theory/金刚经.md) `[平行/parallel]` 意义在于使用中，不住于固定的"意义"
-- [公案与话头的认知机制 · Koan Mechanics](../../../宗教/佛教/概念/cognitive-theory/公案与话头的认知机制.md) `[平行/parallel]` "不可说"的呈现方式
-- [量论 · Pramana](../../../宗教/佛教/概念/cognitive-theory/量论.md) `[张力/tension]` 自证的"不可说性"与私人语言论证
-- [七处征心 · Seven Places of Mind-Seeking](../../../宗教/佛教/概念/cognitive-theory/七处征心.md) `[平行/parallel]` 语言不能表达的，可以通过行动指向
-- [二谛 · Satyadvaya](../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` "用完即弃"与"不执二谛"
+- [金刚经·无相 · Diamond Sutra: Non-Attachment](../../../../宗教/佛教/概念/cognitive-theory/金刚经.md) `[平行/parallel]` 意义在于使用中，不住于固定的"意义"
+- [公案与话头的认知机制 · Koan Mechanics](../../../../宗教/佛教/概念/cognitive-theory/公案与话头的认知机制.md) `[平行/parallel]` "不可说"的呈现方式
+- [量论 · Pramana](../../../../宗教/佛教/概念/cognitive-theory/量论.md) `[张力/tension]` 自证的"不可说性"与私人语言论证
+- [七处征心 · Seven Places of Mind-Seeking](../../../../宗教/佛教/概念/cognitive-theory/七处征心.md) `[平行/parallel]` 语言不能表达的，可以通过行动指向
+- [二谛 · Satyadvaya](../../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` "用完即弃"与"不执二谛"
 - [罗素 Russell](../russell/README.md) `[同源/kindred]` 逻辑原子主义的分歧
 - [卡尔纳普 Carnap](../carnap/README.md) `[影响/influence]` 语言批判的两种路线
 
@@ -183,7 +183,7 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 
 | 条目 / Entry | 主题 / Topic |
 |---|---|
-| [language-game](concepts/语言游戏.md) | 语言游戏概念 / The concept of language-games |
+| [language-game](概念/语言游戏.md) | 语言游戏概念 / The concept of language-games |
 | [family-resemblance](concepts/family-resemblance.md) | 家族相似 / Family resemblance |
 | [private-language](concepts/private-language.md) | 私人语言论证 / Private language argument |
 | [forms-of-life](concepts/forms-of-life.md) | 生活形式 / Forms of life |

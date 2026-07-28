@@ -183,9 +183,9 @@ Five irreducible dimensions of well-being: Positive Emotion, Engagement, Relatio
 A cross-cultural classification of six virtues (wisdom, courage, humanity, justice, temperance, transcendence) and 24 character strengths. Signature strengths are an individual's top 3–5 strengths. See [→ concepts/character-strengths](concepts/character-strengths.md).
 
 ### 6. 习得性乐观 / Learned Optimism
-通过ABCDE技术（逆境-信念-后果-反驳-激活）训练更灵活、更有建设性的解释风格。乐观不是天赋，而是可以习得的技能。详见 [→ concepts/learned-optimism](concepts/习得性乐观.md)。
+通过ABCDE技术（逆境-信念-后果-反驳-激活）训练更灵活、更有建设性的解释风格。乐观不是天赋，而是可以习得的技能。详见 [→ concepts/learned-optimism](概念/习得性乐观.md)。
 
-Training more flexible, constructive explanatory styles through the ABCDE technique (Adversity-Belief-Consequence-Disputation-Energization). Optimism is not innate but a learnable skill. See [→ concepts/learned-optimism](concepts/习得性乐观.md).
+Training more flexible, constructive explanatory styles through the ABCDE technique (Adversity-Belief-Consequence-Disputation-Energization). Optimism is not innate but a learnable skill. See [→ concepts/learned-optimism](概念/习得性乐观.md).
 
 ### 7. 乐观与悲观的归因 / Optimistic vs. Pessimistic Attribution
 
@@ -366,7 +366,7 @@ Zhuangzi advocates "free and easy wandering"—transcending worldly judgments of
 - [习得性无助 / Learned Helplessness](concepts/learned-helplessness.md)
 - [性格优势与美德 / Character Strengths and Virtues](concepts/character-strengths.md)
 - [幸福理论·PERMA模型 / Well-being Theory · PERMA Model](concepts/well-being-theory.md)
-- [习得性乐观 / Learned Optimism](concepts/习得性乐观.md)
+- [习得性乐观 / Learned Optimism](概念/习得性乐观.md)
 - [关键著作年表 / Key Works Chronology](著作.md)
 - [生平大事年表 / Life Timeline](时间线.md)
 - [进阶阅读书目 / Reading List](阅读.md)

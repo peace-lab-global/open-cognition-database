@@ -142,20 +142,20 @@ His last major work, *The Aesthetic Dimension* (1978), returned to aesthetic que
 
 ## 重要概念 / Key Concepts
 
-1. **单向度的人 / One-Dimensional Man** — 发达工业社会的主体形态：丧失否定性思维、被整合进消费体系的个体。详见 [单向度的人](concepts/one-dimensional-man.md)。
-   The subject-form of advanced industrial society: individuals who have lost negative thinking and been integrated into the consumer system. See [One-Dimensional Man](concepts/one-dimensional-man.md).
+1. **单向度的人 / One-Dimensional Man** — 发达工业社会的主体形态：丧失否定性思维、被整合进消费体系的个体。详见 [单向度的人](概念/单向度的人.md)。
+   The subject-form of advanced industrial society: individuals who have lost negative thinking and been integrated into the consumer system. See [One-Dimensional Man](概念/单向度的人.md).
 
-2. **压抑性脱升华 / Repressive Desublimation** — 表面自由掩盖深层压抑的社会机制。详见 [压抑性脱升华](concepts/repressive-desublimation.md)。
-   The social mechanism by which surface freedom masks deep repression. See [Repressive Desublimation](concepts/repressive-desublimation.md).
+2. **压抑性脱升华 / Repressive Desublimation** — 表面自由掩盖深层压抑的社会机制。详见 [压抑性脱升华](概念/压抑性脱升华.md)。
+   The social mechanism by which surface freedom masks deep repression. See [Repressive Desublimation](概念/压抑性脱升华.md).
 
-3. **大拒绝 / The Great Refusal** — 对现存秩序的总体性否定。详见 [大拒绝](concepts/great-refusal.md)。
-   The total negation of the existing order. See [The Great Refusal](concepts/great-refusal.md).
+3. **大拒绝 / The Great Refusal** — 对现存秩序的总体性否定。详见 [大拒绝](概念/大拒绝.md)。
+   The total negation of the existing order. See [The Great Refusal](概念/大拒绝.md).
 
-4. **技术理性 / Technological Rationality** — 技术组织内含的政治统治逻辑。详见 [技术理性](concepts/technological-rationality.md)。
-   The political logic of domination inherent in technological organization. See [Technological Rationality](concepts/technological-rationality.md).
+4. **技术理性 / Technological Rationality** — 技术组织内含的政治统治逻辑。详见 [技术理性](概念/技术理性.md)。
+   The political logic of domination inherent in technological organization. See [Technological Rationality](概念/技术理性.md).
 
-5. **解放 / Liberation** — 超越单向度社会的可能性条件。详见 [解放](concepts/liberation.md)。
-   The conditions of possibility for transcending one-dimensional society. See [Liberation](concepts/liberation.md).
+5. **解放 / Liberation** — 超越单向度社会的可能性条件。详见 [解放](概念/解放.md)。
+   The conditions of possibility for transcending one-dimensional society. See [Liberation](概念/解放.md).
 
 6. **虚假需求 / False Needs** — 资本主义体系制造并强加于个体的消费需求，使人误以为这些需求是自己的真实欲望，从而甘愿被体系控制。
    Consumer needs manufactured and imposed by the capitalist system, causing individuals to mistake these needs for their authentic desires, willingly submitting to systemic control.
@@ -276,12 +276,12 @@ Third, Marcuse's emphasis on aesthetic experience connects with the Chinese clas
 
 | 学科 / Discipline | 关联人物 / Related Thinker | 关系 / Relationship | 说明 / Description |
 |---|---|---|---|
-| 社会学 / Sociology | [福柯 / Foucault](../../../社会学/学派/结构主义/福柯.md) | `[同源]` / `[Convergent]` | 两者都批判现代社会的微观权力控制 / Both critique micro-power control in modern society |
-| 心理学 / Psychology | [弗洛伊德 / Freud](../../../心理学/学派/精神分析/西格蒙德.md) | `[继承]` / `[Inherits]` | 马尔库塞将弗洛伊德压抑理论与马克思主义结合 / Marcuse synthesizes Freud's repression theory with Marxism |
-| 哲学 / Philosophy | [海德格尔 / Heidegger](../../../哲学/学派/存在主义/海德格尔.md) | `[继承/批判]` / `[Inherits/Critiques]` | 技术批判传统的继承与政治化 / Inheritance and politicization of the technology critique tradition |
-| 政治学 / Political Science | [阿伦特 / Arendt](../../../伦理政治/schools/phenomenology/arendt.md) | `[对话]` / `[Dialogue]` | 共同关注极权主义与公共领域的退化 / Shared concern with totalitarianism and the degradation of the public sphere |
-| 文学理论 / Literary Theory | [本雅明 / Benjamin](../../../美学/schools/critical-theory/瓦尔特.md) | `[同源]` / `[Convergent]` | 艺术的政治潜能与机械复制时代的批判 / The political potential of art and critique of mechanical reproduction |
-| 传播学 / Communication | [哈贝马斯 / Habermas](../../../伦理政治/学派/批判理论/habermas.md) | `[继承/分歧]` / `[Inherits/Diverges]` | 同属法兰克福学派但路径不同 / Both Frankfurt School but different paths |
+| 社会学 / Sociology | [福柯 / Foucault](../../../../社会学/学派/结构主义/福柯.md) | `[同源]` / `[Convergent]` | 两者都批判现代社会的微观权力控制 / Both critique micro-power control in modern society |
+| 心理学 / Psychology | [弗洛伊德 / Freud](../../../../心理学/学派/精神分析/西格蒙德.md) | `[继承]` / `[Inherits]` | 马尔库塞将弗洛伊德压抑理论与马克思主义结合 / Marcuse synthesizes Freud's repression theory with Marxism |
+| 哲学 / Philosophy | [海德格尔 / Heidegger](../../../../哲学/学派/存在主义/海德格尔.md) | `[继承/批判]` / `[Inherits/Critiques]` | 技术批判传统的继承与政治化 / Inheritance and politicization of the technology critique tradition |
+| 政治学 / Political Science | [阿伦特 / Arendt](../../../../哲学/学派/政治哲学/arendt.md) | `[对话]` / `[Dialogue]` | 共同关注极权主义与公共领域的退化 / Shared concern with totalitarianism and the degradation of the public sphere |
+| 文学理论 / Literary Theory | [本雅明 / Benjamin](../../../../美学/学派/批判美学/瓦尔特.md) | `[同源]` / `[Convergent]` | 艺术的政治潜能与机械复制时代的批判 / The political potential of art and critique of mechanical reproduction |
+| 传播学 / Communication | [哈贝马斯 / Habermas](../../../../社会学/学派/批判理论/habermas.md) | `[继承/分歧]` / `[Inherits/Diverges]` | 同属法兰克福学派但路径不同 / Both Frankfurt School but different paths |
 | 生态哲学 / Eco-Philosophy | [布克钦 / Bookchin](../../../伦理政治/schools/anarchism/bookchin.md) | `[影响]` / `[Influences]` | 社会生态学的思想资源 / Intellectual resource for social ecology |
 
 ## 进阶阅读 / Further Reading
@@ -308,11 +308,11 @@ Third, Marcuse's emphasis on aesthetic experience connects with the Chinese clas
 
 ## 子条目索引 / Sub-entry Index
 
-- [单向度的人 / One-Dimensional Man](concepts/one-dimensional-man.md)
-- [压抑性脱升华 / Repressive Desublimation](concepts/repressive-desublimation.md)
-- [大拒绝 / The Great Refusal](concepts/great-refusal.md)
-- [技术理性 / Technological Rationality](concepts/technological-rationality.md)
-- [解放 / Liberation](concepts/liberation.md)
+- [单向度的人 / One-Dimensional Man](概念/单向度的人.md)
+- [压抑性脱升华 / Repressive Desublimation](概念/压抑性脱升华.md)
+- [大拒绝 / The Great Refusal](概念/大拒绝.md)
+- [技术理性 / Technological Rationality](概念/技术理性.md)
+- [解放 / Liberation](概念/解放.md)
 - [著作年表 / Works Bibliography](著作.md)
 - [生平大事记 / Biographical Timeline](时间线.md)
 - [阅读指南 / Reading Guide](阅读.md)

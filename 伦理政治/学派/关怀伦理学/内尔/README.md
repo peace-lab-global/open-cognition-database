@@ -144,20 +144,20 @@ She was sharply critical of the standardization trend in American education refo
 
 ## 重要概念 / Key Concepts
 
-1. **关怀关系 / Caring Relation** — 关怀者与被关怀者之间的双向互动关系，是伦理学的基本单位。详见 [caring-relation](concepts/caring-relation.md)。
-   The bidirectional interactive relation between the one-caring and the cared-for; the basic unit of ethics. See [caring-relation](concepts/caring-relation.md).
+1. **关怀关系 / Caring Relation** — 关怀者与被关怀者之间的双向互动关系，是伦理学的基本单位。详见 [caring-relation](概念/关怀关系.md)。
+   The bidirectional interactive relation between the one-caring and the cared-for; the basic unit of ethics. See [caring-relation](概念/关怀关系.md).
 
-2. **关怀伦理学 / Ethics of Care** — 以关怀关系为核心的规范伦理学传统，挑战以正义和原则为中心的主流伦理学。详见 [ethics-of-care](concepts/ethics-of-care.md)。
-   A normative ethical tradition centered on the caring relation, challenging mainstream ethics focused on justice and principles. See [ethics-of-care](concepts/ethics-of-care.md).
+2. **关怀伦理学 / Ethics of Care** — 以关怀关系为核心的规范伦理学传统，挑战以正义和原则为中心的主流伦理学。详见 [ethics-of-care](概念/关怀伦理学.md)。
+   A normative ethical tradition centered on the caring relation, challenging mainstream ethics focused on justice and principles. See [ethics-of-care](概念/关怀伦理学.md).
 
-3. **母性思维 / Maternal Thinking** — 从母亲养育经验中产生的一种独特的道德认知方式，强调保护、培育和回应性。详见 [maternal-thinking](concepts/maternal-thinking.md)。
-   A distinctive mode of moral cognition arising from maternal experience, emphasizing protection, nurture, and responsiveness. See [maternal-thinking](concepts/maternal-thinking.md).
+3. **母性思维 / Maternal Thinking** — 从母亲养育经验中产生的一种独特的道德认知方式，强调保护、培育和回应性。详见 [maternal-thinking](概念/母性思维.md)。
+   A distinctive mode of moral cognition arising from maternal experience, emphasizing protection, nurture, and responsiveness. See [maternal-thinking](概念/母性思维.md).
 
-4. **关怀教育 / Caring Education** — 以关怀关系为核心组织学校课程和教学实践的教育哲学。详见 [caring-education](concepts/caring-education.md)。
-   An educational 哲学 that organizes school curriculum and teaching practice around caring relations. See [caring-education](concepts/caring-education.md).
+4. **关怀教育 / Caring Education** — 以关怀关系为核心组织学校课程和教学实践的教育哲学。详见 [caring-education](概念/关怀教育.md)。
+   An educational 哲学 that organizes school curriculum and teaching practice around caring relations. See [caring-education](概念/关怀教育.md).
 
-5. **自然关怀 / Natural Caring** — 出于本能和情感的自发关怀（如对亲人的爱），是伦理关怀的基础和原型。详见 [natural-caring](concepts/natural-caring.md)。
-   Spontaneous caring arising from instinct and emotion (such as love for family members); the foundation and prototype of ethical caring. See [natural-caring](concepts/natural-caring.md).
+5. **自然关怀 / Natural Caring** — 出于本能和情感的自发关怀（如对亲人的爱），是伦理关怀的基础和原型。详见 [natural-caring](概念/自然关怀.md)。
+   Spontaneous caring arising from instinct and emotion (such as love for family members); the foundation and prototype of ethical caring. See [natural-caring](概念/自然关怀.md).
 
 6. **动机替换 / Motivational Displacement** — 关怀者的动机能量从自身流向被关怀者的需要，是关怀关系的核心心理机制。
    The flow of the carer's motivational energy from self toward the needs of the cared-for; the core psychological mechanism of the caring relation.
@@ -274,10 +274,10 @@ In the Buddhist tradition, the concept of *karuna* (compassion) similarly emphas
 
 | 学科 / Discipline | 关联思想家 / Related Thinker | 关系 / Relationship | 说明 / Description |
 |---|---|---|---|
-| 心理学 / Psychology | [罗杰斯 · Carl Rogers](../../心理学/学派/人本主义/卡尔.md) | `[同源] / [Convergent]` | 都强调关系、接纳和无条件积极关注在人的成长中的作用 / Both emphasize the role of relations, acceptance, and unconditional positive regard in human growth |
-| 哲学 / Philosophy | [亚里士多德 · Aristotle](../../哲学/学派/古希腊/亚里士多德.md) | `[继承/批判] / [Inherits/Critiques]` | 继承德性伦理传统但批判其理性主义偏见 / Inherits the virtue ethics tradition but critiques its rationalist bias |
+| 心理学 / Psychology | [罗杰斯 · Carl Rogers](../../../../心理学/学派/人本主义/卡尔.md) | `[同源] / [Convergent]` | 都强调关系、接纳和无条件积极关注在人的成长中的作用 / Both emphasize the role of relations, acceptance, and unconditional positive regard in human growth |
+| 哲学 / Philosophy | [亚里士多德 · Aristotle](../../../../哲学/学派/古希腊/亚里士多德.md) | `[继承/批判] / [Inherits/Critiques]` | 继承德性伦理传统但批判其理性主义偏见 / Inherits the virtue ethics tradition but critiques its rationalist bias |
 | 哲学 / Philosophy | [康德 · Immanuel Kant](../../哲学/schools/modern-european/康德.md) | `[批判] / [Critiques]` | 批判道义论对情感和关系的忽视 / Critiques deontology's neglect of emotion and relations |
-| 社会学 / Sociology | [帕森斯 · Talcott Parsons](../../社会学/学派/功能主义/帕森斯.md) | `[发展] / [Develops]` | 在职业群体中实践关怀伦理 / Practices care ethics within professional communities |
+| 社会学 / Sociology | [帕森斯 · Talcott Parsons](../../../../社会学/学派/功能主义/帕森斯.md) | `[发展] / [Develops]` | 在职业群体中实践关怀伦理 / Practices care ethics within professional communities |
 | 政治学 / Political Science | [特朗托 · Joan Tronto](../political-theory/tronto.md) | `[影响] / [Influences]` | 特朗托将关怀伦理发展为民主政治理论 / Tronto develops care ethics into democratic political theory |
 | 环境伦理 / Environmental Ethics | [环境伦理](../../concepts/environmental-ethics.md) | `[互补] / [Complementary]` | 关怀从人际扩展到人与自然的关系 / Care extends from interpersonal to human-nature relations |
 | 护理学 / Nursing | [沃森 · Jean Watson](../../health-sciences/nursing/watson.md) | `[影响] / [Influences]` | 沃森的"人文关怀理论"深受诺丁斯影响 / Watson's "Human Caring Theory" deeply influenced by Noddings |
@@ -305,11 +305,11 @@ In the Buddhist tradition, the concept of *karuna* (compassion) similarly emphas
 
 ## 子条目索引 / Sub-entry Index
 
-- [关怀关系 / Caring Relation](concepts/caring-relation.md)
-- [关怀伦理学 / Ethics of Care](concepts/ethics-of-care.md)
-- [母性思维 / Maternal Thinking](concepts/maternal-thinking.md)
-- [关怀教育 / Caring Education](concepts/caring-education.md)
-- [自然关怀 / Natural Caring](concepts/natural-caring.md)
+- [关怀关系 / Caring Relation](概念/关怀关系.md)
+- [关怀伦理学 / Ethics of Care](概念/关怀伦理学.md)
+- [母性思维 / Maternal Thinking](概念/母性思维.md)
+- [关怀教育 / Caring Education](概念/关怀教育.md)
+- [自然关怀 / Natural Caring](概念/自然关怀.md)
 - [著作年表 / Comprehensive Works](著作.md)
 - [生平大事记 / Biographical Timeline](时间线.md)
 - [阅读指南 / Annotated Reading List](阅读.md)

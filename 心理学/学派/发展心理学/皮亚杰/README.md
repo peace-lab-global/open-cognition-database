@@ -219,15 +219,15 @@ Piaget's schema concept — schemas are essentially "structures of action" — r
 
 | 关联方向 / Connection | 思想家/领域 / Thinker/Field | 关系 / Relationship |
 |:---|:---|:---|
-| 社会文化理论 / Sociocultural Theory | [维果茨基 Vygotsky](列夫.md) | 互补性批判：社会文化中介与最近发展区 / Complementary critique: sociocultural mediation and the zone of proximal development |
+| 社会文化理论 / Sociocultural Theory | [维果茨基 Vygotsky](../列夫.md) | 互补性批判：社会文化中介与最近发展区 / Complementary critique: sociocultural mediation and the zone of proximal development |
 | 心理社会发展 / Psychosocial Development | [埃里克森 Erikson](erikson.md) | 互补：认知发展与心理社会发展的阶段平行论 / Complementary: parallel stages of cognitive and psychosocial development |
 | 依恋理论 / Attachment Theory | [鲍尔比 Bowlby](bowlby.md) | 对话：早期关系对认知发展的情感基础 / Dialogue: emotional foundations of early relationships for cognitive development |
 | 道德发展 / Moral Development | [科尔伯格 Kohlberg](../../cognitive/kohlberg.md) | 直接继承：从他律/自律道德到道德推理六阶段 / Direct inheritance: from heteronomous/autonomous morality to six stages of moral reasoning |
-| 认知心理学 / Cognitive Psychology | [贝克 Beck](../../cognitive/beck.md) | 概念借用：图式（Schema）概念被认知行为治疗所采用 / Concept borrowing: Schema concept adopted by cognitive-behavioral therapy |
+| 认知心理学 / Cognitive Psychology | [贝克 Beck](../../../../社会学/学派/现代性/beck.md) | 概念借用：图式（Schema）概念被认知行为治疗所采用 / Concept borrowing: Schema concept adopted by cognitive-behavioral therapy |
 | 语言学 / Linguistics | [乔姆斯基 Chomsky](../../../linguistics/schools/generative/chomsky.md) | 争论：语言习得的建构论 vs. 先天论 / Debate: constructivist vs. nativist accounts of language acquisition |
 | 教育学 / Education | [布鲁纳 Bruner](../../../education/schools/constructivist/bruner.md) | 发展：发现学习与螺旋课程的建构主义教育 / Development: discovery learning and spiral curriculum in constructivist education |
-| 建构主义AI / Constructivist AI | [明斯基 Minsky](../../../computer-science/schools/ai/minsky.md) | 启发：建构主义认知架构对AI设计的启示 / Inspiration: constructivist cognitive architectures informing AI design |
-| 德国哲学 / German Philosophy | [康德 Kant](../../../哲学/学派/德国唯心论/康德.md) | 继承与改造：先验范畴的发生学化 / Inheritance and transformation: geneticization of transcendental categories |
+| 建构主义AI / Constructivist AI | [明斯基 Minsky](../../../../认知系统/学派/认知工程/minsky.md) | 启发：建构主义认知架构对AI设计的启示 / Inspiration: constructivist cognitive architectures informing AI design |
+| 德国哲学 / German Philosophy | [康德 Kant](../../../../哲学/学派/德国唯心论/康德.md) | 继承与改造：先验范畴的发生学化 / Inheritance and transformation: geneticization of transcendental categories |
 
 ## 进阶阅读 / Further Reading
 

@@ -83,7 +83,7 @@ Zhuangzi is **ancient China's most radical philosopher of freedom and truth** �
 
 All distinctions — great and small, beautiful and ugly, right and wrong, life and death — are products of perspective. "Seen from the standpoint of the Dao, nothing is noble or base." Qiwu does not flatten differences but reveals their perspectival dependence. This is the cornerstone of Zhuangzi's epistemology.
 
-详见 [concepts/齐物.md](concepts/齐物.md)。
+详见 [concepts/齐物.md](../../../../../哲学/学派/东方哲学/庄子/概念/齐物.md)。
 
 ### 2. 逍遥 (Xiaoyao) — 绝对自由 / Free and Easy Wandering
 
@@ -91,7 +91,7 @@ All distinctions — great and small, beautiful and ugly, right and wrong, life 
 
 "Riding on what is true of Heaven and Earth, harnessing the alterations of the six energies, wandering in the limitless — what could such a one possibly depend on?" Xiaoyao is spiritual freedom beyond all dependence, the supreme ideal of Zhuangzi's existential 哲学.
 
-详见 [concepts/逍遥.md](concepts/逍遥.md)。
+详见 [concepts/逍遥.md](../../../../../哲学/学派/东方哲学/庄子/概念/逍遥.md)。
 
 ### 3. 无用之用 (Wuyong zhi yong) — 无用的价值 / Usefulness of Uselessness
 
@@ -210,8 +210,8 @@ During the Wei-Jin period, Guo Xiang (d. 312 CE) edited and commented on the *Zh
 
 | 概念 Concept | 拼音 Pinyin | 核心含义 Core Meaning | 子条目 Entry |
 |---|---|---|---|
-| **齐物** | qiwu | 万物平等，是非大小皆为视角产物 | [齐物.md](concepts/齐物.md) |
-| **逍遥** | xiaoyao | 超越一切依赖的绝对精神自由 | [逍遥.md](concepts/逍遥.md) |
+| **齐物** | qiwu | 万物平等，是非大小皆为视角产物 | [齐物.md](../../../../../哲学/学派/东方哲学/庄子/概念/齐物.md) |
+| **逍遥** | xiaoyao | 超越一切依赖的绝对精神自由 | [逍遥.md](../../../../../哲学/学派/东方哲学/庄子/概念/逍遥.md) |
 | **无用之用** | wuyong zhi yong | 被世俗判定为无用之物的根本价值 | [usefulness-uselessness.md](concepts/usefulness-uselessness.md) |
 | **心斋** | xinzhai | 心灵的斋戒，达到虚静澄明 | [xinzhai.md](concepts/xinzhai.md) |
 | **物化/梦蝶** | wuhua | 万物流变转化，自我同一性的解构 | [butterfly-dream.md](concepts/butterfly-dream.md) |
@@ -336,8 +336,8 @@ Zhuangzi and the Indian-Chinese Yogacara school (4th–7th c.) exhibit striking 
 
 | 子条目 Entry | 内容 Content |
 |---|---|
-| [concepts/齐物.md](concepts/齐物.md) | 齐物论 (Qiwu) — 万物平等，视角的相对主义 |
-| [concepts/逍遥.md](concepts/逍遥.md) | 逍遥游 (Xiaoyao) — 超越一切依赖的绝对自由 |
+| [concepts/齐物.md](../../../../../哲学/学派/东方哲学/庄子/概念/齐物.md) | 齐物论 (Qiwu) — 万物平等，视角的相对主义 |
+| [concepts/逍遥.md](../../../../../哲学/学派/东方哲学/庄子/概念/逍遥.md) | 逍遥游 (Xiaoyao) — 超越一切依赖的绝对自由 |
 | [concepts/usefulness-uselessness.md](concepts/usefulness-uselessness.md) | 无用之用 (Wuyong) — 无用的根本价值 |
 | [concepts/xinzhai.md](concepts/xinzhai.md) | 心斋 (Xinzhai) — 心灵的斋戒，虚静澄明 |
 | [concepts/butterfly-dream.md](concepts/butterfly-dream.md) | 庄周梦蝶 — 物化，自我同一性的解构 |

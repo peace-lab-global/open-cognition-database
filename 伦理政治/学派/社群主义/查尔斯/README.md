@@ -160,15 +160,15 @@ In the 21st century, Taylor's thought turned toward broader civilizational histo
 
 ## 重要概念 / Key Concepts
 
-1. **本真性伦理 / Ethics of Authenticity** — "做你自己"不是主观主义，而是有内在规范要求的道德理想。→ [concepts/authenticity-ethics.md](concepts/authenticity-ethics.md)
+1. **本真性伦理 / Ethics of Authenticity** — "做你自己"不是主观主义，而是有内在规范要求的道德理想。→ [concepts/authenticity-ethics.md](概念/本真性伦理.md)
 
-2. **自我的根源 / Sources of the Self** — 现代自我认同的道德谱系：基督教内在性、笛卡尔分解式自我、浪漫主义表达主义。→ [concepts/sources-of-self.md](concepts/sources-of-self.md)
+2. **自我的根源 / Sources of the Self** — 现代自我认同的道德谱系：基督教内在性、笛卡尔分解式自我、浪漫主义表达主义。→ [concepts/sources-of-self.md](概念/自我的根源.md)
 
-3. **承认的政治 / Politics of Recognition** — 承认不是礼貌问题，而是正义问题；误认是结构性的伤害。→ [concepts/politics-of-recognition.md](concepts/politics-of-recognition.md)
+3. **承认的政治 / Politics of Recognition** — 承认不是礼貌问题，而是正义问题；误认是结构性的伤害。→ [concepts/politics-of-recognition.md](概念/承认的政治.md)
 
-4. **世俗时代 / Secular Age** — 世俗化不是宗教的消亡，而是信仰条件的根本转变。→ [concepts/secular-age.md](concepts/secular-age.md)
+4. **世俗时代 / Secular Age** — 世俗化不是宗教的消亡，而是信仰条件的根本转变。→ [concepts/secular-age.md](概念/世俗时代.md)
 
-5. **社会想象 / Social Imaginary** — 普通人在日常生活中理解和实践社会生活的背景方式。→ [concepts/social-imaginary.md](concepts/social-imaginary.md)
+5. **社会想象 / Social Imaginary** — 普通人在日常生活中理解和实践社会生活的背景方式。→ [concepts/social-imaginary.md](概念/社会想象.md)
 
 6. **强评价 / Strong Evaluation** — 对欲望本身是否值得追求的实质性判断，区别于仅考虑效率的弱评价。
 
@@ -306,11 +306,11 @@ Additionally, Taylor's analysis of secularization contrasts with China's "religi
 
 ## 子条目索引 / Sub-entry Index
 
-- [本真性伦理 / Ethics of Authenticity](concepts/authenticity-ethics.md)
-- [自我的根源 / Sources of the Self](concepts/sources-of-self.md)
-- [承认的政治 / Politics of Recognition](concepts/politics-of-recognition.md)
-- [世俗时代 / Secular Age](concepts/secular-age.md)
-- [社会想象 / Social Imaginary](concepts/social-imaginary.md)
+- [本真性伦理 / Ethics of Authenticity](概念/本真性伦理.md)
+- [自我的根源 / Sources of the Self](概念/自我的根源.md)
+- [承认的政治 / Politics of Recognition](概念/承认的政治.md)
+- [世俗时代 / Secular Age](概念/世俗时代.md)
+- [社会想象 / Social Imaginary](概念/社会想象.md)
 - [著作年表 / Works Bibliography](著作.md)
 - [生平大事记 / Biographical Timeline](时间线.md)
 - [阅读指南 / Reading Guide](阅读.md)

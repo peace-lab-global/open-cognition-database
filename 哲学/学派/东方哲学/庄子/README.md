@@ -85,11 +85,11 @@ related-comparative:
 
 ### 1. 齐物 (qíwù) — 万物平等
 
-万物的大小、美丑、是非、生死，都是相对于观察视角的。"以道观之，物无贵贱。"齐物不是抹平差异，而是认识到差异的视角依赖性。这是庄子认识论的基石。详见 [concepts/齐物.md](concepts/齐物.md)。
+万物的大小、美丑、是非、生死，都是相对于观察视角的。"以道观之，物无贵贱。"齐物不是抹平差异，而是认识到差异的视角依赖性。这是庄子认识论的基石。详见 [concepts/齐物.md](概念/齐物.md)。
 
 ### 2. 逍遥 (xiāoyáo) — 绝对自由
 
-"乘天地之正，御六气之辩，以游无穷者，彼且恶乎待哉？"逍遥是超越一切"有待"（依赖）的精神自由，是庄子生存论的最高理想。详见 [concepts/逍遥.md](concepts/逍遥.md)。
+"乘天地之正，御六气之辩，以游无穷者，彼且恶乎待哉？"逍遥是超越一切"有待"（依赖）的精神自由，是庄子生存论的最高理想。详见 [concepts/逍遥.md](概念/逍遥.md)。
 
 ### 3. 无用之用 (wúyòng zhī yòng) — 无用的价值
 
@@ -131,8 +131,8 @@ related-comparative:
 
 | 概念 | 拼音 | 核心含义 | 子条目 |
 |---|---|---|---|
-| **齐物** | qíwù | 万物平等，是非大小皆为视角产物 | [齐物.md](concepts/齐物.md) |
-| **逍遥** | xiāoyáo | 超越一切依赖的绝对精神自由 | [逍遥.md](concepts/逍遥.md) |
+| **齐物** | qíwù | 万物平等，是非大小皆为视角产物 | [齐物.md](概念/齐物.md) |
+| **逍遥** | xiāoyáo | 超越一切依赖的绝对精神自由 | [逍遥.md](概念/逍遥.md) |
 | **无** | wú | 无为、无用、无待——否定中的积极力量 | [wu.md](concepts/wu.md) |
 | **物化** | wùhuà | 万物流变转化，生死如一 | [transformation.md](concepts/transformation.md) |
 | **无用** | wúyòng | 被世俗判定为无用之物的根本价值 | [uselessness.md](concepts/uselessness.md) |
@@ -177,7 +177,7 @@ related-comparative:
 - [老子 · Laozi](../laozi.md) `[同源]` 道家共同传统——老子重"道"的本体论，庄子重"游"的生存论
 - [孔子 · Confucius](../confucius.md) `[对话/批判]` 庄子以寓言解构儒家的仁义礼智，但并非简单否定，而是追问其根基
 - [惠施 · Hui Shi] `[论辩]` 名家的逻辑分析与庄子的超越立场构成互补
-- [禅宗 · Zen Buddhism](../../../宗教/传统/佛教/禅宗.md) `[平行]` "庄禅"传统：直觉把握、语言的吊诡运用、日常即道
+- [禅宗 · Zen Buddhism](../../../../宗教/传统/佛教/禅宗.md) `[平行]` "庄禅"传统：直觉把握、语言的吊诡运用、日常即道
 
 ### 西方哲学
 
@@ -234,8 +234,8 @@ related-comparative:
 
 | 子条目 | 内容 |
 |---|---|
-| [concepts/齐物.md](concepts/齐物.md) | 齐物 (qíwù) — 万物平等，视角的相对主义 |
-| [concepts/逍遥.md](concepts/逍遥.md) | 逍遥 (xiāoyáo) — 超越一切依赖的绝对自由 |
+| [concepts/齐物.md](概念/齐物.md) | 齐物 (qíwù) — 万物平等，视角的相对主义 |
+| [concepts/逍遥.md](概念/逍遥.md) | 逍遥 (xiāoyáo) — 超越一切依赖的绝对自由 |
 | [concepts/wu.md](concepts/wu.md) | 无 (wú) — 无为、无用、无待的否定之力 |
 | [concepts/transformation.md](concepts/transformation.md) | 物化 (wùhuà) — 万物流变转化，生死如一 |
 | [concepts/uselessness.md](concepts/uselessness.md) | 无用 (wúyòng) — 无用的根本价值 |

@@ -119,11 +119,11 @@ In the 21st century, French neuroscientists Stanislas Dehaene and Jean-Pierre Ch
 
 ## 重要概念 · Key Concepts
 
-1. **全局工作空间理论 / Global Workspace Theory (GWT)** — 意识作为全脑信息广播系统的功能架构理论。详见 [global-workspace-theory](concepts/全局工作空间理论.md)。
-2. **意识剧场 / Consciousness Theater** — 用剧场舞台、聚光灯、演员和观众隐喻意识各组件的运作。详见 [consciousness-theater](concepts/意识剧场.md)。
-3. **认知架构 / Cognitive Architecture** — GWT作为一种描述心智整体功能组织的架构理论。详见 [cognitive-architecture](concepts/认知架构.md)。
-4. **全局广播 / Global Broadcasting** — 信息进入全局工作空间后被同时分发到全脑各处理器的核心机制。详见 [broadcast](concepts/全局广播.md)。
-5. **通达意识 / Access Consciousness** — 信息被全局广播后可被多种认知系统使用的功能性意识状态。详见 [access-consciousness](concepts/通达意识.md)。
+1. **全局工作空间理论 / Global Workspace Theory (GWT)** — 意识作为全脑信息广播系统的功能架构理论。详见 [global-workspace-theory](概念/全局工作空间理论.md)。
+2. **意识剧场 / Consciousness Theater** — 用剧场舞台、聚光灯、演员和观众隐喻意识各组件的运作。详见 [consciousness-theater](概念/意识剧场.md)。
+3. **认知架构 / Cognitive Architecture** — GWT作为一种描述心智整体功能组织的架构理论。详见 [cognitive-architecture](概念/认知架构.md)。
+4. **全局广播 / Global Broadcasting** — 信息进入全局工作空间后被同时分发到全脑各处理器的核心机制。详见 [broadcast](概念/全局广播.md)。
+5. **通达意识 / Access Consciousness** — 信息被全局广播后可被多种认知系统使用的功能性意识状态。详见 [access-consciousness](概念/通达意识.md)。
 6. **无意识专门处理器 / Unconscious Specialized Processors** — 高效、并行、领域特异的认知模块，构成认知处理的主体。
 7. **注意力聚光灯 / Attentional Spotlight** — 决定哪些信息进入全局工作空间的选择性注意机制。
 8. **语境系统 / Context Systems** — 塑造意识经验的背景性无意识知识结构，包括目标、信念和感知框架。
@@ -244,10 +244,10 @@ Zhuangzi's "fasting of the mind" (xīn zhāi) resonates with GWT's concept of "c
 ## 跨学科关联 · Interdisciplinary Connections
 
 - **[Dehaene 德汉纳](../../cognitive/dehaene.md)**：GNW——GWT的神经科学实现 / GNW — the neuroscience implementation of GWT
-- **[Dennett 丹尼特](../../../哲学/学派/分析哲学/丹尼特.md)**：多重草稿 vs 全局广播的对话 / Multiple drafts vs global broadcast dialogue
+- **[Dennett 丹尼特](../../../../哲学/学派/分析哲学/丹尼特.md)**：多重草稿 vs 全局广播的对话 / Multiple drafts vs global broadcast dialogue
 - **[Tononi 托诺尼](../../cognitive/tononi.md)**：IIT与GWT的互补关系 / IIT and GWT complementary relationship
 - **[Friston 弗里斯顿](../cognitive/friston.md)**：预测编码与全局广播的兼容 / Predictive coding compatible with global broadcast
-- **[Minsky 明斯基](../../../认知系统/学派/认知工程/明斯基.md)**：心智社会 ≈ 无意识处理器的集合 / Society of Mind ≈ collection of unconscious processors
+- **[Minsky 明斯基](../../../../认知系统/学派/认知工程/明斯基.md)**：心智社会 ≈ 无意识处理器的集合 / Society of Mind ≈ collection of unconscious processors
 - **[Shanahan 沙纳汉](../../../认知系统/schools/ai/shanahan.md)**：GWT在机器意识中的实现 / GWT implementation in machine consciousness
 - **[Posner 波斯纳](../../cognitive/posner.md)**：注意力网络与GWT聚光灯机制 / Attention networks and GWT spotlight mechanism
 - **阿毗达磨 Abhidharma**：心路过程与全局广播的平行 / Cognitive process parallels with global broadcast
@@ -279,11 +279,11 @@ Zhuangzi's "fasting of the mind" (xīn zhāi) resonates with GWT's concept of "c
 
 | 条目 | 路径 |
 |------|------|
-| 全局工作空间理论 / Global Workspace Theory | [concepts/全局工作空间理论.md](concepts/全局工作空间理论.md) |
-| 意识剧场 / Consciousness Theater | [concepts/意识剧场.md](concepts/意识剧场.md) |
-| 认知架构 / Cognitive Architecture | [concepts/认知架构.md](concepts/认知架构.md) |
-| 全局广播 / Broadcast | [concepts/全局广播.md](concepts/全局广播.md) |
-| 通达意识 / Access Consciousness | [concepts/通达意识.md](concepts/通达意识.md) |
+| 全局工作空间理论 / Global Workspace Theory | [concepts/全局工作空间理论.md](概念/全局工作空间理论.md) |
+| 意识剧场 / Consciousness Theater | [concepts/意识剧场.md](概念/意识剧场.md) |
+| 认知架构 / Cognitive Architecture | [concepts/认知架构.md](概念/认知架构.md) |
+| 全局广播 / Broadcast | [concepts/全局广播.md](概念/全局广播.md) |
+| 通达意识 / Access Consciousness | [concepts/通达意识.md](概念/通达意识.md) |
 | 著作年表 / Works Chronology | [著作.md](著作.md) |
 | 生平年表 / Life Timeline | [时间线.md](时间线.md) |
 | 推荐阅读 / Reading List | [阅读.md](阅读.md) |

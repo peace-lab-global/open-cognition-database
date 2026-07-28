@@ -137,8 +137,8 @@ His teaching style was characterized by **plainness, earnestness, and rejection 
 - [善导 Shandao](../shandao.md) — [继承 / Inheritance] 净土宗祖师传承；印光继承善导的净土思想并加以发扬 / Yinguang inherited and developed Shandao's Pure Land thought
 - [慧远 Huiyuan](../huiyuan.md) — [传承 / Lineage] 净土宗初祖至十三祖的完整谱系 / Complete lineage from First to Thirteenth Patriarch
 - [太虚 Taixu](../taixu.md) — [平行 / Parallel] 近代佛教复兴的双峰：太虚走改革路线，印光走传统路线 / Twin peaks of modern Buddhist revival: Taixu pursued reform, Yinguang upheld tradition
-- [杜威 Dewey](../../../哲学/学派/实用主义/约翰.md) — [平行 / Parallel] 生活教育 vs 敦伦尽分：在日常生活中学习和修行 / Learning and practice embedded in daily life
-- [罗杰斯 Rogers](../../../心理学/学派/人本主义/卡尔.md) — [平行 / Parallel] 常惭愧 vs 真诚一致：清醒的自我认知是成长的基础 / Honest self-awareness as the foundation for growth
+- [杜威 Dewey](../../../../哲学/学派/实用主义/约翰.md) — [平行 / Parallel] 生活教育 vs 敦伦尽分：在日常生活中学习和修行 / Learning and practice embedded in daily life
+- [罗杰斯 Rogers](../../../../心理学/学派/人本主义/卡尔.md) — [平行 / Parallel] 常惭愧 vs 真诚一致：清醒的自我认知是成长的基础 / Honest self-awareness as the foundation for growth
 
 ---
 

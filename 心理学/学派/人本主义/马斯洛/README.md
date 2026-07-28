@@ -227,7 +227,7 @@ Maslow was deeply influenced by Daoism in his later years. His concept of "Daois
 - **心流理论 / Flow Theory**：[米哈里 Csikszentmihalyi](../../positive/csikszentmihalyi.md)的"心流"概念与高峰体验形成直接对话，但更强调过程中的深度沉浸。/ Csikszentmihalyi's "flow" concept directly dialogues with peak experience but emphasizes deep immersion in process.
 - **存在主义心理学 / Existential Psychology**：与[罗洛·梅 Rollo May](../may.md)就焦虑、创造性与人的存在境况展开深入对话。/ Engaged May in deep dialogue on anxiety, creativity, and the human condition.
 - **意义疗法 / Logotherapy**：与[弗兰克尔 Viktor Frankl](../../existential/frankl.md)在"意义追求作为人的基本动机"上形成共鸣。/ Resonates with Frankl on "meaning-seeking as a fundamental human motivation."
-- **东方哲学 / Eastern Philosophy**：受[老子](../../../哲学/学派/东方哲学/老子.md)、[庄子](../../../哲学/学派/东方哲学/庄子.md)道家思想和[禅宗](../../../宗教/传统/佛教/禅宗.md)影响。/ Influenced by Daoist thought of Laozi and Zhuangzi, and Zen Buddhism.
+- **东方哲学 / Eastern Philosophy**：受[老子](../../../../哲学/学派/东方哲学/老子.md)、[庄子](../../../../哲学/学派/东方哲学/庄子.md)道家思想和[禅宗](../../../../宗教/传统/佛教/禅宗.md)影响。/ Influenced by Daoist thought of Laozi and Zhuangzi, and Zen Buddhism.
 - **管理学 / Management Studies**：麦格雷戈（McGregor）的X/Y理论和后续的Z理论均受马斯洛需求层次启发。/ McGregor's Theory X/Y and subsequent Theory Z were inspired by Maslow's hierarchy.
 
 ---

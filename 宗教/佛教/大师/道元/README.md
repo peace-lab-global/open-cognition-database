@@ -200,11 +200,11 @@ Quite the opposite — Dōgen is one of the most linguistically creative thinker
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [海德格尔 Heidegger](../../../哲学/学派/存在主义/海德格尔.md) — [平行 parallel] 时间-存在
-- [梅洛-庞蒂 Merleau-Ponty](../../../哲学/学派/现象学/梅洛庞蒂.md) — [平行 parallel] 身体现象学
+- [海德格尔 Heidegger](../../../../哲学/学派/存在主义/海德格尔.md) — [平行 parallel] 时间-存在
+- [梅洛-庞蒂 Merleau-Ponty](../../../../哲学/学派/现象学/梅洛庞蒂.md) — [平行 parallel] 身体现象学
 - [怀特海 Whitehead](../../../哲学/schools/process/whitehead.md) — [平行 parallel] 过程哲学
 - [禅宗 Chan/Zen](../schools/禅宗.md) — [日本传承 Japanese transmission]
-- [龙树 Nagarjuna](../大师/龙树.md) — [思想渊源 philosophical source] 空性思想
+- [龙树 Nagarjuna](../龙树.md) — [思想渊源 philosophical source] 空性思想
 - [天台宗 Tiantai](../schools/天台.md) — [思想渊源] 本觉思想的批判继承
 
 ---

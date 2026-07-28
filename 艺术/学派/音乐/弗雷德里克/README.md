@@ -178,11 +178,11 @@ Chopin's music resonates profoundly with Chinese classical 美学. His rubato �
 | 关联领域 / Related Field | 关联人物/概念 / Figure/Concept | 关系类型 / Relationship | 说明 / Description |
 |---|---|---|---|
 | 文学 / Literature | [密茨凯维奇 (Mickiewicz)](../../文学/mickiewicz) | `[平行/parallel]` | 流亡浪漫主义双星，叙事曲疑受其诗歌启发 / Twin stars of exiled Romanticism; Ballades likely inspired by his poetry |
-| 哲学 / Philosophy | [叔本华 (Schopenhauer)](../../../哲学/学派/悲观主义/叔本华.md) | `[互补/complementary]` | 抒情即意志的内省声音 / Lyricism as the introspective voice of Will |
-| 哲学 / Philosophy | [海德格尔 (Heidegger)](../../../哲学/学派/存在主义/海德格尔.md) | `[平行/parallel]` | 居住、乡愁与本真性——流亡者的失根体验 / Dwelling, nostalgia, and authenticity -- the exile's experience of rootlessness |
+| 哲学 / Philosophy | [叔本华 (Schopenhauer)](../../../../哲学/学派/悲观主义/叔本华.md) | `[互补/complementary]` | 抒情即意志的内省声音 / Lyricism as the introspective voice of Will |
+| 哲学 / Philosophy | [海德格尔 (Heidegger)](../../../../哲学/学派/存在主义/海德格尔.md) | `[平行/parallel]` | 居住、乡愁与本真性——流亡者的失根体验 / Dwelling, nostalgia, and authenticity -- the exile's experience of rootlessness |
 | 绘画 / Painting | [德拉克罗瓦 (Delacroix)](../../visual-arts/delacroix) | `[互补/complementary]` | 密友，色彩理论影响肖邦的和声思维 / Close friend; color theory influenced Chopin's harmonic thinking |
-| 叙事学 / Narratology | [器乐叙事 (Instrumental Narrative)](../../../美学/概念/叙事.md) | `[互补/complementary]` | 叙事曲如何不靠文字讲故事 / How Ballades tell stories without words |
-| 悲剧美学 / Tragic Aesthetics | [小型体裁中的悲剧浓缩](../../../美学/概念/悲剧.md) | `[互补/complementary]` | 马祖卡与前奏曲中的悲剧性微缩 / Tragic miniaturization in mazurkas and preludes |
+| 叙事学 / Narratology | [器乐叙事 (Instrumental Narrative)](../../../../美学/概念/叙事.md) | `[互补/complementary]` | 叙事曲如何不靠文字讲故事 / How Ballades tell stories without words |
+| 悲剧美学 / Tragic Aesthetics | [小型体裁中的悲剧浓缩](../../../../美学/概念/悲剧.md) | `[互补/complementary]` | 马祖卡与前奏曲中的悲剧性微缩 / Tragic miniaturization in mazurkas and preludes |
 | 女性主义 / Feminism | [乔治·桑 (George Sand)](../../文学/george-sand) | `[互补/complementary]` | 十年伴侣关系深刻影响创作 / Decade-long partnership profoundly shaped creative output |
 | 后殖民研究 / Postcolonial Studies | 流亡与民族身份 / Exile and national identity | `[应用/applied]` | 肖邦作为文化抵抗的原型 / Chopin as archetype of cultural resistance |
 

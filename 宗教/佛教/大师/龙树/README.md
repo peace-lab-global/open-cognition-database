@@ -233,9 +233,9 @@ Nagarjuna denies causation-with-svabhava (causal relations between independently
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **哲学 Philosophy**: [维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言批判 / Language critique；[海德格尔](../../../哲学/学派/存在主义/海德格尔.md) — 存在解构 / Deconstruction of Being；[康德](../../../哲学/学派/德国唯心论/康德.md) — 物自体 vs 无自性 / Thing-in-itself vs. no-svabhava
-- **佛教内部 Buddhist tradition**: [阿耶提婆](aryadeva.md) — 首席弟子 / Chief disciple；[月称](candrakirti.md) — 应成派继承者 / Prasangika heir；[宗喀巴](tsongkhapa.md) — 藏传中观复兴 / Tibetan Madhyamaka revival
-- **学派 School**: [中观学派](../中观.md) — 创始人 / Founder
+- **哲学 Philosophy**: [维特根斯坦](../../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言批判 / Language critique；[海德格尔](../../../../哲学/学派/存在主义/海德格尔.md) — 存在解构 / Deconstruction of Being；[康德](../../../../哲学/学派/德国唯心论/康德.md) — 物自体 vs 无自性 / Thing-in-itself vs. no-svabhava
+- **佛教内部 Buddhist tradition**: [阿耶提婆](../提婆.md) — 首席弟子 / Chief disciple；[月称](../月称.md) — 应成派继承者 / Prasangika heir；[宗喀巴](../宗喀巴.md) — 藏传中观复兴 / Tibetan Madhyamaka revival
+- **学派 School**: [中观学派](../../概念/cognitive-theory/中观.md) — 创始人 / Founder
 - **认知科学 Cognitive science**: 反物化认知 / Anti-reification cognition、认知灵活性 / Cognitive flexibility
 - **物理学 Physics**: 量子力学中的关系性解释与缘起论的结构性平行 / Relational interpretations of quantum mechanics structurally parallel to dependent origination
 

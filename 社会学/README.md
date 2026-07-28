@@ -74,7 +74,7 @@
 
 - [社会事实 Social Fact](concepts/social-fact.md)
 - [文化资本 Cultural Capital](concepts/cultural-capital.md)
-- [规训 Discipline](concepts/规训.md)
+- [规训 Discipline](概念/规训.md)
 
 ## 关联 Skills
 

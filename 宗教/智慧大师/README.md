@@ -29,11 +29,11 @@
 
 | 人物 | 传统 | 产出 Skills |
 |------|------|------------|
-| [慧能](智慧大师/masters/中国/慧能.md) | 中国禅 | [无住心法](skills/hui-neng-no-dwelling/SKILL.md) · [顿悟检验](skills/hui-neng-sudden-awakening/SKILL.md) · [平常心引导](skills/hui-neng-ordinary-mind/SKILL.md) |
+| [慧能](masters/中国/慧能.md) | 中国禅 | [无住心法](skills/hui-neng-no-dwelling/SKILL.md) · [顿悟检验](skills/hui-neng-sudden-awakening/SKILL.md) · [平常心引导](skills/hui-neng-ordinary-mind/SKILL.md) |
 | [临济义玄](masters/china/linji-yixuan.md) | 中国禅·临济宗 | [无事贵人](skills/linji-no-thing/SKILL.md) · [棒喝当下](skills/linji-pointer-blow/SKILL.md) |
 | [米拉日巴](masters/tibet/milarepa.md) | 藏传·噶举派 | [裸见觉性](skills/milarepa-naked-awareness/SKILL.md) · [苦行炼金](skills/milarepa-alchemy/SKILL.md) |
 | [道元](masters/japan/道元.md) | 日本·曹洞宗 | [只管打坐](skills/dogen-shikantaza/SKILL.md) · [当下圆满](skills/dogen-presence/SKILL.md) |
-| [一行禅师](masters/west/一行禅师.md) | 入世佛教 | [正念呼吸](skills/thich-nhat-hanh-mindful-breathing/SKILL.md) · [慈悲拥抱](skills/thich-nhat-hanh-compassion/SKILL.md) |
+| [一行禅师](masters/西方/一行禅师.md) | 入世佛教 | [正念呼吸](skills/thich-nhat-hanh-mindful-breathing/SKILL.md) · [慈悲拥抱](skills/thich-nhat-hanh-compassion/SKILL.md) |
 | [宗喀巴](masters/tibet/tsongkhapa.md) | 藏传·格鲁派 | [菩提道次第修行阶段指导](../skills/lamrim-stages/SKILL.md) |
 | [阿底峡](masters/tibet/atisha.md) | 藏传·噶当派 | [菩提道灯引导](../skills/bodhisattva-path-guidance/SKILL.md) |
 | [莲花生大士](masters/tibet/padmasambhava.md) | 藏传·宁玛派 | [大圆满引导](../skills/dzogchen-guidance/SKILL.md) |

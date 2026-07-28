@@ -237,7 +237,7 @@ James's "pluralism" and anti-essentialist tendencies enter cross-cultural dialog
 
 | 关联方向 / Connection | 思想家/领域 / Thinker/Field | 关系 / Relationship |
 |:---|:---|:---|
-| 实用主义哲学 / Pragmatist Philosophy | [皮尔斯 Peirce](../../../哲学/学派/实用主义/皮尔士/README.md) | 实用主义的共同奠基者——皮尔斯提出准则，詹姆斯发展为方法 / Co-founders of pragmatism — Peirce proposed the maxim, James developed it into a method |
+| 实用主义哲学 / Pragmatist Philosophy | [皮尔斯 Peirce](../../../../哲学/学派/实用主义/皮尔士/README.md) | 实用主义的共同奠基者——皮尔斯提出准则，詹姆斯发展为方法 / Co-founders of pragmatism — Peirce proposed the maxim, James developed it into a method |
 | 实用主义哲学 / Pragmatist Philosophy | [杜威 Dewey](../../../哲学/学派/实用主义/约翰/README.md) | 实用主义三巨匠之一，将实用主义发展为工具主义 / One of the three giants of pragmatism, developed pragmatism into instrumentalism |
 | 精神分析 / Psychoanalysis | [弗洛伊德 Freud](../../psychoanalysis/freud/README.md) | 同时代开创者——意识流与潜意识对心理生活的不同切入 / Contemporary founders — stream of consciousness vs. the unconscious as different approaches to mental life |
 | 分析心理学 / Analytical Psychology | [荣格 Jung](../../analytical-psychology/jung/README.md) | 宗教经验与集体无意识的平行探讨 / Parallel explorations of religious experience and the collective unconscious |

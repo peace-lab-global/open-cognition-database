@@ -62,7 +62,7 @@ Evan Thompson is a co-founder of enactivism and the leading advocate of the life
 
 ### 1. 生成认知 (Enactivism):认知即生成
 
-认知不是大脑对世界的表征 (representation),而是有机体通过与环境的结构耦合 (structural coupling) **生成** (enact) 其世界。世界不是被"发现"的,而是在有机体的感知-行动循环中被"活出来"的 (brought forth)。这从根本上拒绝了计算主义将心智视为信息处理器的隐喻。详见 [concepts/生成认知.md](concepts/生成认知.md)。
+认知不是大脑对世界的表征 (representation),而是有机体通过与环境的结构耦合 (structural coupling) **生成** (enact) 其世界。世界不是被"发现"的,而是在有机体的感知-行动循环中被"活出来"的 (brought forth)。这从根本上拒绝了计算主义将心智视为信息处理器的隐喻。详见 [concepts/生成认知.md](概念/生成认知.md)。
 
 Cognition is not the brain's representation of a pre-given world; it is the organism's **enactment** of a world through structural coupling with its environment. The world is not discovered but brought forth in the perception-action cycle.
 
@@ -106,13 +106,13 @@ Varela 于 2001 年去世后,汤普森承担起继续发展生成认知理论的
 
 | 概念 | 英文 | 核心含义 | 子条目 |
 |------|------|----------|--------|
-| 生成 | Enaction | 认知通过感知-行动循环"生成"世界,而非反映世界 | [生成认知.md](concepts/生成认知.md) |
+| 生成 | Enaction | 认知通过感知-行动循环"生成"世界,而非反映世界 | [生成认知.md](概念/生成认知.md) |
 | 自体生成 | Autopoiesis | 生命系统的自我生产、自我维持过程;心智的生物学根基 | [mind-in-life.md](concepts/mind-in-life.md) |
 | 生命-心智连续性 | Life-Mind Continuity | 心智是生命自组织的延伸,非大脑的副产品 | [mind-in-life.md](concepts/mind-in-life.md) |
 | 意义建构 | Sense-Making | 有机体通过与环境的交互主动创造意义和价效 | [sense-making.md](concepts/sense-making.md) |
 | 神经现象学 | Neurophenomenology | 第一人称经验与第三人称数据的双向约束方法 | [neurophenomenology.md](concepts/neurophenomenology.md) |
-| 具身认知 | 4E Cognition | 认知涉及身体 (embodied)、嵌入 (embedded)、延展 (extended)、生成 (enactive) 的整合 | [生成认知.md](concepts/生成认知.md) |
-| 结构耦合 | Structural Coupling | 有机体与环境在历史中形成的动态协调关系 | [生成认知.md](concepts/生成认知.md) |
+| 具身认知 | 4E Cognition | 认知涉及身体 (embodied)、嵌入 (embedded)、延展 (extended)、生成 (enactive) 的整合 | [生成认知.md](概念/生成认知.md) |
+| 结构耦合 | Structural Coupling | 有机体与环境在历史中形成的动态协调关系 | [生成认知.md](概念/生成认知.md) |
 | 意识三态 | Three States | 清醒、做梦、深睡各有不同的自我结构 | -- |
 | 前反思自身意识 | Pre-reflective Self-awareness | 经验的内在"属我性",先于反思与叙事 | -- |
 | 佛教现代主义 | Buddhist Modernism | 将佛教去宗教化、自然化的当代倾向 (被批判) | -- |
@@ -203,11 +203,11 @@ Varela 于 2001 年去世后,汤普森承担起继续发展生成认知理论的
 - [梅青格 Metzinger](../metzinger/README.md) `[张力]` 自我是过程 vs 自我是透明模型
 
 ### 认知科学
-- [弗里斯顿 Friston](../../../心理学/学派/认知心理学/弗里斯顿.md) `[张力]` 生成认知 vs 预测加工 (predictive processing) -- 核心方法论分歧:生成认知强调行动-感知循环中的世界生成,预测加工强调脑内模型的贝叶斯推断
+- [弗里斯顿 Friston](../../../../心理学/学派/认知心理学/弗里斯顿.md) `[张力]` 生成认知 vs 预测加工 (predictive processing) -- 核心方法论分歧:生成认知强调行动-感知循环中的世界生成,预测加工强调脑内模型的贝叶斯推断
 
 ### 东方思想
-- [五蕴的认知读法](../../../宗教/佛教/概念/cognitive-theory/五蕴的认知读法.md) `[平行]` 心智作为生命过程的涌现
-- [唯识 Yogacara](../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 意识结构与生成认知的对话
+- [五蕴的认知读法](../../../../宗教/佛教/概念/cognitive-theory/五蕴的认知读法.md) `[平行]` 心智作为生命过程的涌现
+- [唯识 Yogacara](../../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 意识结构与生成认知的对话
 - 中观 (Madhyamaka) `[平行]` 缘起论与生成认知的结构呼应
 
 ### 生物学
@@ -240,11 +240,11 @@ Varela 于 2001 年去世后,汤普森承担起继续发展生成认知理论的
 
 | 子条目 | 内容 |
 |--------|------|
-| [concepts/生成认知.md](concepts/生成认知.md) | 生成认知 -- 结构耦合、bringing-forth a world、认知即生成 |
+| [concepts/生成认知.md](概念/生成认知.md) | 生成认知 -- 结构耦合、bringing-forth a world、认知即生成 |
 | [concepts/mind-in-life.md](concepts/mind-in-life.md) | 生命-心智连续性 -- autopoiesis、深层连续性、生命作为心智根基 |
 | [concepts/sense-making.md](concepts/sense-making.md) | 意义建构 -- 价效 (valence)、适应性 (adaptivity)、有机体创造意义 |
 | [concepts/neurophenomenology.md](concepts/neurophenomenology.md) | 神经现象学 -- 互相约束、训练内省、Varela 方法论的延续 |
-| [concepts/生成认知.md](concepts/生成认知.md) | 4E 认知 -- 身体作为认知媒介、反脑中心主义 |
+| [concepts/生成认知.md](概念/生成认知.md) | 4E 认知 -- 身体作为认知媒介、反脑中心主义 |
 | [著作.md](著作.md) | 作品总览 -- 专著、编著、重要论文 |
 | [时间线.md](时间线.md) | 思想年表 -- 生平与学术发展 |
 | [阅读.md](阅读.md) | 进阶阅读指南 -- 原典、二手研究、东西方哲学 |

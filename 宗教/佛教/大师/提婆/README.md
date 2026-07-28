@@ -206,8 +206,8 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 - **注释者**: [月称 Candrakirti](../candrakirti.md) — 为《四百论》作注
 - **传承**: 龙树→提婆→罗睺罗跋陀罗→…→佛护→月称（应成派谱系）
 - **汉传**: [鸠摩罗什 Kumarajiva](../kumarajiva.md) — 翻译《百论》；[吉藏 Jizang](../jizang.md) — 三论宗集大成者
-- **学派**: [中观学派](../中观.md) — 第二代祖师
-- **哲学**: [波普尔 Popper](../../../哲学/学派/分析哲学/波普尔.md) — 证伪主义的平行
+- **学派**: [中观学派](../../概念/cognitive-theory/中观.md) — 第二代祖师
+- **哲学**: [波普尔 Popper](../../../../哲学/学派/分析哲学/波普尔.md) — 证伪主义的平行
 - **学派**: [三论宗](../schools/sanlun.md) — "三论"之一《百论》的作者
 
 ---

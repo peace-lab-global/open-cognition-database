@@ -232,7 +232,7 @@ Paramārtha's intellectual legacy can be assessed from three dimensions:
 - [摄论宗](../schools/shelun.md) — [创立] 以真谛所译《摄大乘论》立宗 / Founded upon Paramārtha's translation of the *Mahāyānasaṃgraha*
 - [无著·世亲](../thinkers/asanga-vasubandhu.md) — [继承] 唯识学传承 / Yogācāra lineage inheritance
 - [玄奘](../thinkers/xuanzang.md) — [对照] 唯识学的另一条传承线 / Alternative Yogācāra lineage for comparison
-- [窥基](../thinkers/窥基.md) — [对立] 玄奘系唯识的代言人 / Chief exponent of Xuánzàng's Yogācāra
+- [窥基](../窥基.md) — [对立] 玄奘系唯识的代言人 / Chief exponent of Xuánzàng's Yogācāra
 - [如来藏](../concepts/tathagata-garbha.md) — [融合] 唯识与如来藏的对话 / Dialogue between Yogācāra and Buddha-nature thought
 - [佛性论](../concepts/buddha-nature.md) — [延伸] 一切有情皆有佛性 / All beings possess Buddha-nature
 

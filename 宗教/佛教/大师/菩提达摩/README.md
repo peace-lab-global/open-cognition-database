@@ -120,8 +120,8 @@ Bodhidharma's thought is rooted in two major Indian Mahayana traditions: **Tatha
 2. **无心 Wuxin (No-Mind)**：不执著于任何念头，心无所住。超越有意识的分别心，达到自然无造作的心理状态。详见 → [无心](concepts/no-mind.md)
    Non-attachment to any thought, the mind abides nowhere. Transcending conscious discriminating mind to reach a natural, uncontrived mental state. See → [No-Mind](concepts/no-mind.md)
 
-3. **顿悟 Dunwu (Sudden Enlightenment)**：直下承当，刹那见性。达摩虽未明确使用"顿悟"一词，但其"直指人心"的方法论隐含了顿悟的立场。详见 → [顿悟](concepts/顿悟.md)
-   Directly taking it upon oneself, seeing one's nature in a single instant. Although Bodhidharma did not explicitly use the term "sudden enlightenment," his methodology of "directly pointing to the human mind" implies a sudden-awakening stance. See → [Sudden Enlightenment](concepts/顿悟.md)
+3. **顿悟 Dunwu (Sudden Enlightenment)**：直下承当，刹那见性。达摩虽未明确使用"顿悟"一词，但其"直指人心"的方法论隐含了顿悟的立场。详见 → [顿悟](../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md)
+   Directly taking it upon oneself, seeing one's nature in a single instant. Although Bodhidharma did not explicitly use the term "sudden enlightenment," his methodology of "directly pointing to the human mind" implies a sudden-awakening stance. See → [Sudden Enlightenment](../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md)
 
 4. **坐禅 Zuochan (Sitting Meditation)**：达摩在嵩山少林寺面壁九年，确立了坐禅作为禅宗修行的基本形式。详见 → [坐禅](concepts/zazen-practice.md)
    Bodhidharma faced the wall at Shaolin Temple on Mount Song for nine years, establishing seated meditation as the foundational form of Chan practice. See → [Sitting Meditation](concepts/zazen-practice.md)
@@ -280,7 +280,7 @@ For more readings see → [Advanced Reading List](阅读.md)
 |---|---|---|
 | 壁观 Wall-Gazing | 达摩的核心修行方法 / Core practice method | [concepts/wall-gazing.md](concepts/wall-gazing.md) |
 | 无心 No-Mind | 超越分别心的心理状态 / Transcending discriminating mind | [concepts/no-mind.md](concepts/no-mind.md) |
-| 顿悟 Sudden Enlightenment | 刹那见性的觉悟方式 / Instantaneous awakening | [concepts/顿悟.md](concepts/顿悟.md) |
+| 顿悟 Sudden Enlightenment | 刹那见性的觉悟方式 / Instantaneous awakening | [concepts/顿悟.md](../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md) |
 | 坐禅 Sitting Meditation | 禅宗的基本修行形式 / Foundational Chan practice form | [concepts/zazen-practice.md](concepts/zazen-practice.md) |
 | 教外别传 Transmission Outside Scriptures | 禅宗独特的传承方式 / Chan's unique transmission mode | [concepts/transmission-outside-scriptures.md](concepts/transmission-outside-scriptures.md) |
 | 著作 Works | 达摩相关著作总览 / Overview of Bodhidharma-related works | [著作.md](著作.md) |

@@ -131,14 +131,14 @@ Late-career 研究 expanded into organizational management (*Good Business*, 200
 ## 重要概念 / Key Concepts
 
 ### 心流（Flow）
-个体在挑战与技能匹配时进入的高度专注、忘我、自带奖赏的最优体验状态。详见 [flow](concepts/心流.md)。
+个体在挑战与技能匹配时进入的高度专注、忘我、自带奖赏的最优体验状态。详见 [flow](概念/心流.md)。
 
-The optimal experience state of intense focus, self-forgetfulness, and intrinsic reward that arises when challenge matches skill. See [flow](concepts/心流.md).
+The optimal experience state of intense focus, self-forgetfulness, and intrinsic reward that arises when challenge matches skill. See [flow](概念/心流.md).
 
 ### 创造力系统模型（Systems Model of Creativity）
-创造力是个人、领域和学界三者交互的系统产物。详见 [creativity](concepts/创造力.md)。
+创造力是个人、领域和学界三者交互的系统产物。详见 [creativity](概念/创造力.md)。
 
-Creativity is the systemic product of interaction among person, domain, and field. See [creativity](concepts/创造力.md).
+Creativity is the systemic product of interaction among person, domain, and field. See [creativity](概念/创造力.md).
 
 ### 最优体验（Optimal Experience）
 意识处于高度有序状态时的主观体验，与精神熵相对。详见 [optimal-experience](concepts/optimal-experience.md)。
@@ -266,13 +266,13 @@ Zhuangzi's parable of "Cook Ding cutting up an ox" is almost a classical Chinese
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **[马斯洛 Maslow](../humanistic/马斯洛.md)** — [继承] 高峰体验（peak experience）是心流概念的重要前驱 / [Inheritance] Peak experience is an important precursor to the flow concept
+- **[马斯洛 Maslow](../../人本主义/马斯洛.md)** — [继承] 高峰体验（peak experience）是心流概念的重要前驱 / [Inheritance] Peak experience is an important precursor to the flow concept
 - **[塞利格曼 Seligman](../positive/seligman.md)** — [合作] 积极心理学联合创立者 / [Collaboration] Co-founder of positive 心理学
-- **[亚里士多德 Aristotle](../../../哲学/学派/古希腊/亚里士多德.md)** — [继承] 实现幸福（eudaimonia）作为终极目的 / [Inheritance] Eudaimonia as the ultimate end
+- **[亚里士多德 Aristotle](../../../../哲学/学派/古希腊/亚里士多德.md)** — [继承] 实现幸福（eudaimonia）作为终极目的 / [Inheritance] Eudaimonia as the ultimate end
 - **[荣格 Jung](../analytical/卡尔.md)** — [启蒙] 少年米哈里的心理学启蒙者 / [Inspiration] Mihaly's psychological awakening in youth
 - **[德西 & 瑞安 Deci & Ryan](../humanistic/deci-ryan.md)** — [平行] 自我决定理论（SDT）与内在动机研究 / [Parallel] Self-Determination Theory (SDT) and intrinsic motivation 研究
-- **[禅宗 Zen Buddhism](../../../宗教/传统/佛教/禅宗.md)** — [平行] 无我、正念、专注 / [Parallel] No-self, mindfulness, concentration
-- **[庄子 Zhuangzi](../../../哲学/traditions/daoism/zhuangzi.md)** — [平行] "游"与"技进乎道" / [Parallel] "You" (free play) and "skill approaching the Dao"
+- **[禅宗 Zen Buddhism](../../../../宗教/传统/佛教/禅宗.md)** — [平行] 无我、正念、专注 / [Parallel] No-self, mindfulness, concentration
+- **[庄子 Zhuangzi](../../../../哲学/学派/东方哲学/zhuangzi.md)** — [平行] "游"与"技进乎道" / [Parallel] "You" (free play) and "skill approaching the Dao"
 
 ---
 
@@ -302,8 +302,8 @@ Zhuangzi's parable of "Cook Ding cutting up an ox" is almost a classical Chinese
 
 | 条目 / Entry | 说明 / Description |
 |---|---|
-| [心流 Flow](concepts/心流.md) | 心流状态的定义、特征与条件 / Definition, characteristics, and conditions of the flow state |
-| [创造力 Creativity](concepts/创造力.md) | 创造力系统模型 / Systems model of creativity |
+| [心流 Flow](概念/心流.md) | 心流状态的定义、特征与条件 / Definition, characteristics, and conditions of the flow state |
+| [创造力 Creativity](概念/创造力.md) | 创造力系统模型 / Systems model of creativity |
 | [最优体验 Optimal Experience](concepts/optimal-experience.md) | 意识有序化的心理体验 / Psychological experience of ordering consciousness |
 | [自带目的人格 Autotelic Personality](concepts/autotelic-personality.md) | 内在奖赏倾向的人格特质 / Personality trait of intrinsic reward orientation |
 | [内在动机 Intrinsic Motivation](concepts/intrinsic-motivation.md) | 来自活动本身的驱动力 / Drive originating from the activity itself |

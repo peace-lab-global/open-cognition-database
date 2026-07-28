@@ -120,7 +120,7 @@ The 2006 paper "A free energy principle for the brain" marked a major theoretica
 | 概念 / Concept | 英文 / English | 简述 / Summary | 详见 / See |
 |---|---|---|---|
 | 自由能原理 | Free Energy Principle | 一切自组织系统都趋向最小化变分自由能 | [free-energy-principle](concepts/free-energy-principle.md) |
-| 预测加工 | Predictive Processing | 大脑通过层级预测编码架构处理信息 | [predictive-processing](concepts/预测加工.md) |
+| 预测加工 | Predictive Processing | 大脑通过层级预测编码架构处理信息 | [predictive-processing](概念/预测加工.md) |
 | 主动推理 | Active Inference | 行动即选择能验证自身预测的感觉证据 | [active-inference](concepts/active-inference.md) |
 | 层级推断 | Hierarchical Inference | 多尺度多层级的贝叶斯推断结构 | [hierarchical-inference](concepts/hierarchical-inference.md) |
 | 变分贝叶斯 | Variational Bayes | 近似后验推断的数学工具 | [variational-bayes](concepts/variational-bayes.md) |
@@ -267,7 +267,7 @@ Friston's theoretical framework resonates with Eastern intellectual traditions i
 | 条目 / Entry | 描述 / Description |
 |---|---|
 | [concepts/free-energy-principle.md](concepts/free-energy-principle.md) | 自由能原理详解 |
-| [concepts/预测加工.md](concepts/预测加工.md) | 预测加工理论详解 |
+| [concepts/预测加工.md](概念/预测加工.md) | 预测加工理论详解 |
 | [concepts/active-inference.md](concepts/active-inference.md) | 主动推理详解 |
 | [concepts/hierarchical-inference.md](concepts/hierarchical-inference.md) | 层级推断详解 |
 | [concepts/variational-bayes.md](concepts/variational-bayes.md) | 变分贝叶斯方法详解 |

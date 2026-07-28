@@ -153,15 +153,15 @@ This was the crucial period of Locke's intellectual maturation. As Shaftesbury's
 
 ## 重要概念 / Key Concepts
 
-- **[自然权利 Natural Rights](concepts/natural-rights.md)** — 生命、自由与财产三项不可让渡的权利，构成政府权力的边界与目的 / Three inalienable rights — life, liberty, and estate — constituting the boundary and purpose of governmental power.
+- **[自然权利 Natural Rights](概念/自然权利.md)** — 生命、自由与财产三项不可让渡的权利，构成政府权力的边界与目的 / Three inalienable rights — life, liberty, and estate — constituting the boundary and purpose of governmental power.
 
-- **[白板论 Tabula Rasa](concepts/tabula-rasa.md)** — 心灵初始如白板，一切知识源于感觉与反省两种经验 / The mind at birth as a blank slate, with all knowledge deriving from sensation and reflection.
+- **[白板论 Tabula Rasa](概念/白板论.md)** — 心灵初始如白板，一切知识源于感觉与反省两种经验 / The mind at birth as a blank slate, with all knowledge deriving from sensation and reflection.
 
-- **[财产权劳动论 Labor Theory of Property](concepts/property-labor.md)** — 劳动掺入自然物产生财产权，受充足条件与腐败条件约束 / Property arising from mixing labour with nature, constrained by sufficiency and spoilage provisos.
+- **[财产权劳动论 Labor Theory of Property](概念/财产权劳动论.md)** — 劳动掺入自然物产生财产权，受充足条件与腐败条件约束 / Property arising from mixing labour with nature, constrained by sufficiency and spoilage provisos.
 
-- **[基于同意的政府 Government by Consent](concepts/government-consent.md)** — 政治权力的正当性来自被治理者的同意，政府是人民信托的受托人 / Political legitimacy derives from the consent of the governed; government as trustee of the people.
+- **[基于同意的政府 Government by Consent](概念/基于同意的政府.md)** — 政治权力的正当性来自被治理者的同意，政府是人民信托的受托人 / Political legitimacy derives from the consent of the governed; government as trustee of the people.
 
-- **[宗教宽容 Toleration](concepts/toleration.md)** — 国家不干涉宗教信仰，政教分离，但宽容有其边界 / State non-interference in religion, church-state separation, though toleration has limits.
+- **[宗教宽容 Toleration](概念/宗教宽容.md)** — 国家不干涉宗教信仰，政教分离，但宽容有其边界 / State non-interference in religion, church-state separation, though toleration has limits.
 
 - **革命权 Right of Revolution** — 当政府违背信托、侵犯自然权利时，人民有权解散并重建政府 / When government breaches trust and violates natural rights, the people may dissolve and reconstitute it.
 
@@ -213,9 +213,9 @@ On property, Locke's labour-appropriation theory contrasts with the Daoist view 
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **政治哲学 Political Philosophy** — [霍布斯](../hobbes/README.md) `[对话/Contrast]` 有限政府 vs 绝对主权；[卢梭](../rawls/README.md) `[对话/Development]` 从洛克的个人同意到卢梭的公意 / Limited government vs absolute sovereignty; from Locke's individual consent to Rousseau's general will
-- **认识论 Epistemology** — [休谟](../../../哲学/学派/经验主义/休谟/README.md) `[继承/Inheritance]` 经验主义的深化与怀疑论转向；[康德](../../../哲学/schools/deontology/kant/README.md) `[批判/Critique]` 先天综合判断对白板论的超越 / Deepened empiricism and the skeptical turn; Kant's synthetic a priori transcending tabula rasa
-- **经济学 Economics** — [斯密](../../../社会学/学派/古典社会学/涂尔干/README.md) `[平行/Parallel]` 劳动价值论的共同源头；[马克思] `[批判发展/Critical Development]` 从洛克式财产权到资本主义批判 / Shared origins of the labour theory of value; from Lockean property to the critique of capitalism
+- **政治哲学 Political Philosophy** — [霍布斯](../hobbes/README.md) `[对话/Contrast]` 有限政府 vs 绝对主权；[卢梭](../约翰-rawls/README.md) `[对话/Development]` 从洛克的个人同意到卢梭的公意 / Limited government vs absolute sovereignty; from Locke's individual consent to Rousseau's general will
+- **认识论 Epistemology** — [休谟](../../../../哲学/学派/经验主义/休谟/README.md) `[继承/Inheritance]` 经验主义的深化与怀疑论转向；[康德](../../../哲学/schools/deontology/kant/README.md) `[批判/Critique]` 先天综合判断对白板论的超越 / Deepened empiricism and the skeptical turn; Kant's synthetic a priori transcending tabula rasa
+- **经济学 Economics** — [斯密](../../../../社会学/学派/古典社会学/涂尔干/README.md) `[平行/Parallel]` 劳动价值论的共同源头；[马克思] `[批判发展/Critical Development]` 从洛克式财产权到资本主义批判 / Shared origins of the labour theory of value; from Lockean property to the critique of capitalism
 - **法学 Law** — 自然法传统到法律实证主义的演变；美国宪法第五修正案（正当程序与财产保护）的洛克式根源 / Evolution from natural law tradition to legal positivism; Lockean roots of the Fifth Amendment (due process and property protection)
 - **教育学 Education** — 《教育漫话》对蒙台梭利、杜威等教育理论家的先驱性影响 / *Some Thoughts Concerning Education* as precursor to Montessori, Dewey, and other educational theorists
 
@@ -241,11 +241,11 @@ On property, Locke's labour-appropriation theory contrasts with the Daoist view 
 
 ## 子条目索引 / Sub-entry Index
 
-- [自然权利 Natural Rights](concepts/natural-rights.md) — 生命、自由与财产的不可让渡权利 / Inalienable rights to life, liberty, and estate
-- [白板论 Tabula Rasa](concepts/tabula-rasa.md) — 经验主义认识论的基石 / Foundation of empiricist epistemology
-- [财产权劳动论 Labor Theory of Property](concepts/property-labor.md) — 劳动、占有与限制 / Labour, appropriation, and its limits
-- [基于同意的政府 Government by Consent](concepts/government-consent.md) — 信托、同意与革命权 / Trust, consent, and the right of revolution
-- [宗教宽容 Toleration](concepts/toleration.md) — 信仰自由与政教分离 / Religious freedom and church-state separation
+- [自然权利 Natural Rights](概念/自然权利.md) — 生命、自由与财产的不可让渡权利 / Inalienable rights to life, liberty, and estate
+- [白板论 Tabula Rasa](概念/白板论.md) — 经验主义认识论的基石 / Foundation of empiricist epistemology
+- [财产权劳动论 Labor Theory of Property](概念/财产权劳动论.md) — 劳动、占有与限制 / Labour, appropriation, and its limits
+- [基于同意的政府 Government by Consent](概念/基于同意的政府.md) — 信托、同意与革命权 / Trust, consent, and the right of revolution
+- [宗教宽容 Toleration](概念/宗教宽容.md) — 信仰自由与政教分离 / Religious freedom and church-state separation
 - [著作年表 Works](著作.md) — 洛克全部著作编年 / Chronological bibliography of all Locke's works
 - [生平大事记 Timeline](时间线.md) — 洛克生平与思想年表 / Biographical and intellectual timeline
 - [阅读指南 Reading List](阅读.md) — 分级进阶阅读建议 / Graded reading recommendations

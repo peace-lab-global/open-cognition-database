@@ -161,8 +161,8 @@ Antoine Lutz (b. 1971) is a French cognitive neuroscientist and a leading figure
 - [Damasio · 躯体标记](./damasio.md) — `[平行]` 内感受（interoception）在意识和情绪中的作用
 - [Goleman · 情商与冥想科学](./goleman.md) — `[传播]` Goleman 将 Lutz 的研究发现推广至大众读者
 - [Varela · 神经现象学] — `[继承]` 第一人称方法与第三人称方法的整合路径
-- [默照禅的认知结构 · Silent Illumination](../../../宗教/佛教/概念/cognitive-theory/默照的认知结构.md) — `[平行]` OM 冥想与默照禅的神经对应
-- [止观的认知分工 · Śamatha-Vipaśyanā](../../../宗教/佛教/概念/cognitive-theory/止观的认知分工.md) — `[平行]` FA/OM 区分的佛教传统根源
+- [默照禅的认知结构 · Silent Illumination](../../../../宗教/佛教/概念/cognitive-theory/默照的认知结构.md) — `[平行]` OM 冥想与默照禅的神经对应
+- [止观的认知分工 · Śamatha-Vipaśyanā](../../../../宗教/佛教/概念/cognitive-theory/止观的认知分工.md) — `[平行]` FA/OM 区分的佛教传统根源
 
 ## 进阶阅读 / Further Reading
 

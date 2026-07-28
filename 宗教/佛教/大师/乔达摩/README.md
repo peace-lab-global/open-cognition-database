@@ -300,9 +300,9 @@ Hume's "bundle theory of the self" — that the self is merely a bundle of perce
 
 → 详见 [对话/与叔本华关系.md](对话/与叔本华关系.md)
 
-叔本华是第一位严肃对待佛教的西方主要哲学家。四圣谛与他的"意志-悲观-否定"结构之间存在精确的对应：苦谛↔悲观主义、集谛↔意志作为物自体、灭谛↔意志的否定、道谛↔禁欲与审美沉思。详见 [叔本华](../../../哲学/学派/悲观主义/叔本华/README.md) 条目。
+叔本华是第一位严肃对待佛教的西方主要哲学家。四圣谛与他的"意志-悲观-否定"结构之间存在精确的对应：苦谛↔悲观主义、集谛↔意志作为物自体、灭谛↔意志的否定、道谛↔禁欲与审美沉思。详见 [叔本华](../../../../哲学/学派/悲观主义/叔本华/README.md) 条目。
 
-Schopenhauer was the first major Western philosopher to engage seriously with Buddhism. A precise correspondence exists between the Four Noble Truths and his "Will-pessimism-denial" structure: duḥkha ↔ pessimism, samudāya ↔ Will as thing-in-itself, nirodha ↔ denial of Will, mārga ↔ asceticism and aesthetic contemplation. See the [Schopenhauer](../../../哲学/学派/悲观主义/叔本华/README.md) entry.
+Schopenhauer was the first major Western philosopher to engage seriously with Buddhism. A precise correspondence exists between the Four Noble Truths and his "Will-pessimism-denial" structure: duḥkha ↔ pessimism, samudāya ↔ Will as thing-in-itself, nirodha ↔ denial of Will, mārga ↔ asceticism and aesthetic contemplation. See the [Schopenhauer](../../../../哲学/学派/悲观主义/叔本华/README.md) entry.
 
 ### 与尼采 Nietzsche
 
@@ -322,14 +322,14 @@ Gautama's four foundations of mindfulness (satipaṭṭhāna) — systematic awa
 
 | 关联方向 | 人物/传统 | 关系类型 | 说明 |
 |----------|----------|----------|------|
-| 悲观主义哲学 | [叔本华 · Arthur Schopenhauer](../../../哲学/学派/悲观主义/叔本华/README.md) | 结构平行 | 四圣谛↔意志-悲观-否定结构 |
+| 悲观主义哲学 | [叔本华 · Arthur Schopenhauer](../../../../哲学/学派/悲观主义/叔本华/README.md) | 结构平行 | 四圣谛↔意志-悲观-否定结构 |
 | 中观哲学 | [龙树 · Nāgārjuna](../龙树/README.md) | 发展 | 缘起→空性的中观展开 |
 | 唯识哲学 | [陈那 · Dignāga](../陈那/README.md) | 发展 | 五蕴分析→认识论转向 |
 | 认识论 | [法称 · Dharmakīrti](../法称/README.md) | 发展 | 佛教量论传统 |
-| 分析哲学 | [休谟 · David Hume](../../../哲学/学派/经验主义/休谟/README.md) | 平行 | 自我束论↔五蕴无我 |
-| 存在主义 | [尼采 · Friedrich Nietzsche](../../../哲学/学派/存在主义/尼采/README.md) | 对话/对立 | 永恒轮回vs缘起缘灭 |
-| 现象学 | [胡塞尔 · Edmund Husserl](../../../哲学/学派/现象学/胡塞尔/README.md) | 平行 | 四念处↔现象学还原 |
-| 心理学 | [弗洛伊德 · Sigmund Freud](../../../心理学/学派/精神分析/西格蒙德/README.md) | 平行 | 无意识驱力↔渴爱（taṇhā）分析 |
+| 分析哲学 | [休谟 · David Hume](../../../../哲学/学派/经验主义/休谟/README.md) | 平行 | 自我束论↔五蕴无我 |
+| 存在主义 | [尼采 · Friedrich Nietzsche](../../../../哲学/学派/存在主义/尼采/README.md) | 对话/对立 | 永恒轮回vs缘起缘灭 |
+| 现象学 | [胡塞尔 · Edmund Husserl](../../../../哲学/学派/现象学/胡塞尔/README.md) | 平行 | 四念处↔现象学还原 |
+| 心理学 | [弗洛伊德 · Sigmund Freud](../../../../心理学/学派/精神分析/西格蒙德/README.md) | 平行 | 无意识驱力↔渴爱（taṇhā）分析 |
 | 认知科学 | [达马西奥 · Antonio Damasio] | 呼应 | 躯体自我↔五蕴分析 |
 | 佛教认知理论 | [cognitive-theory](../../概念/cognitive-theory/README.md) | 互补 | 心识分析与认知理论 |
 

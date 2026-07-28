@@ -306,7 +306,7 @@ Padmasambhava (c. 720-800 CE) was an 8th-century master from Uddiyana (modern Sw
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **[荣格 Jung](../../../心理学/学派/分析心理学/卡尔.md)** — [平行] 集体无意识原型与中阴经历、个体化过程 (individuation) 与大圆满的本觉认知
+- **[荣格 Jung](../../../../心理学/学派/分析心理学/卡尔.md)** — [平行] 集体无意识原型与中阴经历、个体化过程 (individuation) 与大圆满的本觉认知
 - **[海德格尔 Heidegger]** — [平行] "存在"的澄明 (Lichtung) 与 rigpa 的明空不二
 - **认知科学** — [应用] 非二元意识 (non-dual consciousness) 的神经科学研究
 - **死亡学 Thanatology** — [互补] 濒死体验 (NDE) 研究与中阴教法的对话
@@ -328,7 +328,7 @@ Padmasambhava (c. 720-800 CE) was an 8th-century master from Uddiyana (modern Sw
 
 - **上师瑜伽 (Guru Yoga) 的认知传承**: 通过弟子与上师的直接认知连接，将非二元觉知的体验"传递"而非"教授"——这是一种体验性认知传承 (experiential transmission)，不同于概念性知识传递。
 
-**认知遗产 / Cognitive Legacy**: 莲花生的非二元觉知训练是当代意识研究中"非二元意识" (non-dual consciousness) 讨论的重要历史来源。其对 rigpa/sem 的区分可与 [荣格](../../../心理学/学派/分析心理学/卡尔.md) 对超越功能 (transcendent function) 的探讨对话，也可与当代神经科学中"默认模式网络" (Default Mode Network) 的去激活研究相互印证。详见 [八识体系](../concepts/cognitive-theory/八识体系.md)、[转识成智](../concepts/cognitive-theory/转识成智.md)。
+**认知遗产 / Cognitive Legacy**: 莲花生的非二元觉知训练是当代意识研究中"非二元意识" (non-dual consciousness) 讨论的重要历史来源。其对 rigpa/sem 的区分可与 [荣格](../../../../心理学/学派/分析心理学/卡尔.md) 对超越功能 (transcendent function) 的探讨对话，也可与当代神经科学中"默认模式网络" (Default Mode Network) 的去激活研究相互印证。详见 [八识体系](../../概念/cognitive-theory/八识体系.md)、[转识成智](../../概念/cognitive-theory/转识成智.md)。
 
 ---
 

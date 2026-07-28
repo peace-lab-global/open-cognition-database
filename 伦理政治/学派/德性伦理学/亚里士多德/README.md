@@ -133,15 +133,15 @@ In 335 BCE, Aristotle returned to Athens and founded the Lyceum near the temple 
 
 ## 重要概念 / Key Concepts
 
-1. **幸福 (Eudaimonia)** — 灵魂合乎美德的完善活动，人类功能的充分实现。[详见](concepts/幸福论.md) / Excellent activity of the soul in accordance with virtue, full realization of human function. [See](concepts/幸福论.md)
+1. **幸福 (Eudaimonia)** — 灵魂合乎美德的完善活动，人类功能的充分实现。[详见](概念/幸福.md) / Excellent activity of the soul in accordance with virtue, full realization of human function. [See](概念/幸福.md)
 
-2. **实践智慧 (Phronesis)** — 关于具体情境中如何正确行动的理智品质，不可还原为规则或算法。[详见](concepts/phronesis.md) / Intellectual quality of acting rightly in concrete situations, irreducible to rules or algorithms. [See](concepts/phronesis.md)
+2. **实践智慧 (Phronesis)** — 关于具体情境中如何正确行动的理智品质，不可还原为规则或算法。[详见](概念/实践智慧.md) / Intellectual quality of acting rightly in concrete situations, irreducible to rules or algorithms. [See](概念/实践智慧.md)
 
-3. **中道 (Golden Mean / Mesotes)** — 品格美德位于不及与过度之间，由实践智慧判断的相对于行为者的适度。[详见](concepts/中道.md) / Character virtue between deficiency and excess, appropriateness relative to agent as judged by practical wisdom. [See](concepts/中道.md)
+3. **中道 (Golden Mean / Mesotes)** — 品格美德位于不及与过度之间，由实践智慧判断的相对于行为者的适度。[详见](概念/中道.md) / Character virtue between deficiency and excess, appropriateness relative to agent as judged by practical wisdom. [See](概念/中道.md)
 
-4. **美德品格 (Virtue-Character / Arete & Hexis)** — 美德作为通过习惯化获得的稳定品格状态，是感受与行动的卓越品质。[详见](concepts/virtue-character.md) / Virtue as stable character state acquired through habituation, excellence of feeling and action. [See](concepts/virtue-character.md)
+4. **美德品格 (Virtue-Character / Arete & Hexis)** — 美德作为通过习惯化获得的稳定品格状态，是感受与行动的卓越品质。[详见](概念/美德品格.md) / Virtue as stable character state acquired through habituation, excellence of feeling and action. [See](概念/美德品格.md)
 
-5. **目的 (Telos)** — 万物趋向实现其内在目的；人类目的即 eudaimonia，目的论贯穿伦理学和自然哲学。[详见](concepts/telos.md) / All things tend toward inherent purpose; human telos is eudaimonia; teleology pervades ethics and natural 哲学. [See](concepts/telos.md)
+5. **目的 (Telos)** — 万物趋向实现其内在目的；人类目的即 eudaimonia，目的论贯穿伦理学和自然哲学。[详见](概念/目的.md) / All things tend toward inherent purpose; human telos is eudaimonia; teleology pervades ethics and natural 哲学. [See](概念/目的.md)
 
 6. **城邦 (Polis)** — "人天生是政治的动物"，个体只有在政治共同体中才能充分实现其人性。/ Humans are by nature political animals; individuals fully realize humanity only within political community.
 
@@ -247,11 +247,11 @@ Aristotle's virtue ethics shares profound resonances and interesting divergences
 
 ## 子条目索引 / Sub-entry Index
 
-- [幸福 · Eudaimonia](concepts/幸福论.md)
-- [实践智慧 · Phronesis](concepts/phronesis.md)
-- [中道 · Golden Mean](concepts/中道.md)
-- [美德品格 · Virtue-Character](concepts/virtue-character.md)
-- [目的 · Telos](concepts/telos.md)
+- [幸福 · Eudaimonia](概念/幸福.md)
+- [实践智慧 · Phronesis](概念/实践智慧.md)
+- [中道 · Golden Mean](概念/中道.md)
+- [美德品格 · Virtue-Character](概念/美德品格.md)
+- [目的 · Telos](概念/目的.md)
 - [著作年表 · Works](著作.md)
 - [生平大事记 · Timeline](时间线.md)
 - [阅读指南 · Reading List](阅读.md)

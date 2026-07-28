@@ -171,7 +171,7 @@ Kuiji transmitted the teaching to Huizhao (650-714), who in turn transmitted to 
 - [玄奘 Xuanzang] -- [继承 Inheritance] 师徒传承 Master-disciple transmission
 - [陈那 Dignaga](../dignaga.md) -- [发展 Development] 因明学 Buddhist logic
 - [护法 Dharmapala] -- [继承 Inheritance] 有相唯识 Representational consciousness-only
-- [康德 Kant](../../../哲学/学派/德国唯心论/康德.md) -- [平行 Parallel] 唯识 vs 先验观念论 Consciousness-only vs transcendental idealism
+- [康德 Kant](../../../../哲学/学派/德国唯心论/康德.md) -- [平行 Parallel] 唯识 vs 先验观念论 Consciousness-only vs transcendental idealism
 - [胡塞尔 Husserl] -- [平行 Parallel] 唯识 vs 现象学 Consciousness-only vs phenomenology
 
 ---

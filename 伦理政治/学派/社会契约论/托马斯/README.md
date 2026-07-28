@@ -142,15 +142,15 @@ After returning to England, Hobbes devoted himself to completing his philosophic
 
 ## 重要概念 / Key Concepts
 
-1. **[自然状态](concepts/state-of-nature.md)** / **[State of Nature](concepts/state-of-nature.md)** — 无公共权力的假设情境，人类陷入一切人反对一切人的战争。A hypothetical condition without public power, where humanity falls into the war of all against all.
+1. **[自然状态](概念/自然状态.md)** / **[State of Nature](概念/自然状态.md)** — 无公共权力的假设情境，人类陷入一切人反对一切人的战争。A hypothetical condition without public power, where humanity falls into the war of all against all.
 
-2. **[利维坦](concepts/leviathan.md)** / **[Leviathan](concepts/leviathan.md)** — 通过社会契约创造的人造国家，拥有绝对权力的"会死的上帝"。The artificial state created through social contract, the "mortal god" wielding absolute power.
+2. **[利维坦](概念/利维坦.md)** / **[Leviathan](概念/利维坦.md)** — 通过社会契约创造的人造国家，拥有绝对权力的"会死的上帝"。The artificial state created through social contract, the "mortal god" wielding absolute power.
 
-3. **[社会契约](concepts/社会契约.md)** / **[Social Contract](concepts/社会契约.md)** — 个体间订立的绝对权利让渡协议，不可撤回。The irrevocable covenant among individuals to transfer all rights to a sovereign.
+3. **[社会契约](概念/社会契约.md)** / **[Social Contract](概念/社会契约.md)** — 个体间订立的绝对权利让渡协议，不可撤回。The irrevocable covenant among individuals to transfer all rights to a sovereign.
 
-4. **[一切人反对一切人的战争](concepts/bellum-omnium.md)** / **[Bellum Omnium](concepts/bellum-omnium.md)** — 自然状态的结构性特征，战争不是持续战斗而是持续的战争意愿。The structural feature of the state of nature — war is not constant fighting but constant disposition to fight.
+4. **[一切人反对一切人的战争](概念/一切人反对一切人的战争.md)** / **[Bellum Omnium](概念/一切人反对一切人的战争.md)** — 自然状态的结构性特征，战争不是持续战斗而是持续的战争意愿。The structural feature of the state of nature — war is not constant fighting but constant disposition to fight.
 
-5. **[主权](concepts/sovereignty.md)** / **[Sovereignty](concepts/sovereignty.md)** — 绝对的、不可分割的、不可挑战的公共权力。Absolute, indivisible, and unchallengeable public power.
+5. **[主权](概念/主权.md)** / **[Sovereignty](概念/主权.md)** — 绝对的、不可分割的、不可挑战的公共权力。Absolute, indivisible, and unchallengeable public power.
 
 ## 思想坐标 / Intellectual Coordinates
 
@@ -240,11 +240,11 @@ Han Feizi's Legalist thought comes even closer to Hobbes: both emphasize *shi* (
 
 ## 子条目索引 / Sub-entry Index
 
-- [自然状态 / State of Nature](concepts/state-of-nature.md)
-- [利维坦 / Leviathan](concepts/leviathan.md)
-- [社会契约 / Social Contract](concepts/社会契约.md)
-- [一切人反对一切人的战争 / Bellum Omnium](concepts/bellum-omnium.md)
-- [主权 / Sovereignty](concepts/sovereignty.md)
+- [自然状态 / State of Nature](概念/自然状态.md)
+- [利维坦 / Leviathan](概念/利维坦.md)
+- [社会契约 / Social Contract](概念/社会契约.md)
+- [一切人反对一切人的战争 / Bellum Omnium](概念/一切人反对一切人的战争.md)
+- [主权 / Sovereignty](概念/主权.md)
 - [著作年表 / Works](著作.md)
 - [生平大事记 / Timeline](时间线.md)
 - [阅读指南 / Reading List](阅读.md)

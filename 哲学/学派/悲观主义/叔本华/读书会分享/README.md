@@ -402,8 +402,8 @@ MOCICI 是基于**直接认知**（direct cognition）的冥想实践，取经�
 - [审美沉思](../概念/审美沉思.md)
 - [同情伦理](../概念/同情伦理.md)
 - [意志的否定](../概念/意志的否定.md)
-- [唯识 Vijñaptimātratā](../../../../宗教/佛教/概念/foundational/唯识%20Vijñaptimātratā.md)
-- [直接认知研究](../../../../研究/02-直接认知/README.md)
+- [唯识 Vijñaptimātratā](../../../../../宗教/佛教/概念/foundational/唯识 Vijñaptimātratā.md)
+- [直接认知研究](../../../../../研究/02-直接认知/README.md)
 
 ---
 

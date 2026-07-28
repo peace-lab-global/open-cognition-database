@@ -181,15 +181,15 @@ His work simultaneously challenges three academic traditions: Cartesian mind-bod
 ## 跨学科关联 / Interdisciplinary Connections
 
 - [卡尼曼 \u00b7 双系统](kahneman.md) `[互补]` 快系统（System 1）可理解为躯体标记驱动的快速判断，慢系统（System 2）对应理性分析
-- [休谟 \u00b7 情感主义](../../../哲学/学派/经验主义/休谟.md) `[平行]` "理性是且只应当是激情的奴隶"与"情绪是决策的必要条件"
-- [梅洛-庞蒂 \u00b7 身体现象学](../../../哲学/学派/现象学/梅洛庞蒂.md) `[平行]` 两者都反对身心二元论，都强调身体作为认识和存在的根基
+- [休谟 \u00b7 情感主义](../../../../哲学/学派/经验主义/休谟.md) `[平行]` "理性是且只应当是激情的奴隶"与"情绪是决策的必要条件"
+- [梅洛-庞蒂 \u00b7 身体现象学](../../../../哲学/学派/现象学/梅洛庞蒂.md) `[平行]` 两者都反对身心二元论，都强调身体作为认识和存在的根基
 - [詹姆斯 \u00b7 机能主义](../functionalism/william-james.md) `[继承]` 躯体标记假说直接继承詹姆斯-兰格情绪理论
-- [贝克 \u00b7 CBT](beck.md) `[互补]` 认知重构可理解为对有害躯体标记的重新校准
+- [贝克 \u00b7 CBT](../../../../社会学/学派/现代性/beck.md) `[互补]` 认知重构可理解为对有害躯体标记的重新校准
 - [范德科尔克 \u00b7 创伤](../trauma-psychology/van-der-kolk.md) `[互补]` 躯体标记与创伤的身体记忆\u2014\u2014情绪的身体基础在创伤中尤为凸显
 - [巴雷特 \u00b7 情绪建构论](barrett.md) `[对话]` 达玛西奥的基本情绪观与巴雷特的情绪建构论之间的张力是当代情感科学的核心争论
 - [弗里斯顿 \u00b7 自由能原理](friston.md) `[互补]` 自由能原理的"预测编码"与躯体标记的"身体预测"可整合为统一的框架
-- [达\u00b7芬奇](../../../美学/学派/艺术思想/达.md) `[平行]` 艺术家的"直觉判断"与躯体标记\u2014\u2014创作中的身体智慧
-- [审美经验](../../../美学/概念/审美经验.md) `[互补]` 躯体标记为"审美愉悦的身体性"提供了神经基础
+- [达\u00b7芬奇](../../../../美学/学派/艺术思想/达.md) `[平行]` 艺术家的"直觉判断"与躯体标记\u2014\u2014创作中的身体智慧
+- [审美经验](../../../../美学/概念/审美经验.md) `[互补]` 躯体标记为"审美愉悦的身体性"提供了神经基础
 
 ## 进阶阅读 / Further Reading
 
@@ -218,7 +218,7 @@ His work simultaneously challenges three academic traditions: Cartesian mind-bod
 
 ## 子条目索引 / Sub-entries
 
-- [躯体标记 / Somatic Marker](concepts/躯体标记.md)
+- [躯体标记 / Somatic Marker](概念/躯体标记.md)
 - [对发生之事的感觉 / Feeling of What Happens](concepts/feeling-of-what-happens.md)
 - [具身认知 / Embodied Cognition](concepts/生成认知.md)
 - [情绪与理性 / Emotion and Reason](concepts/emotion-reason.md)

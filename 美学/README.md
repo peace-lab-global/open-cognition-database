@@ -78,7 +78,7 @@ entries:
 |------|----------|
 | [美 / Beauty](concepts/beauty.md) | 形式、判断与文化建构 |
 | [崇高 / Sublime](concepts/sublime.md) | 数学的崇高与力学的崇高 |
-| [审美经验 / Aesthetic Experience](concepts/审美经验.md) | 无功利沉思、心流与日常生活美学 |
+| [审美经验 / Aesthetic Experience](概念/审美经验.md) | 无功利沉思、心流与日常生活美学 |
 
 ## 跨域关联 / Cross-Domain Links
 

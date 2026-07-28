@@ -214,7 +214,7 @@ Faxian's maritime return route is a precious first-hand source for studying the 
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **佛教内部**: [玄奘](xuanzang.md) — 后继求法僧；[义净](yijing.md) — 海路求法僧；[鸠摩罗什](kumarajiva.md) — 同时代译经大师；[道宣](daoxuan.md) — 律宗创始人
+- **佛教内部**: [玄奘](xuanzang.md) — 后继求法僧；[义净](yijing.md) — 海路求法僧；[鸠摩罗什](../鸠摩罗什.md) — 同时代译经大师；[道宣](../道宣.md) — 律宗创始人
 - **历史学**: [司马迁](../../../文学) — 实地考察的历史记录方法
 - **旅行文学**: 马可·波罗、伊本·白图泰 — 跨文化旅行记录的世界传统
 - **考古学**: 坎宁安 (Alexander Cunningham) — 利用《佛国记》定位印度佛教遗址

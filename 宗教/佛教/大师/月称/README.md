@@ -208,8 +208,8 @@ Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** sch
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **佛教内部**: [龙树](龙树.md) — 注释对象与思想源泉；[宗喀巴](tsongkhapa.md) — 藏传应成中观的继承与深化；[中观学派](../中观.md) — 应成派代表
-- **哲学**: [维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) — 治疗型哲学；[德里达](../../../哲学/schools/poststructuralism/derrida.md) — 解构方法
+- **佛教内部**: [龙树](../龙树.md) — 注释对象与思想源泉；[宗喀巴](../宗喀巴.md) — 藏传应成中观的继承与深化；[中观学派](../../概念/cognitive-theory/中观.md) — 应成派代表
+- **哲学**: [维特根斯坦](../../../../哲学/学派/分析哲学/维特根斯坦.md) — 治疗型哲学；[德里达](../../../哲学/schools/poststructuralism/derrida.md) — 解构方法
 - **逻辑学**: 归谬法 (reductio ad absurdum) 在数学和逻辑中的应用
 - **认知科学**: 反物化认知、概念框架批判、认知灵活性
 

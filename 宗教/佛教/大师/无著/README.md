@@ -73,7 +73,7 @@ children: ["concepts/alaya", "concepts/three-natures", "concepts/bija-vasana", "
 - 汉译:唯识无境、三界唯心
 - 关键论证:梦喻、镜像喻、幻觉喻
 
-详见 [三性说](concepts/三性.md) 对认知层次的深入分析。
+详见 [三性说](概念/三性.md) 对认知层次的深入分析。
 
 ### 2. 八识体系 Asta-vijnana
 
@@ -87,7 +87,7 @@ children: ["concepts/alaya", "concepts/three-natures", "concepts/bija-vasana", "
 7. 末那识 manas (自我执取)
 8. 阿赖耶识 alaya-vijnana (潜意识储藏)
 
-详见 [八识体系](concepts/八识体系.md)。
+详见 [八识体系](概念/八识体系.md)。
 
 ### 3. 三性说 Trisvabhava
 
@@ -96,7 +96,7 @@ children: ["concepts/alaya", "concepts/three-natures", "concepts/bija-vasana", "
 - **依他起性** paratantra-svabhava:缘起依存，如绳的因缘和合
 - **圆成实性** parinispanna-svabhava:真实本性，如绳的麻质实相
 
-详见 [三性说](concepts/三性.md)。
+详见 [三性说](概念/三性.md)。
 
 ### 4. 种子熏习 Bija-Vasana
 
@@ -106,7 +106,7 @@ children: ["concepts/alaya", "concepts/three-natures", "concepts/bija-vasana", "
 - 熏习:经验对心识的印刻作用
 - 现行:种子遇缘显现为具体经验
 
-详见 [种子与熏习](concepts/种子与熏习.md)。
+详见 [种子与熏习](概念/种子与熏习.md)。
 
 ### 5. 转识成智 Asraya-paravrtti
 
@@ -116,7 +116,7 @@ children: ["concepts/alaya", "concepts/three-natures", "concepts/bija-vasana", "
 - 第七末那识 → 平等性智 samata-jnana
 - 第八阿赖耶识 → 大圆镜智 adarsa-jnana
 
-详见 [转识成智](concepts/转识成智.md)。
+详见 [转识成智](概念/转识成智.md)。
 
 ### 6. 瑜伽行修道次第
 
@@ -184,11 +184,11 @@ children: ["concepts/alaya", "concepts/three-natures", "concepts/bija-vasana", "
 
 | 概念 | 梵文 | 汉译 | 一句话定义 | 详见 |
 |------|------|------|----------|------|
-| 阿赖耶识 | Alaya-vijnana | 藏识、第八识 | 潜意识的种子储藏库 | [阿赖耶识.md](concepts/阿赖耶识.md) |
-| 三性 | Trisvabhava | 三性、三自性 | 认知对象的三种存在样态 | [三性.md](concepts/三性.md) |
-| 种子与熏习 | Bija-Vasana | 种子、熏习 | 经验的编码、储存与提取 | [种子与熏习.md](concepts/种子与熏习.md) |
-| 八识 | Asta-vijnana | 八识 | 心识的八个层次 | [八识体系.md](concepts/八识体系.md) |
-| 转识成智 | Asraya-paravrtti | 转依、转识成智 | 修行的终极转化 | [转识成智.md](concepts/转识成智.md) |
+| 阿赖耶识 | Alaya-vijnana | 藏识、第八识 | 潜意识的种子储藏库 | [阿赖耶识.md](概念/阿赖耶识.md) |
+| 三性 | Trisvabhava | 三性、三自性 | 认知对象的三种存在样态 | [三性.md](概念/三性.md) |
+| 种子与熏习 | Bija-Vasana | 种子、熏习 | 经验的编码、储存与提取 | [种子与熏习.md](概念/种子与熏习.md) |
+| 八识 | Asta-vijnana | 八识 | 心识的八个层次 | [八识体系.md](概念/八识体系.md) |
+| 转识成智 | Asraya-paravrtti | 转依、转识成智 | 修行的终极转化 | [转识成智.md](概念/转识成智.md) |
 
 ---
 
@@ -475,11 +475,11 @@ children: ["concepts/alaya", "concepts/three-natures", "concepts/bija-vasana", "
 
 | 条目 | 类型 | 内容概述 |
 |------|------|----------|
-| [阿赖耶识](concepts/阿赖耶识.md) | 概念 | 第八识，潜意识储藏系统 |
-| [三性说](concepts/三性.md) | 概念 | 认知对象的三种存在样态 |
-| [种子与熏习](concepts/种子与熏习.md) | 概念 | 经验的编码、储存与提取 |
-| [八识体系](concepts/八识体系.md) | 概念 | 心识的八个层次 |
-| [转识成智](concepts/转识成智.md) | 概念 | 修行的终极转化 |
+| [阿赖耶识](概念/阿赖耶识.md) | 概念 | 第八识，潜意识储藏系统 |
+| [三性说](概念/三性.md) | 概念 | 认知对象的三种存在样态 |
+| [种子与熏习](概念/种子与熏习.md) | 概念 | 经验的编码、储存与提取 |
+| [八识体系](概念/八识体系.md) | 概念 | 心识的八个层次 |
+| [转识成智](概念/转识成智.md) | 概念 | 修行的终极转化 |
 | [著作总览](著作.md) | 作品 | 无著与世亲的全部著作 |
 | [思想年表](时间线.md) | 年表 | 瑜伽行派的历史发展 |
 | [进阶阅读](阅读.md) | 阅读 | 原典、注疏、研究文献 |

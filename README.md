@@ -8,7 +8,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-v0.9%20buddhist--academy--deep-blue.svg)](#)
 [![Domains](https://img.shields.io/badge/domains-9-orange.svg)](#内容总览)
-[![Entries](https://img.shields.io/badge/entries-210%20thinkers%20%7C%20213%20concepts%20%7C%20126%20skills-brightgreen.svg)](#内容总览)
+[![Entries](https://img.shields.io/badge/entries-1075%20thinkers%20%7C%201112%20concepts%20%7C%20137%20skills-brightgreen.svg)](#内容总览)
 
 ---
 
@@ -27,25 +27,27 @@
 ## 内容总览
 
 ```
-9 个领域 × N 思想家/条目 + 概念条目 + Skills + 专题深化
-= 210 思想家 · 213 概念 · 126 Skills · 650+ 结构化 .md 文件
+10 个领域 × N 思想家/条目 + 概念条目 + Skills + 专题深化
+= 1075 思想家条目 · 1112 概念条目 · 137 Skills · 共 2438 条被索引条目（含专题子条目，以 index.json 为准）
 ```
 
 ### 九大领域
 
+> 下表计数由 `_meta/scripts/build-index.py` 自动统计自 `index.json`（含思想家专题子条目），不再手工维护。
+
 | 领域 | 思想家 | 概念 | Skills | 入口 |
 |---|:---:|:---:|:---:|---|
-| **哲学** Philosophy | 42 | 8 | 19 | [哲学 (Philosophy)](哲学/README.md) |
-| **宗教** Religion | 34 | 127 | 39 | [宗教 (Religion)](宗教/README.md) · [佛教认知专题 ↓](#佛教认知理论体系旗舰专题) |
-| **社会学** Sociology | 18 | 7 | 15 | [社会学 (Sociology)](社会学/README.md) |
-| **心理学** Psychology | 42 | 8 | 16 | [心理学 (Psychology)](心理学/README.md) |
-| **伦理与政治哲学** Ethics & Politics | 15 | 11 | 10 | [伦理政治 (Ethics & Political Philosophy)](伦理政治/README.md) |
-| **美学** Aesthetics | 23 | 9 | 3 | [美学 (Aesthetics)](美学/README.md) |
-| **文学** Literature | 5 | 8 | 5 | [文学 (Literature)](文学/README.md) |
-| **艺术** Arts | 3 | 8 | 3 | [艺术 (Arts)](艺术/README.md) |
-| **认知系统工程** Cognitive Systems Engineering | 28 | 27 | 16 | [认知系统 (Cognitive Systems Engineering)](认知系统/README.md) |
+| **哲学** Philosophy | 289 | 251 | 19 | [哲学 (Philosophy)](哲学/README.md) |
+| **宗教** Religion | 66 | 378 | 50 | [宗教 (Religion)](宗教/README.md) · [佛教认知专题 ↓](#佛教认知理论体系旗舰专题) |
+| **社会学** Sociology | 104 | 25 | 15 | [社会学 (Sociology)](社会学/README.md) |
+| **心理学** Psychology | 167 | 208 | 16 | [心理学 (Psychology)](心理学/README.md) |
+| **伦理与政治哲学** Ethics & Politics | 69 | 104 | 10 | [伦理政治 (Ethics & Political Philosophy)](伦理政治/README.md) |
+| **美学** Aesthetics | 116 | 34 | 3 | [美学 (Aesthetics)](美学/README.md) |
+| **文学** Literature | 70 | 8 | 5 | [文学 (Literature)](文学/README.md) |
+| **艺术** Arts | 48 | 63 | 3 | [艺术 (Arts)](艺术/README.md) |
+| **认知系统工程** Cognitive Systems Engineering | 146 | 41 | 16 | [认知系统 (Cognitive Systems Engineering)](认知系统/README.md) |
 
-> **宗教领域 76 概念** 含 19 个佛教认知理论专章 + 16 部经典独立深度条目（详见下文专题）。**39 个 Skill** 含 15 个佛教认知专项 Skill + 3 个佛教冥想实践 Skill + 7 个佛学院方法论 Skill。
+> **宗教领域 378 概念**含佛教认知理论专章与经典独立深度条目（详见下文专题）。**50 个 Skill** 含 15 个佛教认知专项 Skill + 3 个佛教冥想实践 Skill + 7 个佛学院方法论 Skill。另有「清单」领域 99 张跨人物素材清单未计入上表。
 
 完整索引见 [INDEX.md](INDEX.md) ｜ 标签词典见 [TAGS.md](TAGS.md)。
 
@@ -83,7 +85,7 @@
 
 - **总入口**：[`religion/buddhism/INDEX.md`](宗教/佛教/INDEX.md) 第 5 层
 - **认知理论目录**：[`concepts/cognitive-theory/README.md`](宗教/佛教/概念/cognitive-theory/README.md)（含 9 主题认知地图表）
-- **代表概念**：[量论 (Pramāṇa (Buddhist Epistemology))](宗教/佛教/概念/cognitive-theory/量论.md) · [三性 (Trisvabhāva (Three Natures))](宗教/佛教/概念/cognitive-theory/三性.md) · [转识成智 (Transformation of Consciousness)](宗教/佛教/概念/cognitive-theory/六根六尘六识.md) · [公案机制 (Kōan and Huàtóu Cognitive Mechanics)](宗教/佛教/概念/cognitive-theory/公案与话头的认知机制.md)
+- **代表概念**：[量论 (Pramāṇa (Buddhist Epistemology))](宗教/佛教/概念/cognitive-theory/量论.md) · [三性 (Trisvabhāva (Three Natures))](宗教/佛教/概念/cognitive-theory/三性.md) · [转识成智 (Transformation of Consciousness)](宗教/佛教/概念/cognitive-theory/转识成智.md) · [公案机制 (Kōan and Huàtóu Cognitive Mechanics)](宗教/佛教/概念/cognitive-theory/公案与话头的认知机制.md)
 - **代表 Skill**：[八识诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md) · [三性诊断 (three-natures-diagnosis)](宗教/佛教/技能/以唯识三性/SKILL.md) · [缘起链追溯 (dependent-origination-tracing)](宗教/佛教/技能/定位关键断点/SKILL.md) · [五蕴解构 (five-aggregates-deconstruction)](宗教/佛教/技能/以五蕴/SKILL.md)
 
 ### 与当代对话的接口
@@ -111,22 +113,22 @@ open-cognition/
 ├── CONTRIBUTING.md             # 贡献指南
 ├── index.json                  # 机器可读索引
 │
-├── 哲学/                 # 哲学（42 思想家 / 8 概念 / 19 Skills）
+├── 哲学/                 # 哲学（学派/ · 概念/ · 技能/）
 │   ├── README.md
-│   ├── schools/<流派>/<思想家>.md
-│   ├── concepts/<概念>.md
-│   └── skills/<skill>/SKILL.md
+│   ├── 学派/<流派>/<思想家>.md
+│   ├── 概念/<概念>.md
+│   └── 技能/<skill>/SKILL.md
 ├── 宗教/                   # 宗教（含佛教认知专题）
 │   ├── README.md
-│   ├── traditions/<传统>/<条目>.md
-│   ├── concepts/<跨传统概念>.md
-│   ├── skills/<skill>/SKILL.md
-│   ├── 宗教/智慧大师/         # 高僧心法（操作化蒸馏）
-│   └── buddhism/               # 佛教认知理论专题（旗舰）
+│   ├── 传统/<传统>/<条目>.md
+│   ├── 概念/<跨传统概念>.md
+│   ├── 技能/<skill>/SKILL.md
+│   ├── 智慧大师/              # 高僧心法（操作化蒸馏）
+│   └── 佛教/                  # 佛教认知理论专题（旗舰）
 │       ├── INDEX.md · README.md
-│       ├── concepts/（foundational/ · cognitive-theory/ · standalone/）
-│       ├── schools/ · masters/ · sutras/ · treatises/
-│       └── skills/（15 佛教认知专项 Skill）
+│       ├── 概念/（cognitive-theory/ 等）
+│       ├── 学派/ · 大师/ · 经典/ · 论典/
+│       └── 技能/（15 佛教认知专项 Skill）
 ├── 社会学/                  # 社会学
 ├── 心理学/                 # 心理学
 ├── 伦理政治/            # 伦理与政治哲学
@@ -163,13 +165,13 @@ open-cognition/
 
 固定结构：一句话定义 / 历史脉络 / 核心要义 / 通俗 vs 学术 / 与相关概念关系 / 代表思想家 / 应用场景 / 常见误读 / 跨学科关联 / 进阶阅读。
 
-例：[心流 Flow](心理学/概念/心流 Flow.md) · [文化资本 (Cultural Capital)](社会学/概念/文化资本.md) · [神圣性 (The Sacred（跨传统）)](宗教/概念/神圣性.md) · [量论 (Pramāṇa (Buddhist Epistemology))](宗教/佛教/概念/cognitive-theory/量论.md)
+例：[心流 Flow](心理学/概念/心流.md) · [文化资本 (Cultural Capital)](社会学/概念/文化资本.md) · [神圣性 (The Sacred（跨传统）)](宗教/概念/神圣性.md) · [量论 (Pramāṇa (Buddhist Epistemology))](宗教/佛教/概念/cognitive-theory/量论.md)
 
 ### 3. Skill
 
 agent 可执行的操作框架，含 YAML frontmatter + 一句话功能 + 何时用/不用 + 理论基础 + 操作流程（Step 1–N） + 完整示例 + 反例。
 
-例：[CBT 认知扭曲识别 (cbt-cognitive-distortion)](./心理学/技能/认知扭曲识别/SKILL.md) · [布迪厄场域分析 (bourdieu-field-analysis)](./社会学/技能/布迪厄场域分析析/SKILL.md) · [四圣谛诊断 (four-noble-truths-framework)](./宗教/技能/四圣谛框架分/SKILL.md) · [八识诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md) · [五蕴解构 (five-aggregates-deconstruction)](宗教/佛教/技能/以五蕴/SKILL.md)
+例：[CBT 认知扭曲识别 (cbt-cognitive-distortion)](./心理学/技能/认知扭曲识别/SKILL.md) · [布迪厄场域分析 (bourdieu-field-analysis)](社会学/技能/布迪厄场域分析/SKILL.md) · [四圣谛诊断 (four-noble-truths-framework)](./宗教/技能/四圣谛框架分/SKILL.md) · [八识诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md) · [五蕴解构 (five-aggregates-deconstruction)](宗教/佛教/技能/以五蕴/SKILL.md)
 
 ---
 
@@ -180,7 +182,7 @@ agent 可执行的操作框架，含 YAML frontmatter + 一句话功能 + 何时
 - **横向阅读**：选一个主题（如 [自我 Self](INDEX.md#自我-self)），跨四个领域纵览不同视角。
 - **纵向阅读**：从领域 README 进入流派，深度走完一个学派。
 - **专题阅读**：进入 [佛教认知专题](宗教/佛教/INDEX.md) 或 [CSE 专题 (Cognitive Systems Engineering)](认知系统/README.md)，系统性掌握一条轴线。
-- **诊断式阅读**：遇到具体困境时，使用对应 Skill（例如个人迷茫 → [马斯洛需求诊断 (maslow-needs-diagnosis)](./心理学/技能/马斯洛需求诊断断/SKILL.md)；认知卡点 → [八识诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md)；叙事困住 → [三性诊断 (three-natures-diagnosis)](宗教/佛教/技能/以唯识三性/SKILL.md)）。
+- **诊断式阅读**：遇到具体困境时，使用对应 Skill（例如个人迷茫 → [马斯洛需求诊断 (maslow-needs-diagnosis)](心理学/技能/马斯洛需求诊断/SKILL.md)；认知卡点 → [八识诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md)；叙事困住 → [三性诊断 (three-natures-diagnosis)](宗教/佛教/技能/以唯识三性/SKILL.md)）。
 
 ### 给 AI Agent
 
@@ -202,7 +204,7 @@ tags: [...]
 
 > "用 [CBT 认知扭曲识别 (cbt-cognitive-distortion)](./心理学/技能/认知扭曲识别/SKILL.md) 分析下面这段独白：……"
 >
-> "把以下职场困境同时用 [马斯洛需求诊断 (maslow-needs-diagnosis)](./心理学/技能/马斯洛需求诊断断/SKILL.md) 与 [布迪厄场域分析 (bourdieu-field-analysis)](./社会学/技能/布迪厄场域分析析/SKILL.md) 跑一遍。"
+> "把以下职场困境同时用 [马斯洛需求诊断 (maslow-needs-diagnosis)](心理学/技能/马斯洛需求诊断/SKILL.md) 与 [布迪厄场域分析 (bourdieu-field-analysis)](社会学/技能/布迪厄场域分析/SKILL.md) 跑一遍。"
 >
 > "我反复陷入同一模式，请用 [种子模式分析 (bija-pattern-analysis)](宗教/佛教/技能/后的种子类型/SKILL.md) 追溯它的熏习来源，并设计定向熏习方案。"
 >

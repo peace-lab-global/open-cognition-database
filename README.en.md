@@ -124,7 +124,7 @@ Examples: [Freud](心理学/学派/精神分析/西格蒙德.md) | [Weber](社�
 
 Fixed structure: one-line definition, historical context, core content, colloquial vs. scholarly framing, related concepts, representative thinkers, application scenarios, common misreadings, cross-disciplinary links, further reading.
 
-Examples: [Flow](心理学/概念/心流 Flow.md) | [Cultural Capital](社会学/概念/文化资本.md) | [Sacred](宗教/概念/神圣性.md) | [Pramana](宗教/佛教/概念/cognitive-theory/量论.md)
+Examples: [Flow](心理学/概念/心流.md) | [Cultural Capital](社会学/概念/文化资本.md) | [Sacred](宗教/概念/神圣性.md) | [Pramana](宗教/佛教/概念/cognitive-theory/量论.md)
 
 ### Skill
 
