@@ -47,7 +47,7 @@
 | **艺术** Arts | 48 | 63 | 3 | [艺术 (Arts)](艺术/README.md) |
 | **认知系统工程** Cognitive Systems Engineering | 146 | 41 | 16 | [认知系统 (Cognitive Systems Engineering)](认知系统/README.md) |
 
-> **宗教领域 378 概念**含佛教认知理论专章与经典独立深度条目（详见下文专题）。**50 个 Skill** 含 15 个佛教认知专项 Skill + 3 个佛教冥想实践 Skill + 7 个佛学院方法论 Skill。另有「清单」领域 99 张跨人物素材清单未计入上表。
+> **宗教领域 378 概念**含佛教认知理论专章与经典独立深度条目（详见下文专题）。**50 个 Skill** 含 15 个佛教认知专项 Skill + 3 个佛教冥想实践 Skill + 7 个佛学院方法论 Skill。另有「清单」领域 99 张跨人物素材清单、「TECH」板块（[科技与社会议题](TECH/README.md)，AI 复活已故名人等公共争议的正反观点分析）未计入上表。
 
 完整索引见 [INDEX.md](INDEX.md) ｜ 标签词典见 [TAGS.md](TAGS.md)。
 
