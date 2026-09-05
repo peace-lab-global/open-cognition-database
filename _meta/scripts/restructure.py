@@ -10,9 +10,11 @@ Open Cognition 项目结构扁平化迁移脚本
 
 import os
 import re
+import shlex
 import shutil
 import subprocess
 import sys
+from pathlib import Path
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOMAINS = [
@@ -34,9 +36,10 @@ SKILL_DOMAIN_MAP = {
 
 
 def run(cmd, check=True):
-    """Run shell command."""
-    print(f"  > {cmd}")
-    result = subprocess.run(cmd, shell=True, capture_output=True, text=True, cwd=ROOT)
+    """Run command from an argument list (str input is split with shlex; no shell)."""
+    argv = shlex.split(cmd) if isinstance(cmd, str) else list(cmd)
+    print(f"  > {' '.join(argv)}")
+    result = subprocess.run(argv, capture_output=True, text=True, cwd=ROOT)
     if check and result.returncode != 0:
         print(f"  WARN: {result.stderr.strip()}")
     return result
@@ -50,10 +53,10 @@ def git_mv(src, dst):
         print(f"  SKIP (not found): {src}")
         return
     os.makedirs(os.path.dirname(dst_full), exist_ok=True)
-    r = run(f'git mv "{src}" "{dst}"', check=False)
+    r = run(["git", "mv", src, dst], check=False)
     if r.returncode != 0:
         shutil.move(src_full, dst_full)
-        run(f'git add "{dst}"', check=False)
+        run(["git", "add", dst], check=False)
 
 
 def phase1_flatten_domains():
@@ -89,7 +92,7 @@ def phase2_merge_skills():
     remaining = [f for f in os.listdir(skills_dir) if not f.startswith('.')]
     if not remaining:
         shutil.rmtree(skills_dir)
-        run("git add -A skills/", check=False)
+        run(["git", "add", "-A", "skills/"], check=False)
 
 
 def phase3_merge_wisdom_masters():
@@ -107,7 +110,7 @@ def phase3_merge_wisdom_masters():
     remaining = [f for f in os.listdir(wm_dir) if not f.startswith('.')]
     if not remaining:
         shutil.rmtree(wm_dir)
-        run("git add -A wisdom-masters/", check=False)
+        run(["git", "add", "-A", "wisdom-masters/"], check=False)
 
 
 def phase4_meta_consolidation():
@@ -124,7 +127,7 @@ def phase4_meta_consolidation():
         remaining = [f for f in os.listdir(meta_dir) if not f.startswith('.')]
         if not remaining:
             shutil.rmtree(meta_dir)
-            run("git add -A meta/", check=False)
+            run(["git", "add", "-A", "meta/"], check=False)
     # visual/ -> _meta/visual/
     if os.path.exists(os.path.join(ROOT, "visual")):
         git_mv("visual", "_meta/visual")
@@ -296,8 +299,14 @@ def fix_paths_in_file(filepath, old_to_new, new_to_old):
     content = '\n'.join(new_lines)
 
     if content != original:
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(content)
+        real = Path(filepath).resolve()
+        root_real = Path(ROOT).resolve()
+        try:
+            real.relative_to(root_real)
+        except ValueError:
+            print(f"  SKIP (outside repo): {filepath}")
+            return False
+        real.write_text(content, encoding='utf-8')
         return True
     return False
 
@@ -358,9 +367,11 @@ Open Cognition 项目结构扁平化迁移脚本
 
 import os
 import re
+import shlex
 import shutil
 import subprocess
 import sys
+from pathlib import Path
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOMAINS = [
@@ -382,9 +393,10 @@ SKILL_DOMAIN_MAP = {
 
 
 def run(cmd, check=True):
-    """Run shell command."""
-    print(f"  > {cmd}")
-    result = subprocess.run(cmd, shell=True, capture_output=True, text=True, cwd=ROOT)
+    """Run command from an argument list (str input is split with shlex; no shell)."""
+    argv = shlex.split(cmd) if isinstance(cmd, str) else list(cmd)
+    print(f"  > {' '.join(argv)}")
+    result = subprocess.run(argv, capture_output=True, text=True, cwd=ROOT)
     if check and result.returncode != 0:
         print(f"  WARN: {result.stderr.strip()}")
     return result
@@ -398,11 +410,11 @@ def git_mv(src, dst):
         print(f"  SKIP (not found): {src}")
         return
     os.makedirs(os.path.dirname(dst_full), exist_ok=True)
-    r = run(f'git mv "{src}" "{dst}"', check=False)
+    r = run(["git", "mv", src, dst], check=False)
     if r.returncode != 0:
         # fallback: manual move + git add
         shutil.move(src_full, dst_full)
-        run(f'git add "{dst}"', check=False)
+        run(["git", "add", dst], check=False)
 
 
 def phase1_flatten_domains():
@@ -440,7 +452,7 @@ def phase2_merge_skills():
     remaining = [f for f in os.listdir(skills_dir) if not f.startswith('.')]
     if not remaining:
         shutil.rmtree(skills_dir)
-        run("git add -A skills/", check=False)
+        run(["git", "add", "-A", "skills/"], check=False)
 
 
 def phase3_merge_wisdom_masters():
@@ -460,7 +472,7 @@ def phase3_merge_wisdom_masters():
     remaining = [f for f in os.listdir(wm_dir) if not f.startswith('.')]
     if not remaining:
         shutil.rmtree(wm_dir)
-        run("git add -A wisdom-masters/", check=False)
+        run(["git", "add", "-A", "wisdom-masters/"], check=False)
 
 
 def phase4_meta_consolidation():
@@ -477,7 +489,7 @@ def phase4_meta_consolidation():
         remaining = [f for f in os.listdir(meta_dir) if not f.startswith('.')]
         if not remaining:
             shutil.rmtree(meta_dir)
-            run("git add -A meta/", check=False)
+            run(["git", "add", "-A", "meta/"], check=False)
     # visual/ -> _meta/visual/
     if os.path.exists(os.path.join(ROOT, "visual")):
         git_mv("visual", "_meta/visual")
@@ -620,8 +632,14 @@ def fix_paths_in_file(filepath, old_to_new):
     # Already handled by Pattern 1
 
     if content != original:
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(content)
+        real = Path(filepath).resolve()
+        root_real = Path(ROOT).resolve()
+        try:
+            real.relative_to(root_real)
+        except ValueError:
+            print(f"  SKIP (outside repo): {filepath}")
+            return False
+        real.write_text(content, encoding='utf-8')
         return True
     return False
 
@@ -696,7 +714,7 @@ def main():
     print("Starting Open Cognition restructure...")
 
     # Check git status
-    r = run("git status --porcelain", check=False)
+    r = run(["git", "status", "--porcelain"], check=False)
     if r.stdout.strip():
         print("\nWARNING: Uncommitted changes detected. Commit first?")
         print(r.stdout[:500])
