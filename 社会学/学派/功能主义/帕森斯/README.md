@@ -10,7 +10,7 @@ death: 1979
 tags:
   - structural-functionalism
   - social-systems
-  - AGIL
+  - agil
   - pattern-variables
   - sick-role
   - social-action

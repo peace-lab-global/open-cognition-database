@@ -119,11 +119,11 @@ The 2006 paper "A free energy principle for the brain" marked a major theoretica
 
 | 概念 / Concept | 英文 / English | 简述 / Summary | 详见 / See |
 |---|---|---|---|
-| 自由能原理 | Free Energy Principle | 一切自组织系统都趋向最小化变分自由能 | [free-energy-principle](concepts/free-energy-principle.md) |
+| 自由能原理 | Free Energy Principle | 一切自组织系统都趋向最小化变分自由能 | [free-energy-principle](概念/自由能原理.md) |
 | 预测加工 | Predictive Processing | 大脑通过层级预测编码架构处理信息 | [predictive-processing](概念/预测加工.md) |
-| 主动推理 | Active Inference | 行动即选择能验证自身预测的感觉证据 | [active-inference](concepts/active-inference.md) |
-| 层级推断 | Hierarchical Inference | 多尺度多层级的贝叶斯推断结构 | [hierarchical-inference](concepts/hierarchical-inference.md) |
-| 变分贝叶斯 | Variational Bayes | 近似后验推断的数学工具 | [variational-bayes](concepts/variational-bayes.md) |
+| 主动推理 | Active Inference | 行动即选择能验证自身预测的感觉证据 | [active-inference](../../../../哲学/学派/分析哲学/霍维/概念/主动推理.md) |
+| 层级推断 | Hierarchical Inference | 多尺度多层级的贝叶斯推断结构 | [hierarchical-inference](概念/层级推断.md) |
+| 变分贝叶斯 | Variational Bayes | 近似后验推断的数学工具 | [variational-bayes](概念/变分贝叶斯.md) |
 | 预测误差 | Prediction Error | 实际感官输入与预测之间的差值 | — |
 | 精确度加权 | Precision Weighting | 注意力作为预测误差可靠性权重的调节 | — |
 | 马尔可夫毯 | Markov Blanket | 定义系统边界的统计分隔结构 | — |
@@ -266,11 +266,11 @@ Friston's theoretical framework resonates with Eastern intellectual traditions i
 
 | 条目 / Entry | 描述 / Description |
 |---|---|
-| [concepts/free-energy-principle.md](concepts/free-energy-principle.md) | 自由能原理详解 |
+| [concepts/free-energy-principle.md](概念/自由能原理.md) | 自由能原理详解 |
 | [concepts/预测加工.md](概念/预测加工.md) | 预测加工理论详解 |
-| [concepts/active-inference.md](concepts/active-inference.md) | 主动推理详解 |
-| [concepts/hierarchical-inference.md](concepts/hierarchical-inference.md) | 层级推断详解 |
-| [concepts/variational-bayes.md](concepts/variational-bayes.md) | 变分贝叶斯方法详解 |
+| [concepts/active-inference.md](../../../../哲学/学派/分析哲学/霍维/概念/主动推理.md) | 主动推理详解 |
+| [concepts/hierarchical-inference.md](概念/层级推断.md) | 层级推断详解 |
+| [concepts/variational-bayes.md](概念/变分贝叶斯.md) | 变分贝叶斯方法详解 |
 | [著作.md](著作.md) | 完整著作年表 |
 | [时间线.md](时间线.md) | 生平与学术事件年表 |
 | [阅读.md](阅读.md) | 分级进阶阅读清单 |

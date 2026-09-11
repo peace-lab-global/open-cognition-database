@@ -156,10 +156,10 @@ Spinoza's final seven years were devoted almost entirely to completing his magnu
 | 概念 / Concept | 说明 / Description | 详见 / See |
 |------|------|------|
 | 实体一元论 (Substance Monism) | 只有一个实体——上帝/自然 | [实体一元论.md](概念/实体一元论.md) |
-| Conatus (努力/欲力) | 万物保持自身存在的努力 | [conatus.md](concepts/conatus.md) |
-| 上帝即自然 (Deus sive Natura) | 上帝与自然的同一性 | [god-or-nature.md](concepts/god-or-nature.md) |
-| 充分观念 (Adequate Ideas) | 仅通过自身即可理解的观念 | [adequate-ideas.md](concepts/adequate-ideas.md) |
-| 对神的理智之爱 (Amor Dei Intellectualis) | 通过理性认识上帝/自然的最高幸福 | [intellectual-love-of-god.md](concepts/intellectual-love-of-god.md) |
+| Conatus (努力/欲力) | 万物保持自身存在的努力 | [conatus.md](概念/努力.md) |
+| 上帝即自然 (Deus sive Natura) | 上帝与自然的同一性 | [god-or-nature.md](概念/上帝即自然.md) |
+| 充分观念 (Adequate Ideas) | 仅通过自身即可理解的观念 | [adequate-ideas.md](概念/充分观念.md) |
+| 对神的理智之爱 (Amor Dei Intellectualis) | 通过理性认识上帝/自然的最高幸福 | [intellectual-love-of-god.md](概念/对神的理智之爱.md) |
 | 属性 (Attribute) | 知性所认识的实体本质的表达 | — |
 | 样式 (Mode) | 实体的特殊状态或表现 | — |
 | 不充分观念 (Inadequate Ideas) | 需要通过外部事物理解的混乱观念 | — |
@@ -231,8 +231,8 @@ In contemporary philosophy, Spinoza was revived through Gilles Deleuze's creativ
 - **存在主义** → 权力意志与命运之爱 → [Nietzsche (amor fati)](../../存在主义/尼采.md)
 - **心灵哲学** → 泛心论的当代复兴 → [当代泛心论](../../concepts/panpsychism.md)
 - **政治哲学** → 内格里的"诸众"理论 → [Multitude](../../political-philosophy/concepts/multitude.md)
-- **生态哲学** → 深层生态学的形而上学基础 → [Deep Ecology](../../ecology/concepts/deep-ecology.md)
-- **文学** → 歌德的自然哲学、艾略特的"客观对应物" → [Goethe](../../../../文学/学派/诗人/goethe.md)
+- **生态哲学** → 深层生态学的形而上学基础 → [Deep Ecology](../../../../名言/深层生态/内斯-深层生态学.md)
+- **文学** → 歌德的自然哲学、艾略特的"客观对应物" → [Goethe](../../../../文学/学派/诗人/约翰.md)
 
 ## 进阶阅读 / Further Reading
 
@@ -243,10 +243,10 @@ In contemporary philosophy, Spinoza was revived through Gilles Deleuze's creativ
 | 子条目 | 说明 |
 |--------|------|
 | [实体一元论.md](概念/实体一元论.md) | 实体一元论 — 斯宾诺莎形而上学的基石 |
-| [conatus.md](concepts/conatus.md) | 努力/欲力 — 万物保持存在的内在倾向 |
-| [god-or-nature.md](concepts/god-or-nature.md) | 上帝即自然 — 斯宾诺莎最具革命性的命题 |
-| [adequate-ideas.md](concepts/adequate-ideas.md) | 充分观念 — 通向自由的认识论钥匙 |
-| [intellectual-love-of-god.md](concepts/intellectual-love-of-god.md) | 对神的理智之爱 — 斯宾诺莎伦理学的最高境界 |
+| [conatus.md](概念/努力.md) | 努力/欲力 — 万物保持存在的内在倾向 |
+| [god-or-nature.md](概念/上帝即自然.md) | 上帝即自然 — 斯宾诺莎最具革命性的命题 |
+| [adequate-ideas.md](概念/充分观念.md) | 充分观念 — 通向自由的认识论钥匙 |
+| [intellectual-love-of-god.md](概念/对神的理智之爱.md) | 对神的理智之爱 — 斯宾诺莎伦理学的最高境界 |
 | [著作.md](著作.md) | 著作详述 |
 | [时间线.md](时间线.md) | 思想年表 |
 | [阅读.md](阅读.md) | 进阶阅读书单 |

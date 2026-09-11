@@ -7,7 +7,7 @@ linked_concepts:
   - ../../哲学/概念/pragmatism.md
   - ../../哲学/概念/experiential-learning.md
 tags:
-  - 实用主义
+  - pragmatism
   - 教育即经验
   - 民主教育
   - 实践哲学

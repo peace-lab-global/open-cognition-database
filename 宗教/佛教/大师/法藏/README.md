@@ -95,8 +95,8 @@ Fazang (643–712), Tang dynasty monk, the actual founder of the **Huayan (Flowe
 
 - [莱布尼茨](../../../../哲学/学派/理性论/戈特弗里德.md) — [平行] 单子论 vs 因陀罗网
 - [黑格尔](../../../../哲学/学派/德国唯心论/黑格尔.md) — [平行] 整体论
-- [怀特海](../../../哲学/schools/process/whitehead.md) — [平行] 过程哲学
-- [智顗](zhiyi/README.md) — [比较] 天台 vs 华严
+- [怀特海](../../../../哲学/学派/分析哲学/怀特海/概念/过程哲学.md) — [平行] 过程哲学
+- [智顗](../智顗/README.md) — [比较] 天台 vs 华严
 - [华严宗](../华严.md) — [创立者]
 
 ## 进阶阅读 Further Reading
@@ -116,11 +116,11 @@ Fazang (643–712), Tang dynasty monk, the actual founder of the **Huayan (Flowe
 
 ## 子条目索引 Sub-entry Index
 
-- [华严法界](concepts/huayan-dharmadhatu.md)
-- [因陀罗网](concepts/indra-net.md)
-- [四法界](concepts/four-dharmadhatu.md)
-- [理事无碍](concepts/li-shi-wu-ai.md)
-- [性起](concepts/nature-arising.md)
+- [华严法界](README.md)
+- [因陀罗网](../../../../美学/学派/文学思想/泰戈尔/README.md)
+- [四法界](概念/四法界 Four Dharmadhatu: 华严的存在层次论.md)
+- [理事无碍](../../../../文学/README.md)
+- [性起](概念/性起 Nature Arising: 华严的缘起论.md)
 - [著作详述](著作.md)
 - [年表](时间线.md)
 - [阅读清单](阅读.md)

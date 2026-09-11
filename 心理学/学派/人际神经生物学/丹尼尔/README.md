@@ -7,7 +7,22 @@ school: interpersonal-neurobiology
 era: contemporary
 birth: 1957
 death:
-tags: [人际神经生物学, 心智之眼, 整合, 耐受之窗, MWe, 正念, 依恋, 情绪调节, interpersonal-neurobiology, mindsight, integration, window-of-tolerance, mwe, mindfulness, attachment, emotion-regulation]
+tags:
+  - 人际神经生物学
+  - 心智之眼
+  - 整合
+  - 耐受之窗
+  - mwe
+  - 正念
+  - 依恋
+  - 情绪调节
+  - interpersonal-neurobiology
+  - mindsight
+  - integration
+  - window-of-tolerance
+  - mindfulness
+  - attachment
+  - emotion-regulation
 aliases: [西格尔, Siegel, Daniel Siegel, Dan Siegel, 丹尼尔·西格尔]
 sources: [The Developing Mind, Mindsight, The Whole-Brain Child, The Pocket Guide to Interpersonal Neurobiology, Aware, No-Drama Discipline, The Yes Brain]
 cross-refs: [bowlby, damasio, van-der-kolk, kabat-zinn, schore, levine, beck]
@@ -125,15 +140,15 @@ In recent years, Siegel has dedicated himself to translating IPNB's scientific i
 
 ## 重要概念 / Key Concepts
 
-1. **人际神经生物学 / Interpersonal Neurobiology (IPNB)**：一种跨学科的"汇流"（consilient）框架，从9个不同学科视角研究心智的本质，认为心智是"一种自我组织的、具身的、关系性的过程"。→ [详见子条目](concepts/interpersonal-neurobiology.md) / A consilient cross-disciplinary framework that studies the nature of mind from nine disciplinary perspectives, defining mind as "a self-organizing, embodied, and relational process."
+1. **人际神经生物学 / Interpersonal Neurobiology (IPNB)**：一种跨学科的"汇流"（consilient）框架，从9个不同学科视角研究心智的本质，认为心智是"一种自我组织的、具身的、关系性的过程"。→ [详见子条目](README.md) / A consilient cross-disciplinary framework that studies the nature of mind from nine disciplinary perspectives, defining mind as "a self-organizing, embodied, and relational process."
 
-2. **心智之眼 / Mindsight**：一种能够觉察自身与他人内在心理过程的能力，包含觉察（insight）、共情（empathy）与整合（integration）三个维度。→ [详见子条目](concepts/mindsight.md) / The capacity to perceive one's own and others' internal mental processes, comprising three dimensions: insight, empathy, and integration.
+2. **心智之眼 / Mindsight**：一种能够觉察自身与他人内在心理过程的能力，包含觉察（insight）、共情（empathy）与整合（integration）三个维度。→ [详见子条目](概念/心智之眼.md) / The capacity to perceive one's own and others' internal mental processes, comprising three dimensions: insight, empathy, and integration.
 
-3. **整合 / Integration**：心智健康的核心机制——"将不同的部分连接起来，使它们既能保持分化（自主性）又能实现联结（协调）"。→ [详见子条目](concepts/integration.md) / The core mechanism of mental health — "linking differentiated parts so they maintain both differentiation (autonomy) and linkage (coordination)."
+3. **整合 / Integration**：心智健康的核心机制——"将不同的部分连接起来，使它们既能保持分化（自主性）又能实现联结（协调）"。→ [详见子条目](概念/整合.md) / The core mechanism of mental health — "linking differentiated parts so they maintain both differentiation (autonomy) and linkage (coordination)."
 
-4. **耐受之窗 / Window of Tolerance**：个体能够有效处理情绪唤醒、保持理性思考与灵活应对的最佳区间。→ [详见子条目](concepts/window-of-tolerance.md) / The optimal zone within which an individual can effectively process emotional arousal, maintain rational thinking, and respond flexibly.
+4. **耐受之窗 / Window of Tolerance**：个体能够有效处理情绪唤醒、保持理性思考与灵活应对的最佳区间。→ [详见子条目](概念/耐受之窗.md) / The optimal zone within which an individual can effectively process emotional arousal, maintain rational thinking, and respond flexibly.
 
-5. **MWe（我们中的我） / MWe (Me + We)**：健康的自我认同不是孤立的个体性，而是"既独立又连接"的整合状态。→ [详见子条目](concepts/mwe.md) / Healthy self-identity is not isolated individuality but an integrated state of being "both independent and connected."
+5. **MWe（我们中的我） / MWe (Me + We)**：健康的自我认同不是孤立的个体性，而是"既独立又连接"的整合状态。→ [详见子条目](概念/MWe（我们中的我）.md) / Healthy self-identity is not isolated individuality but an integrated state of being "both independent and connected."
 
 6. **觉知之轮 / Wheel of Awareness**：西格尔开发的结构化正念练习，将注意力比喻为轮子的轴心（hub），被觉知的对象比喻为轮缘（rim）上的各个点，通过系统地移动注意力来培养整合性觉知 / A structured mindfulness practice developed by Siegel, metaphorizing attention as the hub of a wheel and objects of awareness as points on the rim, cultivating integrative awareness through systematic movement of attention
 
@@ -226,15 +241,15 @@ Siegel's "river model" — integration as flexible navigation between chaos and 
 
 | 关联方向 / Connection | 思想家/领域 / Thinker/Field | 关系 / Relationship |
 |:---|:---|:---|
-| 依恋理论 / Attachment Theory | [鲍尔比 Bowlby](../../developmental/bowlby/README.md) | "关系塑造大脑"——IPNB 的核心理论支柱 / "Relationships shape the brain" — IPNB's core theoretical pillar |
-| 情感神经科学 / Affective Neuroscience | [达马西奥 Damasio](../../cognitive/damasio/README.md) | 躯体标记与身体觉察的神经科学基础 / Somatic markers and the neuroscience basis of body awareness |
-| 创伤心理学 / Trauma Psychology | [范德科尔克 Van der Kolk](../../trauma-psychology/van-der-kolk/README.md) | 耐受之窗与身体导向创伤治疗的整合 / Window of tolerance and integration with body-oriented trauma treatment |
-| 正念科学 / Mindfulness Science | [卡巴金正念 Kabat-Zinn](../../clinical/kabat-zinn/README.md) | 佛教正念传统的科学化——觉知训练的循证基础 / Scientification of Buddhist mindfulness — evidence-based foundations for awareness training |
-| 右脑发育研究 / Right-Brain Development | [肖尔 Schore](../../developmental/schore/README.md) | 右脑情绪调节回路与IPNB的共同发展 / Right-brain emotion regulation circuits and IPNB's co-development |
-| 多迷走神经理论 / Polyvagal Theory | [波吉斯 Porges](../../neuroscience/porges/README.md) | 自主神经系统与社会参与系统的整合理解 / Integrative understanding of the autonomic nervous system and social engagement system |
-| 认知行为治疗 / Cognitive Behavioral Therapy | [贝克 Beck](../../cognitive/beck/README.md) | 整合框架与认知三角（认知-情感-行为）的对话空间 / Dialogue space between the integration framework and the cognitive triad |
+| 依恋理论 / Attachment Theory | [鲍尔比 Bowlby](../../发展心理学/约翰/README.md) | "关系塑造大脑"——IPNB 的核心理论支柱 / "Relationships shape the brain" — IPNB's core theoretical pillar |
+| 情感神经科学 / Affective Neuroscience | [达马西奥 Damasio](../../认知心理学/达玛西奥/README.md) | 躯体标记与身体觉察的神经科学基础 / Somatic markers and the neuroscience basis of body awareness |
+| 创伤心理学 / Trauma Psychology | [范德科尔克 Van der Kolk](../../创伤心理学/贝塞尔/README.md) | 耐受之窗与身体导向创伤治疗的整合 / Window of tolerance and integration with body-oriented trauma treatment |
+| 正念科学 / Mindfulness Science | [卡巴金正念 Kabat-Zinn](../../认知心理学/卡巴金/README.md) | 佛教正念传统的科学化——觉知训练的循证基础 / Scientification of Buddhist mindfulness — evidence-based foundations for awareness training |
+| 右脑发育研究 / Right-Brain Development | [肖尔 Schore](../../../../README.md) | 右脑情绪调节回路与IPNB的共同发展 / Right-brain emotion regulation circuits and IPNB's co-development |
+| 多迷走神经理论 / Polyvagal Theory | [波吉斯 Porges](../../../../README.md) | 自主神经系统与社会参与系统的整合理解 / Integrative understanding of the autonomic nervous system and social engagement system |
+| 认知行为治疗 / Cognitive Behavioral Therapy | [贝克 Beck](../../认知心理学/贝克/README.md) | 整合框架与认知三角（认知-情感-行为）的对话空间 / Dialogue space between the integration framework and the cognitive triad |
 | 复杂系统理论 / Complex Systems Theory | 复杂适应系统 Complex Adaptive Systems | 自组织、涌现与非线性动力学为整合提供系统论基础 / Self-organization, emergence, and nonlinear dynamics provide systems-theoretic foundations |
-| 佛教心理学 / Buddhist Psychology | [正念与觉知 Mindfulness and Awareness](../../../宗教/佛教/概念/mindfulness-awareness.md) | 正念觉知传统的心理学转化 / Psychological transformation of the mindfulness-awareness tradition |
+| 佛教心理学 / Buddhist Psychology | [正念与觉知 Mindfulness and Awareness](../../认知心理学/塔特/概念/正念与觉知训练.md) | 正念觉知传统的心理学转化 / Psychological transformation of the mindfulness-awareness tradition |
 | 功能主义心理学 / Functionalist Psychology | [詹姆斯 William James](../../功能主义/威廉-william-james/README.md) | 意识流与心智的关系性涌现——两种"心智不是实体"的观点 / Stream of consciousness and relational emergence of mind — two "mind is not entity" perspectives |
 
 ## 进阶阅读 / Further Reading
@@ -264,11 +279,11 @@ Siegel's "river model" — integration as flexible navigation between chaos and 
 
 | 子条目 / Sub-entry | 主题 / Topic | 路径 / Path |
 |:---|:---|:---|
-| 人际神经生物学 / Interpersonal Neurobiology | 九学科汇流框架与心智定义 / Nine-discipline consilient framework and definition of mind | [concepts/interpersonal-neurobiology.md](concepts/interpersonal-neurobiology.md) |
-| 心智之眼 / Mindsight | 觉察、共情与整合的三维能力模型 / Three-dimensional capacity model of insight, empathy, and integration | [concepts/mindsight.md](concepts/mindsight.md) |
-| 整合 / Integration | 分化与联结的动态平衡——心理健康的核心机制 / Dynamic balance of differentiation and linkage — the core mechanism of mental health | [concepts/integration.md](concepts/integration.md) |
-| 耐受之窗 / Window of Tolerance | 情绪调节的最佳区间与创伤的收窄效应 / Optimal zone for emotion regulation and trauma's narrowing effect | [concepts/window-of-tolerance.md](concepts/window-of-tolerance.md) |
-| MWe（我们中的我） / MWe (Me + We) | 关系性自我的整合模型 / Integrative model of the relational self | [concepts/mwe.md](concepts/mwe.md) |
+| 人际神经生物学 / Interpersonal Neurobiology | 九学科汇流框架与心智定义 / Nine-discipline consilient framework and definition of mind | [concepts/interpersonal-neurobiology.md](README.md) |
+| 心智之眼 / Mindsight | 觉察、共情与整合的三维能力模型 / Three-dimensional capacity model of insight, empathy, and integration | [concepts/mindsight.md](概念/心智之眼.md) |
+| 整合 / Integration | 分化与联结的动态平衡——心理健康的核心机制 / Dynamic balance of differentiation and linkage — the core mechanism of mental health | [concepts/integration.md](概念/整合.md) |
+| 耐受之窗 / Window of Tolerance | 情绪调节的最佳区间与创伤的收窄效应 / Optimal zone for emotion regulation and trauma's narrowing effect | [concepts/window-of-tolerance.md](概念/耐受之窗.md) |
+| MWe（我们中的我） / MWe (Me + We) | 关系性自我的整合模型 / Integrative model of the relational self | [concepts/mwe.md](概念/MWe（我们中的我）.md) |
 
 ### 附属文件 / Supplementary Files
 - [著作年表 / Works Chronology](著作.md)

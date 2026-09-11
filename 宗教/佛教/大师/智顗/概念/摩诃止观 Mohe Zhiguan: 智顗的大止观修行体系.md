@@ -4,7 +4,17 @@ title: "摩诃止观 Mohe Zhiguan: 智顗的大止观修行体系"
 type: concept
 parent: 宗教.buddhism.master.zhiyi
 domain: 宗教
-tags: [摩诃止观, Mohe Zhiguan, Great Calming and Contemplation, samatha, vipasyana, meditation, 止, 观, 禅修, Tiantai]
+tags:
+  - 摩诃止观
+  - mohe-zhiguan
+  - great-calming-and-contemplation
+  - samatha
+  - vipasyana
+  - meditation
+  - 止
+  - 观
+  - 禅修
+  - tiantai
 ---
 
 # 摩诃止观 Mohe Zhiguan / The Great Calming and Contemplation

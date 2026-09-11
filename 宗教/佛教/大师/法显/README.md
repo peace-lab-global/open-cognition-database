@@ -7,7 +7,17 @@ school: buddhism-vinaya
 era: ancient
 birth: 337
 death: 422
-tags: [Faxian, 法显, 佛国记, 律藏补阙, 求法僧, 海路求法, 旅行文学, Vinaya, pilgrimage, travel-records]
+tags:
+  - faxian
+  - 法显
+  - 佛国记
+  - 律藏补阙
+  - 求法僧
+  - 海路求法
+  - 旅行文学
+  - vinaya
+  - pilgrimage
+  - travel-records
 aliases: ["Fa-Hien", "Fa Xian", "释法显", "Faxian"]
 sources: ["佛国记 (A Record of Buddhistic Kingdoms)", "摩诃僧祇律 (Mahasanghika-vinaya)", "大般泥洹经 (Mahaparinirvana-sutra)", "萨婆多律 (Sarvastivada-vinaya)"]
 cross_refs: ["xuanzang", "yijing", "kumarajiva", "daoxuan", "huiyuan"]
@@ -41,7 +51,7 @@ children: ["concepts/vinaya-completion", "concepts/pilgrimage-spirit", "concepts
 
 Faxian's primary motivation for traveling west was to **fill the critical gaps in the Chinese Buddhist Vinaya (monastic discipline) canon**. While substantial portions of the Sutra and Sastra collections had been transmitted to China, the complete Vinaya — especially the full monastic codes (broad Vinaya / 广律) — was severely lacking. This left Chinese monastic communities without proper regulatory frameworks. Moved by this deficiency, Faxian resolved to journey to India to obtain complete Vinaya texts.
 
-详见 [律藏补阙](concepts/vinaya-completion.md)。
+详见 [律藏补阙](README.md)。
 
 ### 2. 求法精神 The Spirit of Dharma-Seeking
 
@@ -49,7 +59,7 @@ Faxian's primary motivation for traveling west was to **fill the critical gaps i
 
 At the age of 65, Faxian embarked on a perilous journey of thousands of miles with uncertain prospects of survival. His companions either turned back, died en route, or chose to remain in India — only Faxian completed the entire journey and returned with scriptures. This spirit inaugurated the Chinese Buddhist tradition of "Dharma-seeking pilgrims" and profoundly influenced later figures such as Zhimeng, Xuanzang, and Yijing.
 
-详见 [求法精神](concepts/pilgrimage-spirit.md)。
+详见 [求法精神](概念/求法精神 The Spirit of Dharma-Seeking: 法显 65 岁高龄的万里征途.md)。
 
 ### 3. 文化记录 Cultural Documentation
 
@@ -57,7 +67,7 @@ At the age of 65, Faxian embarked on a perilous journey of thousands of miles wi
 
 *A Record of Buddhistic Kingdoms* is not merely a religious document but an invaluable **first-hand historical source** on 5th-century South Asia, Central Asia, and maritime trade routes. It documents Gupta-period Indian society, early Sri Lankan Buddhism, and the commercial and navigational realities of the Maritime Silk Road.
 
-详见 [文化记录](concepts/cultural-documentation.md)。
+详见 [文化记录](概念/文化记录 Cultural Documentation: 《佛国记》作为 5 世纪亚洲文明史料.md)。
 
 ### 4. 海路求法 Maritime Dharma-Seeking
 
@@ -65,7 +75,7 @@ At the age of 65, Faxian embarked on a perilous journey of thousands of miles wi
 
 Faxian's return journey via the **maritime route** — from Sri Lanka through Java to China — constitutes one of the earliest Chinese accounts of sea travel for Dharma-seeking. This voyage documented 5th-century Maritime Silk Road trade networks, navigational practices, and vivid accounts of ocean storms, merchant shipping, and cross-cultural commerce.
 
-详见 [海路求法](concepts/sea-route.md)。
+详见 [海路求法](../../../../研究/README.md)。
 
 ### 5. 三大求法记 The Three Great Pilgrimage Records
 
@@ -73,7 +83,7 @@ Faxian's return journey via the **maritime route** — from Sri Lanka through Ja
 
 Faxian's *Record*, Xuanzang's *Great Tang Records on the Western Regions*, and Yijing's *A Record of the Buddhist Religion as Practised in India and the Malay Archipelago* are collectively known as the **"Three Great Pilgrimage Records"** of Chinese Buddhism. Together they form the most important body of medieval Chinese knowledge about South and Central Asia, spanning three centuries (5th-8th century) and providing a panoramic view of Asian civilizations.
 
-详见 [三大求法记](concepts/three-travel-records.md)。
+详见 [三大求法记](概念/三大求法记 The Three Great Pilgrimage Records: 法显、玄奘、义净的经典文献群.md)。
 
 ---
 
@@ -214,8 +224,8 @@ Faxian's maritime return route is a precious first-hand source for studying the 
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **佛教内部**: [玄奘](xuanzang.md) — 后继求法僧；[义净](yijing.md) — 海路求法僧；[鸠摩罗什](../鸠摩罗什.md) — 同时代译经大师；[道宣](../道宣.md) — 律宗创始人
-- **历史学**: [司马迁](../../../文学) — 实地考察的历史记录方法
+- **佛教内部**: [玄奘](../真谛/概念/真谛vs玄奘系唯识 Paramārtha vs. Xuánzàng Yogācāra.md) — 后继求法僧；[义净](../../../../文学/概念/意境.md) — 海路求法僧；[鸠摩罗什](../鸠摩罗什.md) — 同时代译经大师；[道宣](../道宣.md) — 律宗创始人
+- **历史学**: [司马迁](../../../../文学) — 实地考察的历史记录方法
 - **旅行文学**: 马可·波罗、伊本·白图泰 — 跨文化旅行记录的世界传统
 - **考古学**: 坎宁安 (Alexander Cunningham) — 利用《佛国记》定位印度佛教遗址
 - **地理学**: 丝绸之路研究、海上丝绸之路研究
@@ -245,11 +255,11 @@ Faxian's maritime return route is a precious first-hand source for studying the 
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [律藏补阙](concepts/vinaya-completion.md) — 法显西行的根本动机
-- [求法精神](concepts/pilgrimage-spirit.md) — 65 岁高龄的精神力量
-- [文化记录](concepts/cultural-documentation.md) — 《佛国记》的史料价值
-- [海路求法](concepts/sea-route.md) — 回程海路的历史意义
-- [三大求法记](concepts/three-travel-records.md) — 法显、玄奘、义净的比较
+- [律藏补阙](README.md) — 法显西行的根本动机
+- [求法精神](概念/求法精神 The Spirit of Dharma-Seeking: 法显 65 岁高龄的万里征途.md) — 65 岁高龄的精神力量
+- [文化记录](概念/文化记录 Cultural Documentation: 《佛国记》作为 5 世纪亚洲文明史料.md) — 《佛国记》的史料价值
+- [海路求法](../../../../研究/README.md) — 回程海路的历史意义
+- [三大求法记](概念/三大求法记 The Three Great Pilgrimage Records: 法显、玄奘、义净的经典文献群.md) — 法显、玄奘、义净的比较
 - [著作目录](著作.md) — 完整著作列表与考证
 - [年表](时间线.md) — 生平与历史语境
 - [进阶阅读](阅读.md) — 分类书单

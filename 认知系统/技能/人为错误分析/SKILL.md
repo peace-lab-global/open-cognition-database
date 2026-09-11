@@ -9,7 +9,7 @@ tags:
   - human-error
   - safety
   - accident-analysis
-  - SRK
+  - srk
 ---
 
 # 人为错误分析 · Human Error Analysis

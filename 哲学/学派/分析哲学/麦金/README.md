@@ -108,6 +108,6 @@ Colin McGinn is known for his "New Mysterianism" — the position that conscious
 
 ## 十、关联 Skills
 
-- [内格尔 Nagel](../nagel/README.md) `[同源]` 意识的主观特征
-- [丹尼特 Dennett](../dennett/README.md) `[对立]` 还原论 vs 神秘主义
-- [查尔默斯 Chalmers](../chalmers/README.md) `[对话]` 难问题的不同回应
+- [内格尔 Nagel](../内格尔/README.md) `[同源]` 意识的主观特征
+- [丹尼特 Dennett](../丹尼特/README.md) `[对立]` 还原论 vs 神秘主义
+- [查尔默斯 Chalmers](../../../../伦理政治/学派/德性伦理学/阿拉斯戴尔/README.md) `[对话]` 难问题的不同回应

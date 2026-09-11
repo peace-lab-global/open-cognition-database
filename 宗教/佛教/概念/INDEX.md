@@ -40,7 +40,7 @@
 ## 关联导航
 
 - 🔝 佛教模块顶层入口：[`../INDEX.md`](../INDEX.md)
-- 📚 十三经：[`../sutras/README.md`](../sutras/README.md)
+- 📚 十三经：[`../sutras/README.md`](../经典/README.md)
 - 🧠 认知理论：[`./cognitive-theory/README.md`](cognitive-theory/README.md)
 - 🎯 基础概念：[`./foundational/`](foundational/)（三宝、三法印、缘起…）
 - 🏛️ 宗派：[`../schools/`](../学派)（上座部、中观、唯识、天台…）

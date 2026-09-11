@@ -6,7 +6,15 @@ domain: 宗教
 school: buddhism-pure-land
 birth: 613
 death: 681
-tags: [善导, Shandao, Pure Land, 净土宗, Nianfo, 念佛, Other-Power, 他力]
+tags:
+  - 善导
+  - shandao
+  - pure-land
+  - 净土宗
+  - nianfo
+  - 念佛
+  - other-power
+  - 他力
 ---
 
 # 善导大师 Shandao (613–681)
@@ -224,7 +232,7 @@ Shandao's thought is often dismissed as "simple fideism," but deeper analysis re
 
 ## 跨学科关联 Interdisciplinary Connections
 
-- [慧能 Huineng](../huineng.md) — 同时代的大众化改革者 / Contemporary fellow reformer who democratized Chan Buddhism
+- [慧能 Huineng](../慧能/README.md) — 同时代的大众化改革者 / Contemporary fellow reformer who democratized Chan Buddhism
 - [昙鸾 Tanluan](tanluan.md) — 他力思想的先驱 / Pioneer of Other-Power thought
 - [道绰 Daochuo](daochuo.md) — 善导的师父，承前启后 / Shandao's teacher, bridging Tanluan and Shandao
 - [法然 Hōnen](../../japan/honen.md) — 日本净土宗创立者，善导思想的直接继承者 / Founder of Japanese Jōdo-shū, direct inheritor of Shandao's thought
@@ -236,11 +244,11 @@ Shandao's thought is often dismissed as "simple fideism," but deeper analysis re
 
 ## 相关概念 Related Concepts
 
-- [念佛 Nianfo](concepts/nianfo.md) — 称念阿弥陀佛名号的修行
-- [净土修行 Pure Land Practice](concepts/pure-land-practice.md) — 往生净土的完整修行体系
-- [他力 Other-Power](concepts/other-power.md) — 阿弥陀佛本愿力的救度
-- [五种正行 Five Primary Practices](concepts/five-primary-practices.md) — 善导分类的五种核心修行
-- [观想 Visualization](concepts/visualization.md) — 《观经》中的十六种观想法门
+- [念佛 Nianfo](概念/称名念佛 Nianfo Chenming: 口称佛号为往生正因.md) — 称念阿弥陀佛名号的修行
+- [净土修行 Pure Land Practice](../印光/README.md) — 往生净土的完整修行体系
+- [他力 Other-Power](概念/他力本愿 Other-Power: 阿弥陀佛的第十八愿.md) — 阿弥陀佛本愿力的救度
+- [五种正行 Five Primary Practices](概念/五种正行 Wǔ Zhǒng Zhèngxíng — The Five Primary Practices.md) — 善导分类的五种核心修行
+- [观想 Visualization](概念/观想 Guānxiǎng — Visualization Practice in Pure Land Buddhism.md) — 《观经》中的十六种观想法门
 
 ---
 

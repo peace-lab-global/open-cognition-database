@@ -6,9 +6,9 @@ domain: 艺术
 school: contemporary-art
 era: 2010年代—至今
 tags:
-  - AI 艺术
-  - 生成式 AI
-  - GAN
+  - AI-艺术
+  - 生成式-AI
+  - gan
   - 扩散模型
   - 深度学习
   - 算法

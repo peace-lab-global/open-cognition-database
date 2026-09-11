@@ -7,7 +7,13 @@ school: literary-theory
 era: modern
 birth: 1857
 death: 1913
-tags: [结构语言学, 符号学, 能指所指, 语言言语, 结构主义, 共时历时]
+tags:
+  - 结构语言学
+  - 符号学
+  - 能指所指
+  - 语言言语
+  - structuralism
+  - 共时历时
 aliases: [Ferdinand de Saussure, 索绪尔, F. de Saussure]
 sources:
   - "Course in General Linguistics (1916)"

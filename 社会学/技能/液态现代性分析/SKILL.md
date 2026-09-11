@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[鲍曼](../../学派/现代性/bauman.md)
+- 来源思想家：[鲍曼](../../学派/现代性/鲍曼.md)
 - 来源概念：[液态现代性](../../concepts/liquid-modernity.md)、[消费社会](../../concepts/consumer-society.md)
 - 关键文献：《液态现代性》、《消费生活》、《全球化》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[鲍曼](../../学派/现代性/bauman.md)
+- 思想家：[鲍曼](../../学派/现代性/鲍曼.md)
 - 概念：[液态现代性](../../concepts/liquid-modernity.md)、[消费社会](../../concepts/consumer-society.md)
 - 相关 Skill：[social-fact-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[class-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

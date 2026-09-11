@@ -113,15 +113,15 @@ The aging Michelangelo turned increasingly to architecture and poetry. Appointed
 
 ## 重要概念 / Key Concepts
 
-- **崇高 / Terribilità**：令人敬畏的、近乎压倒性的力量感，区别于温润的"美"——详见 [terribilita](concepts/terribilita.md)。An awe-inspiring, nearly overwhelming sense of power, distinct from gentle "beauty."
+- **崇高 / Terribilità**：令人敬畏的、近乎压倒性的力量感，区别于温润的"美"——详见 [terribilita](概念/崇高（Terribilità）.md)。An awe-inspiring, nearly overwhelming sense of power, distinct from gentle "beauty."
 
-- **雕塑至上 / Sculpture Primacy**：雕塑是最高的艺术形式，因为它是从物质中直接解放精神的过程——详见 [sculpture-primacy](concepts/sculpture-primacy.md)。Sculpture as the highest art form, being the direct liberation of spirit from matter.
+- **雕塑至上 / Sculpture Primacy**：雕塑是最高的艺术形式，因为它是从物质中直接解放精神的过程——详见 [sculpture-primacy](概念/雕塑至上.md)。Sculpture as the highest art form, being the direct liberation of spirit from matter.
 
-- **西斯廷天顶 / Sistine Ceiling**：以雕塑思维改造绘画的里程碑——详见 [sistine-ceiling](concepts/sistine-ceiling.md)。The landmark of transforming painting through sculptural thinking.
+- **西斯廷天顶 / Sistine Ceiling**：以雕塑思维改造绘画的里程碑——详见 [sistine-ceiling](概念/西斯廷天顶.md)。The landmark of transforming painting through sculptural thinking.
 
-- **新柏拉图主义艺术 / Neoplatonism in Art**：理念先于物质，艺术是理念的感性显现——详见 [neoplatonism-art](concepts/neoplatonism-art.md)。Idea precedes matter; art is the sensuous manifestation of idea.
+- **新柏拉图主义艺术 / Neoplatonism in Art**：理念先于物质，艺术是理念的感性显现——详见 [neoplatonism-art](概念/新柏拉图主义艺术.md)。Idea precedes matter; art is the sensuous manifestation of idea.
 
-- **人体与神圣 / Human Form Divine**：理想人体是神圣精神的可见载体——详见 [human-form-divine](concepts/human-form-divine.md)。The ideal human body as visible vessel of divine spirit.
+- **人体与神圣 / Human Form Divine**：理想人体是神圣精神的可见载体——详见 [human-form-divine](../../../../心理学/学派/人本主义/卡尔/README.md)。The ideal human body as visible vessel of divine spirit.
 
 - **未完成（Non-finito）**：刻意或命运性的未完成状态，使形象与物质处于持续的显现之中。A state of deliberate or fated incompletion, keeping figure and matter in perpetual emergence.
 
@@ -225,11 +225,11 @@ Japanese wabi-sabi 美学 — finding beauty in imperfection and impermanence �
 
 ## 子条目索引 / Sub-entry Index
 
-- [崇高（Terribilità）](concepts/terribilita.md) — 令人敬畏的压倒性力量美学
-- [雕塑至上（Sculpture Primacy）](concepts/sculpture-primacy.md) — 雕塑作为最高艺术形式的形而上学
-- [西斯廷天顶（Sistine Ceiling）](concepts/sistine-ceiling.md) — 以雕塑思维改造绘画的里程碑
-- [新柏拉图主义艺术（Neoplatonism in Art）](concepts/neoplatonism-art.md) — 理念先于物质的艺术哲学
-- [人体与神圣（Human Form Divine）](concepts/human-form-divine.md) — 理想人体作为神圣精神的载体
+- [崇高（Terribilità）](概念/崇高（Terribilità）.md) — 令人敬畏的压倒性力量美学
+- [雕塑至上（Sculpture Primacy）](概念/雕塑至上.md) — 雕塑作为最高艺术形式的形而上学
+- [西斯廷天顶（Sistine Ceiling）](概念/西斯廷天顶.md) — 以雕塑思维改造绘画的里程碑
+- [新柏拉图主义艺术（Neoplatonism in Art）](概念/新柏拉图主义艺术.md) — 理念先于物质的艺术哲学
+- [人体与神圣（Human Form Divine）](../../../../心理学/学派/人本主义/卡尔/README.md) — 理想人体作为神圣精神的载体
 - [著作年表](著作.md) — 完整作品编年
 - [生平大事记](时间线.md) — 传记年表与历史背景
 - [阅读指南](阅读.md) — 分层进阶阅读推荐

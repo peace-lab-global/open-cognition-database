@@ -8,12 +8,11 @@ era: modern
 birth: 1859
 death: 1952
 tags:
-  - 实用主义
+  - pragmatism
   - 工具主义
   - 教育哲学
   - 民主理论
   - 经验哲学
-  - pragmatism
   - instrumentalism
   - education
   - democracy
@@ -129,16 +128,16 @@ Dewey joined Columbia University in 1904, and over the next four decades continu
 
 | 概念 / Concept | 中文释义 | English Gloss | 详见 / See |
 |---|---|---|---|
-| Experience 经验 | 有机体与环境的主动交互过程，含做（doing）与受（undergoing） | Active organism-environment transaction, including doing and undergoing | [experience-and-nature](concepts/experience-and-nature.md) |
-| Inquiry 探究 | 将不确定情境转化为确定情境的有控制的转化 | Controlled transformation of an indeterminate situation into a determinate one | [inquiry](concepts/inquiry.md) |
-| Instrumentalism 工具主义 | 思想作为解决问题的工具 | Ideas as tools for problem-solving | [instrumentalism](concepts/instrumentalism.md) |
-| Warranted Assertibility 有理由的断定性 | 取代"真理"概念的实践认识论标准 | Pragmatic epistemic standard replacing "truth" | [instrumentalism](concepts/instrumentalism.md) |
+| Experience 经验 | 有机体与环境的主动交互过程，含做（doing）与受（undergoing） | Active organism-environment transaction, including doing and undergoing | [experience-and-nature](概念/经验与自然.md) |
+| Inquiry 探究 | 将不确定情境转化为确定情境的有控制的转化 | Controlled transformation of an indeterminate situation into a determinate one | [inquiry](概念/探究.md) |
+| Instrumentalism 工具主义 | 思想作为解决问题的工具 | Ideas as tools for problem-solving | [instrumentalism](概念/工具主义.md) |
+| Warranted Assertibility 有理由的断定性 | 取代"真理"概念的实践认识论标准 | Pragmatic epistemic standard replacing "truth" | [instrumentalism](概念/工具主义.md) |
 | Habit 习惯 | 主动获得的有机体能力，而非被动的重复 | Actively acquired organismic capacity, not passive repetition | — |
-| Situation 情境 | 经验的整体环境，包含有机体与环境的交互 | The total environmental context of experience | [inquiry](concepts/inquiry.md) |
-| Growth 生长 | 经验的持续重建，教育的目的即其本身 | Continuous reconstruction of experience; education's end is itself | [democracy-education](concepts/democracy-education.md) |
-| Communication 交流 | 共享经验的社会过程，民主的基础 | Social process of sharing experience; the foundation of democracy | [democracy-education](concepts/democracy-education.md) |
-| Aesthetic Experience 审美经验 | 完整、统一、强化的经验的典范形态 | Paradigmatic form of complete, unified, intensified experience | [art-as-experience](concepts/art-as-experience.md) |
-| Continuity 连续性 | 经验的生长原则，每一经验都影响后续经验 | Growth principle of experience; each experience influences subsequent ones | [democracy-education](concepts/democracy-education.md) |
+| Situation 情境 | 经验的整体环境，包含有机体与环境的交互 | The total environmental context of experience | [inquiry](概念/探究.md) |
+| Growth 生长 | 经验的持续重建，教育的目的即其本身 | Continuous reconstruction of experience; education's end is itself | [democracy-education](概念/民主与教育.md) |
+| Communication 交流 | 共享经验的社会过程，民主的基础 | Social process of sharing experience; the foundation of democracy | [democracy-education](概念/民主与教育.md) |
+| Aesthetic Experience 审美经验 | 完整、统一、强化的经验的典范形态 | Paradigmatic form of complete, unified, intensified experience | [art-as-experience](../../../../艺术/README.md) |
+| Continuity 连续性 | 经验的生长原则，每一经验都影响后续经验 | Growth principle of experience; each experience influences subsequent ones | [democracy-education](概念/民主与教育.md) |
 
 ---
 
@@ -324,11 +323,11 @@ Dewey's concept of "growth" enters cross-cultural dialogue with the *Book of Cha
 
 | 子条目 / Sub-Entry | 描述 / Description |
 |---|---|
-| [instrumentalism](concepts/instrumentalism.md) | 工具主义：思想作为工具，有理由的断定性 / Instrumentalism: ideas as tools, warranted assertibility |
-| [experience-and-nature](concepts/experience-and-nature.md) | 经验与自然：有机体-环境交互，反旁观者理论 / Experience and Nature: organism-environment transaction, against spectator theory |
-| [democracy-education](concepts/democracy-education.md) | 民主与教育：联合生活，教育作为社会过程 / Democracy and Education: associated living, education as social process |
-| [art-as-experience](concepts/art-as-experience.md) | 艺术即经验：审美经验的完满，反博物馆概念 / Art as Experience: consummation of aesthetic experience, against museum conception |
-| [inquiry](concepts/inquiry.md) | 探究：从不确定到确定情境 / Inquiry: from indeterminate to determinate situation |
+| [instrumentalism](概念/工具主义.md) | 工具主义：思想作为工具，有理由的断定性 / Instrumentalism: ideas as tools, warranted assertibility |
+| [experience-and-nature](概念/经验与自然.md) | 经验与自然：有机体-环境交互，反旁观者理论 / Experience and Nature: organism-environment transaction, against spectator theory |
+| [democracy-education](概念/民主与教育.md) | 民主与教育：联合生活，教育作为社会过程 / Democracy and Education: associated living, education as social process |
+| [art-as-experience](../../../../艺术/README.md) | 艺术即经验：审美经验的完满，反博物馆概念 / Art as Experience: consummation of aesthetic experience, against museum conception |
+| [inquiry](概念/探究.md) | 探究：从不确定到确定情境 / Inquiry: from indeterminate to determinate situation |
 | [works](著作.md) | 著作详表 / Detailed works listing |
 | [timeline](时间线.md) | 生平年表 / Biographical timeline |
 | [reading-list](阅读.md) | 进阶阅读清单 / Extended reading list |

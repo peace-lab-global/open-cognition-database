@@ -5,7 +5,15 @@ type: concept
 domain: 心理学
 school: trauma-psychology
 thinker: van-der-kolk
-tags: [EMDR, 眼动脱敏, 体感体验, 瑜伽, 神经反馈, 自下而上, bottom-up, bilateral stimulation]
+tags:
+  - emdr
+  - 眼动脱敏
+  - 体感体验
+  - 瑜伽
+  - 神经反馈
+  - 自下而上
+  - bottom-up
+  - bilateral-stimulation
 cross-refs: [body-keeps-score.md, traumatic-stress.md, developmental-trauma.md]
 ---
 

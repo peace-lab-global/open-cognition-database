@@ -4,7 +4,12 @@ title: "空性 Sunyata: 龙树的反本质主义核心概念"
 type: concept
 parent: nagarjuna
 domain: 宗教
-tags: [emptiness, sunyata, svabhava, anti-essentialism, Madhyamaka]
+tags:
+  - emptiness
+  - sunyata
+  - svabhava
+  - anti-essentialism
+  - madhyamaka
 ---
 
 # 空性 Sunyata / Emptiness

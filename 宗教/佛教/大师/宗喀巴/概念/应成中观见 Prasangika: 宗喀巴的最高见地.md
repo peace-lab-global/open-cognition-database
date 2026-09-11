@@ -4,7 +4,12 @@ title: "应成中观见 Prasangika: 宗喀巴的最高见地"
 type: concept
 parent: tsongkhapa
 domain: 宗教
-tags: [prasangika, consequence, Madhyamaka, emptiness, Tsongkhapa]
+tags:
+  - prasangika
+  - consequence
+  - madhyamaka
+  - emptiness
+  - tsongkhapa
 ---
 
 # 应成中观见 Prasangika / Consequentialist Middle Way

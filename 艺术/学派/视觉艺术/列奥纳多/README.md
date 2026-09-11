@@ -119,15 +119,15 @@ In 1506 Leonardo returned to Milan under French governance. His painting output 
 
 ## 重要概念 / Key Concepts
 
-1. **渐隐法 / Sfumato**：消除明确轮廓线，以极细腻的油彩层次过渡创造朦胧效果。达芬奇的签名技法，使形象如烟雾般柔和，表情处于永恒的不确定之中。→ [详见概念文件](concepts/sfumato.md)
+1. **渐隐法 / Sfumato**：消除明确轮廓线，以极细腻的油彩层次过渡创造朦胧效果。达芬奇的签名技法，使形象如烟雾般柔和，表情处于永恒的不确定之中。→ [详见概念文件](概念/渐隐法.md)
 
-2. **全才 / Universal Man (Uomo Universale)**：文艺复兴理想中的完美人格——不受单一学科限制，在艺术、科学、工程等领域均达到卓越。达芬奇是这一理想的终极典范。→ [详见概念文件](concepts/universal-man.md)
+2. **全才 / Universal Man (Uomo Universale)**：文艺复兴理想中的完美人格——不受单一学科限制，在艺术、科学、工程等领域均达到卓越。达芬奇是这一理想的终极典范。→ [详见概念文件](概念/全才.md)
 
-3. **艺术与科学统一 / Art-Science Unity**：绘画不仅是美的创造，更是认识自然的最可靠科学手段。视觉是最完善的感官，因此以视觉为基础的绘画高于所有其他艺术形式。→ [详见概念文件](concepts/art-science-unity.md)
+3. **艺术与科学统一 / Art-Science Unity**：绘画不仅是美的创造，更是认识自然的最可靠科学手段。视觉是最完善的感官，因此以视觉为基础的绘画高于所有其他艺术形式。→ [详见概念文件](../../../README.md)
 
-4. **手稿与笔记本 / Codex Notebooks**：约一万三千页手稿，以镜像书写记录了达芬奇对自然现象的系统观察、工程设计、解剖学研究和哲学反思。→ [详见概念文件](concepts/codex-notebooks.md)
+4. **手稿与笔记本 / Codex Notebooks**：约一万三千页手稿，以镜像书写记录了达芬奇对自然现象的系统观察、工程设计、解剖学研究和哲学反思。→ [详见概念文件](概念/手稿与笔记本.md)
 
-5. **透视法 / Perspective Mastery**：达芬奇不仅掌握了线性透视法（一点透视），还发展了大气透视（空气透视）和色彩透视的理论——物体越远越模糊、越偏蓝。→ [详见概念文件](concepts/perspective-mastery.md)
+5. **透视法 / Perspective Mastery**：达芬奇不仅掌握了线性透视法（一点透视），还发展了大气透视（空气透视）和色彩透视的理论——物体越远越模糊、越偏蓝。→ [详见概念文件](概念/透视法.md)
 
 6. **镜像书写 / Mirror Writing**：达芬奇以左手从右到左书写，形成镜像效果。这可能既是左撇子的实用选择，也是保护手稿内容的策略。
 
@@ -227,11 +227,11 @@ Leonardo's unity of art and science resonates with the Chinese literati painting
 
 ## 子条目索引 / Sub-entry Index
 
-- [渐隐法 Sfumato](concepts/sfumato.md) — 消除轮廓线的签名技法
-- [全才 Universal Man](concepts/universal-man.md) — 文艺复兴全才理想
-- [艺术与科学统一 Art-Science Unity](concepts/art-science-unity.md) — 绘画即科学
-- [手稿与笔记本 Codex Notebooks](concepts/codex-notebooks.md) — 一万三千页心智记录
-- [透视法 Perspective Mastery](concepts/perspective-mastery.md) — 线性透视与大气透视
+- [渐隐法 Sfumato](概念/渐隐法.md) — 消除轮廓线的签名技法
+- [全才 Universal Man](概念/全才.md) — 文艺复兴全才理想
+- [艺术与科学统一 Art-Science Unity](../../../README.md) — 绘画即科学
+- [手稿与笔记本 Codex Notebooks](概念/手稿与笔记本.md) — 一万三千页心智记录
+- [透视法 Perspective Mastery](概念/透视法.md) — 线性透视与大气透视
 - [著作年表 / Works](著作.md) — 完整作品编年
 - [生平大事记 / Timeline](时间线.md) — 生平编年史
 - [阅读指南 / Reading List](阅读.md) — 分级进阶阅读

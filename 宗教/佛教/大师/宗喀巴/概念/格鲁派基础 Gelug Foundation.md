@@ -3,7 +3,12 @@ id: 宗教.buddhism.master.tsongkhapa.concepts.gelug-foundation
 title: 格鲁派基础 Gelug Foundation
 type: concept
 parent: 宗教.buddhism.master.tsongkhapa
-tags: [格鲁派, dGe-lugs-pa, 黄教, 寺院教育, 宗喀巴]
+tags:
+  - 格鲁派
+  - dge-lugs-pa
+  - 黄教
+  - 寺院教育
+  - 宗喀巴
 ---
 
 # 格鲁派基础 / Gelug Foundation: The Virtuous Tradition

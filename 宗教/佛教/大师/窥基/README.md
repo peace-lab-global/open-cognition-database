@@ -7,7 +7,14 @@ school: buddhism-faxiang
 era: ancient
 birth: 632
 death: 682
-tags: [Kuiji, Faxiang, Yogacara, consciousness-only, Buddhist-logic, Tang-dynasty, Vijnanavada]
+tags:
+  - kuiji
+  - faxiang
+  - yogacara
+  - consciousness-only
+  - buddhist-logic
+  - tang-dynasty
+  - vijnanavada
 aliases: ["Kuīji", "慈恩大师", "大乘基", "释窥基", "百部疏主", "Master of Cien Temple"]
 sources: ["Cheng-weishi-lun-shuji", "Cheng-weishi-lun-zhang-zhong-shuyao", "Fahua-xuanzan", "Bai-fa-ming-men-lun-jie", "Yinming-ru-zhengli-lun-shu"]
 cross_refs: ["asanga-vasubandhu", "nagarjuna", "dignaga", "dharmakirti", "xuanzang", "kuiji", "kant"]
@@ -77,7 +84,7 @@ After Xuanzang's passing (664 CE), Kuiji assumed the mantle of propagating Yogac
 
 All objects of cognition are projections of consciousness -- not that "external objects do not exist," but that "external objects are inseparable from consciousness." The mountains, rivers, self, and others within our experience are all manifestations of the seeds (bija) within the eight consciousnesses, especially the storehouse consciousness (alaya-vijnana). This doctrine is the epistemological core of Yogacara, not an ontological claim.
 
-See [唯识无境 / Consciousness-Only](concepts/consciousness-only.md)
+See [唯识无境 / Consciousness-Only](概念/唯识无境.md)
 
 ### 2. 五种姓说 / Five Lineages (Panca-gotra)
 
@@ -85,7 +92,7 @@ See [唯识无境 / Consciousness-Only](concepts/consciousness-only.md)
 
 Five categories of spiritual potential: the Sravaka lineage (disciples), Pratyekabuddha lineage (solitary realizers), Bodhisattva lineage, indeterminate lineage, and the lineageless (icchantika). This classification provoked enormous controversy in Chinese Buddhism, as it appeared to contradict the dominant view that "all sentient beings possess Buddha-nature."
 
-See [五种姓 / Five Lineages](concepts/five-lineages.md)
+See [五种姓 / Five Lineages](概念/五种姓.md)
 
 ### 3. 百法明门 / Hundred Dharmas (Satadharma-vidyamukha)
 
@@ -93,7 +100,7 @@ See [五种姓 / Five Lineages](concepts/five-lineages.md)
 
 All phenomena (dharmas) are classified into one hundred types across five categories: mind (citta, 8 types), mental factors (caitta/cetasika, 51 types), form (rupa, 11 types), conditionings disassociated from mind (citta-viprayukta-samskara, 24 types), and unconditioned dharmas (asamskrta, 6 types). This is Buddhism's most precise "periodic table of mental elements," providing practitioners with a systematic cognitive map.
 
-See [百法明门 / Hundred Dharmas](concepts/hundred-dharmas.md)
+See [百法明门 / Hundred Dharmas](../../../技能/百法明门/SKILL.md)
 
 ### 4. 三性三无性 / Three Natures and Three Non-Natures (Trisvabhava / Trinihsvarabhava)
 
@@ -101,7 +108,7 @@ See [百法明门 / Hundred Dharmas](concepts/hundred-dharmas.md)
 
 The three natures: imagined nature (parikalpita, the projection of false discrimination), dependent nature (paratantra, the mode of existence arising from conditions), and perfected nature (parinispanna, the true nature of things). Combined with the three non-natures -- non-nature of characteristics, non-nature of arising, and non-nature of the ultimate -- these form the Yogacara middle way.
 
-See [三性三无性 / Three Natures](concepts/三性.md)
+See [三性三无性 / Three Natures](../无著/概念/三性.md)
 
 ### 5. 因明学 / Buddhist Logic (Hetuvidya)
 
@@ -109,7 +116,7 @@ See [三性三无性 / Three Natures](concepts/三性.md)
 
 Kuiji was a major transmitter of hetuvidya (Buddhist logic) in Chinese Buddhism. His commentary on the *Nyayapravesa-tarka-sastra* systematically organized the logical systems of Dignaga and Sankarasvamin, providing clear Chinese exegesis of the three-part syllogism (thesis, reason, example) and enabling Buddhist logic to take root in China.
 
-See [因明 / Buddhist Logic](concepts/buddhist-logic.md)
+See [因明 / Buddhist Logic](../../经典/README.md)
 
 ---
 
@@ -167,9 +174,9 @@ Kuiji transmitted the teaching to Huizhao (650-714), who in turn transmitted to 
 
 ## 跨学科关联 / Cross-Disciplinary Connections
 
-- [无著·世亲 Asanga-Vasubandhu](../asanga-vasubandhu/README.md) -- [继承 Inheritance] 瑜伽行派 Yogacara
+- [无著·世亲 Asanga-Vasubandhu](../无著/README.md) -- [继承 Inheritance] 瑜伽行派 Yogacara
 - [玄奘 Xuanzang] -- [继承 Inheritance] 师徒传承 Master-disciple transmission
-- [陈那 Dignaga](../dignaga.md) -- [发展 Development] 因明学 Buddhist logic
+- [陈那 Dignaga](../陈那/README.md) -- [发展 Development] 因明学 Buddhist logic
 - [护法 Dharmapala] -- [继承 Inheritance] 有相唯识 Representational consciousness-only
 - [康德 Kant](../../../../哲学/学派/德国唯心论/康德.md) -- [平行 Parallel] 唯识 vs 先验观念论 Consciousness-only vs transcendental idealism
 - [胡塞尔 Husserl] -- [平行 Parallel] 唯识 vs 现象学 Consciousness-only vs phenomenology

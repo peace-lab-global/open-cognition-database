@@ -4,7 +4,16 @@ title: "彻却与脱嘎 Khregs chod & Thod rgal: 隆钦巴大圆满的两大修�
 type: concept
 parent: longchenpa
 domain: 宗教
-tags: [trekcho, togal, khregs-chod, thod-rgal, Dzogchen, cutting-through, leaping-over, Nyingma, meditation]
+tags:
+  - trekcho
+  - togal
+  - khregs-chod
+  - thod-rgal
+  - dzogchen
+  - cutting-through
+  - leaping-over
+  - nyingma
+  - meditation
 ---
 
 # 彻却与脱嘎 Khregs chod & Thod rgal / Trekcho and Togal

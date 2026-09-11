@@ -5,7 +5,12 @@ type: concept
 domain: 宗教
 school: buddhism-vinaya
 parent: [[../README|道宣]]
-tags: [四分律, 大乘, Dharmaguptaka, Mahāyāna, 菩萨戒]
+tags:
+  - 四分律
+  - 大乘
+  - dharmaguptaka
+  - Mahāyāna
+  - 菩萨戒
 ---
 
 # 四分通大乘 · The Dharmaguptaka Vinaya as a Mahāyāna Path

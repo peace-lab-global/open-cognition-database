@@ -4,7 +4,12 @@ title: 审美自律 Aesthetic Autonomy
 type: concept
 domain: 美学
 parent: 美学.critical-aesthetics.adorno
-tags: [审美自律, 艺术自律, 形式, 现代主义, 否定美学]
+tags:
+  - 审美自律
+  - 艺术自律
+  - 形式
+  - modernism
+  - 否定美学
 ---
 
 # 审美自律 / Aesthetic Autonomy

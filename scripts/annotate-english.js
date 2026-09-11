@@ -108,7 +108,8 @@ function annotate(text) {
 
 const targetFiles = ['INDEX.md', 'README.md', 'AGENT.md', 'TAGS.md', 'README.en.md', 'CONTRIBUTING.md'];
 for (const f of targetFiles) {
-  const fp = path.join(ROOT, f);
+  const fp = path.resolve(ROOT, f);
+  if (fp !== ROOT && !fp.startsWith(ROOT + path.sep)) { console.log(f, 'outside repo, skip'); continue; }
   if (!fs.existsSync(fp)) { console.log(f, 'not found'); continue; }
   const text = fs.readFileSync(fp, 'utf8');
   const { updated, count } = annotate(text);

@@ -8,7 +8,7 @@ era: modern
 birth: 1875
 death: 1961
 tags:
-  - 分析心理学
+  - analytical-psychology
   - 集体无意识
   - 原型
   - 个体化
@@ -17,7 +17,6 @@ tags:
   - 阿尼姆斯
   - 共时性
   - 心理类型
-  - analytical-psychology
   - collective-unconscious
   - archetypes
   - individuation
@@ -380,11 +379,11 @@ Compared to Taoism and Buddhism, Jung's direct discussions of Confucian thought 
 
 | 子条目 / Sub-entry | 简要说明 / Brief Description |
 |---|---|
-| [集体无意识 · Collective Unconscious](concepts/collective-unconscious.md) | 全人类共享的深层心理结构，原型理论的基础 |
-| [原型 · Archetypes](concepts/archetypes.md) | 集体无意识中的先天模式与普遍象征 |
-| [个体化 · Individuation](concepts/individuation.md) | 整合意识与无意识、实现心理完整性的发展过程 |
-| [阴影 · Shadow](concepts/shadow.md) | 被意识排斥和压抑的人格面向 |
-| [阿尼玛与阿尼姆斯 · Anima/Animus](concepts/anima-animus.md) | 无意识中的异性意象与灵魂面向 |
+| [集体无意识 · Collective Unconscious](概念/集体无意识.md) | 全人类共享的深层心理结构，原型理论的基础 |
+| [原型 · Archetypes](概念/原型.md) | 集体无意识中的先天模式与普遍象征 |
+| [个体化 · Individuation](../../../技能/个体化引导/SKILL.md) | 整合意识与无意识、实现心理完整性的发展过程 |
+| [阴影 · Shadow](概念/阴影.md) | 被意识排斥和压抑的人格面向 |
+| [阿尼玛与阿尼姆斯 · Anima/Animus](概念/阿尼玛与阿尼姆斯.md) | 无意识中的异性意象与灵魂面向 |
 ---
 
 ## 相关名言

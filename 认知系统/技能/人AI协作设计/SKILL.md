@@ -36,7 +36,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[班布里奇 Bainbridge](../../学派/自动化社会技术/bainbridge.md)
+- 来源思想家：[班布里奇 Bainbridge](../../学派/自动化社会技术/莱桑.md)
 - 来源概念：[联合认知系统](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/联合认知系统.md)、[自动化偏见](../../concepts/automation-bias.md)、[团队认知](../../concepts/team-cognition.md)
 - 关键文献：Bainbridge, L. "Ironies of Automation." *Automatica* 19(6), 1983.
 
@@ -145,7 +145,7 @@ tags:
 
 ## 关联条目
 
-- 思想家：[班布里奇 Bainbridge](../../学派/自动化社会技术/bainbridge.md)
+- 思想家：[班布里奇 Bainbridge](../../学派/自动化社会技术/莱桑.md)
 - 概念：[联合认知系统](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/联合认知系统.md)
 - 概念：[自动化偏见](../../concepts/automation-bias.md)
 - 概念：[团队认知](../../concepts/team-cognition.md)

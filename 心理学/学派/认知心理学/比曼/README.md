@@ -115,23 +115,23 @@ Beeman 的研究围绕以下核心概念展开，每个概念均有独立条目�
 
 Beeman's 研究 revolves around the following core concepts, each with its own dedicated entry:
 
-1. **顿悟 / Insight** — 一种突然意识到问题解决方案的认知事件，具有跃迁性、不可追溯性和强烈确定感。→ [insight](concepts/insight.md)
+1. **顿悟 / Insight** — 一种突然意识到问题解决方案的认知事件，具有跃迁性、不可追溯性和强烈确定感。→ [insight](概念/顿悟.md)
 
    A cognitive event of suddenly becoming aware of a problem's solution, characterized by suddenness, untraceability, and a strong feeling of certainty.
 
-2. **远距离联想 / Remote Associates** — 在语义网络中激活远距离、弱关联节点的能力，是创造性思维的核心认知操作。→ [remote-associates](concepts/remote-associates.md)
+2. **远距离联想 / Remote Associates** — 在语义网络中激活远距离、弱关联节点的能力，是创造性思维的核心认知操作。→ [remote-associates](概念/远距离联想.md)
 
    The ability to activate remote, weakly associated nodes in the semantic network — the core cognitive operation of creative thinking.
 
-3. **创造性认知 / Creative Cognition** — 从认知科学角度理解创造性思维的理论框架，强调创造力是普通认知过程的特殊组合。→ [creative-cognition](concepts/creative-cognition.md)
+3. **创造性认知 / Creative Cognition** — 从认知科学角度理解创造性思维的理论框架，强调创造力是普通认知过程的特殊组合。→ [creative-cognition](概念/创造性认知.md)
 
    A theoretical framework for understanding creative thinking from a cognitive science perspective, emphasizing that creativity is a special combination of ordinary cognitive processes.
 
-4. **右半球 / Right Hemisphere** — 在语义处理中具有粗编码优势的大脑半球，是远距离联想和顿悟的神经基础。→ [right-hemisphere](concepts/right-hemisphere.md)
+4. **右半球 / Right Hemisphere** — 在语义处理中具有粗编码优势的大脑半球，是远距离联想和顿悟的神经基础。→ [right-hemisphere](../../../../社会学/学派/古典社会学/米尔斯/README.md)
 
    The brain hemisphere with a coarse coding advantage in semantic processing — the neural basis for remote association and insight.
 
-5. **Aha! 时刻 / Aha! Moment** — 顿悟发生时伴随的主观体验，以突然性、愉悦感和确定感为特征。→ [aha-moment](concepts/aha-moment.md)
+5. **Aha! 时刻 / Aha! Moment** — 顿悟发生时伴随的主观体验，以突然性、愉悦感和确定感为特征。→ [aha-moment](../../../../哲学/学派/现象学/扎哈维/README.md)
 
    The subjective experience accompanying insight, characterized by suddenness, pleasure, and a feeling of certainty.
 
@@ -311,11 +311,11 @@ Beeman's insight 研究 forms a profound cross-cultural dialogue with the concep
 
 | 条目 / Entry | 路径 / Path | 描述 / Description |
 |---|---|---|
-| 顿悟 / Insight | [concepts/insight.md](concepts/insight.md) | 顿悟的定义、神经机制与认知模型 |
-| 远距离联想 / Remote Associates | [concepts/remote-associates.md](concepts/remote-associates.md) | 远距离联想的理论基础与测量方法 |
-| 创造性认知 / Creative Cognition | [concepts/creative-cognition.md](concepts/creative-cognition.md) | 创造性思维的认知科学框架 |
-| 右半球 / Right Hemisphere | [concepts/right-hemisphere.md](concepts/right-hemisphere.md) | 右脑在语义处理和创造性思维中的角色 |
-| Aha! 时刻 / Aha! Moment | [concepts/aha-moment.md](concepts/aha-moment.md) | Aha! 时刻的主观体验与神经相关物 |
+| 顿悟 / Insight | [concepts/insight.md](概念/顿悟.md) | 顿悟的定义、神经机制与认知模型 |
+| 远距离联想 / Remote Associates | [concepts/remote-associates.md](概念/远距离联想.md) | 远距离联想的理论基础与测量方法 |
+| 创造性认知 / Creative Cognition | [concepts/creative-cognition.md](概念/创造性认知.md) | 创造性思维的认知科学框架 |
+| 右半球 / Right Hemisphere | [concepts/right-hemisphere.md](../../../../社会学/学派/古典社会学/米尔斯/README.md) | 右脑在语义处理和创造性思维中的角色 |
+| Aha! 时刻 / Aha! Moment | [concepts/aha-moment.md](../../../../哲学/学派/现象学/扎哈维/README.md) | Aha! 时刻的主观体验与神经相关物 |
 | 著作年表 / Works | [著作.md](著作.md) | Beeman 著作与论文编年 |
 | 年谱 / Timeline | [时间线.md](时间线.md) | 生平与学术事件年谱 |
 | 进阶阅读 / Reading List | [阅读.md](阅读.md) | 分类阅读指南 |

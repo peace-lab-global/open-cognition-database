@@ -7,7 +7,15 @@ school: buddhism-sanlun
 era: ancient
 birth: 549
 death: 623
-tags: [Jizang, Sanlun, Madhyamaka, two-truths, eight-negations, emptiness, Chinese-Buddhism, anti-essentialism]
+tags:
+  - jizang
+  - sanlun
+  - madhyamaka
+  - two-truths
+  - eight-negations
+  - emptiness
+  - chinese-buddhism
+  - anti-essentialism
 aliases: ["Jizang", "嘉祥大师", "释吉藏", "吉藏法师"]
 sources: ["中观论疏", "三论玄义", "二谛义", "大乘玄论", "百论疏", "十二门论疏"]
 cross_refs: ["nagarjuna", "aryadeva", "sengzhao", "kumarajiva", "zhiyi", "derrida", "wittgenstein"]
@@ -40,7 +48,7 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 
 **The two truths are not two levels of ontological reality but two pedagogical modes of discourse. All Buddhist teachings are expedient means (upaya); even the two truths themselves must ultimately be transcended.**
 
-详见 [言教二谛](concepts/two-truths-pedagogical.md)。
+详见 [言教二谛](../../../../社会学/学派/网络社会/卡斯特/README.md)。
 
 ### 2. 八不中道 Eight Negations and the Middle Way
 
@@ -48,7 +56,7 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 
 **Eight negations — no arising, no ceasing, no permanence, no discontinuity, no identity, no difference, no coming, no going — constitute the systematic deconstruction of all conceptual extremes.**
 
-详见 [八不中道](concepts/eight-negations.md)。
+详见 [八不中道](概念/八不中道.md)。
 
 ### 3. 破邪显正 Refuting the False Reveals the True
 
@@ -56,7 +64,7 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 
 **One does not need to establish any positive thesis. The systematic refutation of all wrong views is itself the revelation of the Middle Way — negation as affirmation.**
 
-详见 [破邪显正](concepts/refute-reveal.md)。
+详见 [破邪显正](概念/破邪显正.md)。
 
 ### 4. 无所得 Non-attainment
 
@@ -64,7 +72,7 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 
 **Nothing is to be attained — including the state of non-attainment itself. This recursive negation ensures that Madhyamaka does not degenerate into yet another essentialist position.**
 
-详见 [无所得](concepts/non-attainment.md)。
+详见 [无所得](../../../../伦理政治/学派/非暴力抵抗/圣雄甘地/README.md)。
 
 ### 5. 重空 Emptiness of Emptiness
 
@@ -72,7 +80,7 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 
 **Emptiness itself is empty. This recursive negation — the 'emptiness of emptiness' — prevents sunyata from becoming a substitute absolute.**
 
-详见 [重空](concepts/emptying-emptiness.md)。
+详见 [重空](概念/重空.md)。
 
 ---
 
@@ -248,7 +256,7 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **佛教内部**: [龙树](../nagarjuna/README.md) — 中观学派创始人；[僧肇](../sengzhao.md) — 汉传中观先驱；[智顗](../zhiyi.md) — 同时代论辩对手
+- **佛教内部**: [龙树](../龙树/README.md) — 中观学派创始人；[僧肇](../僧肇/README.md) — 汉传中观先驱；[智顗](../智顗/README.md) — 同时代论辩对手
 - **哲学**: [德里达](../../../../哲学/学派/后结构主义/雅克.md) — 解构主义；[维特根斯坦](../../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言哲学
 - **学派**: [中观学派](../../概念/cognitive-theory/中观.md) — 汉传中观
 - **日本佛教**: 三论宗传入日本，影响南都六宗
@@ -284,11 +292,11 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 
 | 条目 | 类型 | 内容概述 |
 |------|------|----------|
-| [言教二谛](concepts/two-truths-pedagogical.md) | 概念 | 二谛是言说方便，非本体区分 |
-| [八不中道](concepts/eight-negations.md) | 概念 | 超越一切边见的否定性方法 |
-| [破邪显正](concepts/refute-reveal.md) | 概念 | 不立正面主张的方法论核心 |
-| [无所得](concepts/non-attainment.md) | 概念 | 一切法无所得的彻底否定 |
-| [重空](concepts/emptying-emptiness.md) | 概念 | 空亦复空的递归否定 |
+| [言教二谛](../../../../社会学/学派/网络社会/卡斯特/README.md) | 概念 | 二谛是言说方便，非本体区分 |
+| [八不中道](概念/八不中道.md) | 概念 | 超越一切边见的否定性方法 |
+| [破邪显正](概念/破邪显正.md) | 概念 | 不立正面主张的方法论核心 |
+| [无所得](../../../../伦理政治/学派/非暴力抵抗/圣雄甘地/README.md) | 概念 | 一切法无所得的彻底否定 |
+| [重空](概念/重空.md) | 概念 | 空亦复空的递归否定 |
 | [著作总览](著作.md) | 作品 | 吉藏的全部著作 |
 | [思想年表](时间线.md) | 年表 | 生平与历史语境 |
 | [进阶阅读](阅读.md) | 阅读 | 原典、注疏、研究文献 |
@@ -298,8 +306,8 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 ## 相关条目 / Related Entries
 
 - [龙树 Nagarjuna](../nagarjuna/) — 中观学派创始人
-- [僧肇 Sengzhao](../sengzhao.md) — 汉传中观先驱
-- [智顗 Zhiyi](../zhiyi.md) — 天台宗创始人
-- [鸠摩罗什 Kumarajiva](../kumarajiva.md) — 三论翻译者
-- [法藏 Fazang](../fazang.md) — 华严宗集大成者
+- [僧肇 Sengzhao](../僧肇/README.md) — 汉传中观先驱
+- [智顗 Zhiyi](../智顗/README.md) — 天台宗创始人
+- [鸠摩罗什 Kumarajiva](../鸠摩罗什/README.md) — 三论翻译者
+- [法藏 Fazang](../法藏/README.md) — 华严宗集大成者
 - [德里达 Derrida](../../../../哲学/学派/后结构主义/雅克.md) — 解构主义

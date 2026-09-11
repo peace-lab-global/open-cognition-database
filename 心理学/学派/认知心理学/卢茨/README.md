@@ -157,9 +157,9 @@ Antoine Lutz (b. 1971) is a French cognitive neuroscientist and a leading figure
 ## 跨学科关联 / Interdisciplinary Connections
 
 - [Davidson · 情绪风格](./davidson.md) — `[合作]` 冥想神经科学的共同奠基，γ 波同步研究的合作者
-- [Baars · 全局工作空间](./baars.md) — `[平行]` 全局广播理论与 γ 波同步作为意识统一性的神经机制
-- [Damasio · 躯体标记](./damasio.md) — `[平行]` 内感受（interoception）在意识和情绪中的作用
-- [Goleman · 情商与冥想科学](./goleman.md) — `[传播]` Goleman 将 Lutz 的研究发现推广至大众读者
+- [Baars · 全局工作空间](../巴尔斯/README.md) — `[平行]` 全局广播理论与 γ 波同步作为意识统一性的神经机制
+- [Damasio · 躯体标记](../达玛西奥/README.md) — `[平行]` 内感受（interoception）在意识和情绪中的作用
+- [Goleman · 情商与冥想科学](../戈尔曼/README.md) — `[传播]` Goleman 将 Lutz 的研究发现推广至大众读者
 - [Varela · 神经现象学] — `[继承]` 第一人称方法与第三人称方法的整合路径
 - [默照禅的认知结构 · Silent Illumination](../../../../宗教/佛教/概念/cognitive-theory/默照的认知结构.md) — `[平行]` OM 冥想与默照禅的神经对应
 - [止观的认知分工 · Śamatha-Vipaśyanā](../../../../宗教/佛教/概念/cognitive-theory/止观的认知分工.md) — `[平行]` FA/OM 区分的佛教传统根源
@@ -192,11 +192,11 @@ Antoine Lutz (b. 1971) is a French cognitive neuroscientist and a leading figure
 
 | 条目 | 路径 | 说明 |
 |------|------|------|
-| 冥想神经科学 | [concepts/contemplative-neuroscience.md](concepts/contemplative-neuroscience.md) | 将冥想作为神经科学研究对象的交叉学科 |
-| 冥想与大脑 | [concepts/meditation-brain.md](concepts/meditation-brain.md) | 冥想对大脑功能和结构的系统性影响 |
-| 神经可塑性 | [concepts/neuroplasticity.md](concepts/neuroplasticity.md) | 冥想展示的经验依赖性神经可塑性极端案例 |
-| 慈悲训练 | [concepts/compassion-training.md](concepts/compassion-training.md) | 基于佛教慈悲禅的系统性心理训练 |
-| 第一人称方法 | [concepts/first-person-methods.md](concepts/first-person-methods.md) | 内省报告的神经科学整合方法论 |
+| 冥想神经科学 | [concepts/contemplative-neuroscience.md](概念/冥想神经科学.md) | 将冥想作为神经科学研究对象的交叉学科 |
+| 冥想与大脑 | [concepts/meditation-brain.md](概念/冥想与大脑.md) | 冥想对大脑功能和结构的系统性影响 |
+| 神经可塑性 | [concepts/neuroplasticity.md](概念/神经可塑性.md) | 冥想展示的经验依赖性神经可塑性极端案例 |
+| 慈悲训练 | [concepts/compassion-training.md](概念/慈悲训练.md) | 基于佛教慈悲禅的系统性心理训练 |
+| 第一人称方法 | [concepts/first-person-methods.md](概念/第一人称方法.md) | 内省报告的神经科学整合方法论 |
 | 著作目录 | [著作.md](著作.md) | 卢茨主要著作编年表 |
 | 年表 | [时间线.md](时间线.md) | 生平与学术事件编年 |
 | 进阶阅读 | [阅读.md](阅读.md) | 分层阅读指南与文献索引 |

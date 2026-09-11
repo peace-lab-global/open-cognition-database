@@ -7,7 +7,13 @@ school: cybernetics
 era: modern
 birth: 1916
 death: 2001
-tags: [bounded-rationality, satisficing, heuristic, AI, problem-solving, cognitive-science]
+tags:
+  - bounded-rationality
+  - satisficing
+  - heuristic
+  - ai
+  - problem-solving
+  - cognitive-science
 aliases: [Herbert Simon, Herbert A. Simon, 赫伯特·西蒙, 司马贺]
 sources: [Administrative Behavior (1947), The Sciences of the Artificial (1969), Human Problem Solving (1972)]
 ---

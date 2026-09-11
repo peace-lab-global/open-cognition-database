@@ -77,7 +77,7 @@ cross-refs:
 
 ### 1. 印象与观念 / Copy Principle
 
-一切观念 (idea) 都是印象 (impression) 的摹本。简单印象是最原初的感觉材料，简单观念是印象在思维中的微弱再现。这条"第一原则" (first principle) 构成了休谟整个哲学体系的出发点。详见 [concepts/impressions-ideas.md](concepts/impressions-ideas.md)。
+一切观念 (idea) 都是印象 (impression) 的摹本。简单印象是最原初的感觉材料，简单观念是印象在思维中的微弱再现。这条"第一原则" (first principle) 构成了休谟整个哲学体系的出发点。详见 [concepts/impressions-ideas.md](概念/印象与观念.md)。
 
 ### 2. 因果关系批判 / Critique of Causation
 
@@ -85,15 +85,15 @@ cross-refs:
 
 ### 3. 是—应当问题 / Hume's Guillotine (Is-Ought Problem)
 
-从"是什么" (is) 的事实判断，无法逻辑地推出"应当怎样" (ought) 的价值判断。这条"休谟铡刀"切断了事实与价值之间的推导通道，成为元伦理学 (meta-ethics) 的奠基性命题。详见 [concepts/is-ought.md](concepts/is-ought.md)。
+从"是什么" (is) 的事实判断，无法逻辑地推出"应当怎样" (ought) 的价值判断。这条"休谟铡刀"切断了事实与价值之间的推导通道，成为元伦理学 (meta-ethics) 的奠基性命题。详见 [concepts/is-ought.md](../../../../美学/学派/文学思想/博尔赫斯/README.md)。
 
 ### 4. 道德情感论 / Moral Sentimentalism
 
-道德判断的根基是情感 (sentiment/feeling) 而非理性 (reason)。善与恶不是事物的客观属性，而是旁观者 (spectator) 在同情 (sympathy) 作用下产生的赞许或谴责之情。详见 [concepts/moral-sentiment.md](concepts/moral-sentiment.md)。
+道德判断的根基是情感 (sentiment/feeling) 而非理性 (reason)。善与恶不是事物的客观属性，而是旁观者 (spectator) 在同情 (sympathy) 作用下产生的赞许或谴责之情。详见 [concepts/moral-sentiment.md](概念/道德情感论.md)。
 
 ### 5. 温和怀疑论 / Mitigated Skepticism
 
-休谟不是彻底的怀疑论者 (radical skeptic)。他承认怀疑论在书斋里是不可反驳的，但在日常生活中，自然 (nature) 通过习惯和信念 (belief) 将我们从怀疑论的绝境中解救出来。哲学与生活之间的张力是休谟思想的深层结构。详见 [concepts/skepticism.md](concepts/skepticism.md)。
+休谟不是彻底的怀疑论者 (radical skeptic)。他承认怀疑论在书斋里是不可反驳的，但在日常生活中，自然 (nature) 通过习惯和信念 (belief) 将我们从怀疑论的绝境中解救出来。哲学与生活之间的张力是休谟思想的深层结构。详见 [concepts/skepticism.md](../../../概念/怀疑.md)。
 
 ### 6. 休谟叉 / Hume's Fork
 
@@ -119,16 +119,16 @@ cross-refs:
 
 | 概念 | 英文 | 核心含义 | 子条目 |
 |---|---|---|---|
-| **印象与观念** | Impressions and Ideas | 一切观念都是印象的摹本 (Copy Principle) | [impressions-ideas.md](concepts/impressions-ideas.md) |
+| **印象与观念** | Impressions and Ideas | 一切观念都是印象的摹本 (Copy Principle) | [impressions-ideas.md](概念/印象与观念.md) |
 | **因果关系** | Causation | 恒常结合 + 习惯性联想，非客观必然联系 | [因果.md](../../../概念/因果.md) |
-| **是—应当问题** | Is-Ought Problem | 事实判断不能推出价值判断 (Hume's Guillotine) | [is-ought.md](concepts/is-ought.md) |
-| **道德情感** | Moral Sentiment | 善恶源于情感而非理性，同情为核心机制 | [moral-sentiment.md](concepts/moral-sentiment.md) |
-| **温和怀疑论** | Mitigated Skepticism | 哲学上不可反驳，生活中由自然拯救 | [skepticism.md](concepts/skepticism.md) |
-| **休谟叉** | Hume's Fork | 观念关系 vs 事实问题的截然二分 | [skepticism.md](concepts/skepticism.md) |
+| **是—应当问题** | Is-Ought Problem | 事实判断不能推出价值判断 (Hume's Guillotine) | [is-ought.md](../../../../美学/学派/文学思想/博尔赫斯/README.md) |
+| **道德情感** | Moral Sentiment | 善恶源于情感而非理性，同情为核心机制 | [moral-sentiment.md](概念/道德情感论.md) |
+| **温和怀疑论** | Mitigated Skepticism | 哲学上不可反驳，生活中由自然拯救 | [skepticism.md](../../../概念/怀疑.md) |
+| **休谟叉** | Hume's Fork | 观念关系 vs 事实问题的截然二分 | [skepticism.md](../../../概念/怀疑.md) |
 | **自我束论** | Bundle Theory of Self | 自我是一束知觉 (bundle of perceptions)，非实体 | — |
-| **同情** | Sympathy | 情感传导机制，道德判断的心理基础 | [moral-sentiment.md](concepts/moral-sentiment.md) |
+| **同情** | Sympathy | 情感传导机制，道德判断的心理基础 | [moral-sentiment.md](概念/道德情感论.md) |
 | **习惯/习俗** | Custom / Habit | 一切经验推断的最终原则，非理性之原则 | [因果.md](../../../概念/因果.md) |
-| **信念** | Belief | 与印象相联系的生动观念，区别于纯粹虚构 | [skepticism.md](concepts/skepticism.md) |
+| **信念** | Belief | 与印象相联系的生动观念，区别于纯粹虚构 | [skepticism.md](../../../概念/怀疑.md) |
 
 ## 关键著作
 
@@ -188,9 +188,9 @@ cross-refs:
 
 ### 哲学
 
-- [洛克 · 经验论](../empiricism/约翰.md) `[承接]` 休谟将洛克的经验论原则推向逻辑极端
-- [贝克莱 · 主观唯心论](../empiricism/berkeley.md) `[承接]` 休谟接受贝克莱对物质实体的批判，但进一步否认精神实体
-- [康德 · 先验哲学](../german-idealism/康德.md) `[对立]` 康德用先天范畴 (a priori categories) 回应休谟的怀疑论挑战，声称休谟"将他从独断论的迷梦中惊醒"
+- [洛克 · 经验论](README.md) `[承接]` 休谟将洛克的经验论原则推向逻辑极端
+- [贝克莱 · 主观唯心论](../../贝克莱.md) `[承接]` 休谟接受贝克莱对物质实体的批判，但进一步否认精神实体
+- [康德 · 先验哲学](../../德国唯心论/康德/README.md) `[对立]` 康德用先天范畴 (a priori categories) 回应休谟的怀疑论挑战，声称休谟"将他从独断论的迷梦中惊醒"
 - [边沁 · 功利主义](../../../../伦理政治/学派/结果主义/边沁.md) `[发展]` 休谟的情感主义道德论为功利主义提供心理学前设
 
 ### 心理学与认知科学
@@ -205,7 +205,7 @@ cross-refs:
 ### 东方思想
 
 - [唯识 · Yogācāra](../../../宗教/传统/佛教/yogacara.md) `[对照]` 自我束论 vs 五蕴、习惯 vs 种子/熏习
-- [庄子 · Zhuangzi](../../东方哲学/zhuangzi.md) `[对照]` 怀疑论 vs 齐物论、自然主义 vs 无为
+- [庄子 · Zhuangzi](../../东方哲学/庄子.md) `[对照]` 怀疑论 vs 齐物论、自然主义 vs 无为
 
 ## 进阶阅读
 
@@ -239,11 +239,11 @@ cross-refs:
 
 | 子条目 | 内容 |
 |---|---|
-| [concepts/impressions-ideas.md](concepts/impressions-ideas.md) | 印象与观念 — 摹本原则 (Copy Principle) 与知觉的分类 |
+| [concepts/impressions-ideas.md](概念/印象与观念.md) | 印象与观念 — 摹本原则 (Copy Principle) 与知觉的分类 |
 | [concepts/因果.md](../../../概念/因果.md) | 因果关系 — 恒常结合、习惯性联想与必然联系的批判 |
-| [concepts/is-ought.md](concepts/is-ought.md) | 是—应当问题 — 休谟铡刀与事实-价值的二分 |
-| [concepts/moral-sentiment.md](concepts/moral-sentiment.md) | 道德情感论 — 同情、公正旁观者与功利 |
-| [concepts/skepticism.md](concepts/skepticism.md) | 温和怀疑论 — 怀疑论与自然主义的张力、休谟叉 |
+| [concepts/is-ought.md](../../../../美学/学派/文学思想/博尔赫斯/README.md) | 是—应当问题 — 休谟铡刀与事实-价值的二分 |
+| [concepts/moral-sentiment.md](概念/道德情感论.md) | 道德情感论 — 同情、公正旁观者与功利 |
+| [concepts/skepticism.md](../../../概念/怀疑.md) | 温和怀疑论 — 怀疑论与自然主义的张力、休谟叉 |
 | [著作.md](著作.md) | 作品总览 |
 | [时间线.md](时间线.md) | 思想年表 |
 | [阅读.md](阅读.md) | 进阶阅读指南 |

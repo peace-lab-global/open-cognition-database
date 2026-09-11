@@ -4,7 +4,13 @@ title: "求法精神 The Spirit of Dharma-Seeking: 法显 65 岁高龄的万里�
 type: concept
 parent: faxian
 domain: 宗教
-tags: [pilgrimage, 求法, Dharma-seeking, religious-travel, perseverance, spiritual-motivation]
+tags:
+  - pilgrimage
+  - 求法
+  - dharma-seeking
+  - religious-travel
+  - perseverance
+  - spiritual-motivation
 ---
 
 # 求法精神 The Spirit of Dharma-Seeking

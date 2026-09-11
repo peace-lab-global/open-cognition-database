@@ -136,15 +136,15 @@ In 1907, *Pragmatism: A New Name for Some Old Ways of Thinking* was published �
 
 ## 重要概念 / Key Concepts
 
-1. **意识流 / Stream of Consciousness**：意识不是由离散的心理元素构成，而是连续流动的"思想之流"——具有连续性、变化性、选择性和目的性。→ [详见子条目](concepts/stream-of-consciousness.md) / Consciousness is not composed of discrete mental elements but constitutes a continuously flowing "stream of thought" — exhibiting continuity, change, selectivity, and teleology.
+1. **意识流 / Stream of Consciousness**：意识不是由离散的心理元素构成，而是连续流动的"思想之流"——具有连续性、变化性、选择性和目的性。→ [详见子条目](概念/意识流.md) / Consciousness is not composed of discrete mental elements but constitutes a continuously flowing "stream of thought" — exhibiting continuity, change, selectivity, and teleology.
 
-2. **激进经验主义 / Radical Empiricism**：一种试图超越主客二元论的哲学方法，以"纯粹经验"为形而上学基础，认为"关系"与"事物"一样直接可经验。→ [详见子条目](concepts/radical-empiricism.md) / A philosophical approach attempting to transcend subject-object dualism, with "pure experience" as its metaphysical foundation, holding that "relations" are as directly experienceable as "things."
+2. **激进经验主义 / Radical Empiricism**：一种试图超越主客二元论的哲学方法，以"纯粹经验"为形而上学基础，认为"关系"与"事物"一样直接可经验。→ [详见子条目](概念/激进经验主义.md) / A philosophical approach attempting to transcend subject-object dualism, with "pure experience" as its metaphysical foundation, holding that "relations" are as directly experienceable as "things."
 
-3. **实用主义心理学 / Pragmatism in Psychology**：实用主义方法在心理学中的应用——关注意识的功能（function）和目的（purpose），而非意识的结构（structure）；强调观念的实际效果而非抽象含义。→ [详见子条目](concepts/pragmatism-psychology.md) / Application of the pragmatic method in 心理学 — attending to the function and purpose of consciousness rather than its structure; emphasizing the practical effects of ideas rather than abstract meanings.
+3. **实用主义心理学 / Pragmatism in Psychology**：实用主义方法在心理学中的应用——关注意识的功能（function）和目的（purpose），而非意识的结构（structure）；强调观念的实际效果而非抽象含义。→ [详见子条目](../../../../哲学/学派/实用主义/约翰/README.md) / Application of the pragmatic method in 心理学 — attending to the function and purpose of consciousness rather than its structure; emphasizing the practical effects of ideas rather than abstract meanings.
 
-4. **信仰意志 / Will to Believe**：在证据不充分的"活选项"面前，人有权利依据自己的意志本性做出信仰选择——这一选择不仅合法，有时甚至是创造真理的必要条件。→ [详见子条目](concepts/will-to-believe.md) / When confronted with "live hypotheses" for which evidence is insufficient, individuals have the right to choose belief based on their passional nature — this choice is not only legitimate but sometimes a necessary condition for creating truth.
+4. **信仰意志 / Will to Believe**：在证据不充分的"活选项"面前，人有权利依据自己的意志本性做出信仰选择——这一选择不仅合法，有时甚至是创造真理的必要条件。→ [详见子条目](../../../../文学/学派/剧作家/威廉/README.md) / When confronted with "live hypotheses" for which evidence is insufficient, individuals have the right to choose belief based on their passional nature — this choice is not only legitimate but sometimes a necessary condition for creating truth.
 
-5. **习惯理论 / Habit Theory**：习惯是神经系统中形成的稳固通路，是塑造个人性格和维系社会秩序的根本力量——"习惯是社会的巨大飞轮，是维持一切秩序的最宝贵的保守力量。" → [详见子条目](concepts/habit-theory.md) / Habits are entrenched pathways formed in the nervous system, a fundamental force shaping individual character and maintaining social order — "Habit is the enormous flywheel of society, the most precious conservative agent of all."
+5. **习惯理论 / Habit Theory**：习惯是神经系统中形成的稳固通路，是塑造个人性格和维系社会秩序的根本力量——"习惯是社会的巨大飞轮，是维持一切秩序的最宝贵的保守力量。" → [详见子条目](概念/习惯理论.md) / Habits are entrenched pathways formed in the nervous system, a fundamental force shaping individual character and maintaining social order — "Habit is the enormous flywheel of society, the most precious conservative agent of all."
 
 6. **詹姆斯-兰格情绪理论 / James-Lange Theory of Emotion**：情绪体验是对身体自主神经系统变化的感知，而非情绪引起身体反应——"我们因为哭泣而悲伤，因为颤抖而恐惧。" / Emotional experience is the perception of changes in the body's autonomic nervous system, not emotion causing bodily responses — "We feel sad because we cry, afraid because we tremble."
 
@@ -238,14 +238,14 @@ James's "pluralism" and anti-essentialist tendencies enter cross-cultural dialog
 | 关联方向 / Connection | 思想家/领域 / Thinker/Field | 关系 / Relationship |
 |:---|:---|:---|
 | 实用主义哲学 / Pragmatist Philosophy | [皮尔斯 Peirce](../../../../哲学/学派/实用主义/皮尔士/README.md) | 实用主义的共同奠基者——皮尔斯提出准则，詹姆斯发展为方法 / Co-founders of pragmatism — Peirce proposed the maxim, James developed it into a method |
-| 实用主义哲学 / Pragmatist Philosophy | [杜威 Dewey](../../../哲学/学派/实用主义/约翰/README.md) | 实用主义三巨匠之一，将实用主义发展为工具主义 / One of the three giants of pragmatism, developed pragmatism into instrumentalism |
-| 精神分析 / Psychoanalysis | [弗洛伊德 Freud](../../psychoanalysis/freud/README.md) | 同时代开创者——意识流与潜意识对心理生活的不同切入 / Contemporary founders — stream of consciousness vs. the unconscious as different approaches to mental life |
-| 分析心理学 / Analytical Psychology | [荣格 Jung](../../analytical-psychology/jung/README.md) | 宗教经验与集体无意识的平行探讨 / Parallel explorations of religious experience and the collective unconscious |
-| 人本主义心理学 / Humanistic Psychology | [罗杰斯 Rogers](../../humanistic/rogers/README.md) | 对个人经验和主观意义的共同重视 / Shared emphasis on personal experience and subjective meaning |
-| 认知神经科学 / Cognitive Neuroscience | [达马西奥 Damasio](../../cognitive/damasio/README.md) | 躯体标记假说继承并发展了詹姆斯-兰格情绪理论 / Somatic marker hypothesis inherits and develops the James-Lange theory of emotion |
-| 生命哲学 / Philosophy of Life | [柏格森 Bergson](../../../哲学/schools/vitalism/bergson/README.md) | 对"绵延"（durée）与意识流的共同关注 / Shared concern with "durée" (duration) and the stream of consciousness |
+| 实用主义哲学 / Pragmatist Philosophy | [杜威 Dewey](../../../../哲学/学派/实用主义/约翰/README.md) | 实用主义三巨匠之一，将实用主义发展为工具主义 / One of the three giants of pragmatism, developed pragmatism into instrumentalism |
+| 精神分析 / Psychoanalysis | [弗洛伊德 Freud](../../精神分析/西格蒙德/README.md) | 同时代开创者——意识流与潜意识对心理生活的不同切入 / Contemporary founders — stream of consciousness vs. the unconscious as different approaches to mental life |
+| 分析心理学 / Analytical Psychology | [荣格 Jung](../../分析心理学/卡尔/README.md) | 宗教经验与集体无意识的平行探讨 / Parallel explorations of religious experience and the collective unconscious |
+| 人本主义心理学 / Humanistic Psychology | [罗杰斯 Rogers](../../人本主义/卡尔/README.md) | 对个人经验和主观意义的共同重视 / Shared emphasis on personal experience and subjective meaning |
+| 认知神经科学 / Cognitive Neuroscience | [达马西奥 Damasio](../../认知心理学/达玛西奥/README.md) | 躯体标记假说继承并发展了詹姆斯-兰格情绪理论 / Somatic marker hypothesis inherits and develops the James-Lange theory of emotion |
+| 生命哲学 / Philosophy of Life | [柏格森 Bergson](../../../../README.md) | 对"绵延"（durée）与意识流的共同关注 / Shared concern with "durée" (duration) and the stream of consciousness |
 | 文学现代主义 / Literary Modernism | 乔伊斯 Joyce、伍尔夫 Woolf | 意识流心理学概念被文学借用为叙事技巧 / The psychological concept of stream of consciousness was adopted as a literary narrative technique |
-| 过程哲学 / Process Philosophy | [怀特海 Whitehead](../../../哲学/schools/process-philosophy/whitehead/README.md) | "纯粹经验"与"实际契机"的哲学对话 / Philosophical dialogue between "pure experience" and "actual occasions" |
+| 过程哲学 / Process Philosophy | [怀特海 Whitehead](../../../../哲学/学派/分析哲学/怀特海/概念/过程哲学.md) | "纯粹经验"与"实际契机"的哲学对话 / Philosophical dialogue between "pure experience" and "actual occasions" |
 | 行为科学 / Behavioral Science | 习惯研究 Habit Research | 詹姆斯的习惯理论预见了当代行为设计学 / James's habit theory anticipated contemporary behavioral design |
 
 ## 进阶阅读 / Further Reading
@@ -275,11 +275,11 @@ James's "pluralism" and anti-essentialist tendencies enter cross-cultural dialog
 
 | 子条目 / Sub-entry | 主题 / Topic | 路径 / Path |
 |:---|:---|:---|
-| 意识流 / Stream of Consciousness | 意识的连续性、流动性与选择性 / Continuity, fluidity, and selectivity of consciousness | [concepts/stream-of-consciousness.md](concepts/stream-of-consciousness.md) |
-| 激进经验主义 / Radical Empiricism | 纯粹经验、关系经验与超越二元论 / Pure experience, experience of relations, and transcending dualism | [concepts/radical-empiricism.md](concepts/radical-empiricism.md) |
-| 实用主义心理学 / Pragmatism in Psychology | 功能主义方法论与实用主义认识论 / Functionalist methodology and pragmatist epistemology | [concepts/pragmatism-psychology.md](concepts/pragmatism-psychology.md) |
-| 信仰意志 / Will to Believe | 证据不足时的信仰选择合法性 / Legitimacy of belief choice under insufficient evidence | [concepts/will-to-believe.md](concepts/will-to-believe.md) |
-| 习惯理论 / Habit Theory | 神经通路、品格塑造与社会秩序 / Neural pathways, character formation, and social order | [concepts/habit-theory.md](concepts/habit-theory.md) |
+| 意识流 / Stream of Consciousness | 意识的连续性、流动性与选择性 / Continuity, fluidity, and selectivity of consciousness | [concepts/stream-of-consciousness.md](概念/意识流.md) |
+| 激进经验主义 / Radical Empiricism | 纯粹经验、关系经验与超越二元论 / Pure experience, experience of relations, and transcending dualism | [concepts/radical-empiricism.md](概念/激进经验主义.md) |
+| 实用主义心理学 / Pragmatism in Psychology | 功能主义方法论与实用主义认识论 / Functionalist methodology and pragmatist epistemology | [concepts/pragmatism-psychology.md](../../../../哲学/学派/实用主义/约翰/README.md) |
+| 信仰意志 / Will to Believe | 证据不足时的信仰选择合法性 / Legitimacy of belief choice under insufficient evidence | [concepts/will-to-believe.md](../../../../文学/学派/剧作家/威廉/README.md) |
+| 习惯理论 / Habit Theory | 神经通路、品格塑造与社会秩序 / Neural pathways, character formation, and social order | [concepts/habit-theory.md](概念/习惯理论.md) |
 
 ### 附属文件 / Supplementary Files
 - [著作年表 / Works Chronology](著作.md)

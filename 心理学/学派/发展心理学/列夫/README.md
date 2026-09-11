@@ -120,9 +120,9 @@ On June 11, 1934, Vygotsky died of tuberculosis at the age of 37. His theories w
 ## 重要概念 / Key Concepts
 
 ### 1. 最近发展区 / Zone of Proximal Development (ZPD)
-儿童独立解决问题的实际发展水平与在指导下能达到的潜在水平之间的差距。详见 → [zone-proximal-development.md](concepts/zone-proximal-development.md)
+儿童独立解决问题的实际发展水平与在指导下能达到的潜在水平之间的差距。详见 → [zone-proximal-development.md](概念/最近发展区.md)
 
-The distance between the actual developmental level (independent problem-solving) and the potential level achievable with guidance. See → [zone-proximal-development.md](concepts/zone-proximal-development.md)
+The distance between the actual developmental level (independent problem-solving) and the potential level achievable with guidance. See → [zone-proximal-development.md](概念/最近发展区.md)
 
 ### 2. 支架教学 / Scaffolding
 布鲁纳在ZPD基础上发展的教学概念——教师提供临时性支持，随学习者能力增长逐步撤除。详见 → [支架教学.md](概念/支架教学.md)
@@ -130,19 +130,19 @@ The distance between the actual developmental level (independent problem-solving
 An instructional concept developed by Bruner building on ZPD — teachers provide temporary support, gradually removing it as learner competence grows. See → [支架教学.md](概念/支架教学.md)
 
 ### 3. 内部言语 / Inner Speech
-从外部社会言语经由自我中心言语内化而成的内部思维工具，具有省略性、谓语化和语义优先的结构特征。详见 → [inner-speech.md](concepts/inner-speech.md)
+从外部社会言语经由自我中心言语内化而成的内部思维工具，具有省略性、谓语化和语义优先的结构特征。详见 → [inner-speech.md](../../行为主义/斯金纳/README.md)
 
-Internal thinking tool internalized from external social speech via egocentric speech, characterized by abbreviation, predication, and semantic dominance. See → [inner-speech.md](concepts/inner-speech.md)
+Internal thinking tool internalized from external social speech via egocentric speech, characterized by abbreviation, predication, and semantic dominance. See → [inner-speech.md](../../行为主义/斯金纳/README.md)
 
 ### 4. 中介 / Mediation
-文化工具（尤其是语言）在刺激与反应之间插入的"中介环节"，将低级心理机能改造为高级心理机能。详见 → [mediation.md](concepts/mediation.md)
+文化工具（尤其是语言）在刺激与反应之间插入的"中介环节"，将低级心理机能改造为高级心理机能。详见 → [mediation.md](概念/中介.md)
 
-The "mediating link" inserted by cultural tools (especially language) between stimulus and response, transforming lower mental functions into higher ones. See → [mediation.md](concepts/mediation.md)
+The "mediating link" inserted by cultural tools (especially language) between stimulus and response, transforming lower mental functions into higher ones. See → [mediation.md](概念/中介.md)
 
 ### 5. 文化-历史理论 / Cultural-Historical Theory
-心理发展必须在文化工具使用和社会历史语境中理解的理论框架。详见 → [cultural-historical.md](concepts/cultural-historical.md)
+心理发展必须在文化工具使用和社会历史语境中理解的理论框架。详见 → [cultural-historical.md](概念/文化-历史理论.md)
 
-The theoretical framework asserting that psychological development must be understood within the context of cultural tool use and socio-historical conditions. See → [cultural-historical.md](concepts/cultural-historical.md)
+The theoretical framework asserting that psychological development must be understood within the context of cultural tool use and socio-historical conditions. See → [cultural-historical.md](概念/文化-历史理论.md)
 
 ### 6. 高级心理机能 / Higher Mental Functions
 通过文化工具中介而获得的有意识的、随意的、社会起源的心理过程（如逻辑记忆、有意注意、概念思维），区别于"低级的"、自然的、生物性的心理过程。
@@ -347,11 +347,11 @@ Contemporary Cultural Neuroscience 研究 provides empirical support for Vygotsk
 
 | 概念 / Concept | 文件 / File | 简述 / Summary |
 |----------------|-------------|----------------|
-| 最近发展区 / Zone of Proximal Development | [zone-proximal-development.md](concepts/zone-proximal-development.md) | 实际发展水平与潜在水平之间的差距 |
+| 最近发展区 / Zone of Proximal Development | [zone-proximal-development.md](概念/最近发展区.md) | 实际发展水平与潜在水平之间的差距 |
 | 支架教学 / Scaffolding | [支架教学.md](概念/支架教学.md) | 临时性教学支持的结构化方法 |
-| 内部言语 / Inner Speech | [inner-speech.md](concepts/inner-speech.md) | 从外部言语内化的思维工具 |
-| 中介 / Mediation | [mediation.md](concepts/mediation.md) | 文化工具在认知中的中介作用 |
-| 文化-历史理论 / Cultural-Historical Theory | [cultural-historical.md](concepts/cultural-historical.md) | 心理发展的文化-历史框架 |
+| 内部言语 / Inner Speech | [inner-speech.md](../../行为主义/斯金纳/README.md) | 从外部言语内化的思维工具 |
+| 中介 / Mediation | [mediation.md](概念/中介.md) | 文化工具在认知中的中介作用 |
+| 文化-历史理论 / Cultural-Historical Theory | [cultural-historical.md](概念/文化-历史理论.md) | 心理发展的文化-历史框架 |
 
 ---
 

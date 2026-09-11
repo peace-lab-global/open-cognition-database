@@ -134,15 +134,15 @@ In his later years, Monet devoted all his energy to the water-lily pond at Giver
 
 ## 重要概念 / Key Concepts
 
-1. **印象派 / [Impressionism](concepts/impressionism.md)** — 以光色瞬间、户外写生与破碎笔触为核心的1870—80年代绘画运动。The 1870s–80s painting movement centered on fleeting light-color effects, outdoor painting, and broken brushwork.
+1. **印象派 / [Impressionism](../../../概念/印象派.md)** — 以光色瞬间、户外写生与破碎笔触为核心的1870—80年代绘画运动。The 1870s–80s painting movement centered on fleeting light-color effects, outdoor painting, and broken brushwork.
 
-2. **户外写生 / [Plein-air](concepts/plein-air.md)** — 离开画室、在自然光下直接作画的方法论与认识论立场。The methodological and epistemological stance of painting directly from nature, outside the studio.
+2. **户外写生 / [Plein-air](概念/户外写生.md)** — 离开画室、在自然光下直接作画的方法论与认识论立场。The methodological and epistemological stance of painting directly from nature, outside the studio.
 
-3. **系列绘画 / [Series Paintings](concepts/series-paintings.md)** — 对同一母题在不同光、季、时下反复绘制的研究方法与视觉认识论。The 研究 method and visual epistemology of painting the same motif repeatedly under varying conditions.
+3. **系列绘画 / [Series Paintings](概念/系列绘画.md)** — 对同一母题在不同光、季、时下反复绘制的研究方法与视觉认识论。The 研究 method and visual epistemology of painting the same motif repeatedly under varying conditions.
 
-4. **光与知觉 / [Light and Perception](concepts/light-perception.md)** — 莫奈以绘画探究人类视觉机制与知觉条件性的核心命题。Monet's central thesis of using painting to investigate human visual mechanisms and the conditionality of perception.
+4. **光与知觉 / [Light and Perception](../../../../哲学/学派/启蒙运动/让雅克/README.md)** — 莫奈以绘画探究人类视觉机制与知觉条件性的核心命题。Monet's central thesis of using painting to investigate human visual mechanisms and the conditionality of perception.
 
-5. **睡莲 / [Water Lilies](concepts/water-lilies.md)** — 莫奈晚年巨制，从印象主义走向抽象的关键作品群。Monet's late masterwork, the key body of work bridging Impressionism toward abstraction.
+5. **睡莲 / [Water Lilies](概念/睡莲.md)** — 莫奈晚年巨制，从印象主义走向抽象的关键作品群。Monet's late masterwork, the key body of work bridging Impressionism toward abstraction.
 
 6. **色彩并置 / Optical Mixing** — 以并排的纯色笔触让观众视网膜完成混色，提升色彩亮度与振动感。Placing pure-color strokes side by side so the viewer's retina completes the mixture, enhancing luminosity and vibrancy.
 
@@ -264,11 +264,11 @@ Monet was one of the most active participants in the nineteenth-century *Japonis
 
 ## 子条目索引 / Sub-entry Index
 
-- [印象派 / Impressionism](concepts/impressionism.md) — 印象派运动的核心理念与历史
-- [户外写生 / Plein-air](concepts/plein-air.md) — 户外作画的方法论与认识论
-- [系列绘画 / Series Paintings](concepts/series-paintings.md) — 重复母题的视觉研究方法
-- [光与知觉 / Light and Perception](concepts/light-perception.md) — 莫奈的视觉哲学
-- [睡莲 / Water Lilies](concepts/water-lilies.md) — 晚年巨制与通向抽象之路
+- [印象派 / Impressionism](../../../概念/印象派.md) — 印象派运动的核心理念与历史
+- [户外写生 / Plein-air](概念/户外写生.md) — 户外作画的方法论与认识论
+- [系列绘画 / Series Paintings](概念/系列绘画.md) — 重复母题的视觉研究方法
+- [光与知觉 / Light and Perception](../../../../哲学/学派/启蒙运动/让雅克/README.md) — 莫奈的视觉哲学
+- [睡莲 / Water Lilies](概念/睡莲.md) — 晚年巨制与通向抽象之路
 - [著作年表 / Works](著作.md) — 莫奈主要作品编年
 - [生平大事记 / Timeline](时间线.md) — 莫奈生平与思想里程碑
 - [阅读指南 / Reading List](阅读.md) — 分层进阶阅读建议

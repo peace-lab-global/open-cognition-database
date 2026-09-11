@@ -5,7 +5,12 @@ type: concept
 domain: 宗教
 school: buddhism-general
 era: ancient
-tags: [空性, Sunyata, 空, 各宗空观, 缘起性空]
+tags:
+  - 空性
+  - sunyata
+  - 空
+  - 各宗空观
+  - 缘起性空
 aliases: [Emptiness, 空, Śūnyatā, 性空]
 sources: [《般若经》, 《中论》, 《解深密经》, 《大智度论》]
 ---

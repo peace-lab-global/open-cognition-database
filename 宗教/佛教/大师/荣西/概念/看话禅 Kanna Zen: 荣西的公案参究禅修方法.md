@@ -4,7 +4,13 @@ title: "看话禅 Kanna Zen: 荣西的公案参究禅修方法"
 type: concept
 parent: yosai
 domain: 宗教
-tags: [看话禅, 公案, koan, Kanna Zen, 大疑大悟, 临济宗]
+tags:
+  - 看话禅
+  - 公案
+  - koan
+  - kanna-zen
+  - 大疑大悟
+  - 临济宗
 ---
 
 # 看话禅 Kanna Zen / Kōan-Introspection Zen

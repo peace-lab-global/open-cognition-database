@@ -111,9 +111,9 @@ The 2002 book *Humans and Automation: System Design and Research Issues* further
 ## 重要概念 / Key Concepts
 
 1. **[监督控制 / Supervisory Control](concepts/supervisory-control.md)** — 人类设定目标与约束、计算机执行子任务、人在异常时介入的层级化控制范式。
-2. **[人机模型 / Human-Machine Model](concepts/human-machine-model.md)** — 描述人与机器在自动化系统中功能分配的建模框架。
+2. **[人机模型 / Human-Machine Model](../../../../心理学/学派/人本主义/卡尔/README.md)** — 描述人与机器在自动化系统中功能分配的建模框架。
 3. **[远程操作 / Teleoperation](concepts/teleoperation.md)** — 通过通信链路远程控制机械装置，涉及感知延迟、力反馈和带宽约束。
-4. **[人机交互 / Human-Robot Interaction](concepts/human-robot-interaction.md)** — 人与机器人之间在感知、决策和行动层面的动态协作。
+4. **[人机交互 / Human-Robot Interaction](../../../../心理学/学派/人本主义/卡尔/README.md)** — 人与机器人之间在感知、决策和行动层面的动态协作。
 5. **[远程机器人学 / Telerobotics](concepts/telerobotics.md)** — 远程操作与自主机器人技术的交叉学科。
 6. **自动化十级 / 10 Levels of Automation** — 从完全手动到完全自主的连续光谱模型。
 7. **人机界面带宽 / Human-Machine Interface Bandwidth** — 人与计算机之间信息传输速率的概念。
@@ -249,9 +249,9 @@ The emphasis on "situational awareness" in supervisory control forms a dialogue 
 ## 子条目索引 / Sub-entry Index
 
 - [监督控制 / Supervisory Control](concepts/supervisory-control.md)
-- [人机模型 / Human-Machine Model](concepts/human-machine-model.md)
+- [人机模型 / Human-Machine Model](../../../../心理学/学派/人本主义/卡尔/README.md)
 - [远程操作 / Teleoperation](concepts/teleoperation.md)
-- [人机交互 / Human-Robot Interaction](concepts/human-robot-interaction.md)
+- [人机交互 / Human-Robot Interaction](../../../../心理学/学派/人本主义/卡尔/README.md)
 - [远程机器人学 / Telerobotics](concepts/telerobotics.md)
 - [著作年表 / Works Bibliography](著作.md)
 - [生平大事记 / Biographical Timeline](时间线.md)

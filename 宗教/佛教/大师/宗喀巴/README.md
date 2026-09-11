@@ -283,11 +283,11 @@ Tsongkhapa's mind-training methods (Lojong)—especially tonglen—have attracte
 
 | 条目 Entry | 路径 Path | 主题 Topic |
 |---|---|---|
-| 菩提道次第 | [concepts/lamrim.md](concepts/lamrim.md) | 三士道修行路径 The Tri-scope Path |
-| 空性瑜伽 | [concepts/emptiness-yoga.md](concepts/emptiness-yoga.md) | 空性见与止观双运 Emptiness View and Śamatha-Vipaśyanā |
-| 上师瑜伽 | [concepts/guru-yoga.md](concepts/guru-yoga.md) | 上师相应法 Guru Devotion Practice |
-| 密法修行 | [concepts/tantric-practice.md](concepts/tantric-practice.md) | 四部密法与修行次第 Four Tantric Classes |
-| 格鲁派基础 | [concepts/gelug-foundation.md](concepts/gelug-foundation.md) | 格鲁派的创立与特色 Founding and Features of Gelug |
+| 菩提道次第 | [concepts/lamrim.md](../../../技能/菩提道次第修/SKILL.md) | 三士道修行路径 The Tri-scope Path |
+| 空性瑜伽 | [concepts/emptiness-yoga.md](概念/空性瑜伽 Emptiness Yoga.md) | 空性见与止观双运 Emptiness View and Śamatha-Vipaśyanā |
+| 上师瑜伽 | [concepts/guru-yoga.md](../莲花生大士/README.md) | 上师相应法 Guru Devotion Practice |
+| 密法修行 | [concepts/tantric-practice.md](概念/密法修行 Tantric Practice.md) | 四部密法与修行次第 Four Tantric Classes |
+| 格鲁派基础 | [concepts/gelug-foundation.md](概念/格鲁派基础 Gelug Foundation.md) | 格鲁派的创立与特色 Founding and Features of Gelug |
 | 著作详录 | [著作.md](著作.md) | 宗喀巴主要著作详述 Detailed Catalogue of Works |
 | 年表 | [时间线.md](时间线.md) | 宗喀巴生平大事记 Life Events Timeline |
 | 阅读清单 | [阅读.md](阅读.md) | 推荐书单 Annotated Reading List |

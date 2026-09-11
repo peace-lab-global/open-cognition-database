@@ -5,7 +5,16 @@ type: concept
 domain: 心理学
 school: cognitive
 era: modern
-tags: [后习俗, 自主道德, 普遍原则, 社会契约, 道德自律, post-conventional, autonomous-morality, universal-principles, social-contract, moral-autonomy]
+tags:
+  - 后习俗
+  - 自主道德
+  - 普遍原则
+  - social-contract
+  - 道德自律
+  - post-conventional
+  - autonomous-morality
+  - universal-principles
+  - moral-autonomy
 aliases: [Post-Conventional Morality, 后习俗水平, 原则水平, Principled Level]
 parent: kohlberg
 cross-refs: [moral-development, stages-moral-reasoning, justice, moral-education]

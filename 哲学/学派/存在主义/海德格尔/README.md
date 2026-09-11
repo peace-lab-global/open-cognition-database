@@ -11,7 +11,7 @@ death: 1976
 tags:
   - 存在论
   - 此在
-  - 现象学
+  - phenomenology
   - 存在
   - 向死存在
   - 语言
@@ -19,7 +19,6 @@ tags:
   - 本真性
   - ontology
   - dasein
-  - phenomenology
   - being
   - technology
   - language

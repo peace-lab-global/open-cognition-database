@@ -41,7 +41,7 @@ Born Zhao Shaoyi in 1861 in Heyang County, Shaanxi Province, Master Yinguang (Dh
 
 **The starting point of practice is not lofty meditation or philosophical speculation, but fulfilling one's ethical duties in daily life — as parent, child, spouse, citizen. "Fulfilling duties" is where Confucian ethics meets Buddhist cultivation.**
 
-详见 [敦伦尽分](concepts/fulfill-duties.md)。
+详见 [敦伦尽分](概念/敦伦尽分 Fulfill Duties: 印光修行的伦理起点.md)。
 
 ### 2. 信愿行 Faith, Vow, and Practice
 
@@ -49,7 +49,7 @@ Born Zhao Shaoyi in 1861 in Heyang County, Shaanxi Province, Master Yinguang (Dh
 
 **Faith, Vow, and Practice are the three requisites for rebirth in the Pure Land. Faith means trusting Amitabha's vows; Vow means aspiring to be reborn there; Practice means reciting the Buddha's name. All three are necessary, with Faith and Vow taking priority.**
 
-详见 [信愿行](concepts/faith-vow-practice.md)。
+详见 [信愿行](概念/信愿行 Faith-Vow-Practice: 净土三资粮与往生条件.md)。
 
 ### 3. 常惭愧 Constant Humility
 
@@ -57,7 +57,7 @@ Born Zhao Shaoyi in 1861 in Heyang County, Shaanxi Province, Master Yinguang (Dh
 
 **Yinguang called himself the "Constant Ashamed Monk" — maintaining humility throughout his life. Shame is not self-deprecation but clear-eyed self-awareness: knowing one is still an ordinary being with unresolved afflictions, and thus never becoming complacent or arrogant.**
 
-详见 [常惭愧](concepts/constant-humility.md)。
+详见 [常惭愧](概念/常惭愧 Constant Humility: 印光的修行心态与对治我慢.md)。
 
 ### 4. 因果教育 Karma Education
 
@@ -65,7 +65,7 @@ Born Zhao Shaoyi in 1861 in Heyang County, Shaanxi Province, Master Yinguang (Dh
 
 **Deep belief in cause and effect (karma) is the cornerstone of all Yinguang's teachings. Karma is not fatalism — it is dynamic and transformable through present effort. He vigorously promoted karma education texts as the foundation for moral and spiritual transformation.**
 
-详见 [因果教育](concepts/karma-education.md)。
+详见 [因果教育](概念/因果教育 Karma Education: 印光挽救世道人心的根本方案.md)。
 
 ### 5. 儒佛合一 Confucian-Buddhist Synthesis
 
@@ -73,7 +73,7 @@ Born Zhao Shaoyi in 1861 in Heyang County, Shaanxi Province, Master Yinguang (Dh
 
 **Confucianism provides the ethical foundation for being human; Buddhism provides the ultimate liberation. They are not conflated but integrated in layers — without ethical foundations, spiritual liberation is impossible; without liberation, ethics remain incomplete.**
 
-详见 [儒佛合一](concepts/confucian-buddhist-synthesis.md)。
+详见 [儒佛合一](../../../../哲学/学派/东方哲学/孔子/README.md)。
 
 ---
 
@@ -134,9 +134,9 @@ His teaching style was characterized by **plainness, earnestness, and rejection 
 
 ## 跨学科关联 / Cross-Disciplinary Connections
 
-- [善导 Shandao](../shandao.md) — [继承 / Inheritance] 净土宗祖师传承；印光继承善导的净土思想并加以发扬 / Yinguang inherited and developed Shandao's Pure Land thought
-- [慧远 Huiyuan](../huiyuan.md) — [传承 / Lineage] 净土宗初祖至十三祖的完整谱系 / Complete lineage from First to Thirteenth Patriarch
-- [太虚 Taixu](../taixu.md) — [平行 / Parallel] 近代佛教复兴的双峰：太虚走改革路线，印光走传统路线 / Twin peaks of modern Buddhist revival: Taixu pursued reform, Yinguang upheld tradition
+- [善导 Shandao](../善导/README.md) — [继承 / Inheritance] 净土宗祖师传承；印光继承善导的净土思想并加以发扬 / Yinguang inherited and developed Shandao's Pure Land thought
+- [慧远 Huiyuan](../慧远/README.md) — [传承 / Lineage] 净土宗初祖至十三祖的完整谱系 / Complete lineage from First to Thirteenth Patriarch
+- [太虚 Taixu](../太虚/README.md) — [平行 / Parallel] 近代佛教复兴的双峰：太虚走改革路线，印光走传统路线 / Twin peaks of modern Buddhist revival: Taixu pursued reform, Yinguang upheld tradition
 - [杜威 Dewey](../../../../哲学/学派/实用主义/约翰.md) — [平行 / Parallel] 生活教育 vs 敦伦尽分：在日常生活中学习和修行 / Learning and practice embedded in daily life
 - [罗杰斯 Rogers](../../../../心理学/学派/人本主义/卡尔.md) — [平行 / Parallel] 常惭愧 vs 真诚一致：清醒的自我认知是成长的基础 / Honest self-awareness as the foundation for growth
 

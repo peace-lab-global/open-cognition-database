@@ -9,9 +9,9 @@ birth: 1632
 death: 1704
 tags:
   - 自然权利
-  - 社会契约
+  - social-contract
   - 经验主义
-  - 自由主义
+  - liberalism
   - 财产权
   - 宗教宽容
   - 有限政府
@@ -19,9 +19,7 @@ tags:
   - 劳动价值
   - 革命权
   - natural-rights
-  - social-contract
   - empiricism
-  - liberalism
   - property
   - toleration
   - limited-government
@@ -174,7 +172,7 @@ This was the crucial period of Locke's intellectual maturation. As Shaftesbury's
 ## 思想坐标 / Intellectual Coordinates
 
 - **承接 / Inherits**: 格劳秀斯（Grotius）的自然法传统；波义耳（Boyle）的实验科学方法；胡克（Hooker）的英国国教理性主义 / Grotius's natural law tradition; Boyle's experimental method; Hooker's Anglican rationalism
-- **批判 / Critiques**: [霍布斯](../hobbes/README.md)的绝对主权论与恐惧政治；[菲尔默](../hobbes/README.md)的君权神授与家长制论证；笛卡尔的天赋观念论 / [Hobbes](../hobbes/README.md)'s absolute sovereignty and politics of fear; Filmer's divine right and patriarchalism; Descartes's innate ideas
+- **批判 / Critiques**: [霍布斯](../托马斯/README.md)的绝对主权论与恐惧政治；[菲尔默](../托马斯/README.md)的君权神授与家长制论证；笛卡尔的天赋观念论 / [Hobbes](../托马斯/README.md)'s absolute sovereignty and politics of fear; Filmer's divine right and patriarchalism; Descartes's innate ideas
 - **影响 / Influences**: [杰斐逊](../../)与《独立宣言》；[孟德斯鸠](../../)的三权分立；[卢梭](../../)的公意理论；[休谟](../../)的经验主义深化；[诺齐克](../../)的自由至上主义；[罗尔斯](../../)的正义论 / [Jefferson](../../) and the Declaration of Independence; [Montesquieu](../../)'s separation of powers; [Rousseau](../../)'s general will; [Hume](../../)'s deepened empiricism; [Nozick](../../)'s libertarianism; [Rawls](../../)'s theory of justice
 
 ## 当代应用 / Contemporary Applications
@@ -213,8 +211,8 @@ On property, Locke's labour-appropriation theory contrasts with the Daoist view 
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **政治哲学 Political Philosophy** — [霍布斯](../hobbes/README.md) `[对话/Contrast]` 有限政府 vs 绝对主权；[卢梭](../约翰-rawls/README.md) `[对话/Development]` 从洛克的个人同意到卢梭的公意 / Limited government vs absolute sovereignty; from Locke's individual consent to Rousseau's general will
-- **认识论 Epistemology** — [休谟](../../../../哲学/学派/经验主义/休谟/README.md) `[继承/Inheritance]` 经验主义的深化与怀疑论转向；[康德](../../../哲学/schools/deontology/kant/README.md) `[批判/Critique]` 先天综合判断对白板论的超越 / Deepened empiricism and the skeptical turn; Kant's synthetic a priori transcending tabula rasa
+- **政治哲学 Political Philosophy** — [霍布斯](../托马斯/README.md) `[对话/Contrast]` 有限政府 vs 绝对主权；[卢梭](../约翰-rawls/README.md) `[对话/Development]` 从洛克的个人同意到卢梭的公意 / Limited government vs absolute sovereignty; from Locke's individual consent to Rousseau's general will
+- **认识论 Epistemology** — [休谟](../../../../哲学/学派/经验主义/休谟/README.md) `[继承/Inheritance]` 经验主义的深化与怀疑论转向；[康德](../../道义论/康德/README.md) `[批判/Critique]` 先天综合判断对白板论的超越 / Deepened empiricism and the skeptical turn; Kant's synthetic a priori transcending tabula rasa
 - **经济学 Economics** — [斯密](../../../../社会学/学派/古典社会学/涂尔干/README.md) `[平行/Parallel]` 劳动价值论的共同源头；[马克思] `[批判发展/Critical Development]` 从洛克式财产权到资本主义批判 / Shared origins of the labour theory of value; from Lockean property to the critique of capitalism
 - **法学 Law** — 自然法传统到法律实证主义的演变；美国宪法第五修正案（正当程序与财产保护）的洛克式根源 / Evolution from natural law tradition to legal positivism; Lockean roots of the Fifth Amendment (due process and property protection)
 - **教育学 Education** — 《教育漫话》对蒙台梭利、杜威等教育理论家的先驱性影响 / *Some Thoughts Concerning Education* as precursor to Montessori, Dewey, and other educational theorists

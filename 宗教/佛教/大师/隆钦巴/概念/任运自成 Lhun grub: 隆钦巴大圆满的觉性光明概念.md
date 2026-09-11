@@ -4,7 +4,14 @@ title: "任运自成 Lhun grub: 隆钦巴大圆满的觉性光明概念"
 type: concept
 parent: longchenpa
 domain: 宗教
-tags: [lhun-grub, spontaneous-presence, luminosity, rig-pa, Dzogchen, Nyingma, five-wisdoms]
+tags:
+  - lhun-grub
+  - spontaneous-presence
+  - luminosity
+  - rig-pa
+  - dzogchen
+  - nyingma
+  - five-wisdoms
 ---
 
 # 任运自成 Lhun grub / Spontaneous Presence

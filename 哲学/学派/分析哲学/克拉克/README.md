@@ -122,6 +122,6 @@ Andy Clark (1957–) is one of the most influential philosophers of mind and cog
 
 ## 十、关联条目
 
-- [查尔默斯 Chalmers](../chalmers/README.md) `[合作]` 延展心智论文
-- [丹尼特 Dennett](../dennett/README.md) `[思想亲和]` 功能主义
-- [弗里斯顿 Friston](../../cognitive-science/friston/README.md) `[合作]` 预测加工与自由能
+- [查尔默斯 Chalmers](../../../../伦理政治/学派/德性伦理学/阿拉斯戴尔/README.md) `[合作]` 延展心智论文
+- [丹尼特 Dennett](../丹尼特/README.md) `[思想亲和]` 功能主义
+- [弗里斯顿 Friston](../../../../心理学/学派/认知心理学/弗里斯顿/README.md) `[合作]` 预测加工与自由能

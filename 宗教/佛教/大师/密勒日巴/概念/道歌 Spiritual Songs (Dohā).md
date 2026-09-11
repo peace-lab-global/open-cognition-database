@@ -5,7 +5,14 @@ type: concept
 domain: 宗教
 school: buddhism-vajrayana
 parent: 宗教.buddhism.masters.milarepa
-tags: [道歌, doha, spiritual songs, 密勒日巴, 诗歌, poetry, oral transmission]
+tags:
+  - 道歌
+  - doha
+  - spiritual-songs
+  - 密勒日巴
+  - 诗歌
+  - poetry
+  - oral-transmission
 ---
 
 # 道歌 Spiritual Songs (Dohā / mgur)

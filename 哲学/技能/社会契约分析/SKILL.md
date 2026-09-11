@@ -7,10 +7,10 @@ linked_concepts:
   - ../../哲学/概念/社会契约.md
   - ../../哲学/概念/general-will.md
 tags:
-  - 社会契约
+  - social-contract
   - 公意
   - 自然教育
-  - 政治哲学
+  - political-philosophy
 ---
 
 # 社会契约分析 · Social Contract Analysis

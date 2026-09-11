@@ -8,8 +8,8 @@ linked_concepts:
   - ../../concepts/联合认知系统.md
 tags:
   - human-reliability
-  - THERP
-  - CREAM
+  - therp
+  - cream
   - error-probability
   - safety-assessment
 ---
@@ -37,7 +37,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[霍伦纳格 Hollnagel](../../学派/安全科学/hollnagel.md)（CREAM）、Swain & Gutmann（THERP）、[拉斯穆森 Rasmussen](../../学派/认知工程/拉斯穆森.md)（SRK 模型）
+- 来源思想家：[霍伦纳格 Hollnagel](../../学派/安全科学/埃里克.md)（CREAM）、Swain & Gutmann（THERP）、[拉斯穆森 Rasmussen](../../学派/认知工程/拉斯穆森.md)（SRK 模型）
 - 关键文献：Swain & Gutmann (1983) *Handbook of HRA*; Hollnagel (1998) *CREAM*
 
 ## 操作流程
@@ -119,6 +119,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[霍伦纳格 Hollnagel](../../学派/安全科学/hollnagel.md)、[Reason](../../学派/安全科学/reason.md)、[Rasmussen](../../学派/认知工程/拉斯穆森.md)
+- 思想家：[霍伦纳格 Hollnagel](../../学派/安全科学/埃里克.md)、[Reason](../../学派/安全科学/詹姆斯.md)、[Rasmussen](../../学派/认知工程/拉斯穆森.md)
 - 概念：[人因可靠性分析](../../concepts/human-reliability-analysis.md)、[联合认知系统](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/联合认知系统.md)
 - 相关 Skill：[人为错误分析](../../../宗教/佛教/技能/从前五识/SKILL.md)、[STPA 事故分析](../../../宗教/佛教/技能/从前五识/SKILL.md)

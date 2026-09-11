@@ -122,6 +122,6 @@ Sengzhao (384–414) is one of the most brilliant philosophers in Chinese Buddhi
 
 ## 十、关联条目
 
-- [鸠摩罗什 Kumarajiva](../translators/kumarajiva/README.md) `[师承]` 中观经典的汉译与教授
-- [龙树 Nagarjuna](../madhyamaka/nagarjuna/README.md) `[思想传承]` 中观学派的印度根源
-- [吉藏 Jizang](../three-treatises/jizang/README.md) `[继承]` 三论宗的系统化
+- [鸠摩罗什 Kumarajiva](../../../../README.md) `[师承]` 中观经典的汉译与教授
+- [龙树 Nagarjuna](../龙树/README.md) `[思想传承]` 中观学派的印度根源
+- [吉藏 Jizang](../../../../README.md) `[继承]` 三论宗的系统化

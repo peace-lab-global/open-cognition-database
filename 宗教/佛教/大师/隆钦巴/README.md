@@ -7,7 +7,17 @@ school: buddhism-nyingma
 era: medieval
 birth: 1308
 death: 1364
-tags: [Dzogchen, Nyingma, ka-dag, lhun-grub, trekcho, togal, seven-treasures, rig-pa, buddha-nature, tantric-buddhism]
+tags:
+  - dzogchen
+  - nyingma
+  - ka-dag
+  - lhun-grub
+  - trekcho
+  - togal
+  - seven-treasures
+  - rig-pa
+  - buddha-nature
+  - tantric-buddhism
 aliases: ["Longchenpa", "隆钦饶绛巴", "Klong chen rab 'byams pa", "无垢光", "Drimed Ozer", "Kunkhyen Longchenpa"]
 sources: ["Mdzod bdun (Seven Treasures)", "Ngal gso skor gsum (Trilogy of Rest)", "Sems nyid ngal gso", "Chos dbyings mdzod", "Snying thig ya bzhi"]
 cross_refs: ["padmasambhava", "vimalamitra", "jigme-lingpa", "tsongkhapa", "nagarjuna", "dogen"]
@@ -49,7 +59,7 @@ children: ["concepts/primordial-purity", "concepts/spontaneous-presence", "conce
 
 **Awareness (rig pa) is not only empty but also spontaneously present (lhun grub) — its luminous qualities of wisdom, compassion, and knowing arise naturally, not through causal fabrication.**
 
-详见 [任运自成 Lhun grub](concepts/spontaneous-presence.md)。
+详见 [任运自成 Lhun grub](概念/任运自成 Lhun grub: 隆钦巴大圆满的觉性光明概念.md)。
 
 ### 3. 彻却与脱嘎 Khregs chod & Thod rgal / Trekcho and Togal
 
@@ -57,7 +67,7 @@ children: ["concepts/primordial-purity", "concepts/spontaneous-presence", "conce
 
 **Dzogchen practice consists of two phases: Trekcho (cutting through) — directly resting in the nature of awareness; and Togal (leaping over) — allowing the luminous display of awareness to spontaneously transcend.**
 
-详见 [彻却与脱嘎](concepts/trekcho-togal.md)。
+详见 [彻却与脱嘎](概念/彻却与脱嘎 Trekcho and Togal: 大圆满二阶.md)。
 
 ### 4. 九乘判教 Theg pa rim dgu / Nine-Yana Classification
 
@@ -65,7 +75,7 @@ children: ["concepts/primordial-purity", "concepts/spontaneous-presence", "conce
 
 **Longchenpa systematized the Nyingma nine-yana framework, organizing all Buddhist teachings into a graduated hierarchy from Sravakayana to Atiyoga (Dzogchen), positioning the Great Perfection as the pinnacle of all paths.**
 
-详见 [九乘判教](concepts/nine-yana.md)。
+详见 [九乘判教](概念/九乘判教 Theg pa rim dgu: 隆钦巴对佛法的层级分类体系.md)。
 
 ### 5. 七宝藏 Mdzod bdun / Seven Treasures
 
@@ -73,7 +83,7 @@ children: ["concepts/primordial-purity", "concepts/spontaneous-presence", "conce
 
 **The Seven Treasures constitute Longchenpa's magnum opus — seven treatises that systematically integrate the entirety of Buddhist 哲学 and Dzogchen practice into a unified system.**
 
-详见 [七宝藏](concepts/seven-treasures.md)。
+详见 [七宝藏](概念/七宝藏 Mdzod bdun: 隆钦巴的七部大圆满巨著.md)。
 
 ---
 
@@ -221,8 +231,8 @@ children: ["concepts/primordial-purity", "concepts/spontaneous-presence", "conce
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **佛教内部**: [莲花生大士](../莲花生大士.md) — 大圆满传承源头；[宗喀巴](../宗喀巴.md) — 同时代并行的教法整合者
-- **哲学**: [龙树](nagarjuna/README.md) — 空性哲学的基础；[扎哈维](../../../../哲学/学派/现象学/扎哈维.md) — 前反思意识与 rig pa 的对话
-- **学派**: [宁玛派](../schools/nyingma.md) — 隆钦巴所属并集大成的传统
+- **哲学**: [龙树](../龙树/README.md) — 空性哲学的基础；[扎哈维](../../../../哲学/学派/现象学/扎哈维.md) — 前反思意识与 rig pa 的对话
+- **学派**: [宁玛派](README.md) — 隆钦巴所属并集大成的传统
 - **认知科学**: 意识的难问题、元认知、冥想神经科学
 - **比较哲学**: 如来藏思想、吠檀多不二论、新柏拉图主义的否定神学
 
@@ -254,10 +264,10 @@ children: ["concepts/primordial-purity", "concepts/spontaneous-presence", "conce
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
 - [本初清净 Ka dag](concepts/本初清净.md) — 心的空性面：本来无染
-- [任运自成 Lhun grub](concepts/spontaneous-presence.md) — 心的光明面：本具功德
-- [彻却与脱嘎](concepts/trekcho-togal.md) — 大圆满的两大修法
-- [九乘判教](concepts/nine-yana.md) — 佛法的层级分类体系
-- [七宝藏](concepts/seven-treasures.md) — 隆钦巴的七部巨著
+- [任运自成 Lhun grub](概念/任运自成 Lhun grub: 隆钦巴大圆满的觉性光明概念.md) — 心的光明面：本具功德
+- [彻却与脱嘎](概念/彻却与脱嘎 Trekcho and Togal: 大圆满二阶.md) — 大圆满的两大修法
+- [九乘判教](概念/九乘判教 Theg pa rim dgu: 隆钦巴对佛法的层级分类体系.md) — 佛法的层级分类体系
+- [七宝藏](概念/七宝藏 Mdzod bdun: 隆钦巴的七部大圆满巨著.md) — 隆钦巴的七部巨著
 - [著作目录](著作.md) — 完整著作列表与分类
 - [年表](时间线.md) — 生平与历史语境
 - [进阶阅读](阅读.md) — 分类书单

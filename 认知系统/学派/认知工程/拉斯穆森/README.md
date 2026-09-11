@@ -7,7 +7,12 @@ school: cognitive-engineering
 era: modern
 birth: 1926
 death: 2018
-tags: [cognitive-work-analysis, abstraction-hierarchy, SRK-model, error-classification, ecological-interface-design]
+tags:
+  - cognitive-work-analysis
+  - abstraction-hierarchy
+  - srk-model
+  - error-classification
+  - ecological-interface-design
 aliases: [Jens Rasmussen, 拉斯穆森]
 sources: [Information Processing and Human-Machine Interaction (1986), Skills Rules and Knowledge (1983)]
 ---

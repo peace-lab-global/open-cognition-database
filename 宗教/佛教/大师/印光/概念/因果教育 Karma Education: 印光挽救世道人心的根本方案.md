@@ -4,7 +4,15 @@ title: "因果教育 Karma Education: 印光挽救世道人心的根本方案"
 type: concept
 parent: yinguang
 domain: 宗教
-tags: [因果, 因果教育, 了凡四训, 感应篇, karma, cause-effect, moral education, Yinguang]
+tags:
+  - 因果
+  - 因果教育
+  - 了凡四训
+  - 感应篇
+  - karma
+  - cause-effect
+  - moral-education
+  - yinguang
 ---
 
 # 因果教育 Karma Education

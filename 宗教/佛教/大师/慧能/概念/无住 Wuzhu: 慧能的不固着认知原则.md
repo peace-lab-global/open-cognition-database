@@ -4,7 +4,13 @@ title: "无住 Wuzhu: 慧能的不固着认知原则"
 type: concept
 parent: huineng
 domain: 宗教
-tags: [non-dwelling, wuzhu, non-fixation, Diamond-Sutra, cognitive-fluidity, Chan]
+tags:
+  - non-dwelling
+  - wuzhu
+  - non-fixation
+  - diamond-sutra
+  - cognitive-fluidity
+  - chan
 ---
 
 # 无住 Wuzhu / Non-Dwelling

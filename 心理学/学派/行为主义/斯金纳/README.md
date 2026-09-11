@@ -7,7 +7,18 @@ school: behaviorism
 era: modern
 birth: 1904
 death: 1990
-tags: [行为主义, 操作性条件反射, 强化理论, 行为矫正, 程序教学, 激进行为主义, behaviorism, operant conditioning, reinforcement, behavior modification, programmed instruction, radical behaviorism]
+tags:
+  - behaviorism
+  - 操作性条件反射
+  - 强化理论
+  - 行为矫正
+  - 程序教学
+  - 激进行为主义
+  - operant-conditioning
+  - reinforcement
+  - behavior-modification
+  - programmed-instruction
+  - radical-behaviorism
 aliases: [伯尔赫斯·弗雷德里克·斯金纳, Burrhus Frederic Skinner, B.F. Skinner]
 sources: [The Behavior of Organisms, Beyond Freedom and Dignity, Verbal Behavior, Science and Human Behavior, Walden Two]
 cross-refs: [watson, pavlov, thorndike, bandura, chomsky, hull]
@@ -105,11 +116,11 @@ In his later years, Skinner increasingly focused on the philosophical foundation
 
 2. **强化 / Reinforcement** — 任何能够增加行为频率的后果。分为正强化（呈现愉快刺激）和负强化（移除厌恶刺激）。强化物的有效性取决于个体的剥夺-满足状态。→ [详见 强化.md](概念/强化.md)
 
-3. **行为矫正 / Behavior Modification** — 运用操作性条件反射原理系统地改变人类行为的技术。广泛应用于临床心理学、教育和组织管理等领域。→ [详见 behavior-modification.md](concepts/behavior-modification.md)
+3. **行为矫正 / Behavior Modification** — 运用操作性条件反射原理系统地改变人类行为的技术。广泛应用于临床心理学、教育和组织管理等领域。→ [详见 behavior-modification.md](../../行为经济学/丹尼尔/README.md)
 
-4. **激进行为主义 / Radical Behaviorism** — 斯金纳的哲学立场。与华生的方法论行为主义不同，激进行为主义不否认内在事件（思维、感受）的存在，但将其视为行为的一部分而非行为的原因。→ [详见 radical-behaviorism.md](concepts/radical-behaviorism.md)
+4. **激进行为主义 / Radical Behaviorism** — 斯金纳的哲学立场。与华生的方法论行为主义不同，激进行为主义不否认内在事件（思维、感受）的存在，但将其视为行为的一部分而非行为的原因。→ [详见 radical-behaviorism.md](概念/激进行为主义.md)
 
-5. **强化时程表 / Schedules of Reinforcement** — 控制强化物递送时间和频率的规则。包括固定比率、可变比率、固定时距、可变时距等类型，对行为的维持和消退有深远影响。→ [详见 schedules.md](concepts/schedules.md)
+5. **强化时程表 / Schedules of Reinforcement** — 控制强化物递送时间和频率的规则。包括固定比率、可变比率、固定时距、可变时距等类型，对行为的维持和消退有深远影响。→ [详见 schedules.md](概念/强化时程表.md)
 
 6. **行为塑造 / Shaping (Successive Approximation)** — 通过连续强化接近目标行为的反应，逐步引导有机体产生复杂的操作性行为。这是训练复杂行为的关键技术。
 
@@ -254,6 +265,6 @@ Skinner's behavior analysis emphasizes causal relationships between behavior and
 |---|---|---|
 | 操作性条件反射 / Operant Conditioning | [操作性条件反射.md](概念/操作性条件反射.md) | 行为由后果决定的学习过程 / Learning process where behavior is determined by consequences |
 | 强化 / Reinforcement | [强化.md](概念/强化.md) | 增加行为频率的后果机制 / Consequence mechanism that increases behavior frequency |
-| 行为矫正 / Behavior Modification | [behavior-modification.md](concepts/behavior-modification.md) | 运用行为原理系统改变行为 / Systematic application of behavioral principles to change behavior |
-| 激进行为主义 / Radical Behaviorism | [radical-behaviorism.md](concepts/radical-behaviorism.md) | 斯金纳的哲学立场 / Skinner's philosophical position |
-| 强化时程表 / Schedules of Reinforcement | [schedules.md](concepts/schedules.md) | 控制强化递送的规则系统 / Rule systems controlling reinforcement delivery |
+| 行为矫正 / Behavior Modification | [behavior-modification.md](../../行为经济学/丹尼尔/README.md) | 运用行为原理系统改变行为 / Systematic application of behavioral principles to change behavior |
+| 激进行为主义 / Radical Behaviorism | [radical-behaviorism.md](概念/激进行为主义.md) | 斯金纳的哲学立场 / Skinner's philosophical position |
+| 强化时程表 / Schedules of Reinforcement | [schedules.md](概念/强化时程表.md) | 控制强化递送的规则系统 / Rule systems controlling reinforcement delivery |

@@ -5,7 +5,13 @@ type: concept
 domain: 宗教
 school: buddhism-pure-land
 parent: 宗教.buddhism.master.shandao.readme
-tags: [他力, Other-Power, 本愿, Original Vow, 阿弥陀佛, Amitābha]
+tags:
+  - 他力
+  - other-power
+  - 本愿
+  - original-vow
+  - 阿弥陀佛
+  - Amitābha
 ---
 
 # 他力 Other-Power

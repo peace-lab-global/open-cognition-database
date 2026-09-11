@@ -4,7 +4,10 @@ title: "六相圆融 Six Aspects in Harmony"
 type: concept
 parent: fazang
 domain: 宗教
-tags: [six-aspects, Huayan, harmony]
+tags:
+  - six-aspects
+  - huayan
+  - harmony
 ---
 # 六相圆融 / Six Aspects in Perfect Harmony
 

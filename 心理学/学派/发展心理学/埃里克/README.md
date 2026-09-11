@@ -144,9 +144,9 @@ sub-entries:
 ## 重要概念 / Key Concepts
 
 ### 1. 心理社会发展八阶段 / Eight Stages of Psychosocial Development
-人生八个阶段各有其心理社会危机与对应美德：（1）信任 vs 不信任→希望；（2）自主 vs 羞耻/怀疑→意志；（3）主动 vs 内疚→目的；（4）勤奋 vs 自卑→能力；（5）同一性 vs 角色混乱→忠诚；（6）亲密 vs 孤独→爱；（7）生成性 vs 停滞→关怀；（8）自我整合 vs 绝望→智慧。详见 → [psychosocial-stages](concepts/psychosocial-stages.md)
+人生八个阶段各有其心理社会危机与对应美德：（1）信任 vs 不信任→希望；（2）自主 vs 羞耻/怀疑→意志；（3）主动 vs 内疚→目的；（4）勤奋 vs 自卑→能力；（5）同一性 vs 角色混乱→忠诚；（6）亲密 vs 孤独→爱；（7）生成性 vs 停滞→关怀；（8）自我整合 vs 绝望→智慧。详见 → [psychosocial-stages](概念/心理社会发展八阶段.md)
 
-Eight stages, each with its psychosocial crisis and virtue: (1) Trust vs Mistrust → Hope; (2) Autonomy vs Shame/Doubt → Will; (3) Initiative vs Guilt → Purpose; (4) Industry vs Inferiority → Competence; (5) Identity vs Role Confusion → Fidelity; (6) Intimacy vs Isolation → Love; (7) Generativity vs Stagnation → Care; (8) Ego Integrity vs Despair → Wisdom. See → [psychosocial-stages](concepts/psychosocial-stages.md)
+Eight stages, each with its psychosocial crisis and virtue: (1) Trust vs Mistrust → Hope; (2) Autonomy vs Shame/Doubt → Will; (3) Initiative vs Guilt → Purpose; (4) Industry vs Inferiority → Competence; (5) Identity vs Role Confusion → Fidelity; (6) Intimacy vs Isolation → Love; (7) Generativity vs Stagnation → Care; (8) Ego Integrity vs Despair → Wisdom. See → [psychosocial-stages](概念/心理社会发展八阶段.md)
 
 ### 2. 同一性危机 / Identity Crisis
 青春期的核心发展任务——在多种角色和价值观的探索中形成连贯的自我认同。包括四种同一性状态：同一性达成、同一性延缓、同一性早闭和同一性扩散。详见 → [identity-crisis](概念/同一性危机.md)
@@ -368,7 +368,7 @@ The central crisis of middle adulthood — realizing life's continuity through c
 
 | 子条目 / Sub-entry | 类型 / Type | 描述 / Description |
 |------|------|------|
-| [心理社会发展八阶段](concepts/psychosocial-stages.md) | 概念 / Concept | 八阶段理论的系统阐述 / Systematic exposition of the eight-stage theory |
+| [心理社会发展八阶段](概念/心理社会发展八阶段.md) | 概念 / Concept | 八阶段理论的系统阐述 / Systematic exposition of the eight-stage theory |
 | [同一性危机](概念/同一性危机.md) | 概念 / Concept | 同一性形成过程与四种状态 / Identity formation and four statuses |
 | [自我整合](概念/自我整合.md) | 概念 / Concept | 老年期的核心发展任务 / Core developmental task of old age |
 | [生命周期](概念/生命周期.md) | 概念 / Concept | 从出生到死亡的完整发展循环 / Complete developmental cycle from birth to death |

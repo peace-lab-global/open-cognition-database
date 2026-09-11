@@ -5,7 +5,12 @@ type: concept
 thinker: michelangelo
 domain: 艺术
 school: visual-arts
-tags: [terribilita, sublime, awe, renaissance, 美学]
+tags:
+  - terribilita
+  - sublime
+  - awe
+  - renaissance
+  - aesthetics
 cross-refs:
   - michelangelo
   - human-form-divine

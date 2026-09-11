@@ -2,7 +2,7 @@
 // 最后一遍补漏: 任意 md 文件, 只要 frontmatter title/name 含中文, 就改名为中文
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
+const { execFileSync } = require('child_process');
 const ROOT = '/Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition';
 
 function extractChinese(title) {
@@ -67,12 +67,12 @@ for (const f of files) {
     const dis = path.join(path.dirname(f), ch + '-' + base + '.md');
     if (fs.existsSync(dis)) { fail++; failures.push({ f, newF, dis, reason: 'exists' }); continue; }
     try {
-      execSync(`git mv -- ${JSON.stringify(f)} ${JSON.stringify(dis)}`, { cwd: ROOT, stdio: ['ignore','pipe','pipe'] });
+      execFileSync('git', ['mv', '--', f, dis], { cwd: ROOT, stdio: ['ignore','pipe','pipe'] });
       ok++;
     } catch (e) { fail++; failures.push({ f, dis, reason: 'err', msg: e.message.slice(0,100) }); }
   } else {
     try {
-      execSync(`git mv -- ${JSON.stringify(f)} ${JSON.stringify(newF)}`, { cwd: ROOT, stdio: ['ignore','pipe','pipe'] });
+      execFileSync('git', ['mv', '--', f, newF], { cwd: ROOT, stdio: ['ignore','pipe','pipe'] });
       ok++;
     } catch (e) { fail++; failures.push({ f, newF, reason: 'err', msg: e.message.slice(0,100) }); }
   }

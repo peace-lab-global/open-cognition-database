@@ -35,8 +35,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[帕拉休拉曼 Parasuraman](../../学派/自动化社会技术/parasuraman.md)
-- 来源概念：[自动化偏见](../../concepts/automation-bias.md)、[脱离回路](../../concepts/脱离回路.md)
+- 来源思想家：[帕拉休拉曼 Parasuraman](../../学派/自动化社会技术/拉贾.md)
+- 来源概念：[自动化偏见](../../concepts/automation-bias.md)、[脱离回路](../../概念/脱离回路.md)
 - 关键文献：Parasuraman, R. & Riley, V. "Humans and Automation." *Human Factors* 39(2), 1997.
 
 ## 操作流程
@@ -133,7 +133,7 @@ tags:
 
 ## 关联条目
 
-- 思想家：[帕拉休拉曼 Parasuraman](../../学派/自动化社会技术/parasuraman.md)
+- 思想家：[帕拉休拉曼 Parasuraman](../../学派/自动化社会技术/拉贾.md)
 - 概念：[自动化偏见](../../concepts/automation-bias.md)
-- 概念：[脱离回路](../../concepts/脱离回路.md)
+- 概念：[脱离回路](../../概念/脱离回路.md)
 - 相关 Skill：[人 AI 协作设计](../../../宗教/佛教/技能/从前五识/SKILL.md)

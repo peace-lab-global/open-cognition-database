@@ -118,6 +118,6 @@ Derek Parfit (1942–2017) was one of the most important moral philosophers of t
 
 ## 十、关联条目
 
-- [康德 Kant](../../early-modern/idealism/kant/README.md) `[批判/综合]` 康德主义与后果主义
-- [内格尔 Nagel](../nagel/README.md) `[同时代对话]` 理由与客观性
-- [威廉斯 Williams](../williams/README.md) `[论敌]` 主观理由 vs 客观理由
+- [康德 Kant](../../德国唯心论/康德/README.md) `[批判/综合]` 康德主义与后果主义
+- [内格尔 Nagel](../内格尔/README.md) `[同时代对话]` 理由与客观性
+- [威廉斯 Williams](../../../../README.md) `[论敌]` 主观理由 vs 客观理由

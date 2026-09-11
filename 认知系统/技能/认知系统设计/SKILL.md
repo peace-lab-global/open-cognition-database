@@ -9,7 +9,7 @@ linked_concepts:
   - ../../concepts/可供性.md
 tags:
   - system-design
-  - human-AI
+  - human-ai
   - automation
   - cognitive-engineering
 ---

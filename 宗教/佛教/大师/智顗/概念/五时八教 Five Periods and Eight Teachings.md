@@ -4,7 +4,11 @@ title: "五时八教 Five Periods and Eight Teachings"
 type: concept
 parent: zhiyi
 domain: 宗教
-tags: [panjiao, doctrinal-classification, Tiantai, pedagogical]
+tags:
+  - panjiao
+  - doctrinal-classification
+  - tiantai
+  - pedagogical
 ---
 
 # 五时八教 / Five Periods and Eight Teachings

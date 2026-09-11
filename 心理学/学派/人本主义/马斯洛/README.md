@@ -7,7 +7,14 @@ school: humanistic
 era: modern
 birth: 1908
 death: 1970
-tags: [需求层次, 自我实现, 高峰体验, 人本主义, 匮乏与存在, 元动机, 超个人心理学]
+tags:
+  - 需求层次
+  - 自我实现
+  - 高峰体验
+  - humanistic
+  - 匮乏与存在
+  - 元动机
+  - 超个人心理学
 aliases: [Abraham Maslow, 亚伯拉罕·马斯洛, A. H. Maslow]
 sources:
   - "Motivation and Personality (1954)"
@@ -130,11 +137,11 @@ In 1962 he published *Toward a Psychology of Being*, expanding his focus from mo
 
 ## 重要概念 / Key Concepts
 
-1. **需求层次**（Hierarchy of Needs）：从生理需求到自我超越的多层动机模型。详见 → [concepts/hierarchy-of-needs](concepts/hierarchy-of-needs.md)
-2. **自我实现**（Self-Actualization）：发挥个人潜能的持续过程。详见 → [concepts/self-actualization](concepts/self-actualization.md)
-3. **高峰体验**（Peak Experience）：短暂的、超越性的、全然整合的意识状态。详见 → [concepts/peak-experience](concepts/peak-experience.md)
-4. **匮乏性需求与存在性需求**（Deficiency-Needs vs. Being-Needs / D-needs vs. B-needs）：两种根本不同的动机类型。详见 → [concepts/deficiency-being-needs](concepts/deficiency-being-needs.md)
-5. **元动机**（Metamotivation）：超越匮乏性动机后的成长性驱动力。详见 → [concepts/metamotivation](concepts/metamotivation.md)
+1. **需求层次**（Hierarchy of Needs）：从生理需求到自我超越的多层动机模型。详见 → [concepts/hierarchy-of-needs](概念/需求层次.md)
+2. **自我实现**（Self-Actualization）：发挥个人潜能的持续过程。详见 → [concepts/self-actualization](概念/自我实现.md)
+3. **高峰体验**（Peak Experience）：短暂的、超越性的、全然整合的意识状态。详见 → [concepts/peak-experience](../../../../名言/自我超越/马斯洛-高峰体验.md)
+4. **匮乏性需求与存在性需求**（Deficiency-Needs vs. Being-Needs / D-needs vs. B-needs）：两种根本不同的动机类型。详见 → [concepts/deficiency-being-needs](概念/匮乏性需求与存在性需求.md)
+5. **元动机**（Metamotivation）：超越匮乏性动机后的成长性驱动力。详见 → [concepts/metamotivation](概念/元动机.md)
 6. **存在性价值**（Being-Values / B-Values）：真、善、美、完整、活泼、独特、完善、必然、完成、正义、秩序、单纯、自足、丰富、轻松、幽默、自给自足等十四项终极价值。
 7. **约拿情结**（Jonah Complex）：对自身伟大潜能的恐惧——逃避成长与使命的心理机制。
 8. **高原体验**（Plateau Experience）：区别于高峰体验的短暂巅峰，是一种持久的、宁静的存在性意识状态，在晚年被马斯洛视为更为成熟的精神境界。
@@ -222,11 +229,11 @@ Maslow was deeply influenced by Daoism in his later years. His concept of "Daois
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **人本主义心理学 / Humanistic Psychology**：与[罗杰斯 Carl Rogers](../卡尔.md)并列为"双子星"，共同奠定人本主义心理学基础。/ Co-"twins" with Rogers in founding humanistic 心理学.
-- **个体心理学 / Individual Psychology**：继承[阿德勒 Alfred Adler](../../individual-psychology/adler.md)的社会兴趣（social interest）和目的论（teleology）传统。/ Inherits Adler's social interest and teleology.
-- **积极心理学 / Positive Psychology**：[塞利格曼 Martin Seligman](../../positive/seligman.md)的PERMA模型是自我实现研究纲领的实证科学化延续。/ Seligman's PERMA model is the empirical continuation of the self-actualization 研究 program.
-- **心流理论 / Flow Theory**：[米哈里 Csikszentmihalyi](../../positive/csikszentmihalyi.md)的"心流"概念与高峰体验形成直接对话，但更强调过程中的深度沉浸。/ Csikszentmihalyi's "flow" concept directly dialogues with peak experience but emphasizes deep immersion in process.
-- **存在主义心理学 / Existential Psychology**：与[罗洛·梅 Rollo May](../may.md)就焦虑、创造性与人的存在境况展开深入对话。/ Engaged May in deep dialogue on anxiety, creativity, and the human condition.
-- **意义疗法 / Logotherapy**：与[弗兰克尔 Viktor Frankl](../../existential/frankl.md)在"意义追求作为人的基本动机"上形成共鸣。/ Resonates with Frankl on "meaning-seeking as a fundamental human motivation."
+- **个体心理学 / Individual Psychology**：继承[阿德勒 Alfred Adler](../../个体心理学/阿尔弗雷德/README.md)的社会兴趣（social interest）和目的论（teleology）传统。/ Inherits Adler's social interest and teleology.
+- **积极心理学 / Positive Psychology**：[塞利格曼 Martin Seligman](../../积极心理学/马丁/README.md)的PERMA模型是自我实现研究纲领的实证科学化延续。/ Seligman's PERMA model is the empirical continuation of the self-actualization 研究 program.
+- **心流理论 / Flow Theory**：[米哈里 Csikszentmihalyi](../../积极心理学/米哈里/README.md)的"心流"概念与高峰体验形成直接对话，但更强调过程中的深度沉浸。/ Csikszentmihalyi's "flow" concept directly dialogues with peak experience but emphasizes deep immersion in process.
+- **存在主义心理学 / Existential Psychology**：与[罗洛·梅 Rollo May](../../../../宗教/佛教/大师/莲花生大士/概念/三昧耶 Samaya: 密乘戒.md)就焦虑、创造性与人的存在境况展开深入对话。/ Engaged May in deep dialogue on anxiety, creativity, and the human condition.
+- **意义疗法 / Logotherapy**：与[弗兰克尔 Viktor Frankl](../../存在心理学/维克多/README.md)在"意义追求作为人的基本动机"上形成共鸣。/ Resonates with Frankl on "meaning-seeking as a fundamental human motivation."
 - **东方哲学 / Eastern Philosophy**：受[老子](../../../../哲学/学派/东方哲学/老子.md)、[庄子](../../../../哲学/学派/东方哲学/庄子.md)道家思想和[禅宗](../../../../宗教/传统/佛教/禅宗.md)影响。/ Influenced by Daoist thought of Laozi and Zhuangzi, and Zen Buddhism.
 - **管理学 / Management Studies**：麦格雷戈（McGregor）的X/Y理论和后续的Z理论均受马斯洛需求层次启发。/ McGregor's Theory X/Y and subsequent Theory Z were inspired by Maslow's hierarchy.
 
@@ -265,11 +272,11 @@ Maslow was deeply influenced by Daoism in his later years. His concept of "Daois
 
 | 条目 / Entry | 类型 / Type | 说明 / Description |
 |:---|:---|:---|
-| [需求层次 / Hierarchy of Needs](concepts/hierarchy-of-needs.md) | 概念 / Concept | 多层动机模型 / Multi-level motivation model |
-| [自我实现 / Self-Actualization](concepts/self-actualization.md) | 概念 / Concept | 潜能实现的持续过程 / Ongoing process of realizing potential |
-| [高峰体验 / Peak Experience](concepts/peak-experience.md) | 概念 / Concept | 超越性意识状态 / Transcendent state of consciousness |
-| [匮乏与存在需求 / D-Needs & B-Needs](concepts/deficiency-being-needs.md) | 概念 / Concept | 两种根本不同的动机类型 / Two fundamentally different motivation types |
-| [元动机 / Metamotivation](concepts/metamotivation.md) | 概念 / Concept | 超越匮乏后的成长性驱动力 / Growth motivation beyond deficiency |
+| [需求层次 / Hierarchy of Needs](概念/需求层次.md) | 概念 / Concept | 多层动机模型 / Multi-level motivation model |
+| [自我实现 / Self-Actualization](概念/自我实现.md) | 概念 / Concept | 潜能实现的持续过程 / Ongoing process of realizing potential |
+| [高峰体验 / Peak Experience](../../../../名言/自我超越/马斯洛-高峰体验.md) | 概念 / Concept | 超越性意识状态 / Transcendent state of consciousness |
+| [匮乏与存在需求 / D-Needs & B-Needs](概念/匮乏性需求与存在性需求.md) | 概念 / Concept | 两种根本不同的动机类型 / Two fundamentally different motivation types |
+| [元动机 / Metamotivation](概念/元动机.md) | 概念 / Concept | 超越匮乏后的成长性驱动力 / Growth motivation beyond deficiency |
 | [著作年表 / Works Chronology](著作.md) | 著作 / Works | 完整著作列表 / Complete works listing |
 | [生平年表 / Life Timeline](时间线.md) | 年表 / Timeline | 生平大事记 / Chronological biography |
 | [推荐阅读 / Reading List](阅读.md) | 阅读 / Reading | 分级阅读指南 / Graded reading guide |

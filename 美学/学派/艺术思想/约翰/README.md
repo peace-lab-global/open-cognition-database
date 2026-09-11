@@ -237,11 +237,11 @@ Cage was the 20th-century Western artist most deeply absorbing Eastern thought: 
 
 | 条目 | 类型 | 简述 |
 |------|------|------|
-| [沉默即音乐](concepts/silence-as-music.md) | 概念 | 不存在真正的沉默，任何声音都可以是音乐 |
-| [偶然性操作](concepts/chance-operations.md) | 概念 | 用随机过程替代创作意志 |
-| [不确定性](concepts/indeterminacy.md) | 概念 | 乐谱不完全规定演奏方式 |
-| [4分33秒](concepts/four-minutes-thirty-three-seconds.md) | 概念 | 演奏者不演奏，观众听到环境声 |
-| [无目的性](concepts/non-intention.md) | 概念 | 无目的的游戏，消解艺术家意志 |
+| [沉默即音乐](概念/沉默即音乐 Silence as Music.md) | 概念 | 不存在真正的沉默，任何声音都可以是音乐 |
+| [偶然性操作](概念/偶然性操作 Chance Operations.md) | 概念 | 用随机过程替代创作意志 |
+| [不确定性](概念/不确定性 Indeterminacy.md) | 概念 | 乐谱不完全规定演奏方式 |
+| [4分33秒](概念/4分33秒 4'33".md) | 概念 | 演奏者不演奏，观众听到环境声 |
+| [无目的性](../../../../伦理政治/学派/非暴力抵抗/圣雄甘地/README.md) | 概念 | 无目的的游戏，消解艺术家意志 |
 | [著作列表](著作.md) | 著作 | 凯奇主要著作及简介 |
 | [年表](时间线.md) | 年表 | 凯奇生平与思想发展时间线 |
 | [推荐阅读](阅读.md) | 书单 | 凯奇研究进阶阅读指南 |

@@ -4,7 +4,16 @@ title: "百论 Satasatra: 提婆破斥外道的辩论方法论"
 type: concept
 parent: aryadeva
 domain: 宗教
-tags: [Satasatra, hundred-treatise, debate, refutation, Samkhya, Vaisesika, Nyaya, prasanga, Sanlun]
+tags:
+  - satasatra
+  - hundred-treatise
+  - debate
+  - refutation
+  - samkhya
+  - vaisesika
+  - nyaya
+  - prasanga
+  - sanlun
 ---
 
 # 百论 Satasatra / The Hundred Treatise

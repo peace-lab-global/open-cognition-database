@@ -120,6 +120,6 @@ Confucius (551–479 BCE) was the founding figure of Confucianism and one of the
 
 ## 十、关联 Skills
 
-- [亚里士多德 Aristotle](../ancient-greek/aristotle/README.md) `[平行]` 德性伦理的两大传统
-- [孟子 Mencius](../eastern/mencius/README.md) `[继承]` 性善论与仁政
-- [荀子 Xunzi](../eastern/xunzi/README.md) `[继承/分歧]` 性恶论与礼法
+- [亚里士多德 Aristotle](../../古希腊/亚里士多德/README.md) `[平行]` 德性伦理的两大传统
+- [孟子 Mencius](../../../../README.md) `[继承]` 性善论与仁政
+- [荀子 Xunzi](../../../../README.md) `[继承/分歧]` 性恶论与礼法

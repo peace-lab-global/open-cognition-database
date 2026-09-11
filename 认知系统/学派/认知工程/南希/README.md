@@ -7,7 +7,13 @@ school: cognitive-engineering
 era: modern
 birth: 1944
 death:
-tags: [STAMP, STPA, system-theoretic-safety, control-theory, hazard-analysis, software-safety]
+tags:
+  - stamp
+  - stpa
+  - system-theoretic-safety
+  - control-theory
+  - hazard-analysis
+  - software-safety
 aliases: [南希·莱文森, Nancy Leveson, Nancy G. Leveson]
 sources:
   - Engineering a Safer World: Systems Thinking Applied to Safety (2011)

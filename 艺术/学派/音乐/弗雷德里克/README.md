@@ -95,15 +95,15 @@ The rupture with George Sand in 1846 was one of the most devastating events in C
 
 ## 重要概念 / Key Concepts
 
-- **[钢琴诗学 (Piano Poetry)](concepts/piano-poetry.md)**：钢琴作为独立表现媒介的美学定位，一架乐器足以承载人类情感的全部光谱。 / The aesthetic positioning of the piano as a self-sufficient expressive medium, one instrument capable of bearing the full spectrum of human emotion.
+- **[钢琴诗学 (Piano Poetry)](README.md)**：钢琴作为独立表现媒介的美学定位，一架乐器足以承载人类情感的全部光谱。 / The aesthetic positioning of the piano as a self-sufficient expressive medium, one instrument capable of bearing the full spectrum of human emotion.
 
-- **[弹性速度 (Rubato)](concepts/rubato.md)**：旋律时间线的自由伸缩技术，左手严守节拍而右手自由呼吸的演奏哲学。 / The technique of flexible melodic timing, a performance 哲学 where the left hand maintains strict beat while the right hand breathes freely.
+- **[弹性速度 (Rubato)](概念/弹性速度.md)**：旋律时间线的自由伸缩技术，左手严守节拍而右手自由呼吸的演奏哲学。 / The technique of flexible melodic timing, a performance 哲学 where the left hand maintains strict beat while the right hand breathes freely.
 
-- **[夜曲形式 (Nocturne Form)](concepts/nocturne-form.md)**：肖邦对菲尔德夜曲的创造性转化，从优雅的沙龙小品升华为深邃的情感自白。 / Chopin's creative transformation of Field's nocturne, elevating it from elegant salon piece to profound emotional confession.
+- **[夜曲形式 (Nocturne Form)](概念/夜曲形式.md)**：肖邦对菲尔德夜曲的创造性转化，从优雅的沙龙小品升华为深邃的情感自白。 / Chopin's creative transformation of Field's nocturne, elevating it from elegant salon piece to profound emotional confession.
 
-- **[民族音乐化 (Nationalist Music)](concepts/nationalist-music.md)**：将波兰民间音乐元素（马祖卡节奏、波兰舞曲形态、调式色彩）提升为普遍艺术语言的策略。 / The strategy of elevating Polish folk music elements (mazurka rhythms, polonaise forms, modal coloring) into a universal artistic language.
+- **[民族音乐化 (Nationalist Music)](概念/民族音乐化.md)**：将波兰民间音乐元素（马祖卡节奏、波兰舞曲形态、调式色彩）提升为普遍艺术语言的策略。 / The strategy of elevating Polish folk music elements (mazurka rhythms, polonaise forms, modal coloring) into a universal artistic language.
 
-- **[抒情炫技 (Virtuoso Lyricism)](concepts/virtuoso-lyricism.md)**：技术难度服务于抒情表达而非外在炫示的演奏美学，技巧与诗意的彻底融合。 / A performance aesthetic where technical difficulty serves lyrical expression rather than outward display, a complete fusion of technique and poetry.
+- **[抒情炫技 (Virtuoso Lyricism)](概念/抒情炫技.md)**：技术难度服务于抒情表达而非外在炫示的演奏美学，技巧与诗意的彻底融合。 / A performance aesthetic where technical difficulty serves lyrical expression rather than outward display, a complete fusion of technique and poetry.
 
 - **美声移植 (Bel Canto Transfer)**：将贝利尼、罗西尼等意大利歌剧作曲家的歌唱性旋律与花腔装饰移植到钢琴键盘上。 / Transplanting the singing melodies and fioritura ornamentation of Italian opera composers like Bellini and Rossini onto the piano keyboard.
 
@@ -212,11 +212,11 @@ Chopin's music resonates profoundly with Chinese classical 美学. His rubato �
 
 ## 子条目索引 / Sub-entry Index
 
-- [钢琴诗学 (Piano Poetry)](concepts/piano-poetry.md)
-- [弹性速度 (Rubato)](concepts/rubato.md)
-- [夜曲形式 (Nocturne Form)](concepts/nocturne-form.md)
-- [民族音乐化 (Nationalist Music)](concepts/nationalist-music.md)
-- [抒情炫技 (Virtuoso Lyricism)](concepts/virtuoso-lyricism.md)
+- [钢琴诗学 (Piano Poetry)](README.md)
+- [弹性速度 (Rubato)](概念/弹性速度.md)
+- [夜曲形式 (Nocturne Form)](概念/夜曲形式.md)
+- [民族音乐化 (Nationalist Music)](概念/民族音乐化.md)
+- [抒情炫技 (Virtuoso Lyricism)](概念/抒情炫技.md)
 - [著作年表 (Works)](著作.md)
 - [生平大事记 (Timeline)](时间线.md)
 - [阅读指南 (Reading List)](阅读.md)

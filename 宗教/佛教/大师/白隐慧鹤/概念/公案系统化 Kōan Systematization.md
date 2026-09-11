@@ -5,7 +5,14 @@ type: concept
 domain: 宗教
 school: buddhism-rinzai
 parent: ../README.md
-tags: [公案, koan, 白隐, Hakuin, 临济宗, Rinzai, 看话禅]
+tags:
+  - 公案
+  - koan
+  - 白隐
+  - hakuin
+  - 临济宗
+  - rinzai
+  - 看话禅
 ---
 
 # 公案系统化 Kōan Systematization

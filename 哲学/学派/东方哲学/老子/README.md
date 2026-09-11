@@ -13,7 +13,7 @@ tags:
   - 自然
   - 柔弱
   - 形而上学
-  - Dao
+  - dao
   - wu-wei
   - ziran
   - metaphysics
@@ -154,7 +154,7 @@ Laozi stands alongside Confucius as one of the two foundational pillars of Chine
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [庄子 · Zhuāngzǐ](../zhuangzi.md) `[发展]` 将老子之道激进化为逍遥与齐物
+- [庄子 · Zhuāngzǐ](../庄子.md) `[发展]` 将老子之道激进化为逍遥与齐物
 - [孔子 · Confucius](../孔子.md) `[对立]` 自然与礼乐、无为与有为的对照
 - [海德格尔 · Heidegger](../../存在主义/海德格尔.md) `[平行]` 存在追问与技术批判
 - [唯识 · Yogācāra](../../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 本源超越语言、减法式认知
@@ -180,16 +180,16 @@ Laozi stands alongside Confucius as one of the two foundational pillars of Chine
 
 ## 关联 Skills / Related Skills
 
-- [语言游戏分析](../../skills/language-game-analysis/SKILL.md)
+- [语言游戏分析](../../../技能/语言游戏分析/SKILL.md)
 - 辩证法分析（Dialectical Analysis）
 
 ## 子条目索引 / Sub-entries
 
-- [道 / Dao](concepts/dao.md)
+- [道 / Dao](README.md)
 - [无为 / Wu-wei](概念/无为.md)
 - [自然 / Ziran](概念/自然.md)
 - [虚 / Xu (Emptiness)](concepts/xu.md)
-- [反 / Reversal](concepts/reversal.md)
+- [反 / Reversal](概念/反.md)
 - [著作与版本](著作.md)
 - [年表](时间线.md)
 - [进阶阅读](阅读.md)

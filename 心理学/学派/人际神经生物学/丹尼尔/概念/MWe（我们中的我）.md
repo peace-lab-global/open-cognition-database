@@ -5,7 +5,18 @@ type: concept
 domain: 心理学
 school: interpersonal-neurobiology
 thinker: siegel-daniel
-tags: [MWe, 关系性自我, 分化, 联结, 默认模式网络, 集体认同, MWe, relational-self, differentiation, linkage, default-mode-network, collective-identity]
+tags:
+  - mwe
+  - 关系性自我
+  - 分化
+  - 联结
+  - 默认模式网络
+  - 集体认同
+  - relational-self
+  - differentiation
+  - linkage
+  - default-mode-network
+  - collective-identity
 cross-refs: [interpersonal-neurobiology, mindsight, integration, window-of-tolerance]
 ---
 

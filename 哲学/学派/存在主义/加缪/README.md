@@ -11,13 +11,12 @@ death: 1960
 tags:
   - 荒诞
   - 反抗
-  - 存在主义
+  - existentialism
   - 地中海思想
   - 限度
   - 诺贝尔文学奖
   - absurdism
   - revolt
-  - existentialism
 aliases:
   - 加缪
   - Camus
@@ -308,7 +307,7 @@ The Buddhist "Middle Way" (madhyamā pratipad) — avoiding the extremes of asce
 | 存在主义 | [克尔凯郭尔 · Søren Kierkegaard](../索伦/README.md) | 批判 | 拒绝信仰跳跃，保持荒诞 |
 | 文学 | [陀思妥耶夫斯基](../../../../文学/学派/小说家/费奥多尔/README.md) | 继承/转化 | 《卡拉马佐夫兄弟》作为荒诞哲学的先声 |
 | 悲观主义 | [叔本华 · Arthur Schopenhauer](../../悲观主义/叔本华/README.md) | 对比 | 同起于世界的无意义，但走向反抗而非否定 |
-| 政治哲学 | [阿伦特 · Hannah Arendt](../../政治哲学/arendt.md) | 平行 | 对极权主义的批判，对"限度"的坚持 |
+| 政治哲学 | [阿伦特 · Hannah Arendt](../../政治哲学/汉娜.md) | 平行 | 对极权主义的批判，对"限度"的坚持 |
 | 文学 | [卡夫卡 · Franz Kafka](../../../../美学/学派/文学思想/卡夫卡.md) | 平行 | 荒诞文学的两位奠基者 |
 
 ---

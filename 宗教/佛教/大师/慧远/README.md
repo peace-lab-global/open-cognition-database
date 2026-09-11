@@ -7,7 +7,17 @@ school: buddhism-pure-land
 era: ancient
 birth: 334
 death: 416
-tags: [慧远, 庐山, 白莲社, 沙门不敬王者, 净土, 因果报应, 神不灭, 念佛三昧, Pure-Land, Huiyuan]
+tags:
+  - 慧远
+  - 庐山
+  - 白莲社
+  - 沙门不敬王者
+  - 净土
+  - 因果报应
+  - 神不灭
+  - 念佛三昧
+  - pure-land
+  - huiyuan
 aliases: ["Huiyuan", "释慧远", "庐山慧远", "远公", "Master Huiyuan"]
 sources: ["《沙门不敬王者论》", "《明报应论》", "《三报论》", "《念佛三昧诗集序》", "《法性论》", "《庐山远公话》"]
 cross_refs: ["shandao", "yinguang", "kumarajiva", "daoan", "zhiyi", "augustine"]
@@ -39,7 +49,7 @@ children: ["concepts/monks-no-bowing", "concepts/three-times-karma", "concepts/b
 
 **Monastics constitute a spiritual community that transcends the secular political order. They should not prostrate before emperors, for their spiritual pursuit lies beyond the jurisdiction of temporal power.**
 
-详见 [沙门不敬王者](concepts/monks-no-bowing.md)。
+详见 [沙门不敬王者](概念/沙门不敬王者: 慧远的政教分离论述.md)。
 
 ### 2. 因果报应三报论 Three-Times Karma
 
@@ -47,7 +57,7 @@ children: ["concepts/monks-no-bowing", "concepts/three-times-karma", "concepts/b
 
 **Karmic retribution operates across three temporal registers: present-life, next-life, and subsequent-lives. The apparent injustice of the righteous suffering and the wicked prospering is explained by the deferred nature of karmic fruition.**
 
-详见 [因果报应三报论](concepts/three-times-karma.md)。
+详见 [因果报应三报论](概念/因果报应三报论: 慧远的业报时间哲学.md)。
 
 ### 3. 念佛三昧 Buddhanusmrti-Samadhi
 
@@ -55,7 +65,7 @@ children: ["concepts/monks-no-bowing", "concepts/three-times-karma", "concepts/b
 
 **Visualization of Amitabha Buddha's attributes as a meditative method — concentrating on the Buddha's qualities and form to attain samadhi, the earliest Pure Land contemplative practice in China.**
 
-详见 [念佛三昧](concepts/buddhanusmrti-samadhi.md)。
+详见 [念佛三昧](概念/念佛三昧: 慧远的观想念佛禅法.md)。
 
 ### 4. 神不灭论 Spirit Non-Extinction
 
@@ -63,7 +73,7 @@ children: ["concepts/monks-no-bowing", "concepts/three-times-karma", "concepts/b
 
 **The body perishes but the spirit (shen) does not perish. Like fire transmitted from one piece of wood to another, consciousness transmigrates from one form to another.**
 
-详见 [神不灭论](concepts/spirit-non-extinction.md)。
+详见 [神不灭论](概念/神不灭论: 慧远的'形尽神不灭'哲学论证.md)。
 
 ### 5. 白莲社 White Lotus Society
 
@@ -71,7 +81,7 @@ children: ["concepts/monks-no-bowing", "concepts/three-times-karma", "concepts/b
 
 **In 402 CE, Huiyuan and 123 monastic and lay disciples formed a society before an image of Amitabha, vowing rebirth in the Western Pure Land — the earliest Pure Land association in Chinese Buddhist history.**
 
-详见 [白莲社](concepts/white-lotus-society.md)。
+详见 [白莲社](../../../../心理学/学派/叙事疗法/迈克尔/README.md)。
 
 ---
 
@@ -243,11 +253,11 @@ children: ["concepts/monks-no-bowing", "concepts/three-times-karma", "concepts/b
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [沙门不敬王者](concepts/monks-no-bowing.md) — 僧团精神独立于世俗权力
-- [因果报应三报论](concepts/three-times-karma.md) — 业报的时间差与伦理困境
-- [念佛三昧](concepts/buddhanusmrti-samadhi.md) — 观想念佛的禅修方法
-- [白莲社](concepts/white-lotus-society.md) — 中国最早的净土结社
-- [神不灭论](concepts/spirit-non-extinction.md) — 形尽神不灭的哲学论证
+- [沙门不敬王者](概念/沙门不敬王者: 慧远的政教分离论述.md) — 僧团精神独立于世俗权力
+- [因果报应三报论](概念/因果报应三报论: 慧远的业报时间哲学.md) — 业报的时间差与伦理困境
+- [念佛三昧](概念/念佛三昧: 慧远的观想念佛禅法.md) — 观想念佛的禅修方法
+- [白莲社](../../../../心理学/学派/叙事疗法/迈克尔/README.md) — 中国最早的净土结社
+- [神不灭论](概念/神不灭论: 慧远的'形尽神不灭'哲学论证.md) — 形尽神不灭的哲学论证
 - [著作目录](著作.md) — 完整著作列表与考证
 - [年表](时间线.md) — 生平与历史语境
 - [进阶阅读](阅读.md) — 分类书单

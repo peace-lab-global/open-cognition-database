@@ -5,7 +5,15 @@ type: concept
 thinker: nagarjuna
 domain: 宗教
 school: buddhism-madhyamaka
-tags: [catuskoti, tetralemma, four-corners, negation, logic, prasanga, reductio, Madhyamaka]
+tags:
+  - catuskoti
+  - tetralemma
+  - four-corners
+  - negation
+  - logic
+  - prasanga
+  - reductio
+  - madhyamaka
 ---
 
 # 四句破 Catuskoti / Tetralemma

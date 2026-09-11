@@ -9,8 +9,8 @@ birth: 1842
 death: 1910
 tags:
   - 意识流
-  - 功能主义
-  - 实用主义
+  - functionalism
+  - pragmatism
   - 自我
   - 宗教经验
   - 习惯
@@ -135,33 +135,33 @@ sources:
 
 ### 1. 意识流 / Stream of Consciousness
 
-**中** 意识是连续的河流，而非离散的元素集合。这一概念彻底颠覆了冯特的结构主义心理学，使心理学从"分析意识的成分"转向"理解意识的功能"。详见 → [stream-of-consciousness](concepts/stream-of-consciousness.md)
+**中** 意识是连续的河流，而非离散的元素集合。这一概念彻底颠覆了冯特的结构主义心理学，使心理学从"分析意识的成分"转向"理解意识的功能"。详见 → [stream-of-consciousness](../威廉-william-james/概念/意识流.md)
 
-**EN** Consciousness is a continuous river, not a collection of discrete elements. This concept fundamentally overturned Wundt's structuralist psychology, redirecting 心理学 from "analyzing the components of consciousness" to "understanding the function of consciousness." See → [stream-of-consciousness](concepts/stream-of-consciousness.md)
+**EN** Consciousness is a continuous river, not a collection of discrete elements. This concept fundamentally overturned Wundt's structuralist psychology, redirecting 心理学 from "analyzing the components of consciousness" to "understanding the function of consciousness." See → [stream-of-consciousness](../威廉-william-james/概念/意识流.md)
 
 ### 2. 功能主义 / Functionalism
 
-**中** 心理学的核心问题不是"意识是什么"（结构），而是"意识做什么"（功能）。心智是有机体适应环境的工具。详见 → [functionalism](concepts/functionalism.md)
+**中** 心理学的核心问题不是"意识是什么"（结构），而是"意识做什么"（功能）。心智是有机体适应环境的工具。详见 → [functionalism](../../../../社会学/学派/功能主义/帕森斯/README.md)
 
-**EN** The central question of 心理学 is not "what is consciousness" (structure) but "what does consciousness do" (function). Mind is an instrument for the organism's adaptation to its environment. See → [functionalism](concepts/functionalism.md)
+**EN** The central question of 心理学 is not "what is consciousness" (structure) but "what does consciousness do" (function). Mind is an instrument for the organism's adaptation to its environment. See → [functionalism](../../../../社会学/学派/功能主义/帕森斯/README.md)
 
 ### 3. 信仰意志 / Will to Believe
 
-**中** 在证据不足以决定的重大选择面前，我们有权利根据信念的实践后果来选择信仰。详见 → [will-to-believe](concepts/will-to-believe.md)
+**中** 在证据不足以决定的重大选择面前，我们有权利根据信念的实践后果来选择信仰。详见 → [will-to-believe](../../../../文学/学派/剧作家/威廉/README.md)
 
-**EN** In the face of momentous choices where evidence is insufficient to decide, we have the right to choose belief based on its practical consequences. See → [will-to-believe](concepts/will-to-believe.md)
+**EN** In the face of momentous choices where evidence is insufficient to decide, we have the right to choose belief based on its practical consequences. See → [will-to-believe](../../../../文学/学派/剧作家/威廉/README.md)
 
 ### 4. 习惯 / Habit
 
-**中** 习惯是社会与个人生活的"飞轮"——它使行为自动化，释放高级心智功能用于新的适应任务。详见 → [habit](concepts/habit.md)
+**中** 习惯是社会与个人生活的"飞轮"——它使行为自动化，释放高级心智功能用于新的适应任务。详见 → [habit](概念/习惯.md)
 
-**EN** Habit is the "flywheel" of society and individual life—it automates behavior, freeing higher mental functions for new adaptive tasks. See → [habit](concepts/habit.md)
+**EN** Habit is the "flywheel" of society and individual life—it automates behavior, freeing higher mental functions for new adaptive tasks. See → [habit](概念/习惯.md)
 
 ### 5. 实用主义 / Pragmatism
 
-**中** 观念的意义在于其实际效果，真理是在经验中被"兑现"的过程。详见 → [pragmatism](concepts/pragmatism.md)
+**中** 观念的意义在于其实际效果，真理是在经验中被"兑现"的过程。详见 → [pragmatism](../../../../哲学/学派/实用主义/约翰/README.md)
 
-**EN** The meaning of an idea lies in its practical effects; truth is a process of being "cashed out" in experience. See → [pragmatism](concepts/pragmatism.md)
+**EN** The meaning of an idea lies in its practical effects; truth is a process of being "cashed out" in experience. See → [pragmatism](../../../../哲学/学派/实用主义/约翰/README.md)
 
 ### 6. James-Lange情绪理论 / James-Lange Theory of Emotion
 
@@ -361,11 +361,11 @@ sources:
 
 | 条目 / Entry | 路径 / Path | 说明 / Description |
 |---|---|---|
-| 意识流 | [concepts/stream-of-consciousness.md](concepts/stream-of-consciousness.md) | 意识的连续性、五特征、与结构主义的对立 |
-| 功能主义 | [concepts/functionalism.md](concepts/functionalism.md) | 心智的功能观、方法论转向、对后世影响 |
-| 信仰意志 | [concepts/will-to-believe.md](concepts/will-to-believe.md) | 活的-强制-有重大后果的选择、信念的实践权利 |
-| 习惯 | [concepts/habit.md](concepts/habit.md) | 习惯的神经机制、社会飞轮、行为自动化 |
-| 实用主义 | [concepts/pragmatism.md](concepts/pragmatism.md) | 真理的兑现价值、意义的效果标准 |
+| 意识流 | [concepts/stream-of-consciousness.md](../威廉-william-james/概念/意识流.md) | 意识的连续性、五特征、与结构主义的对立 |
+| 功能主义 | [concepts/functionalism.md](../../../../社会学/学派/功能主义/帕森斯/README.md) | 心智的功能观、方法论转向、对后世影响 |
+| 信仰意志 | [concepts/will-to-believe.md](../../../../文学/学派/剧作家/威廉/README.md) | 活的-强制-有重大后果的选择、信念的实践权利 |
+| 习惯 | [concepts/habit.md](概念/习惯.md) | 习惯的神经机制、社会飞轮、行为自动化 |
+| 实用主义 | [concepts/pragmatism.md](../../../../哲学/学派/实用主义/约翰/README.md) | 真理的兑现价值、意义的效果标准 |
 | 著作年表 | [著作.md](著作.md) | 全部重要著作的时间线 |
 | 生平年表 | [时间线.md](时间线.md) | 重要人生事件与思想转折 |
 | 阅读清单 | [阅读.md](阅读.md) | 原典、二手研究、中文资源 |

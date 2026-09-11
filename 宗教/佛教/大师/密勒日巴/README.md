@@ -7,7 +7,18 @@ school: buddhism-vajrayana
 era: medieval
 birth: 1052
 death: 1135
-tags: [密勒日巴, Milarepa, 噶举派, Kagyu, 大手印, Mahamudra, 道歌, 拙火, tummo, 那洛六法, 藏传佛教]
+tags:
+  - 密勒日巴
+  - milarepa
+  - 噶举派
+  - kagyu
+  - 大手印
+  - mahamudra
+  - 道歌
+  - 拙火
+  - tummo
+  - 那洛六法
+  - 藏传佛教
 aliases: [Milarepa, 米拉日巴, 笑金刚, Jetsun Milarepa, 密勒日巴尊者, Mi-la-ras-pa, Shepa Dorje]
 sources: [《密勒日巴道歌》, 《密勒日巴传》, The Life of Milarepa, The Hundred Thousand Songs of Milarepa]
 cross_refs: [marpa, gampopa, naropa, tilopa, padmasambhava]
@@ -94,31 +105,31 @@ After realization, Milarepa taught through songs to all manner of people — fro
 
 Milarepa proved through his own life that complete Buddhahood can be attained in a single lifetime, regardless of past karma, through tantric practice under a qualified guru — the most central promise of Vajrayana.
 
-### 2. 大手印 Mahamudra（见 [concepts/mahamudra.md](concepts/mahamudra.md)）
+### 2. 大手印 Mahamudra（见 [concepts/mahamudra.md](概念/大手印 Mahamudra.md)）
 
 大手印是密勒日巴教法的基石。这一法门直接指向心性的本来面目——超越概念、超越二元对立的明空不二。密勒日巴的大手印教授强调：不造作、不修整、安住于本然状态。
 
 Mahamudra ("Great Seal") is the cornerstone of Milarepa's teaching. This practice points directly to the innate nature of mind — the unity of clarity and emptiness that transcends concepts and duality. Milarepa's Mahamudra instructions emphasize: non-fabrication, non-meditation, and resting in the natural state.
 
-### 3. 拙火 Tummo（见 [concepts/tummo.md](concepts/tummo.md)）
+### 3. 拙火 Tummo（见 [concepts/tummo.md](概念/拙火 Tummo (Inner Heat).md).md).md).md)）
 
 拙火是那洛六法之首，通过观修气脉明点来生起内在热能。密勒日巴的拙火修行尤为著名——他在雪山之巅仅以单衣抵御严寒，展示了密法修行的强大力量。
 
 Tummo (inner heat) is the first of the Six Yogas of Naropa, generating inner heat through visualization of channels, winds, and drops. Milarepa's tummo practice is legendary — withstanding the freezing cold of snow-clad peaks in thin cotton cloth, demonstrating the power of tantric practice.
 
-### 4. 道歌 Spiritual Songs（见 [concepts/spiritual-songs.md](concepts/spiritual-songs.md)）
+### 4. 道歌 Spiritual Songs（见 [concepts/spiritual-songs.md](概念/道歌 Spiritual Songs (Dohā).md).md).md).md)）
 
 密勒日巴以歌传法，其十万首道歌（《密勒日巴道歌集》）既是深奥的修行指导，也是优美的文学作品。道歌传统成为噶举派最具标志性的教学方式。
 
 Milarepa taught through songs; his hundred thousand songs (collected in *The Hundred Thousand Songs of Milarepa*) serve as both profound practice instructions and exquisite 文学. The song tradition became the most distinctive pedagogical method of the Kagyu lineage.
 
-### 5. 苦行转化 Ascetic Transformation（见 [concepts/ascetic-transformation.md](concepts/ascetic-transformation.md)）
+### 5. 苦行转化 Ascetic Transformation（见 [concepts/ascetic-transformation.md](概念/苦行转化 Ascetic Transformation.md)）
 
 密勒日巴的一生展示了通过极端苦行实现精神转化的可能性。他的苦行并非自虐，而是一种精密的修行方法——通过断除对物质享受的执着，将身心推向极限，从而突破凡夫的局限认知。
 
 Milarepa's life demonstrates the possibility of spiritual transformation through extreme austerity. His asceticism was not self-mortification but a refined practice method — pushing body and mind to their limits by relinquishing attachment to material comfort, thereby breaking through ordinary cognitive limitations.
 
-### 6. 那洛六法 Six Yogas of Naropa（见 [concepts/six-yogas-naropa.md](concepts/six-yogas-naropa.md)）
+### 6. 那洛六法 Six Yogas of Naropa（见 [concepts/six-yogas-naropa.md](概念/那洛六法 Six Yogas of Naropa.md)）
 
 那洛六法是噶举派最核心的密法体系，包含拙火、幻身、光明、梦瑜伽、迁识（颇瓦）和中阴教法。密勒日巴通过玛尔巴完整接受了这一传承，并在实修中将其发挥到极致。
 
@@ -206,8 +217,8 @@ Milarepa's song tradition influenced later Tibetan Buddhist literature, music, t
 
 ## 跨学科关联 Interdisciplinary Connections
 
-- **佛教内部 Buddhist**: [玛尔巴 Marpa](../marpa.md) — 上师 Guru；[冈波巴 Gampopa](../gampopa.md) — 首席弟子 Chief disciple；[那洛巴 Naropa](../indian-masters/naropa.md) — 传承祖师 Source lineage
-- **藏传佛教 Tibetan Buddhism**: [宗喀巴 Tsongkhapa](../tsongkhapa.md) — 格鲁派创始人，与噶举派形成对照
+- **佛教内部 Buddhist**: [玛尔巴 Marpa](../marpa.md) — 上师 Guru；[冈波巴 Gampopa](../gampopa.md) — 首席弟子 Chief disciple；[那洛巴 Naropa](概念/那洛六法 Six Yogas of Naropa.md) — 传承祖师 Source lineage
+- **藏传佛教 Tibetan Buddhism**: [宗喀巴 Tsongkhapa](../宗喀巴/README.md) — 格鲁派创始人，与噶举派形成对照
 - **心理学 Psychology**: [荣格 Jung](../../../../心理学/学派/分析心理学/卡尔.md) — 阴影整合与个体化 Shadow integration
 - **文学 Literature**: 与鲁米 Rumi、哈菲兹 Hafez 等苏菲派诗人并列
 
@@ -215,7 +226,7 @@ Milarepa's song tradition influenced later Tibetan Buddhist literature, music, t
 
 ## 进阶导航 Navigation
 
-- **概念 Concepts**: [大手印 Mahamudra](concepts/mahamudra.md) | [拙火 Tummo](concepts/tummo.md) | [道歌 Spiritual Songs](concepts/spiritual-songs.md) | [苦行转化 Ascetic Transformation](concepts/ascetic-transformation.md) | [那洛六法 Six Yogas](concepts/six-yogas-naropa.md)
+- **概念 Concepts**: [大手印 Mahamudra](概念/大手印 Mahamudra.md) | [拙火 Tummo](概念/拙火 Tummo (Inner Heat).md).md).md).md) | [道歌 Spiritual Songs](概念/道歌 Spiritual Songs (Dohā).md).md).md).md) | [苦行转化 Ascetic Transformation](概念/苦行转化 Ascetic Transformation.md) | [那洛六法 Six Yogas](概念/那洛六法 Six Yogas of Naropa.md)
 - **著作 Works**: [著作.md](著作.md)
 - **年表 Timeline**: [时间线.md](时间线.md)
 - **阅读书目 Reading List**: [阅读.md](阅读.md)

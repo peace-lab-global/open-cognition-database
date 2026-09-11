@@ -4,7 +4,14 @@ title: 有时 Uji (Being-Time)
 type: concept
 domain: 宗教
 parent: ../README.md
-tags: [道元, Dogen, 有时, uji, being-time, 时间, time]
+tags:
+  - 道元
+  - dogen
+  - 有时
+  - uji
+  - being-time
+  - 时间
+  - time
 ---
 
 # 有时 Uji (Being-Time)

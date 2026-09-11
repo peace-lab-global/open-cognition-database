@@ -7,7 +7,7 @@ linked_concepts:
   - ../../哲学/概念/existence-precedes-essence.md
   - ../../哲学/概念/自由.md
 tags:
-  - 存在主义
+  - existentialism
   - 自由
   - 责任
   - 人生意义

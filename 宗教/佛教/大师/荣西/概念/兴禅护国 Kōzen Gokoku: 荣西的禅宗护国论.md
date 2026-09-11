@@ -4,7 +4,12 @@ title: "兴禅护国 Kōzen Gokoku: 荣西的禅宗护国论"
 type: concept
 parent: yosai
 domain: 宗教
-tags: [兴禅护国, Kōzen Gokoku, 护国, 禅宗, 日本佛教]
+tags:
+  - 兴禅护国
+  - Kōzen-Gokoku
+  - 护国
+  - 禅宗
+  - 日本佛教
 ---
 
 # 兴禅护国 Kōzen Gokoku / Zen Protects the Nation

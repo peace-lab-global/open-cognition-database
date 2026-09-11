@@ -161,11 +161,11 @@ His final two years were dominated by the famous correspondence with Samuel Clar
 
 | 概念 / Concept | 说明 / Description | 详见 / See |
 |------|------|------|
-| 单子 (Monad) | 无窗的、不可分的精神实体，宇宙的基本单位 | [monad.md](concepts/monad.md) |
-| 前定和谐 (Pre-established Harmony) | 上帝预先安排的单子间协调 | [pre-established-harmony.md](concepts/pre-established-harmony.md) |
-| 可能世界 (Possible Worlds) | 上帝在所有逻辑可能的世界中选择了最优者 | [possible-worlds.md](concepts/possible-worlds.md) |
-| 充足理由律 (Sufficient Reason) | 任何事实必有其充足理由 | [sufficient-reason.md](concepts/sufficient-reason.md) |
-| 最好的可能世界 (Best of All Worlds) | 上帝在无限可能世界中选择了最好的一个 | [best-of-all-worlds.md](concepts/best-of-all-worlds.md) |
+| 单子 (Monad) | 无窗的、不可分的精神实体，宇宙的基本单位 | [monad.md](概念/单子论.md) |
+| 前定和谐 (Pre-established Harmony) | 上帝预先安排的单子间协调 | [pre-established-harmony.md](../../../../认知系统/学派/预测加工/README.md) |
+| 可能世界 (Possible Worlds) | 上帝在所有逻辑可能的世界中选择了最优者 | [possible-worlds.md](概念/可能世界.md) |
+| 充足理由律 (Sufficient Reason) | 任何事实必有其充足理由 | [sufficient-reason.md](概念/充足理由律.md) |
+| 最好的可能世界 (Best of All Worlds) | 上帝在无限可能世界中选择了最好的一个 | [best-of-all-worlds.md](概念/最好的可能世界.md) |
 | 连续性原理 | 自然无跳跃，宇宙是连续的等级秩序 | — |
 | 不可分辨者的同一性 | 没有两个完全相同的事物 | — |
 | 微知觉 (Petites Perceptions) | 低于意识阈限的微小知觉 | — |
@@ -239,11 +239,11 @@ His intellectual legacy is extraordinarily broad. Philosophically, his "possible
 
 | 子条目 | 说明 |
 |--------|------|
-| [monad.md](concepts/monad.md) | 单子论 — 莱布尼茨形而上学的核心 |
-| [pre-established-harmony.md](concepts/pre-established-harmony.md) | 前定和谐 — 身心问题的莱布尼茨方案 |
-| [possible-worlds.md](concepts/possible-worlds.md) | 可能世界 — 模态形而上学的奠基 |
-| [sufficient-reason.md](concepts/sufficient-reason.md) | 充足理由律 — 理性主义的认识论基石 |
-| [best-of-all-worlds.md](concepts/best-of-all-worlds.md) | 最好的可能世界 — 哲学乐观主义 |
+| [monad.md](概念/单子论.md) | 单子论 — 莱布尼茨形而上学的核心 |
+| [pre-established-harmony.md](../../../../认知系统/学派/预测加工/README.md) | 前定和谐 — 身心问题的莱布尼茨方案 |
+| [possible-worlds.md](概念/可能世界.md) | 可能世界 — 模态形而上学的奠基 |
+| [sufficient-reason.md](概念/充足理由律.md) | 充足理由律 — 理性主义的认识论基石 |
+| [best-of-all-worlds.md](概念/最好的可能世界.md) | 最好的可能世界 — 哲学乐观主义 |
 | [著作.md](著作.md) | 著作详述 |
 | [时间线.md](时间线.md) | 思想年表 |
 | [阅读.md](阅读.md) | 进阶阅读书单 |

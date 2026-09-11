@@ -124,11 +124,11 @@ Between 2016 and 2020, Hohwy further developed the concept of "self-evidencing,"
 
 ## 重要概念 / Key Concepts
 
-1. **[预测心智 · Predictive Mind](concepts/预测加工.md)** — 大脑的核心功能是预测而非被动接收 / The brain's core function is prediction, not passive reception
-2. **[精度加权 · Precision Weighting](concepts/precision-weighting.md)** — 注意力即精度分配 / Attention as precision allocation
-3. **[自我证明 · Self-Evidencing](concepts/self-evidencing.md)** — 大脑主动寻求确认自身模型的证据 / The brain actively seeks evidence for its own models
-4. **[主动推理 · Active Inference](concepts/active-inference.md)** — 行动是为了使感知与预测一致 / Action to make perception consistent with prediction
-5. **[颅骨封闭的心智 · Skull-Bound Mind](concepts/skull-bound-mind.md)** — 我们永远活在模型之中 / We always live within models
+1. **[预测心智 · Predictive Mind](../克拉克/概念/预测加工.md)** — 大脑的核心功能是预测而非被动接收 / The brain's core function is prediction, not passive reception
+2. **[精度加权 · Precision Weighting](概念/精度加权.md)** — 注意力即精度分配 / Attention as precision allocation
+3. **[自我证明 · Self-Evidencing](概念/自我证明.md)** — 大脑主动寻求确认自身模型的证据 / The brain actively seeks evidence for its own models
+4. **[主动推理 · Active Inference](概念/主动推理.md)** — 行动是为了使感知与预测一致 / Action to make perception consistent with prediction
+5. **[颅骨封闭的心智 · Skull-Bound Mind](概念/颅骨封闭的心智.md)** — 我们永远活在模型之中 / We always live within models
 6. **预测误差 · Prediction Error** — 预测与输入之间的差异驱动学习 / Discrepancy between prediction and input drives learning
 7. **马尔可夫毯 · Markov Blanket** — 大脑与世界的统计边界 / Statistical boundary between brain and world
 8. **层级预测编码 · Hierarchical Predictive Coding** — 多层级的预测与误差传递 / Multi-level prediction and error propagation
@@ -278,11 +278,11 @@ Zhuangzi's reflection on cognitive limitations in the "Equality of Things" chapt
 ## 子条目索引 / Sub-Entry Index
 
 ### 核心概念 / Core Concepts
-- [预测心智 · Predictive Mind](concepts/预测加工.md)
-- [精度加权 · Precision Weighting](concepts/precision-weighting.md)
-- [自我证明 · Self-Evidencing](concepts/self-evidencing.md)
-- [主动推理 · Active Inference](concepts/active-inference.md)
-- [颅骨封闭的心智 · Skull-Bound Mind](concepts/skull-bound-mind.md)
+- [预测心智 · Predictive Mind](../克拉克/概念/预测加工.md)
+- [精度加权 · Precision Weighting](概念/精度加权.md)
+- [自我证明 · Self-Evidencing](概念/自我证明.md)
+- [主动推理 · Active Inference](概念/主动推理.md)
+- [颅骨封闭的心智 · Skull-Bound Mind](概念/颅骨封闭的心智.md)
 
 ### 辅助条目 / Supplementary Entries
 - [著作列表 · Works](著作.md)

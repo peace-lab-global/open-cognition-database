@@ -7,7 +7,13 @@ school: literary-theory
 era: postmodern
 birth: 1915
 death: 1980
-tags: [符号学, 作者之死, 神话学, 文本愉悦, 结构主义, 摄影现象学]
+tags:
+  - 符号学
+  - 作者之死
+  - 神话学
+  - 文本愉悦
+  - structuralism
+  - 摄影现象学
 aliases: [Roland Gérard Barthes, 罗兰·巴特, R. Barthes]
 sources:
   - "Mythologies (1957)"

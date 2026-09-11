@@ -105,10 +105,10 @@ related-comparative:
 | 母题 | 代表作 | 子条目 |
 |---|---|---|
 | **意向性** | 《逻辑研究》第五/六研究 | [意向性.md](概念/意向性.md) |
-| **现象学还原** | 《观念 I》 | [phenomenological-reduction.md](concepts/phenomenological-reduction.md) |
-| **生活世界** | 《危机》 | [lifeworld.md](concepts/lifeworld.md) |
-| **内时间意识** | 《时间意识讲演》 | [time-consciousness.md](concepts/time-consciousness.md) |
-| **本质还原** | 《经验与判断》 | [eidetic-reduction.md](concepts/eidetic-reduction.md) |
+| **现象学还原** | 《观念 I》 | [phenomenological-reduction.md](../../../技能/现象学还原/SKILL.md) |
+| **生活世界** | 《危机》 | [lifeworld.md](概念/生活世界.md) |
+| **内时间意识** | 《时间意识讲演》 | [time-consciousness.md](概念/内时间意识.md) |
+| **本质还原** | 《经验与判断》 | [eidetic-reduction.md](概念/本质还原.md) |
 
 ## 关键著作
 
@@ -157,11 +157,11 @@ related-comparative:
 ## 跨学科关联
 
 ### 哲学
-- [海德格尔](../existentialism/heidegger/README.md) `[发展]` 以此在分析论取代先验主体性
-- [梅洛-庞蒂](../phenomenology/merleau-ponty/README.md) `[发展]` 以身体-主体取代纯粹意识
-- [萨特](../existentialism/sartre/README.md) `[发展]` 将意向性激进化为"意识即虚无"
-- [康德](../german-idealism/康德.md) `[平行]` 先验哲学传统
-- [德里达](../post-structuralism/derrida.md) `[发展]` 解构在场形而上学
+- [海德格尔](../../存在主义/海德格尔/README.md) `[发展]` 以此在分析论取代先验主体性
+- [梅洛-庞蒂](../梅洛庞蒂/README.md) `[发展]` 以身体-主体取代纯粹意识
+- [萨特](../../存在主义/萨特/README.md) `[发展]` 将意向性激进化为"意识即虚无"
+- [康德](../../德国唯心论/康德/README.md) `[平行]` 先验哲学传统
+- [德里达](../../后结构主义/雅克/README.md) `[发展]` 解构在场形而上学
 - [维特根斯坦](../../分析哲学/维特根斯坦.md) `[对照]` 语言哲学路径的分歧
 
 ### 东方思想
@@ -169,8 +169,8 @@ related-comparative:
 - [量论 · Pramāṇa](../../../../宗教/佛教/概念/cognitive-theory/量论.md) `[平行]` 现象学直观与瑜伽现量
 
 ### 认知科学
-- [具身认知](../../../心理学/概念/生成认知.md) `[发展]` 现象学作为哲学基础
-- [预测加工](../../../认知系统/概念/预测加工.md) `[平行]` Noema 与预测模型的对话
+- [具身认知](../汤普森/概念/生成认知.md) `[发展]` 现象学作为哲学基础
+- [预测加工](../../../../认知系统/概念/预测加工.md) `[平行]` Noema 与预测模型的对话
 
 ## 东西方对话:胡塞尔 × 唯识
 
@@ -183,7 +183,7 @@ related-comparative:
 - **先验自我 vs 末那识** — 胡塞尔的先验自我是意识统一的条件;唯识的末那识是**我执**的根源,需转为平等性智。
 - **生活世界 vs 世间(laukika)** — 二者都强调前科学的日常世界是理论的根基。
 
-> 完整对照见 [存在主义 × 唯识](../../comparative/existentialism-vs-yogacara.md)
+> 完整对照见 [存在主义 × 唯识](../../比较哲学/存在主义唯识.md)
 
 ## 进阶阅读
 
@@ -220,15 +220,15 @@ related-comparative:
 | 子条目 | 内容 |
 |---|---|
 | [concepts/意向性.md](概念/意向性.md) | 意向性 · noesis / noema |
-| [concepts/phenomenological-reduction.md](concepts/phenomenological-reduction.md) | 现象学还原 · 悬置 |
-| [concepts/lifeworld.md](concepts/lifeworld.md) | 生活世界 · 科学危机 |
-| [concepts/time-consciousness.md](concepts/time-consciousness.md) | 内时间意识 · 滞留/前摄 |
-| [concepts/eidetic-reduction.md](concepts/eidetic-reduction.md) | 本质还原 · 变更 |
+| [concepts/phenomenological-reduction.md](../../../技能/现象学还原/SKILL.md) | 现象学还原 · 悬置 |
+| [concepts/lifeworld.md](概念/生活世界.md) | 生活世界 · 科学危机 |
+| [concepts/time-consciousness.md](概念/内时间意识.md) | 内时间意识 · 滞留/前摄 |
+| [concepts/eidetic-reduction.md](概念/本质还原.md) | 本质还原 · 变更 |
 | [著作.md](著作.md) | 作品总览 |
 | [时间线.md](时间线.md) | 思想年表 |
 | [阅读.md](阅读.md) | 进阶阅读指南 |
 
 ## 比较页
 
-- [存在主义 × 唯识](../../comparative/existentialism-vs-yogacara.md)(平行比较)
-- [博尔赫斯 × 唯识](../../../美学/schools/comparative/borges-vs-yogacara.md)(平行比较)
+- [存在主义 × 唯识](../../比较哲学/存在主义唯识.md)(平行比较)
+- [博尔赫斯 × 唯识](../../比较哲学/博尔赫斯唯识.md)(平行比较)

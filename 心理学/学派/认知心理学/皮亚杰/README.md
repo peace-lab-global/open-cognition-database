@@ -256,15 +256,15 @@ Zhuangzi's "fasting of the mind" (心斋, xīn zhāi) — emptying the mind to r
 | 关联领域 / Field | 关联思想家 / Thinker | 关系类型 / Relationship | 说明 / Notes |
 |---|---|---|---|
 | 社会文化理论 / Sociocultural Theory | [维果茨基 Vygotsky](../../发展心理学/列夫.md) | 批判/互补 / Critique/Complement | 维果茨基强调社会-文化中介，"最近发展区"补充了皮亚杰的个体建构 / Vygotsky emphasized sociocultural mediation; "zone of proximal development" complements Piaget's individual construction |
-| 认知行为疗法 / CBT | [贝克 Beck](../../../../社会学/学派/现代性/beck.md) | 借用 / Borrowing | 图式概念被 CBT 用来描述核心信念结构 / Schema concept used in CBT to describe core belief structures |
+| 认知行为疗法 / CBT | [贝克 Beck](../../../../社会学/学派/现代性/贝克.md) | 借用 / Borrowing | 图式概念被 CBT 用来描述核心信念结构 / Schema concept used in CBT to describe core belief structures |
 | 德国哲学 / German Philosophy | [康德 Kant](../../../../哲学/学派/德国唯心论/康德.md) | 继承/改造 / Inheritance/Transformation | 认知范畴的发生学版本 / Genetic version of cognitive categories |
-| 认知失调 / Cognitive Dissonance | [费斯廷格 Festinger](../../concepts/cognitive-dissonance.md) | 平行 / Parallel | 平衡机制与认知不一致的张力 / Tension between equilibration mechanism and cognitive inconsistency |
-| 心理社会发展 / Psychosocial Development | [埃里克森 Erikson](../developmental/erikson.md) | 互补 / Complementary | 认知发展与心理社会发展的平行阶段理论 / Parallel stage theories of cognitive and psychosocial development |
+| 认知失调 / Cognitive Dissonance | [费斯廷格 Festinger](../README.md) | 平行 / Parallel | 平衡机制与认知不一致的张力 / Tension between equilibration mechanism and cognitive inconsistency |
+| 心理社会发展 / Psychosocial Development | [埃里克森 Erikson](../../发展心理学/埃里克/README.md) | 互补 / Complementary | 认知发展与心理社会发展的平行阶段理论 / Parallel stage theories of cognitive and psychosocial development |
 | 情境化认知 / Situated Cognition | [情境化认知](../../../../认知系统/概念/情境化认知.md) | 发展 / Development | 建构主义在真实情境中的延伸 / Extension of constructivism into real-world situations |
 | 道德发展 / Moral Development | [科尔伯格 Kohlberg](../developmental/kohlberg.md) | 继承 / Inheritance | 在皮亚杰道德判断研究基础上发展出六阶段道德发展理论 / Built six-stage moral development theory on Piaget's moral judgment 研究 |
-| 结构主义 / Structuralism | [列维-斯特劳斯 Lévi-Strauss](../../../社会学/structuralism/levi-strauss.md) | 平行/差异 / Parallel/Divergence | 都关注结构，但皮亚杰的结构是建构的、发展的；列维-斯特劳斯的结构是深层的、共时的 / Both concerned with structures, but Piaget's are constructed and developmental; Lévi-Strauss's are deep and synchronic |
+| 结构主义 / Structuralism | [列维-斯特劳斯 Lévi-Strauss](../../../../名言/自然文明/列维-斯特劳斯-自然与文化.md) | 平行/差异 / Parallel/Divergence | 都关注结构，但皮亚杰的结构是建构的、发展的；列维-斯特劳斯的结构是深层的、共时的 / Both concerned with structures, but Piaget's are constructed and developmental; Lévi-Strauss's are deep and synchronic |
 | 神经科学 / Neuroscience | [安斯康伯 Anscombe] / 现代脑发展研究 | 验证 / Validation | 现代神经影像为阶段理论提供神经科学证据 / Modern neuroimaging provides neuroscientific evidence for stage theory |
-| 教育技术 / Educational Technology | [帕珀特 Papert](../../../认知系统/) | 继承 / Inheritance | 从建构主义(constructivism)到建构主义(constructionism) / From constructivism to constructionism |
+| 教育技术 / Educational Technology | [帕珀特 Papert](../../../../认知系统) | 继承 / Inheritance | 从建构主义(constructivism)到建构主义(constructionism) / From constructivism to constructionism |
 
 ---
 
@@ -301,11 +301,11 @@ Zhuangzi's "fasting of the mind" (心斋, xīn zhāi) — emptying the mind to r
 
 | 子条目 / Sub-entry | 说明 / Description |
 |---|---|
-| [cognitive-development.md](concepts/cognitive-development.md) | 认知发展理论 — 四阶段框架与建构主义核心 / Cognitive Development Theory — four-stage framework and constructivist core |
-| [assimilation-accommodation.md](concepts/assimilation-accommodation.md) | 同化与顺应 — 认知适应的双过程 / Assimilation and Accommodation — dual processes of cognitive adaptation |
-| [stages.md](concepts/stages.md) | 认知发展四阶段 — 从感知运动到形式运算 / Four Stages of Cognitive Development — from sensorimotor to formal operations |
-| [schema.md](concepts/schema.md) | 图式 — 认知的基本建构单元 / Schema — the fundamental building unit of cognition |
-| [genetic-认识论.md](concepts/genetic-认识论.md) | 发生认识论 — 知识的发生学追问 / Genetic Epistemology — the genetic inquiry into the genesis of knowledge |
+| [cognitive-development.md](../README.md) | 认知发展理论 — 四阶段框架与建构主义核心 / Cognitive Development Theory — four-stage framework and constructivist core |
+| [assimilation-accommodation.md](概念/同化与顺应.md) | 同化与顺应 — 认知适应的双过程 / Assimilation and Accommodation — dual processes of cognitive adaptation |
+| [stages.md](../../../../宗教/技能/菩提道次第修/SKILL.md) | 认知发展四阶段 — 从感知运动到形式运算 / Four Stages of Cognitive Development — from sensorimotor to formal operations |
+| [schema.md](概念/图式.md) | 图式 — 认知的基本建构单元 / Schema — the fundamental building unit of cognition |
+| [genetic-认识论.md](概念/发生认识论.md) | 发生认识论 — 知识的发生学追问 / Genetic Epistemology — the genetic inquiry into the genesis of knowledge |
 
 ---
 

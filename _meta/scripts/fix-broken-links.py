@@ -40,8 +40,13 @@ try:
 except ImportError:
     pass
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-DOMAINS_DIR = REPO_ROOT / "domains"
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+try:
+    from lint import _DOMAIN_DIRS  # type: ignore
+except ImportError:
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from lint import _DOMAIN_DIRS  # type: ignore
+DOMAIN_DIRS = [d for d in _DOMAIN_DIRS if d.exists()]
 SKIP_FILENAMES = {"README.md", "INDEX.md", "QUICKSTART.md", "SKILLS.md", "AGENT.md"}
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 FUZZY_THRESHOLD = 0.90
@@ -49,10 +54,11 @@ FUZZY_THRESHOLD = 0.90
 
 def collect_entry_files() -> list[Path]:
     files = []
-    for path in sorted(DOMAINS_DIR.rglob("*.md")):
-        if path.name in SKIP_FILENAMES:
-            continue
-        files.append(path)
+    for domain_dir in DOMAIN_DIRS:
+        for path in sorted(domain_dir.rglob("*.md")):
+            if path.name in SKIP_FILENAMES:
+                continue
+            files.append(path)
     return files
 
 
@@ -85,11 +91,12 @@ def best_fuzzy(target_stem: str, by_stem) -> tuple[str | None, float]:
 
 
 def domain_of(path: Path) -> str:
-    """Top-level domain dir for a path under domains/, else ''."""
-    rel = path.relative_to(REPO_ROOT).as_posix()
-    if rel.startswith("domains/"):
-        return rel.split("/")[1]
-    return ""
+    """Top-level domain dir for a path under a domain directory, else ''."""
+    try:
+        first = path.relative_to(REPO_ROOT).parts[0]
+    except ValueError:
+        return ""
+    return first if first in {d.name for d in DOMAIN_DIRS} else ""
 
 
 def domain_proximity_match(src: Path, target: str, candidates: list[Path]) -> Path | None:

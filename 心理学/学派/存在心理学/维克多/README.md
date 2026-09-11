@@ -150,19 +150,19 @@ In the 1960s–1980s, Frankl lectured extensively in North America, establishing
 
 ## 重要概念 / Key Concepts
 
-### 1. 意义治疗 / Logotherapy（→ [concepts/logotherapy](concepts/logotherapy.md)）
+### 1. 意义治疗 / Logotherapy（→ [concepts/logotherapy](../../../技能/意义疗法/SKILL.md)）
 源自希腊语「logos」（意义/理性）。一种以意义发现为核心的心理治疗体系——治疗师的角色不是赋予意义，而是帮助来访者发现其独特生命处境中已经蕴含的意义。
 From the Greek "logos" (meaning/reason). A psychotherapeutic system centered on meaning-discovery — the therapist's role is not to bestow meaning but to help the client discover meaning already present in their unique life situation.
 
-### 2. 生命意义 / Meaning of Life（→ [concepts/meaning-of-life](concepts/meaning-of-life.md)）
+### 2. 生命意义 / Meaning of Life（→ [concepts/meaning-of-life](概念/生命意义.md)）
 弗兰克尔的意义观：意义是客观的、具体的、独特且不断变化的。三种发现意义的途径——创造性价值（做有意义的事）、体验性价值（体验有价值的事物）、态度性价值（面对不可改变的苦难时的态度选择）。
 Frankl's view of meaning: meaning is objective, concrete, unique, and ever-changing. Three paths to discovering meaning — creative values (doing meaningful work), experiential values (experiencing something of value), attitudinal values (choosing one's attitude toward unavoidable suffering).
 
-### 3. 存在真空 / Existential Vacuum（→ [concepts/existential-vacuum](concepts/existential-vacuum.md)）
+### 3. 存在真空 / Existential Vacuum（→ [concepts/existential-vacuum](../../../../哲学/学派/存在主义/加缪/README.md)）
 意义意志受挫后产生的弥漫性空虚感。现代社会的特征性疾病——当生存的基本需要被满足后，人突然面对"我为什么活着"的追问而找不到答案。表现为无聊、冷漠、从众和成瘾。
 The pervasive sense of emptiness that arises when the will to meaning is frustrated. A characteristic disease of modern society — when basic survival needs are met, one suddenly confronts the question "Why am I alive?" without finding an answer. Manifests as boredom, apathy, conformism, and addiction.
 
-### 4. 悲剧乐观主义 / Tragic Optimism（→ [concepts/tragic-optimism](concepts/tragic-optimism.md)）
+### 4. 悲剧乐观主义 / Tragic Optimism（→ [concepts/tragic-optimism](概念/悲剧乐观主义.md)）
 在痛苦、内疚和死亡——即生命的「悲剧三联征」——面前，仍然保持乐观的能力。不是无视苦难，而是在苦难中看到意义的可能性。将痛苦转化为人类成就，将内疚转化为自我改变的机会，将生命的有限性转化为负责任行动的动力。
 The capacity to remain optimistic in the face of pain, guilt, and death — the "tragic triad" of human existence. Not ignoring suffering but seeing within it the possibility of meaning. Turning suffering into human achievement, guilt into opportunity for self-transformation, and life's finiteness into motivation for responsible action.
 
@@ -314,10 +314,10 @@ Zhuangzi's "Free and Easy Wandering" (xiaoyao you) and Frankl's "self-transcende
 
 | 条目 / Entry | 类型 / Type | 说明 / Description |
 |---|---|---|
-| [concepts/logotherapy](concepts/logotherapy.md) | concept | 意义治疗——以意义发现为核心的心理治疗体系 |
-| [concepts/meaning-of-life](concepts/meaning-of-life.md) | concept | 生命意义——弗兰克尔的意义观与三种价值 |
-| [concepts/existential-vacuum](concepts/existential-vacuum.md) | concept | 存在真空——意义意志受挫后的空虚感 |
-| [concepts/tragic-optimism](concepts/tragic-optimism.md) | concept | 悲剧乐观主义——面对苦难时保持乐观的能力 |
+| [concepts/logotherapy](../../../技能/意义疗法/SKILL.md) | concept | 意义治疗——以意义发现为核心的心理治疗体系 |
+| [concepts/meaning-of-life](概念/生命意义.md) | concept | 生命意义——弗兰克尔的意义观与三种价值 |
+| [concepts/existential-vacuum](../../../../哲学/学派/存在主义/加缪/README.md) | concept | 存在真空——意义意志受挫后的空虚感 |
+| [concepts/tragic-optimism](概念/悲剧乐观主义.md) | concept | 悲剧乐观主义——面对苦难时保持乐观的能力 |
 | [concepts/will-to-meaning](概念/意义意志.md) | concept | 意义意志——人类追求意义的原初驱力 |
 | [works](著作.md) | works | 弗兰克尔著作年表 |
 | [timeline](时间线.md) | timeline | 弗兰克尔生平年表 |

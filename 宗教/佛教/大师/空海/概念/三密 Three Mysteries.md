@@ -5,7 +5,15 @@ type: concept
 domain: 宗教
 school: buddhism-vajrayana
 parent: [[README|空海 Kūkai]]
-tags: [三密, 三密加持, 身口意, Three Mysteries, Sanmitsu, Mudra, Mantra, Samadhi]
+tags:
+  - 三密
+  - 三密加持
+  - 身口意
+  - three-mysteries
+  - sanmitsu
+  - mudra
+  - mantra
+  - samadhi
 ---
 
 # 三密 The Three Mysteries (三密 · Sanmitsu)

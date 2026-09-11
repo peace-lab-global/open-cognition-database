@@ -7,7 +7,7 @@ linked_concepts:
   - ../../concepts/态势感知.md
 tags:
   - naturalistic-decision
-  - RPD
+  - rpd
   - expertise
   - intuition
 ---
@@ -33,7 +33,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[克莱因 Klein](../../学派/自然决策/klein.md)
+- 来源思想家：[克莱因 Klein](../../学派/自然决策/克莱因.md)
 - 来源概念：[态势感知](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/态势感知.md)
 - 关键文献：Klein, G. *Sources of Power*. MIT Press, 1998.
 
@@ -106,6 +106,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[克莱因](../../学派/自然决策/klein.md)
+- 思想家：[克莱因](../../学派/自然决策/克莱因.md)
 - 概念：[态势感知](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/态势感知.md)
 - 相关 Skill：[意义建构引导](../../../宗教/佛教/技能/从前五识/SKILL.md)

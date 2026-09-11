@@ -4,7 +4,14 @@ title: "与龙树的分工 Aryadeva-Nagarjuna: 建构与破斥的互补"
 type: concept
 parent: aryadeva
 domain: 宗教
-tags: [Nagarjuna, partnership, complementarity, prasanga, sunyata, refutation, Madhyamaka-lineage]
+tags:
+  - nagarjuna
+  - partnership
+  - complementarity
+  - prasanga
+  - sunyata
+  - refutation
+  - madhyamaka-lineage
 ---
 
 # 与龙树的分工 Nagarjuna-Aryadeva Partnership

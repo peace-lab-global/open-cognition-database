@@ -13,7 +13,7 @@ tags:
   - schemas
   - automatic-thoughts
   - cognitive-distortions
-  - CBT
+  - cbt
   - depression
   - collaborative-empiricism
 aliases:
@@ -82,33 +82,33 @@ Events do not directly cause emotional responses; it is the individual's **inter
 
 ### 2. 抑郁的认知三联征 / The Cognitive Triad of Depression
 
-抑郁症的核心认知特征表现为三个维度的系统性负面思维：**对自我的消极看法**（"我是无能的/无价值的"）、**对世界的消极看法**（"世界是不公平的/充满敌意的"）、**对未来的消极看法**（"情况永远不会好转"）。详见 [concepts/cognitive-triad.md](concepts/cognitive-triad.md)。
+抑郁症的核心认知特征表现为三个维度的系统性负面思维：**对自我的消极看法**（"我是无能的/无价值的"）、**对世界的消极看法**（"世界是不公平的/充满敌意的"）、**对未来的消极看法**（"情况永远不会好转"）。详见 [concepts/cognitive-triad.md](../README.md)。
 
-The core cognitive feature of depression manifests as systematic negative thinking across three dimensions: **negative views of the self**, **negative views of the world**, and **negative views of the future**. See [concepts/cognitive-triad.md](concepts/cognitive-triad.md).
+The core cognitive feature of depression manifests as systematic negative thinking across three dimensions: **negative views of the self**, **negative views of the world**, and **negative views of the future**. See [concepts/cognitive-triad.md](../README.md).
 
 ### 3. 自动思维 / Automatic Thoughts
 
-在刺激与情绪反应之间，存在快速、自发、通常不被审视的**思维流**\u2014\u2014贝克称之为"自动思维"。这些思维以简短语句或图像的形式浮现于意识表层，被个体不加质疑地当作事实接受。详见 [concepts/automatic-thoughts.md](concepts/automatic-thoughts.md)。
+在刺激与情绪反应之间，存在快速、自发、通常不被审视的**思维流**\u2014\u2014贝克称之为"自动思维"。这些思维以简短语句或图像的形式浮现于意识表层，被个体不加质疑地当作事实接受。详见 [concepts/automatic-thoughts.md](概念/自动思维 \u00b7 Automatic Thoughts \u00b7 Beck.md)。
 
-Between stimulus and emotional response, there exists a stream of rapid, spontaneous, usually unexamined **thoughts**\u2014Beck called them "automatic thoughts." These thoughts surface in consciousness as brief verbal statements or images, accepted uncritically as facts. See [concepts/automatic-thoughts.md](concepts/automatic-thoughts.md).
+Between stimulus and emotional response, there exists a stream of rapid, spontaneous, usually unexamined **thoughts**\u2014Beck called them "automatic thoughts." These thoughts surface in consciousness as brief verbal statements or images, accepted uncritically as facts. See [concepts/automatic-thoughts.md](概念/自动思维 \u00b7 Automatic Thoughts \u00b7 Beck.md).
 
 ### 4. 认知扭曲 / Cognitive Distortions
 
-自动思维中普遍存在系统性的逻辑错误，贝克识别出若干典型模式：全或无思维 (all-or-nothing thinking)、灾难化 (catastrophizing)、过度概括 (overgeneralization)、个人化 (personalization)、读心术 (mind reading)、应该陈述 (should statements) 等。详见 [concepts/cognitive-distortions.md](concepts/cognitive-distortions.md)。
+自动思维中普遍存在系统性的逻辑错误，贝克识别出若干典型模式：全或无思维 (all-or-nothing thinking)、灾难化 (catastrophizing)、过度概括 (overgeneralization)、个人化 (personalization)、读心术 (mind reading)、应该陈述 (should statements) 等。详见 [concepts/cognitive-distortions.md](../README.md)。
 
-Automatic thoughts commonly contain systematic logical errors. Beck identified several typical patterns: all-or-nothing thinking, catastrophizing, overgeneralization, personalization, mind reading, should statements, etc. See [concepts/cognitive-distortions.md](concepts/cognitive-distortions.md).
+Automatic thoughts commonly contain systematic logical errors. Beck identified several typical patterns: all-or-nothing thinking, catastrophizing, overgeneralization, personalization, mind reading, should statements, etc. See [concepts/cognitive-distortions.md](../README.md).
 
 ### 5. 图式与核心信念 / Schemas and Core Beliefs
 
-认知扭曲并非随机产生，而是由深层的**认知图式 (schemas)**\u2014\u2014即关于自我、他人和世界的核心信念结构\u2014\u2014所驱动。图式在早年经验中形成，作为信息加工的模板，选择性地过滤和扭曲incoming experience，使之与已有信念一致。详见 [concepts/schemas.md](concepts/schemas.md)。
+认知扭曲并非随机产生，而是由深层的**认知图式 (schemas)**\u2014\u2014即关于自我、他人和世界的核心信念结构\u2014\u2014所驱动。图式在早年经验中形成，作为信息加工的模板，选择性地过滤和扭曲incoming experience，使之与已有信念一致。详见 [concepts/schemas.md](概念/图式与核心信念 \u00b7 Schemas & Core Beliefs \u00b7 Beck.md)。
 
-Cognitive distortions are not random but driven by deep **cognitive schemas**\u2014core belief structures about self, others, and the world. Schemas form in early experience and serve as templates for information processing, selectively filtering and distorting incoming experience to fit existing beliefs. See [concepts/schemas.md](concepts/schemas.md).
+Cognitive distortions are not random but driven by deep **cognitive schemas**\u2014core belief structures about self, others, and the world. Schemas form in early experience and serve as templates for information processing, selectively filtering and distorting incoming experience to fit existing beliefs. See [concepts/schemas.md](概念/图式与核心信念 \u00b7 Schemas & Core Beliefs \u00b7 Beck.md).
 
 ### 6. 可识别、可挑战、可改变 / Identifiable, Challengeable, Changeable
 
-认知扭曲和底层图式**可以被系统性地识别、检验和修正**。通过苏格拉底式提问 (Socratic questioning)、引导式发现 (guided discovery) 与行为实验 (behavioral experiments)，治疗师与来访者协作，以实证方式检验信念的有效性。这是认知疗法的核心治疗立场\u2014\u2014**协作经验主义 (Collaborative Empiricism)**。详见 [concepts/cognitive-therapy.md](concepts/cognitive-therapy.md)。
+认知扭曲和底层图式**可以被系统性地识别、检验和修正**。通过苏格拉底式提问 (Socratic questioning)、引导式发现 (guided discovery) 与行为实验 (behavioral experiments)，治疗师与来访者协作，以实证方式检验信念的有效性。这是认知疗法的核心治疗立场\u2014\u2014**协作经验主义 (Collaborative Empiricism)**。详见 [concepts/cognitive-therapy.md](../README.md)。
 
-Cognitive distortions and underlying schemas **can be systematically identified, tested, and modified**. Through Socratic questioning, guided discovery, and behavioral experiments, therapist and client collaborate to empirically test belief validity. This is the core therapeutic stance of cognitive therapy\u2014**Collaborative Empiricism**. See [concepts/cognitive-therapy.md](concepts/cognitive-therapy.md).
+Cognitive distortions and underlying schemas **can be systematically identified, tested, and modified**. Through Socratic questioning, guided discovery, and behavioral experiments, therapist and client collaborate to empirically test belief validity. This is the core therapeutic stance of cognitive therapy\u2014**Collaborative Empiricism**. See [concepts/cognitive-therapy.md](../README.md).
 
 ## 思想脉络 / Intellectual Development
 
@@ -157,16 +157,16 @@ In his later years, Beck continued to expand CT applications: co-founding the Be
 
 | 概念 | 英文 | 核心含义 | 子条目 |
 |---|---|---|---|
-| **认知疗法** | Cognitive Therapy (CT) | 以修正认知为核心的结构化短程心理治疗 | [cognitive-therapy.md](concepts/cognitive-therapy.md) |
-| **认知三联征** | Cognitive Triad | 抑郁的三个负面维度：自我、世界、未来 | [cognitive-triad.md](concepts/cognitive-triad.md) |
-| **图式 / 核心信念** | Schemas / Core Beliefs | 深层信息加工模板，驱动选择性注意与解释偏差 | [schemas.md](concepts/schemas.md) |
-| **自动思维** | Automatic Thoughts | 快速、自发、未被审查的意识表层思维 | [automatic-thoughts.md](concepts/automatic-thoughts.md) |
-| **认知扭曲** | Cognitive Distortions | 自动思维中的系统性逻辑错误模式 | [cognitive-distortions.md](concepts/cognitive-distortions.md) |
-| **协作经验主义** | Collaborative Empiricism | 治疗师与来访者并肩做"研究者"的治疗立场 | [cognitive-therapy.md](concepts/cognitive-therapy.md) |
-| **苏格拉底式提问** | Socratic Questioning | 以引导式提问代替直接反驳的临床技术 | [cognitive-therapy.md](concepts/cognitive-therapy.md) |
-| **行为实验** | Behavioral Experiment | 用真实世界行动检验并证伪认知假设 | [cognitive-therapy.md](concepts/cognitive-therapy.md) |
-| **思维记录** | Thought Record / Dysfunctional Thought Record | 结构化记录自动思维、情绪与替代认知的工具 | [cognitive-distortions.md](concepts/cognitive-distortions.md) |
-| **中间信念** | Intermediate Beliefs | 介于核心信念与自动思维之间的规则、态度与假设 | [schemas.md](concepts/schemas.md) |
+| **认知疗法** | Cognitive Therapy (CT) | 以修正认知为核心的结构化短程心理治疗 | [cognitive-therapy.md](../README.md) |
+| **认知三联征** | Cognitive Triad | 抑郁的三个负面维度：自我、世界、未来 | [cognitive-triad.md](../README.md) |
+| **图式 / 核心信念** | Schemas / Core Beliefs | 深层信息加工模板，驱动选择性注意与解释偏差 | [schemas.md](概念/图式与核心信念 \u00b7 Schemas & Core Beliefs \u00b7 Beck.md) |
+| **自动思维** | Automatic Thoughts | 快速、自发、未被审查的意识表层思维 | [automatic-thoughts.md](概念/自动思维 \u00b7 Automatic Thoughts \u00b7 Beck.md) |
+| **认知扭曲** | Cognitive Distortions | 自动思维中的系统性逻辑错误模式 | [cognitive-distortions.md](../README.md) |
+| **协作经验主义** | Collaborative Empiricism | 治疗师与来访者并肩做"研究者"的治疗立场 | [cognitive-therapy.md](../README.md) |
+| **苏格拉底式提问** | Socratic Questioning | 以引导式提问代替直接反驳的临床技术 | [cognitive-therapy.md](../README.md) |
+| **行为实验** | Behavioral Experiment | 用真实世界行动检验并证伪认知假设 | [cognitive-therapy.md](../README.md) |
+| **思维记录** | Thought Record / Dysfunctional Thought Record | 结构化记录自动思维、情绪与替代认知的工具 | [cognitive-distortions.md](../README.md) |
+| **中间信念** | Intermediate Beliefs | 介于核心信念与自动思维之间的规则、态度与假设 | [schemas.md](概念/图式与核心信念 \u00b7 Schemas & Core Beliefs \u00b7 Beck.md) |
 
 ## 思想坐标 / Intellectual Coordinates
 
@@ -249,7 +249,7 @@ CBT for Psychosis (CBTp) 针对幻觉和妄想中的认知成分，帮助患者�
 ### 哲学
 
 - **斯多葛主义 (Stoicism)** `[源头]` \u2014 爱比克泰德 (Epictetus)、马可\u00b7奥勒留 (Marcus Aurelius) 的"事件-判断-情绪"模型是 CBT 的哲学前驱
-- [认知失调](../../../心理学/概念/认知失调 Cognitive Dissonance.md) `[平行]` \u2014 Festinger 的认知失调理论与贝克的认知不一致概念平行
+- [认知失调](../README.md) `[平行]` \u2014 Festinger 的认知失调理论与贝克的认知不一致概念平行
 
 ### 东方思想
 
@@ -282,11 +282,11 @@ CBT for Psychosis (CBTp) 针对幻觉和妄想中的认知成分，帮助患者�
 
 | 子条目 | 内容 |
 |---|---|
-| [concepts/cognitive-therapy.md](concepts/cognitive-therapy.md) | 认知疗法 (Cognitive Therapy) \u2014 结构化短程治疗的理论与方法 |
-| [concepts/cognitive-triad.md](concepts/cognitive-triad.md) | 认知三联征 (Cognitive Triad) \u2014 抑郁的三个负面维度 |
-| [concepts/schemas.md](concepts/schemas.md) | 图式 / 核心信念 (Schemas / Core Beliefs) \u2014 深层信息加工模板 |
-| [concepts/automatic-thoughts.md](concepts/automatic-thoughts.md) | 自动思维 (Automatic Thoughts) \u2014 意识表层的快速思维流 |
-| [concepts/cognitive-distortions.md](concepts/cognitive-distortions.md) | 认知扭曲 (Cognitive Distortions) \u2014 系统性逻辑错误模式 |
+| [concepts/cognitive-therapy.md](../README.md) | 认知疗法 (Cognitive Therapy) \u2014 结构化短程治疗的理论与方法 |
+| [concepts/cognitive-triad.md](../README.md) | 认知三联征 (Cognitive Triad) \u2014 抑郁的三个负面维度 |
+| [concepts/schemas.md](概念/图式与核心信念 \u00b7 Schemas & Core Beliefs \u00b7 Beck.md) | 图式 / 核心信念 (Schemas / Core Beliefs) \u2014 深层信息加工模板 |
+| [concepts/automatic-thoughts.md](概念/自动思维 \u00b7 Automatic Thoughts \u00b7 Beck.md) | 自动思维 (Automatic Thoughts) \u2014 意识表层的快速思维流 |
+| [concepts/cognitive-distortions.md](../README.md) | 认知扭曲 (Cognitive Distortions) \u2014 系统性逻辑错误模式 |
 | [著作.md](著作.md) | 作品总览 |
 | [时间线.md](时间线.md) | 思想年表 |
 | [阅读.md](阅读.md) | 进阶阅读指南 |

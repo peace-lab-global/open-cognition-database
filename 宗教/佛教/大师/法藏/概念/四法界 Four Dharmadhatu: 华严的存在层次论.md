@@ -4,7 +4,10 @@ title: "四法界 Four Dharmadhatu: 华严的存在层次论"
 type: concept
 parent: fazang
 domain: 宗教
-tags: [four-dharmadhatu, Huayan, interpenetration]
+tags:
+  - four-dharmadhatu
+  - huayan
+  - interpenetration
 ---
 # 四法界 / Four Dharmadhatu
 

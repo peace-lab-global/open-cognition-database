@@ -5,7 +5,13 @@ type: concept
 domain: 宗教
 school: buddhism-vajrayana
 parent: 宗教.buddhism.masters.milarepa
-tags: [大手印, Mahamudra, 心性, 噶举派, 密勒日巴, nature of mind]
+tags:
+  - 大手印
+  - mahamudra
+  - 心性
+  - 噶举派
+  - 密勒日巴
+  - nature-of-mind
 ---
 
 # 大手印 Mahamudra (Great Seal)

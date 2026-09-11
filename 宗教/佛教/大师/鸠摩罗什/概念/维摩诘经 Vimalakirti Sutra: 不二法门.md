@@ -4,7 +4,10 @@ title: "维摩诘经 Vimalakirti Sutra: 不二法门"
 type: concept
 parent: kumarajiva
 domain: 宗教
-tags: [Vimalakirti, non-duality, lay-Buddhism]
+tags:
+  - vimalakirti
+  - non-duality
+  - lay-buddhism
 ---
 # 维摩诘经 / Vimalakirti Sutra
 

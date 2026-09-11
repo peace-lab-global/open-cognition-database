@@ -4,7 +4,12 @@ title: "藉教悟宗 Jiejiao Wuzong: 经典与觉悟的关系"
 type: concept
 parent: bodhidharma
 domain: 宗教
-tags: [scriptures, awakening, Chan, Lankavatara, teaching]
+tags:
+  - scriptures
+  - awakening
+  - chan
+  - lankavatara
+  - teaching
 ---
 
 # 藉教悟宗 Jiejiao Wuzong / Through Teaching, Awaken to the Principle

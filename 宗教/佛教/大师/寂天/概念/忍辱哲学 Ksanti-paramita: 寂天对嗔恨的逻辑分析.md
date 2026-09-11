@@ -4,7 +4,14 @@ title: "忍辱哲学 Ksanti-paramita: 寂天对嗔恨的逻辑分析"
 type: concept
 parent: santideva
 domain: 宗教
-tags: [ksanti, patience, anger, hatred, Buddhist-ethics, emotion-philosophy, forbearance]
+tags:
+  - ksanti
+  - patience
+  - anger
+  - hatred
+  - buddhist-ethics
+  - emotion-philosophy
+  - forbearance
 ---
 
 # 忍辱哲学 / Philosophy of Patience (Ksanti-paramita)

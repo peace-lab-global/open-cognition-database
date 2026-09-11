@@ -75,7 +75,7 @@ Daniel Goleman is the **primary catalyst for the popularization of "emotional in
 
 ### 1. 情绪智力优先论 Emotional Intelligence as the Primary Predictor
 
-IQ 预测学业成绩，但 EQ——自我意识、自我管理、社会意识、关系管理——更能预测人生成就、职业成功和关系质量。EQ 不是 IQ 的对立面，而是与 IQ 协同运作的"元能力" (meta-competence)。详见 [emotional-intelligence.md](concepts/emotional-intelligence.md)。
+IQ 预测学业成绩，但 EQ——自我意识、自我管理、社会意识、关系管理——更能预测人生成就、职业成功和关系质量。EQ 不是 IQ 的对立面，而是与 IQ 协同运作的"元能力" (meta-competence)。详见 [emotional-intelligence.md](概念/情绪智力.md)。
 
 IQ predicts academic performance, but EQ — self-awareness, self-management, social awareness, relationship management — is a stronger predictor of life achievement, career success, and relationship quality. EQ is not the opposite of IQ but a "meta-competence" that operates synergistically with cognitive ability.
 
@@ -87,13 +87,13 @@ The true value of meditation lies not in temporary relaxation during practice (a
 
 ### 3. 注意力三维度论 The Tripartite Model of Attention
 
-完整的注意力由三个维度构成：内在专注 (inner focus，自我觉察与内感受)、他人专注 (other focus，共情与心智化)、外在专注 (outer focus，系统感知与环境意识)。三者协同运作，任何一个维度的缺失都会导致认知与情感的失衡。详见 [self-regulation.md](concepts/self-regulation.md)。
+完整的注意力由三个维度构成：内在专注 (inner focus，自我觉察与内感受)、他人专注 (other focus，共情与心智化)、外在专注 (outer focus，系统感知与环境意识)。三者协同运作，任何一个维度的缺失都会导致认知与情感的失衡。详见 [self-regulation.md](概念/自我调节.md)。
 
 Complete attention comprises three dimensions: inner focus (self-awareness and interoception), other focus (empathy and mentalization), and outer focus (systems perception and environmental awareness). These operate synergistically; deficiency in any dimension leads to cognitive and emotional imbalance.
 
 ### 4. 社会智力的神经基础论 Social Intelligence as Neural Architecture
 
-社会智力不仅是社交技巧，而是根植于大脑的社会神经系统——镜像神经元 (mirror neurons)、纺锤形细胞 (spindle cells)、脑岛回路——使人类天生具有感知他人情绪状态和建立情感连接的生物基础。详见 [social-intelligence.md](concepts/social-intelligence.md)。
+社会智力不仅是社交技巧，而是根植于大脑的社会神经系统——镜像神经元 (mirror neurons)、纺锤形细胞 (spindle cells)、脑岛回路——使人类天生具有感知他人情绪状态和建立情感连接的生物基础。详见 [social-intelligence.md](../../../../伦理政治/学派/社会契约论/约翰/README.md)。
 
 Social intelligence is not merely a set of social skills but is rooted in the brain's social neural architecture — mirror neurons, spindle cells, and insula circuits — giving humans an innate biological substrate for sensing others' emotional states and forming affective bonds.
 
@@ -152,10 +152,10 @@ In 1990, Salovey and Mayer published the academic concept of "emotional intellig
 
 | 概念 Concept | 核心含义 Core Meaning | 子条目 |
 |---|---|---|
-| **情绪智力 Emotional Intelligence** | 自我意识、自我管理、社会意识、关系管理的四维度能力框架 | [emotional-intelligence.md](concepts/emotional-intelligence.md) |
-| **社会智力 Social Intelligence** | 根植于社会神经系统的关系感知与管理能力 | [social-intelligence.md](concepts/social-intelligence.md) |
+| **情绪智力 Emotional Intelligence** | 自我意识、自我管理、社会意识、关系管理的四维度能力框架 | [emotional-intelligence.md](概念/情绪智力.md) |
+| **社会智力 Social Intelligence** | 根植于社会神经系统的关系感知与管理能力 | [social-intelligence.md](../../../../伦理政治/学派/社会契约论/约翰/README.md) |
 | **正念 Mindfulness** | 不评判的当下觉察，冥想核心训练方法 | [正念.md](概念/正念.md) |
-| **自我调节 Self-Regulation** | 情绪调控、冲动管理与适应性应对能力 | [self-regulation.md](concepts/self-regulation.md) |
+| **自我调节 Self-Regulation** | 情绪调控、冲动管理与适应性应对能力 | [self-regulation.md](概念/自我调节.md) |
 | **共情 Empathy** | 情绪共情、认知共情、共情关注的三维结构 | [共情.md](概念/共情.md) |
 | **注意力三维度 Tripartite Attention** | 内在专注、他人专注、外在专注的协同模型 | — (见 README 命题 3) |
 | **状态 vs 特质 States vs Traits** | 冥想的暂时效应与持久效应的关键区分 | — (见 README 命题 2) |
@@ -231,10 +231,10 @@ Goleman's "EQ is learnable" proposition resonates deeply with the Confucian trad
 
 ### 心理学 Psychology
 
-- [卡巴金 Kabat-Zinn](../kabat-zinn.md) `[同源]` — 正念减压 (MBSR) 创始人，与 Goleman 共同推动正念的世俗化与科学化
-- [达马西奥 Damasio](../damasio.md) `[平行]` — 躯体标记假说 (Somatic Marker Hypothesis)，证明情绪在理性决策中的核心角色
-- [卢茨 Lutz](../lutz.md) `[同源]` — 冥想神经科学研究的核心合作者，长期冥想者的脑电研究
-- [巴雷特 Barrett](../barrett.md) `[对照]` — 情绪建构论 (Theory of Constructed Emotion)，与 Goleman 的基本情绪观存在理论张力
+- [卡巴金 Kabat-Zinn](../卡巴金/README.md) `[同源]` — 正念减压 (MBSR) 创始人，与 Goleman 共同推动正念的世俗化与科学化
+- [达马西奥 Damasio](../达玛西奥/README.md) `[平行]` — 躯体标记假说 (Somatic Marker Hypothesis)，证明情绪在理性决策中的核心角色
+- [卢茨 Lutz](../卢茨/README.md) `[同源]` — 冥想神经科学研究的核心合作者，长期冥想者的脑电研究
+- [巴雷特 Barrett](../巴雷特/README.md) `[对照]` — 情绪建构论 (Theory of Constructed Emotion)，与 Goleman 的基本情绪观存在理论张力
 
 ### 佛教 Buddhism
 
@@ -272,10 +272,10 @@ Goleman's "EQ is learnable" proposition resonates deeply with the Confucian trad
 
 | 子条目 Sub-Entry | 内容 Content |
 |---|---|
-| [concepts/emotional-intelligence.md](concepts/emotional-intelligence.md) | 情绪智力 — EQ 的四维度能力框架 |
-| [concepts/social-intelligence.md](concepts/social-intelligence.md) | 社会智力 — 社会神经系统与关系能力 |
+| [concepts/emotional-intelligence.md](概念/情绪智力.md) | 情绪智力 — EQ 的四维度能力框架 |
+| [concepts/social-intelligence.md](../../../../伦理政治/学派/社会契约论/约翰/README.md) | 社会智力 — 社会神经系统与关系能力 |
 | [concepts/正念.md](概念/正念.md) | 正念 — 不评判的当下觉察与冥想训练 |
-| [concepts/self-regulation.md](concepts/self-regulation.md) | 自我调节 — 情绪调控与冲动管理 |
+| [concepts/self-regulation.md](概念/自我调节.md) | 自我调节 — 情绪调控与冲动管理 |
 | [concepts/共情.md](概念/共情.md) | 共情 — 三维共情结构与神经基础 |
 | [著作.md](著作.md) | 作品总览 Works Overview |
 | [时间线.md](时间线.md) | 思想年表 Timeline |

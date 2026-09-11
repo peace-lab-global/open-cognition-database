@@ -7,7 +7,15 @@ school: buddhism-pramana
 era: classical-india
 birth: 480
 death: 540
-tags: [pramana, hetuvidya, Buddhist-logic, epistemology, anumana, pratyaksa, apoha, trairupya]
+tags:
+  - pramana
+  - hetuvidya
+  - buddhist-logic
+  - epistemology
+  - anumana
+  - pratyaksa
+  - apoha
+  - trairupya
 aliases: ["Dignaga", "陈那菩萨", "域龙", "Dinnaga"]
 sources: ["Pramanasamuccaya", "Hetumukha", "Nyayamukha", "Alambanapariksa", "Abhidharmakosavrtti"]
 cross_refs: ["dharmakirti", "vasubandhu", "nagarjuna", "asanga-vasubandhu"]
@@ -40,7 +48,7 @@ children: ["concepts/only-two-pramanas", "concepts/trairupya", "concepts/apoha-e
 
 **There are only two valid means of knowledge: perception (direct, non-conceptual awareness) and inference (reasoning based on logical marks). All other supposed means of knowledge — testimony, analogy, presumption — are reducible to inference.**
 
-详见 [唯二量](concepts/only-two-pramanas.md)。
+详见 [唯二量](概念/唯二量.md)。
 
 ### 2. 因三相 Trairupya
 
@@ -48,7 +56,7 @@ children: ["concepts/only-two-pramanas", "concepts/trairupya", "concepts/apoha-e
 
 **A valid logical reason (hetu) must satisfy three conditions: it must be present in the subject of inference, present in at least some similar cases, and entirely absent from all dissimilar cases. This three-condition framework replaced the older five-member syllogism.**
 
-详见 [因三相](concepts/trairupya.md)。
+详见 [因三相](概念/因三相.md)。
 
 ### 3. 遮诠论 Apoha (Exclusion of Others)
 
@@ -56,7 +64,7 @@ children: ["concepts/only-two-pramanas", "concepts/trairupya", "concepts/apoha-e
 
 **The meaning of a word is not a positive reference to a real universal but the exclusion of what is other (anyapoha). 'Cow' means 'not non-cow.' This theory solves the Buddhist nominalist problem of how language works without real universals.**
 
-详见 [遮诠论](concepts/apoha-exclusion.md)。
+详见 [遮诠论](概念/遮诠论.md)。
 
 ### 4. 自相与共相的严格分野 Svalaksana vs Samanyalaksana
 
@@ -72,7 +80,7 @@ children: ["concepts/only-two-pramanas", "concepts/trairupya", "concepts/apoha-e
 
 **The Pramanasamuccaya in six chapters constitutes the first systematic treatise on Buddhist epistemology: perception, inference for oneself, inference for others, examples, exclusion theory, and responses to objections.**
 
-详见 [集量论](concepts/pramanasamuccaya.md)。
+详见 [集量论](概念/集量论.md)。
 
 ---
 
@@ -249,11 +257,11 @@ children: ["concepts/only-two-pramanas", "concepts/trairupya", "concepts/apoha-e
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [唯二量 Only Two Pramanas](concepts/only-two-pramanas.md) — 认识来源的简化与重构
-- [因三相 Trairupya](concepts/trairupya.md) — 有效推理的三个条件
-- [遮诠论 Apoha](concepts/apoha-exclusion.md) — 排除性意义理论
+- [唯二量 Only Two Pramanas](概念/唯二量.md) — 认识来源的简化与重构
+- [因三相 Trairupya](概念/因三相.md) — 有效推理的三个条件
+- [遮诠论 Apoha](概念/遮诠论.md) — 排除性意义理论
 - [自相与共相 Svalaksana & Samanyalaksana](../../概念/foundational/判教 Doctrinal Classification.md) — 认知对象的根本分野
-- [集量论 Pramanasamuccaya](concepts/pramanasamuccaya.md) — 佛教认识论的奠基之作
+- [集量论 Pramanasamuccaya](概念/集量论.md) — 佛教认识论的奠基之作
 - [著作目录](著作.md) — 完整著作列表与考证
 - [年表](时间线.md) — 生平与历史语境
 - [进阶阅读](阅读.md) — 分类书单

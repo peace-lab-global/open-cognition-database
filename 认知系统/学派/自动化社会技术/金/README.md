@@ -109,19 +109,19 @@ After *The Human Factor*, Vicente's work shifted toward expanding the applicatio
 ## 重要概念 / Key Concepts
 
 ### 1. 认知工作分析 / Cognitive Work Analysis (CWA)
-一种约束驱动的、多阶段的分析方法论，用于理解复杂工作域中的人机交互。CWA不预设任务流程，而是揭示工作域的结构性约束，从而为设计提供基础。详见 → [认知工作分析](concepts/cognitive-work-analysis.md)
+一种约束驱动的、多阶段的分析方法论，用于理解复杂工作域中的人机交互。CWA不预设任务流程，而是揭示工作域的结构性约束，从而为设计提供基础。详见 → [认知工作分析](../../../../心理学/学派/认知心理学/README.md)
 
 ### 2. 生态界面设计 / Ecological Interface Design (EID)
-将吉布森生态心理学应用于界面设计的方法，强调界面应当揭示工作域的深层功能结构，利用可供性和约束使操作者直接感知系统的因果逻辑。详见 → [生态界面设计](concepts/ecological-interface-design.md)
+将吉布森生态心理学应用于界面设计的方法，强调界面应当揭示工作域的深层功能结构，利用可供性和约束使操作者直接感知系统的因果逻辑。详见 → [生态界面设计](../../生态认知/克拉克/README.md)
 
 ### 3. 工作域分析 / Work Domain Analysis (WDA)
-CWA的第一阶段，使用抽象层级（Abstraction Hierarchy）对工作域进行从物理形式到功能目的的多层次描述，是理解系统约束的基础分析工具。详见 → [工作域分析](concepts/work-domain-analysis.md)
+CWA的第一阶段，使用抽象层级（Abstraction Hierarchy）对工作域进行从物理形式到功能目的的多层次描述，是理解系统约束的基础分析工具。详见 → [工作域分析](../../../../社会学/学派/网络社会/卡斯特/README.md)
 
 ### 4. 约束驱动设计 / Constraints-Based Design
 以工作域中客观存在的约束——物理的、功能的、逻辑的——为设计起点的哲学立场，与传统以预设任务流程为起点的设计方法相对立。详见 → [约束驱动设计](concepts/constraints-based-design.md)
 
 ### 5. 人机交互 / Human-Technology Interaction
-维森特对人与技术系统之间交互关系的整体理解，强调人类的适应性和技术在支持而非替代人类判断中的角色。详见 → [人机交互](concepts/human-technology-interaction.md)
+维森特对人与技术系统之间交互关系的整体理解，强调人类的适应性和技术在支持而非替代人类判断中的角色。详见 → [人机交互](../../../../心理学/学派/人本主义/卡尔/README.md)
 
 ### 6. 抽象层级 / Abstraction Hierarchy
 源自拉斯穆森的五层次分析工具：物理形式（Physical Form）、物质构成（Material Composition）、功能组件（Generalized Function）、功能目的（Functional Purpose）和价值/优先级度量（Values & Priority Measures）。
@@ -273,11 +273,11 @@ The Abstraction Hierarchy's multi-level description from physical form to functi
 
 ## 子条目索引 / Sub-entry Index
 
-- [认知工作分析 Cognitive Work Analysis](concepts/cognitive-work-analysis.md) — CWA五阶段方法论的深入分析
-- [生态界面设计 Ecological Interface Design](concepts/ecological-interface-design.md) — EID理论与设计原则
-- [工作域分析 Work Domain Analysis](concepts/work-domain-analysis.md) — 抽象层级与WDA方法
+- [认知工作分析 Cognitive Work Analysis](../../../../心理学/学派/认知心理学/README.md) — CWA五阶段方法论的深入分析
+- [生态界面设计 Ecological Interface Design](../../生态认知/克拉克/README.md) — EID理论与设计原则
+- [工作域分析 Work Domain Analysis](../../../../社会学/学派/网络社会/卡斯特/README.md) — 抽象层级与WDA方法
 - [约束驱动设计 Constraints-Based Design](concepts/constraints-based-design.md) — 约束作为设计生成性条件的哲学
-- [人机交互 Human-Technology Interaction](concepts/human-technology-interaction.md) — 维森特的人机交互整体观
+- [人机交互 Human-Technology Interaction](../../../../心理学/学派/人本主义/卡尔/README.md) — 维森特的人机交互整体观
 - [著作年表 Works & Bibliography](著作.md) — 完整著作列表与出版信息
 - [生平大事记 Timeline](时间线.md) — 生平与思想发展历程
 - [阅读指南 Reading Guide](阅读.md) — 分级阅读建议与资源推荐

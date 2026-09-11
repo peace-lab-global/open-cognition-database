@@ -4,7 +4,11 @@ title: "称名念佛 Nianfo Chenming: 口称佛号为往生正因"
 type: concept
 parent: shandao
 domain: 宗教
-tags: [nianfo, name-recitation, Pure-Land, Shandao]
+tags:
+  - nianfo
+  - name-recitation
+  - pure-land
+  - shandao
 ---
 # 称名念佛 / Name Recitation
 

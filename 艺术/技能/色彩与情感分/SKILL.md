@@ -10,7 +10,7 @@ tags:
   - 色彩与情感
   - 艺术表达
   - 视觉心理
-  - 表现主义
+  - expressionism
 ---
 
 # 色彩与情感分析 · Color and Emotion Analysis

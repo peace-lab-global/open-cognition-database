@@ -5,7 +5,14 @@ type: concept
 domain: 宗教
 school: buddhism-chan
 era: ancient
-tags: [坐禅, Zuochan, Zazen, Sitting Meditation, 打坐, 达摩禅法, Bodhidharma]
+tags:
+  - 坐禅
+  - zuochan
+  - zazen
+  - sitting-meditation
+  - 打坐
+  - 达摩禅法
+  - bodhidharma
 parent: ../README.md
 related:
   - wall-gazing.md

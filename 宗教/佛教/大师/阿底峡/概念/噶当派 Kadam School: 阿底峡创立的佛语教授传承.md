@@ -4,7 +4,15 @@ title: "噶当派 Kadam School: 阿底峡创立的佛语教授传承"
 type: concept
 parent: atisha
 domain: 宗教
-tags: [Kadam, bKa-gdams, Gelug, monastic, graduated-path, 噶当派, 噶当, bka'-gdams-pa]
+tags:
+  - kadam
+  - bka-gdams
+  - gelug
+  - monastic
+  - graduated-path
+  - 噶当派
+  - 噶当
+  - bka'-gdams-pa
 ---
 
 # 噶当派 Kadam School / "佛语教授"的传承学派

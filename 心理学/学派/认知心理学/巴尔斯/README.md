@@ -246,10 +246,10 @@ Zhuangzi's "fasting of the mind" (xīn zhāi) resonates with GWT's concept of "c
 - **[Dehaene 德汉纳](../../cognitive/dehaene.md)**：GNW——GWT的神经科学实现 / GNW — the neuroscience implementation of GWT
 - **[Dennett 丹尼特](../../../../哲学/学派/分析哲学/丹尼特.md)**：多重草稿 vs 全局广播的对话 / Multiple drafts vs global broadcast dialogue
 - **[Tononi 托诺尼](../../cognitive/tononi.md)**：IIT与GWT的互补关系 / IIT and GWT complementary relationship
-- **[Friston 弗里斯顿](../cognitive/friston.md)**：预测编码与全局广播的兼容 / Predictive coding compatible with global broadcast
+- **[Friston 弗里斯顿](../弗里斯顿/README.md)**：预测编码与全局广播的兼容 / Predictive coding compatible with global broadcast
 - **[Minsky 明斯基](../../../../认知系统/学派/认知工程/明斯基.md)**：心智社会 ≈ 无意识处理器的集合 / Society of Mind ≈ collection of unconscious processors
 - **[Shanahan 沙纳汉](../../../认知系统/schools/ai/shanahan.md)**：GWT在机器意识中的实现 / GWT implementation in machine consciousness
-- **[Posner 波斯纳](../../cognitive/posner.md)**：注意力网络与GWT聚光灯机制 / Attention networks and GWT spotlight mechanism
+- **[Posner 波斯纳](../波斯纳/README.md)**：注意力网络与GWT聚光灯机制 / Attention networks and GWT spotlight mechanism
 - **阿毗达磨 Abhidharma**：心路过程与全局广播的平行 / Cognitive process parallels with global broadcast
 
 ---

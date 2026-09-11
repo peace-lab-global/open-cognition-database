@@ -4,7 +4,13 @@ title: "吃茶养生记 Kissa Yojoki: 荣西的茶道医学经典"
 type: concept
 parent: yosai
 domain: 宗教
-tags: [吃茶养生记, Kissa Yojoki, 茶道, 养生, 茶医学, 末法思想]
+tags:
+  - 吃茶养生记
+  - kissa-yojoki
+  - 茶道
+  - 养生
+  - 茶医学
+  - 末法思想
 ---
 
 # 吃茶养生记 Kissa Yojoki / Treatise on Drinking Tea for Health

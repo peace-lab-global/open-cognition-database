@@ -10,7 +10,7 @@ tags:
   - 自然权利
   - 财产权
   - 政府权力
-  - 自由主义
+  - liberalism
 ---
 
 # 自然权利分析 · Natural Rights Analysis

@@ -12,7 +12,7 @@ linked_concepts:
 tags:
   - yogacara
   - hundred-dharmas
-  - 心理学
+  - psychology
   - cognitive-analysis
   - dharma-classification
 ---

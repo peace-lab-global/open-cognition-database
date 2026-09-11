@@ -245,11 +245,11 @@ children:
 
 | 子条目 | 内容 |
 |---|---|
-| [concepts/hermeneutic-circle.md](concepts/hermeneutic-circle.md) | 诠释学循环 Hermeneutischer Zirkel |
-| [concepts/fusion-of-horizons.md](concepts/fusion-of-horizons.md) | 视域融合 Horizontverschmelzung |
-| [concepts/prejudice.md](concepts/prejudice.md) | 前见/偏见 Vorurteil |
-| [concepts/effective-historical-consciousness.md](concepts/effective-historical-consciousness.md) | 效果历史意识 Wirkungsgeschichtliches Bewusstsein |
-| [concepts/dialogue.md](concepts/dialogue.md) | 对话与问答逻辑 Gesprach / Frage und Antwort |
+| [concepts/hermeneutic-circle.md](README.md) | 诠释学循环 Hermeneutischer Zirkel |
+| [concepts/fusion-of-horizons.md](概念/视域融合.md) | 视域融合 Horizontverschmelzung |
+| [concepts/prejudice.md](概念/前见.md) | 前见/偏见 Vorurteil |
+| [concepts/effective-historical-consciousness.md](概念/效果历史意识.md) | 效果历史意识 Wirkungsgeschichtliches Bewusstsein |
+| [concepts/dialogue.md](../../../../宗教/技能/佛教道教对话/SKILL.md) | 对话与问答逻辑 Gesprach / Frage und Antwort |
 | [著作.md](著作.md) | 作品总览 |
 | [时间线.md](时间线.md) | 思想年表 |
 | [阅读.md](阅读.md) | 进阶阅读指南 |

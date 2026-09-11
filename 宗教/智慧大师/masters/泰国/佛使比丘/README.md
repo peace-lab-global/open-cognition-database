@@ -83,9 +83,9 @@ The third pillar is **anattā** — not-self. Buddhadasa insisted that not-self 
 
 第三个支柱是**无我**（anattā）。佛使比丘坚持认为，无我不是一个需要辩论的哲学立场，而是一种**需要培养的直接体验**。他教导说，"我"和"我的"（*ahaṃkāra*和*mamankāra*）的感觉是一切苦的根源。每当心将一种感受、一个想法、一种身体感觉、一段关系或一个身份据为"我的"时，苦便生起。修行不是否认这些事物的存在，而是停止对它们的执取。
 
-He developed a method he called "the practice of not-self through natural observation" — using the rhythms of nature (breathing, heartbeat, the cycle of day and night, the growth and decay of plants) as mirrors that reflect the truth of non-ownership. When you watch a river flow, you don't say "this is my river" — you simply observe its passing. The same attitude can be applied to thoughts, emotions, and sensations. See → [Anatta Practice (无我实践)](./concepts/anatta-practice.md).
+He developed a method he called "the practice of not-self through natural observation" — using the rhythms of nature (breathing, heartbeat, the cycle of day and night, the growth and decay of plants) as mirrors that reflect the truth of non-ownership. When you watch a river flow, you don't say "this is my river" — you simply observe its passing. The same attitude can be applied to thoughts, emotions, and sensations. See → [Anatta Practice (无我实践)](概念/无我实践.md).
 
-他发展出一种他称之为"通过自然观察实践无我"的方法——利用自然的节律（呼吸、心跳、日夜交替、植物的生长与衰败）作为反映"非拥有"真理的镜子。当你观看河流流淌时，你不会说"这是我的河流"——你只是观察它的流逝。同样的态度可以应用于思想、情绪和感觉。详见 → [无我实践](./concepts/anatta-practice.md)。
+他发展出一种他称之为"通过自然观察实践无我"的方法——利用自然的节律（呼吸、心跳、日夜交替、植物的生长与衰败）作为反映"非拥有"真理的镜子。当你观看河流流淌时，你不会说"这是我的河流"——你只是观察它的流逝。同样的态度可以应用于思想、情绪和感觉。详见 → [无我实践](概念/无我实践.md)。
 
 ### 4. Dhammic Socialism / 法社会主义
 
@@ -103,9 +103,9 @@ The fifth and perhaps most radical pillar is Buddhadasa's vision of **interrelig
 
 第五个、也许是最激进的支柱是佛使比丘的**宗教对话**愿景。他不仅仅是宽容其他宗教——他主张在其最深层面上，所有真正的灵性传统都指向同一个真理：自我的消融。基督教的"愿你的旨意成就"和伊斯兰教的"顺从"（*islām*），在他的解读中，都指向佛教称之为*anattā*（无我）的同一个自我的空性。差异在于语言、仪式和文化包装——而非核心洞见。
 
-He held dialogues with Christian theologians, Muslim scholars, and Hindu teachers. He famously said, "If you are a true Christian, you are a Buddhist. If you are a true Buddhist, you are a Christian." This was not syncretism — he was not blending religions into a bland universalism. He was pointing to a shared experiential core that transcends doctrinal differences. See → [Interreligious Dialogue (宗教对话)](./concepts/interreligious-dialogue.md).
+He held dialogues with Christian theologians, Muslim scholars, and Hindu teachers. He famously said, "If you are a true Christian, you are a Buddhist. If you are a true Buddhist, you are a Christian." This was not syncretism — he was not blending religions into a bland universalism. He was pointing to a shared experiential core that transcends doctrinal differences. See → [Interreligious Dialogue (宗教对话)](概念/宗教对话.md).
 
-他与基督教神学家、穆斯林学者和印度教教师进行对话。他有句名言："如果你是一个真正的基督徒，你就是一个佛教徒。如果你是一个真正的佛教徒，你就是一个基督徒。"这不是宗教融合主义——他并不是将宗教混合成一种平淡的普世主义。他指向的是一个超越教义差异的共同体验核心。详见 → [宗教对话](./concepts/interreligious-dialogue.md)。
+他与基督教神学家、穆斯林学者和印度教教师进行对话。他有句名言："如果你是一个真正的基督徒，你就是一个佛教徒。如果你是一个真正的佛教徒，你就是一个基督徒。"这不是宗教融合主义——他并不是将宗教混合成一种平淡的普世主义。他指向的是一个超越教义差异的共同体验核心。详见 → [宗教对话](概念/宗教对话.md)。
 
 ---
 
@@ -115,9 +115,9 @@ In 1932, at the age of 26, Buddhadasa founded **Suan Mokkhabalarama** — "The G
 
 1932年，26岁的佛使比丘在柴亚靠近出生地的地方创立了**解脱自在园**（Suan Mokkhabalarama）——"解脱力量之园"。这不是一座传统的寺院。它是一个森林静修处，旨在将禅修、学习和自然整合为一种生活方式。比丘们住在散布于树林间的简朴茅棚中。没有宏伟的建筑，没有繁复的仪式，没有财富的积累。森林本身就是导师。
 
-Suan Mokkh grew over the decades into an international center for Dhamma study and practice. It hosted practitioners from Thailand and around the world, offering ten-day meditation retreats that combined silent practice with Dhamma talks. Even after Buddhadasa's death in 1993, it continues to operate as a living institution. See → [Suan Mokkh (解脱园)](./concepts/suan-mokkh.md).
+Suan Mokkh grew over the decades into an international center for Dhamma study and practice. It hosted practitioners from Thailand and around the world, offering ten-day meditation retreats that combined silent practice with Dhamma talks. Even after Buddhadasa's death in 1993, it continues to operate as a living institution. See → [Suan Mokkh (解脱园)](概念/解脱园.md).
 
-几十年来，解脱园发展成为一个国际性的法学习与实践中心。它接待来自泰国和世界各地的修行者，提供将静默修行与法谈结合的十日禅修营。即使在1993年佛使比丘圆寂之后，它仍然作为一个活的机构运作。详见 → [解脱园](./concepts/suan-mokkh.md)。
+几十年来，解脱园发展成为一个国际性的法学习与实践中心。它接待来自泰国和世界各地的修行者，提供将静默修行与法谈结合的十日禅修营。即使在1993年佛使比丘圆寂之后，它仍然作为一个活的机构运作。详见 → [解脱园](概念/解脱园.md)。
 
 ---
 

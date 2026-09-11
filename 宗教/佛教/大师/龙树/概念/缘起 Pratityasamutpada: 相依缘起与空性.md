@@ -5,7 +5,14 @@ type: concept
 thinker: nagarjuna
 domain: 宗教
 school: buddhism-madhyamaka
-tags: [dependent-origination, pratityasamutpada, interdependence, causation, emptiness, conditionality, Madhyamaka]
+tags:
+  - dependent-origination
+  - pratityasamutpada
+  - interdependence
+  - causation
+  - emptiness
+  - conditionality
+  - madhyamaka
 ---
 
 # 缘起 Pratityasamutpada / Dependent Origination

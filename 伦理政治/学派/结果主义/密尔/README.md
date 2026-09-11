@@ -8,8 +8,8 @@ era: modern
 birth: 1806
 death: 1873
 tags:
-  - 功利主义
-  - 自由主义
+  - utilitarianism
+  - liberalism
   - 女性主义
   - 经验主义
   - 个人自由
@@ -116,7 +116,7 @@ children:
 - **继承**：[边沁](../边沁/README.md)的功利主义 → 质的修正
 - **批判**：[边沁]的量化的功利主义忽视精神维度
 - **影响**：[罗尔斯](../../社会契约论/约翰-rawls/README.md)的伤害原则在正义论中的回响
-- **发展**：[泰勒](../communitarianism/taylor/README.md)的多元主义对密尔自由主义的回应
+- **发展**：[泰勒](../../社群主义/查尔斯/README.md)的多元主义对密尔自由主义的回应
 
 ## 当代应用
 
@@ -136,10 +136,10 @@ children:
 | 子条目 | 内容 |
 |---|---|
 | [concepts/harm-principle.md](概念/伤害原则.md) | 伤害原则 · 自由边界 |
-| [concepts/higher-pleasures.md](concepts/higher-pleasures.md) | 高级快乐 · 质的功利 |
+| [concepts/higher-pleasures.md](概念/高级快乐.md) | 高级快乐 · 质的功利 |
 | [concepts/tyranny-of-majority.md](概念/多数暴政.md) | 多数暴政 · 社会压迫 |
-| [concepts/feminism.md](concepts/feminism.md) | 女性解放 · 平等 |
-| [concepts/freedom-of-expression.md](concepts/freedom-of-expression.md) | 言论自由 · 意见市场 |
+| [concepts/feminism.md](概念/女性解放.md) | 女性解放 · 平等 |
+| [concepts/freedom-of-expression.md](概念/言论自由.md) | 言论自由 · 意见市场 |
 | [著作.md](著作.md) | 作品总览 |
 | [时间线.md](时间线.md) | 思想年表 |
 | [阅读.md](阅读.md) | 进阶阅读指南 |

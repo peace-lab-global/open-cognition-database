@@ -5,7 +5,15 @@ type: concept
 domain: 宗教
 school: buddhism-vajrayana
 parent: [[README|空海 Kūkai]]
-tags: [曼荼罗, 曼陀罗, 金刚界, 胎藏界, 两界曼荼罗, Mandala, Vajradhatu, Garbhadhatu]
+tags:
+  - 曼荼罗
+  - 曼陀罗
+  - 金刚界
+  - 胎藏界
+  - 两界曼荼罗
+  - mandala
+  - vajradhatu
+  - garbhadhatu
 ---
 
 # 曼荼罗 Mandala (曼荼罗 · Mandara)

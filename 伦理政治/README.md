@@ -33,7 +33,7 @@
 - [密尔 John Stuart Mill](学派/结果主义/密尔/README.md) — 更高功利、自由、伤害原则
 
 ### 道义论 deontology
-- [康德 Immanuel Kant](schools/deontology/kant/README.md) — 定言命令、自律、人是目的
+- [康德 Immanuel Kant](学派/道义论/康德/README.md) — 定言命令、自律、人是目的
 
 ### 德性伦理学 virtue-ethics
 - [亚里士多德 Aristotle](学派/德性伦理学/亚里士多德/README.md) — 德性、中庸、幸福（eudaimonia）
@@ -61,16 +61,16 @@
 - [泰勒 Charles Taylor](学派/社群主义/查尔斯/README.md) — 承认政治、本真性伦理、世俗时代
 
 ### 非暴力抵抗 nonviolent-resistance
-- [甘地 Mahatma Gandhi](schools/nonviolent-resistance/gandhi/README.md) — 非暴力（ahimsa）、坚持真理（satyagraha）
+- [甘地 Mahatma Gandhi](学派/非暴力抵抗/圣雄甘地/README.md) — 非暴力（ahimsa）、坚持真理（satyagraha）
 
 ## 跨学派核心概念
 
-- [功利 Pleasure](concepts/pleasure.md)
+- [功利 Pleasure](技能/苦乐计算法/SKILL.md)
 - [定言命令 Categorical Imperative](概念/定言命令.md)
 - [德性 Virtue](概念/德性.md)
 - [社会契约 Social Contract](学派/社会契约论/托马斯/概念/社会契约.md)
 - [无知之幕 Veil of Ignorance](学派/社会契约论/约翰-rawls/概念/无知之幕.md)
-- [正义感 Sense of Justice](concepts/sense-of-justice.md)
+- [正义感 Sense of Justice](../哲学/学派/苏格兰常识学派/托马斯/README.md)
 - [自然权利 Natural Rights](学派/社会契约论/约翰/概念/自然权利.md)
 
 ## 关联 Skills
@@ -79,10 +79,10 @@
 |-------|------|----------|
 | [苦乐计算](技能/苦乐计算法/SKILL.md) | 功利原则的七维量化分析 | 边沁《道德与立法原理导论》 |
 | [无知之幕分析](技能/无知之幕分析/SKILL.md) | 公正性检验的思想实验 | 罗尔斯《正义论》 |
-| [亚里士多德德性检验](./skills/aristotle-virtue-test/SKILL.md) | 中庸之道与功能检验 | 亚里士多德《尼各马可伦理学》 |
+| [亚里士多德德性检验](学派/德性伦理学/亚里士多德/README.md) | 中庸之道与功能检验 | 亚里士多德《尼各马可伦理学》 |
 | [正义原则检验](技能/正义原则检验/SKILL.md) | 罗尔斯正义二原则评估 | 罗尔斯《正义论》 |
 | [自由主义论证分析](技能/自由主义论证/SKILL.md) | 伤害原则与自由边界 | 密尔《论自由》 |
 
 ## 参考起点
 
-见 [meta/sources.md · 伦理学与政治哲学](../../meta/sources.md#伦理学与政治哲学)。
+见 [meta/sources.md · 伦理学与政治哲学](学派/社群主义/查尔斯/概念/自我的根源.md#伦理学与政治哲学)。

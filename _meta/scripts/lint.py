@@ -18,6 +18,8 @@ Checks performed:
                           (content backlog, tracked in reports/audit/, non-blocking)
     5. Tags: at least 1 tag on thinker/concept entries
     6. Cross-domain links: at least 1 link to another domain
+    7. E004 (error) — the same frontmatter `id` declared by multiple entry
+         files (double source of truth; child pages exempt)
 """
 
 from __future__ import annotations
@@ -41,7 +43,7 @@ SKIP_FILENAMES = {"README.md", "INDEX.md", "QUICKSTART.md", "SKILLS.md", "AGENT.
 
 _DOMAIN_DIR_NAMES = [
     "哲学", "宗教", "伦理政治", "心理学", "社会学", "美学",
-    "文学", "艺术", "认知系统", "清单", "研究",
+    "文学", "艺术", "认知系统", "清单", "研究", "TECH",
 ]
 _DOMAIN_DIRS = [REPO_ROOT / d for d in _DOMAIN_DIR_NAMES]
 
@@ -323,6 +325,34 @@ def lint_file(path: Path, report: Report) -> None:
                                "no cross-link to another .md file detected"))
 
 
+def check_duplicate_ids(files: list[Path], report: Report) -> None:
+    """E004 — the same frontmatter `id` declared by more than one entry file.
+
+    Duplicates make index.json list an entry twice and let two copies of the
+    same entry diverge silently (double source of truth). Child pages are
+    exempt: their ids are namespaced per parent and may legitimately repeat.
+    """
+    by_id: dict[str, list[Path]] = {}
+    for path in files:
+        text = path.read_text(encoding="utf-8")
+        fm, _ = extract_frontmatter(text)
+        if not fm or is_child_page(path):
+            continue
+        if fm.get("type") not in REQUIRED_FRONTMATTER:
+            continue
+        entry_id = fm.get("id")
+        if entry_id:
+            by_id.setdefault(str(entry_id), []).append(path)
+    for entry_id, paths in sorted(by_id.items()):
+        if len(paths) > 1:
+            for path in paths:
+                others = ", ".join(
+                    str(p.relative_to(REPO_ROOT)) for p in paths if p != path
+                )
+                report.add(Finding(path, 1, "error", "E004",
+                                   f"duplicate id `{entry_id}` also declared by: {others}"))
+
+
 def collect_files(targets: list[Path]) -> list[Path]:
     if targets:
         return [p.resolve() for p in targets if p.exists()]
@@ -355,6 +385,8 @@ def main() -> int:
 
     for path in files:
         lint_file(path, report)
+
+    check_duplicate_ids(files, report)
 
     if args.json:
         out = {

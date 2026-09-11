@@ -146,13 +146,13 @@ Merleau-Ponty stands at the central crossroads of 20th-century French 哲学. He
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [胡塞尔 · Edmund Husserl](../husserl.md) `[发展]` 将先验现象学具身化，生活世界概念的具体展开
+- [胡塞尔 · Edmund Husserl](../胡塞尔.md) `[发展]` 将先验现象学具身化，生活世界概念的具体展开
 - [海德格尔 · Martin Heidegger](../../存在主义/海德格尔.md) `[发展]` 将"在世存在"具体化为身体的在世
 - [萨特 · Jean-Paul Sartre](../../存在主义/萨特.md) `[批判]` 以身体含混性取代纯粹自为意识
-- [康德 · Immanuel Kant](../german-idealism/康德.md) `[批判]` 反对先验主体的纯粹形式性
-- [庄子 · Zhuāngzǐ](../../东方哲学/zhuangzi.md) `[平行]` 庖丁解牛与运动意向性，物化与交织
+- [康德 · Immanuel Kant](../../德国唯心论/康德/README.md) `[批判]` 反对先验主体的纯粹形式性
+- [庄子 · Zhuāngzǐ](../../东方哲学/庄子.md) `[平行]` 庖丁解牛与运动意向性，物化与交织
 - [唯识 · Yogācāra](../../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 身体图式与阿赖耶根身器界
-- [具身认知 · Embodied Cognition](../../../心理学/概念/生成认知.md) `[发展]` 4E认知的哲学基础
+- [具身认知 · Embodied Cognition](../汤普森/概念/生成认知.md) `[发展]` 4E认知的哲学基础
 
 ## 进阶阅读 / Further Reading
 
@@ -175,17 +175,17 @@ Merleau-Ponty stands at the central crossroads of 20th-century French 哲学. He
 
 ## 关联 Skills / Related Skills
 
-- [现象学还原](../../skills/phenomenological-reduction/SKILL.md)
+- [现象学还原](../../../技能/现象学还原/SKILL.md)
 - 具身认知分析（Embodied Cognition Analysis）
 - 知觉描述（Perceptual Description）
 
 ## 子条目索引 / Sub-entries
 
-- [身体主体 / Body-Subject](concepts/body-subject.md)
-- [肉身 / Flesh](concepts/flesh.md)
-- [知觉 / Perception](concepts/perception.md)
-- [交织 / Chiasm](concepts/chiasm.md)
-- [活的身体 / Lived Body](concepts/lived-body.md)
+- [身体主体 / Body-Subject](概念/身体主体.md)
+- [肉身 / Flesh](概念/肉身.md)
+- [知觉 / Perception](概念/知觉.md)
+- [交织 / Chiasm](概念/交织.md)
+- [活的身体 / Lived Body](概念/活的身体.md)
 - [著作目录](著作.md)
 - [年表](时间线.md)
 - [进阶阅读](阅读.md)

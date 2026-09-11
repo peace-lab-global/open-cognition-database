@@ -13,7 +13,7 @@ tags:
   - 绝对命令
   - 自律
   - 启蒙
-  - 美学
+  - aesthetics
   - 认识论
   - 伦理学
   - 形而上学
@@ -300,15 +300,15 @@ Kantian universalization tests are applied to evaluate AI decision-making algori
 |----------|----------|----------|------|
 | 德国唯心论 | [黑格尔 · G. W. F. Hegel](../黑格尔/README.md) | 继承/批判 | 从批判哲学到绝对唯心论 |
 | 悲观主义 | [叔本华 · Arthur Schopenhauer](../../悲观主义/叔本华/README.md) | 继承/改造 | 物自体即意志 |
-| 现象学 | [胡塞尔 · Edmund Husserl](../../现象学/README.md) | 继承/转化 | 先验方法的第二条路径 |
-| 经验主义 | [休谟 · David Hume](../../经验主义/README.md) | 刺激/回应 | 从独断论的迷梦中唤醒 |
-| 启蒙思想 | [卢梭 · Jean-Jacques Rousseau](../../启蒙思想/README.md) | 承接 | 普遍意志与道德自由 |
+| 现象学 | [胡塞尔 · Edmund Husserl](../../../../README.md) | 继承/转化 | 先验方法的第二条路径 |
+| 经验主义 | [休谟 · David Hume](../../../../README.md) | 刺激/回应 | 从独断论的迷梦中唤醒 |
+| 启蒙思想 | [卢梭 · Jean-Jacques Rousseau](../../../../README.md) | 承接 | 普遍意志与道德自由 |
 | 政治哲学 | [罗尔斯 · John Rawls](../../../README.md) | 发展 | 原初状态与无知之幕 |
-| 政治哲学 | [哈贝马斯 · Jürgen Habermas](../../法兰克福学派/README.md) | 发展 | 交往理性对自律的主体间重构 |
+| 政治哲学 | [哈贝马斯 · Jürgen Habermas](../../../../README.md) | 发展 | 交往理性对自律的主体间重构 |
 | 认知科学 | [皮亚杰 · Jean Piaget](../../../../心理学/README.md) | 平行 | 发生认识论与范畴结构 |
 | 存在主义 | [尼采 · Friedrich Nietzsche](../../存在主义/尼采/README.md) | 批判 | 奴隶道德与权力意志的批判 |
 | 佛教哲学 | [唯识学 · Yogācāra](../../../../宗教/佛教/README.md) | 结构平行 | 八识与先验认知结构 |
-| 儒家哲学 | [宋明理学 · Neo-Confucianism](../../../宗教/传统/儒学/README.md) | 平行 | 天理与先天道德法则 |
+| 儒家哲学 | [宋明理学 · Neo-Confucianism](../../../../README.md) | 平行 | 天理与先天道德法则 |
 
 ---
 

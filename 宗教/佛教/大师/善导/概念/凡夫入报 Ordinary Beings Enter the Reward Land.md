@@ -4,7 +4,10 @@ title: "凡夫入报 Ordinary Beings Enter the Reward Land"
 type: concept
 parent: shandao
 domain: 宗教
-tags: [ordinary-beings, reward-land, Pure-Land]
+tags:
+  - ordinary-beings
+  - reward-land
+  - pure-land
 ---
 # 凡夫入报 / Ordinary Beings Enter the Reward Land
 

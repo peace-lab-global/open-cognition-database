@@ -4,7 +4,12 @@ title: "二人四行 Erren Sixing: 达摩的修行框架"
 type: concept
 parent: bodhidharma
 domain: 宗教
-tags: [two-entry, four-practices, Chan, Bodhidharma, cultivation]
+tags:
+  - two-entry
+  - four-practices
+  - chan
+  - bodhidharma
+  - cultivation
 ---
 
 # 二人四行 Erren Sixing / Two Entries and Four Practices

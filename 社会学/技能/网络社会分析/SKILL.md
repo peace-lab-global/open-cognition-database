@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[曼纽尔·卡斯特](../../学派/网络社会/castells.md)
+- 来源思想家：[曼纽尔·卡斯特](../../学派/网络社会/卡斯特.md)
 - 来源概念：[网络社会](../../concepts/network-society.md)、[信息时代](../../concepts/information-age.md)
 - 关键文献：《网络社会的崛起》、《信息时代三部曲》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[曼纽尔·卡斯特](../../学派/网络社会/castells.md)
+- 思想家：[曼纽尔·卡斯特](../../学派/网络社会/卡斯特.md)
 - 概念：[网络社会](../../concepts/network-society.md)、[信息时代](../../concepts/information-age.md)
 - 相关 Skill：[liquid-modernity-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[rationalization-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

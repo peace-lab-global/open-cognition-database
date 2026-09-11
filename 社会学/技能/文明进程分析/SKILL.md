@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[诺贝特·埃利亚斯](../../学派/形态社会学/elias.md)
+- 来源思想家：[诺贝特·埃利亚斯](../../学派/形态社会学/埃利亚斯.md)
 - 来源概念：[文明进程](../../concepts/civilizing-process.md)、[形态社会学](../../concepts/figurational-sociology.md)
 - 关键文献：《文明的进程》、《宫廷社会》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[诺贝特·埃利亚斯](../../学派/形态社会学/elias.md)
+- 思想家：[诺贝特·埃利亚斯](../../学派/形态社会学/埃利亚斯.md)
 - 概念：[文明进程](../../concepts/civilizing-process.md)、[形态社会学](../../concepts/figurational-sociology.md)
 - 相关 Skill：[rationalization-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[social-fact-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

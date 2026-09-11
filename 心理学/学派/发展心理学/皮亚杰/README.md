@@ -106,15 +106,15 @@ In his later years, Piaget devoted himself to elevating his lifetime of empirica
 
 ## 重要概念 / Key Concepts
 
-1. **认知发展 / Cognitive Development** — 儿童通过与环境互动建构认知结构的阶段性发展过程，包含四个质变阶段。→ [详见 cognitive-development.md](concepts/cognitive-development.md) / The staged developmental process by which children construct cognitive structures through interaction with the environment, comprising four qualitative stages.
+1. **认知发展 / Cognitive Development** — 儿童通过与环境互动建构认知结构的阶段性发展过程，包含四个质变阶段。→ [详见 cognitive-development.md](../../认知心理学/README.md) / The staged developmental process by which children construct cognitive structures through interaction with the environment, comprising four qualitative stages.
 
-2. **同化与顺应 / Assimilation and Accommodation** — 认知适应的双重机制：同化将新信息纳入已有图式，顺应修改图式以适应新环境。→ [详见 assimilation-accommodation.md](concepts/assimilation-accommodation.md) / The dual mechanisms of cognitive adaptation: assimilation incorporates new information into existing schemas; accommodation modifies schemas to fit new environments.
+2. **同化与顺应 / Assimilation and Accommodation** — 认知适应的双重机制：同化将新信息纳入已有图式，顺应修改图式以适应新环境。→ [详见 assimilation-accommodation.md](../../认知心理学/皮亚杰/概念/同化与顺应.md) / The dual mechanisms of cognitive adaptation: assimilation incorporates new information into existing schemas; accommodation modifies schemas to fit new environments.
 
-3. **认知发展阶段 / Cognitive Developmental Stages** — 感知运动、前运算、具体运算、形式运算四个依次递进的阶段。→ [详见 stages.md](concepts/stages.md) / The four sequential stages: sensorimotor, preoperational, concrete operational, and formal operational.
+3. **认知发展阶段 / Cognitive Developmental Stages** — 感知运动、前运算、具体运算、形式运算四个依次递进的阶段。→ [详见 stages.md](../../../../宗教/技能/菩提道次第修/SKILL.md) / The four sequential stages: sensorimotor, preoperational, concrete operational, and formal operational.
 
-4. **图式 / Schema** — 认知结构的基本功能单位，是个体感知、理解和作用于世界的可重复模式。→ [详见 schema.md](concepts/schema.md) / The basic functional unit of cognitive structure; a repeatable pattern of perceiving, understanding, and acting upon the world.
+4. **图式 / Schema** — 认知结构的基本功能单位，是个体感知、理解和作用于世界的可重复模式。→ [详见 schema.md](../../认知心理学/皮亚杰/概念/图式.md) / The basic functional unit of cognitive structure; a repeatable pattern of perceiving, understanding, and acting upon the world.
 
-5. **发生认识论 / Genetic Epistemology** — 通过研究知识在个体发展中的发生过程来回答认识论问题的跨学科方法。→ [详见 genetic-认识论.md](concepts/genetic-认识论.md) / An interdisciplinary approach that answers epistemological questions by studying the genesis of knowledge in individual development.
+5. **发生认识论 / Genetic Epistemology** — 通过研究知识在个体发展中的发生过程来回答认识论问题的跨学科方法。→ [详见 genetic-认识论.md](../../认知心理学/皮亚杰/概念/发生认识论.md) / An interdisciplinary approach that answers epistemological questions by studying the genesis of knowledge in individual development.
 
 6. **平衡化 / Equilibration** — 推动认知发展的根本动力机制，是同化与顺应之间的动态平衡过程。当现有图式无法同化新刺激时，产生认知失衡（disequilibrium），驱动顺应和新的平衡。
 
@@ -220,13 +220,13 @@ Piaget's schema concept — schemas are essentially "structures of action" — r
 | 关联方向 / Connection | 思想家/领域 / Thinker/Field | 关系 / Relationship |
 |:---|:---|:---|
 | 社会文化理论 / Sociocultural Theory | [维果茨基 Vygotsky](../列夫.md) | 互补性批判：社会文化中介与最近发展区 / Complementary critique: sociocultural mediation and the zone of proximal development |
-| 心理社会发展 / Psychosocial Development | [埃里克森 Erikson](erikson.md) | 互补：认知发展与心理社会发展的阶段平行论 / Complementary: parallel stages of cognitive and psychosocial development |
-| 依恋理论 / Attachment Theory | [鲍尔比 Bowlby](bowlby.md) | 对话：早期关系对认知发展的情感基础 / Dialogue: emotional foundations of early relationships for cognitive development |
-| 道德发展 / Moral Development | [科尔伯格 Kohlberg](../../cognitive/kohlberg.md) | 直接继承：从他律/自律道德到道德推理六阶段 / Direct inheritance: from heteronomous/autonomous morality to six stages of moral reasoning |
-| 认知心理学 / Cognitive Psychology | [贝克 Beck](../../../../社会学/学派/现代性/beck.md) | 概念借用：图式（Schema）概念被认知行为治疗所采用 / Concept borrowing: Schema concept adopted by cognitive-behavioral therapy |
+| 心理社会发展 / Psychosocial Development | [埃里克森 Erikson](../埃里克/README.md) | 互补：认知发展与心理社会发展的阶段平行论 / Complementary: parallel stages of cognitive and psychosocial development |
+| 依恋理论 / Attachment Theory | [鲍尔比 Bowlby](../约翰/README.md) | 对话：早期关系对认知发展的情感基础 / Dialogue: emotional foundations of early relationships for cognitive development |
+| 道德发展 / Moral Development | [科尔伯格 Kohlberg](../../认知心理学/柯尔伯格/README.md) | 直接继承：从他律/自律道德到道德推理六阶段 / Direct inheritance: from heteronomous/autonomous morality to six stages of moral reasoning |
+| 认知心理学 / Cognitive Psychology | [贝克 Beck](../../../../社会学/学派/现代性/贝克.md) | 概念借用：图式（Schema）概念被认知行为治疗所采用 / Concept borrowing: Schema concept adopted by cognitive-behavioral therapy |
 | 语言学 / Linguistics | [乔姆斯基 Chomsky](../../../linguistics/schools/generative/chomsky.md) | 争论：语言习得的建构论 vs. 先天论 / Debate: constructivist vs. nativist accounts of language acquisition |
 | 教育学 / Education | [布鲁纳 Bruner](../../../education/schools/constructivist/bruner.md) | 发展：发现学习与螺旋课程的建构主义教育 / Development: discovery learning and spiral curriculum in constructivist education |
-| 建构主义AI / Constructivist AI | [明斯基 Minsky](../../../../认知系统/学派/认知工程/minsky.md) | 启发：建构主义认知架构对AI设计的启示 / Inspiration: constructivist cognitive architectures informing AI design |
+| 建构主义AI / Constructivist AI | [明斯基 Minsky](../../../../认知系统/学派/认知工程/明斯基.md) | 启发：建构主义认知架构对AI设计的启示 / Inspiration: constructivist cognitive architectures informing AI design |
 | 德国哲学 / German Philosophy | [康德 Kant](../../../../哲学/学派/德国唯心论/康德.md) | 继承与改造：先验范畴的发生学化 / Inheritance and transformation: geneticization of transcendental categories |
 
 ## 进阶阅读 / Further Reading
@@ -252,11 +252,11 @@ Piaget's schema concept — schemas are essentially "structures of action" — r
 
 | 子条目 / Sub-entry | 主题 / Topic | 路径 / Path |
 |:---|:---|:---|
-| 认知发展 / Cognitive Development | 认知发展的整体框架与建构主义基础 / Overall framework of cognitive development and constructivist foundations | [concepts/cognitive-development.md](concepts/cognitive-development.md) |
-| 同化与顺应 / Assimilation & Accommodation | 认知适应的双重机制 / Dual mechanisms of cognitive adaptation | [concepts/assimilation-accommodation.md](concepts/assimilation-accommodation.md) |
-| 认知发展阶段 / Developmental Stages | 四阶段理论的详细论述 / Detailed exposition of the four-stage theory | [concepts/stages.md](concepts/stages.md) |
-| 图式 / Schema | 认知结构的基本功能单位 / Basic functional unit of cognitive structure | [concepts/schema.md](concepts/schema.md) |
-| 发生认识论 / Genetic Epistemology | 知识发生学的跨学科方法 / Interdisciplinary approach to the genesis of knowledge | [concepts/genetic-认识论.md](concepts/genetic-认识论.md) |
+| 认知发展 / Cognitive Development | 认知发展的整体框架与建构主义基础 / Overall framework of cognitive development and constructivist foundations | [concepts/cognitive-development.md](../../认知心理学/README.md) |
+| 同化与顺应 / Assimilation & Accommodation | 认知适应的双重机制 / Dual mechanisms of cognitive adaptation | [concepts/assimilation-accommodation.md](../../认知心理学/皮亚杰/概念/同化与顺应.md) |
+| 认知发展阶段 / Developmental Stages | 四阶段理论的详细论述 / Detailed exposition of the four-stage theory | [concepts/stages.md](../../../../宗教/技能/菩提道次第修/SKILL.md) |
+| 图式 / Schema | 认知结构的基本功能单位 / Basic functional unit of cognitive structure | [concepts/schema.md](../../认知心理学/皮亚杰/概念/图式.md) |
+| 发生认识论 / Genetic Epistemology | 知识发生学的跨学科方法 / Interdisciplinary approach to the genesis of knowledge | [concepts/genetic-认识论.md](../../认知心理学/皮亚杰/概念/发生认识论.md) |
 
 ### 附属文件 / Supplementary Files
 - [著作年表 / Works Chronology](著作.md)

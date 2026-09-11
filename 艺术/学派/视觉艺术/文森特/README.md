@@ -9,9 +9,7 @@ birth: 1853
 death: 1890
 tags:
   - post-impressionism
-  - 后印象派
   - expressionism
-  - 表现主义
   - impasto
   - 厚涂法
   - color-theory
@@ -122,15 +120,15 @@ In May 1889, Van Gogh voluntarily entered the Saint-Paul-de-Mausole asylum in Sa
 
 ## 重要概念 / Key Concepts
 
-1. **后印象主义 / [Post-Impressionism](concepts/post-impressionism.md)**: 梵高所代表的超越印象派的艺术运动——将艺术从"视觉记录"转向"情感表达"，为20世纪现代艺术开辟道路。 / The art movement Van Gogh represents — moving art from "visual recording" to "emotional expression," paving the way for 20th-century modern art.
+1. **后印象主义 / [Post-Impressionism](../../../../哲学/学派/后结构主义/雅克/README.md)**: 梵高所代表的超越印象派的艺术运动——将艺术从"视觉记录"转向"情感表达"，为20世纪现代艺术开辟道路。 / The art movement Van Gogh represents — moving art from "visual recording" to "emotional expression," paving the way for 20th-century modern art.
 
-2. **表现性色彩 / [Expressive Color](concepts/expressive-color.md)**: 将色彩从再现功能中解放出来，使之成为情感的直接载体——梵高对现代艺术最核心的贡献。 / Liberating color from its representational function, making it a direct carrier of emotion — Van Gogh's most central contribution to modern art.
+2. **表现性色彩 / [Expressive Color](概念/表现性色彩.md)**: 将色彩从再现功能中解放出来，使之成为情感的直接载体——梵高对现代艺术最核心的贡献。 / Liberating color from its representational function, making it a direct carrier of emotion — Van Gogh's most central contribution to modern art.
 
-3. **厚涂技法 / [Impasto Technique](concepts/impasto-technique.md)**: 将颜料以厚重的笔触堆积在画布上，使画面具有触觉般的物质性——每一笔都是情感的物理痕迹。 / Applying paint in thick, textured strokes that give the surface a tactile materiality — each brushstroke a physical trace of emotion.
+3. **厚涂技法 / [Impasto Technique](概念/厚涂技法.md)**: 将颜料以厚重的笔触堆积在画布上，使画面具有触觉般的物质性——每一笔都是情感的物理痕迹。 / Applying paint in thick, textured strokes that give the surface a tactile materiality — each brushstroke a physical trace of emotion.
 
-4. **苦难与创造力 / [Suffering and Creativity](concepts/suffering-创造力.md)**: 梵高生命中创造力与精神疾病的复杂交织——探讨苦难如何塑造艺术，以及艺术如何成为对抗苦难的方式。 / The complex interplay between creativity and mental illness in Van Gogh's life — exploring how suffering shaped his art and how art became a means of confronting suffering.
+4. **苦难与创造力 / [Suffering and Creativity](../../../../文学/技能/苦难救赎分析/SKILL.md)**: 梵高生命中创造力与精神疾病的复杂交织——探讨苦难如何塑造艺术，以及艺术如何成为对抗苦难的方式。 / The complex interplay between creativity and mental illness in Van Gogh's life — exploring how suffering shaped his art and how art became a means of confronting suffering.
 
-5. **星夜 / [Starry Night](concepts/starry-night.md)**: 梵高最著名的作品及其深层含义——旋涡状星空作为宇宙性精神狂喜和个人痛苦的表达。 / Van Gogh's most famous work and its deeper meanings — the swirling starry sky as an expression of cosmic spiritual ecstasy and personal anguish.
+5. **星夜 / [Starry Night](概念/星夜.md)**: 梵高最著名的作品及其深层含义——旋涡状星空作为宇宙性精神狂喜和个人痛苦的表达。 / Van Gogh's most famous work and its deeper meanings — the swirling starry sky as an expression of cosmic spiritual ecstasy and personal anguish.
 
 6. **互补色并置 / Complementary Color Juxtaposition**: 系统运用色彩理论中的互补色原则——黄与紫、蓝与橙、红与绿——来创造视觉振动和情感张力。 / Systematic use of complementary color principles — yellow/violet, blue/orange, red/green — to create visual vibration and emotional tension.
 
@@ -237,11 +235,11 @@ Van Gogh's relationship with Eastern thought traditions is profound and multi-la
 
 ## 子条目索引 / Sub-entry Index
 
-- [后印象主义 / Post-Impressionism](concepts/post-impressionism.md) — 梵高所代表的超越印象派的艺术运动
-- [表现性色彩 / Expressive Color](concepts/expressive-color.md) — 色彩作为情感的直接载体
-- [厚涂技法 / Impasto Technique](concepts/impasto-technique.md) — 颜料的物质性与情感的物理痕迹
-- [苦难与创造力 / Suffering and Creativity](concepts/suffering-创造力.md) — 精神疾病与艺术创造的复杂交织
-- [星夜 / Starry Night](concepts/starry-night.md) — 梵高最著名作品的深层解读
+- [后印象主义 / Post-Impressionism](../../../../哲学/学派/后结构主义/雅克/README.md) — 梵高所代表的超越印象派的艺术运动
+- [表现性色彩 / Expressive Color](概念/表现性色彩.md) — 色彩作为情感的直接载体
+- [厚涂技法 / Impasto Technique](概念/厚涂技法.md) — 颜料的物质性与情感的物理痕迹
+- [苦难与创造力 / Suffering and Creativity](../../../../文学/技能/苦难救赎分析/SKILL.md) — 精神疾病与艺术创造的复杂交织
+- [星夜 / Starry Night](概念/星夜.md) — 梵高最著名作品的深层解读
 - [著作年表 / Works](著作.md) — 梵高主要作品详述
 - [生平大事记 / Timeline](时间线.md) — 梵高生平与创作大事年表
 - [阅读指南 / Reading List](阅读.md) — 梵高系统阅读指南

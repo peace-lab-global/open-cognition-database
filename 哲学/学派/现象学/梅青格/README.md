@@ -118,14 +118,14 @@ children:
 
 | 概念 | 英文 | 简述 | 子条目 |
 |---|---|---|---|
-| 现象自我模型 | Phenomenal Self-Model (PSM) | 大脑实时构建的关于"自我"的表征系统 | [phenomenal-self-model.md](concepts/phenomenal-self-model.md) |
-| 透明性 | Transparency | 系统无法看到模型本身的建构性质 | [transparency.md](concepts/transparency.md) |
-| 自我隧道 | Ego Tunnel | 意识经验作为结构性幻觉的隐喻 | [ego-tunnel.md](concepts/ego-tunnel.md) |
-| 最小现象自我 | Minimal Phenomenal Self (MPS) | 自我模型的最低配置 | [phenomenal-self-model.md](concepts/phenomenal-self-model.md) |
-| 现象属性 | Phenomenal Properties | 经验之"像什么"的质性特征 | [phenomenal-properties.md](concepts/phenomenal-properties.md) |
-| 神经现象学 | Neurophenomenology | 第一人称与第三人称的方法论桥梁 | [neurophenomenology.md](concepts/neurophenomenology.md) |
-| 去透明化 | De-transparency | 让自我模型变得可见的实践 | [transparency.md](concepts/transparency.md) |
-| 自我指涉 | Self-reference | 模型内部的索引功能 | [phenomenal-self-model.md](concepts/phenomenal-self-model.md) |
+| 现象自我模型 | Phenomenal Self-Model (PSM) | 大脑实时构建的关于"自我"的表征系统 | [phenomenal-self-model.md](概念/现象自我模型.md) |
+| 透明性 | Transparency | 系统无法看到模型本身的建构性质 | [transparency.md](概念/透明性.md) |
+| 自我隧道 | Ego Tunnel | 意识经验作为结构性幻觉的隐喻 | [ego-tunnel.md](概念/自我隧道.md) |
+| 最小现象自我 | Minimal Phenomenal Self (MPS) | 自我模型的最低配置 | [phenomenal-self-model.md](概念/现象自我模型.md) |
+| 现象属性 | Phenomenal Properties | 经验之"像什么"的质性特征 | [phenomenal-properties.md](概念/现象属性.md) |
+| 神经现象学 | Neurophenomenology | 第一人称与第三人称的方法论桥梁 | [neurophenomenology.md](概念/神经现象学.md) |
+| 去透明化 | De-transparency | 让自我模型变得可见的实践 | [transparency.md](概念/透明性.md) |
+| 自我指涉 | Self-reference | 模型内部的索引功能 | [phenomenal-self-model.md](概念/现象自我模型.md) |
 | 意识伦理学 | Consciousness Ethics | 关于意识现象的道德地位 | — |
 | 预测加工 | Predictive Processing | 大脑作为预测引擎的框架 | — |
 
@@ -240,11 +240,11 @@ SMT 为意识研究提供了一个**自然主义**的框架：意识不是神秘
 
 ### 哲学
 
-- [扎哈维 · Dan Zahavi](../zahavi.md) `[张力]` 前反思自身意识（pre-reflective self-awareness）的实在性 vs 自我模型论——扎哈维认为最小自身意识是真实的、不可还原的；梅青格认为它仍然是模型的产物
-- [汤普森 · Evan Thompson](../thompson.md) `[同源]` 神经现象学方法论；共同关注意识的第一人称维度
-- [胡塞尔 · Edmund Husserl](../husserl/README.md) `[方法借鉴]` 现象学还原与去透明化的方法论平行
-- [梅洛-庞蒂 · Maurice Merleau-Ponty](../merleau-ponty/README.md) `[身体哲学资源]` 身体图式理论的重要来源
-- [丹尼特 · Daniel Dennett](../../analytic/dennett.md) `[部分同盟]` 都反对笛卡尔剧场；但丹尼特的多重草稿模型与 PSM 在架构上有差异
+- [扎哈维 · Dan Zahavi](../扎哈维.md) `[张力]` 前反思自身意识（pre-reflective self-awareness）的实在性 vs 自我模型论——扎哈维认为最小自身意识是真实的、不可还原的；梅青格认为它仍然是模型的产物
+- [汤普森 · Evan Thompson](../汤普森.md) `[同源]` 神经现象学方法论；共同关注意识的第一人称维度
+- [胡塞尔 · Edmund Husserl](../胡塞尔/README.md) `[方法借鉴]` 现象学还原与去透明化的方法论平行
+- [梅洛-庞蒂 · Maurice Merleau-Ponty](../梅洛庞蒂/README.md) `[身体哲学资源]` 身体图式理论的重要来源
+- [丹尼特 · Daniel Dennett](../../分析哲学/丹尼特/README.md) `[部分同盟]` 都反对笛卡尔剧场；但丹尼特的多重草稿模型与 PSM 在架构上有差异
 - [查尔默斯 · David Chalmers](../../analytic/chalmers.md) `[张力]` 现象属性的实在性之争
 
 ### 东方思想
@@ -256,9 +256,9 @@ SMT 为意识研究提供了一个**自然主义**的框架：意识不是神秘
 
 ### 认知科学
 
-- [预测加工 · Predictive Processing](../../../认知系统/概念/预测加工.md) `[对接]` SMT 与预测编码框架的融合
-- [具身认知 · Embodied Cognition](../../../心理学/概念/生成认知.md) `[对话]` 身体在自我模型中的地位
-- [自由能原理 · Free Energy Principle](../../../认知系统/概念/free-energy-principle.md) `[对接]` 自我模型作为最小化预测误差的策略
+- [预测加工 · Predictive Processing](../../../../认知系统/概念/预测加工.md) `[对接]` SMT 与预测编码框架的融合
+- [具身认知 · Embodied Cognition](../汤普森/概念/生成认知.md) `[对话]` 身体在自我模型中的地位
+- [自由能原理 · Free Energy Principle](../../../../心理学/学派/认知心理学/弗里斯顿/概念/自由能原理.md) `[对接]` 自我模型作为最小化预测误差的策略
 
 ## 进阶阅读
 
@@ -291,11 +291,11 @@ SMT 为意识研究提供了一个**自然主义**的框架：意识不是神秘
 
 | 子条目 | 内容 |
 |---|---|
-| [concepts/ego-tunnel.md](concepts/ego-tunnel.md) | 自我隧道 · 结构性幻觉 |
-| [concepts/phenomenal-self-model.md](concepts/phenomenal-self-model.md) | 现象自我模型 · PSM 架构 |
-| [concepts/transparency.md](concepts/transparency.md) | 透明性 · 去透明化 |
-| [concepts/phenomenal-properties.md](concepts/phenomenal-properties.md) | 现象属性 · 感质 · 经验之"像什么" |
-| [concepts/neurophenomenology.md](concepts/neurophenomenology.md) | 神经现象学 · 方法论 |
+| [concepts/ego-tunnel.md](概念/自我隧道.md) | 自我隧道 · 结构性幻觉 |
+| [concepts/phenomenal-self-model.md](概念/现象自我模型.md) | 现象自我模型 · PSM 架构 |
+| [concepts/transparency.md](概念/透明性.md) | 透明性 · 去透明化 |
+| [concepts/phenomenal-properties.md](概念/现象属性.md) | 现象属性 · 感质 · 经验之"像什么" |
+| [concepts/neurophenomenology.md](概念/神经现象学.md) | 神经现象学 · 方法论 |
 | [著作.md](著作.md) | 作品总览 |
 | [时间线.md](时间线.md) | 思想年表 |
 | [阅读.md](阅读.md) | 进阶阅读指南 |

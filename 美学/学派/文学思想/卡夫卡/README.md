@@ -12,7 +12,7 @@ tags:
   - 异化
   - 官僚体制
   - 卡夫卡式
-  - 现代主义
+  - modernism
 aliases:
   - 弗朗茨·卡夫卡
   - Franz Kafka

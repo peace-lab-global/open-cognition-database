@@ -4,7 +4,17 @@ title: "大乘弘传 Mahāyāna Propagation: 鸠摩罗什与大乘佛教的东�
 type: concept
 parent: kumarajiva
 domain: 宗教
-tags: [Mahayana, 大乘, propagation, 弘传, sutra transmission, 经典传播, East Asian Buddhism, 东亚佛教, Silk Road, 丝绸之路]
+tags:
+  - mahayana
+  - 大乘
+  - propagation
+  - 弘传
+  - sutra-transmission
+  - 经典传播
+  - east-asian-buddhism
+  - 东亚佛教
+  - silk-road
+  - 丝绸之路
 ---
 
 # 大乘弘传 Mahāyāna Propagation / Kumārajīva and the Eastward Transmission of Mahāyāna

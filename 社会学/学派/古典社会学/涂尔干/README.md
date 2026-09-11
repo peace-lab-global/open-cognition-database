@@ -143,11 +143,11 @@ In 1902 he transferred to the University of Paris/Sorbonne as professor of educa
 
 ## 重要概念 / Key Concepts
 
-1. **社会事实** / Social Facts (Faits Sociaux) → [详细条目](concepts/social-facts.md)
-2. **社会团结** / Social Solidarity → [详细条目](concepts/solidarity.md)
-3. **自杀类型学** / Typology of Suicide → [详细条目](concepts/suicide.md)
-4. **社会分工** / Division of Labour → [详细条目](concepts/division-of-labour.md)
-5. **神圣与世俗** / Sacred and Profane → [详细条目](concepts/sacred-profane.md)
+1. **社会事实** / Social Facts (Faits Sociaux) → [详细条目](../../../../伦理政治/学派/社会契约论/约翰/README.md)
+2. **社会团结** / Social Solidarity → [详细条目](概念/社会团结.md)
+3. **自杀类型学** / Typology of Suicide → [详细条目](概念/自杀类型学.md)
+4. **社会分工** / Division of Labour → [详细条目](概念/社会分工.md)
+5. **神圣与世俗** / Sacred and Profane → [详细条目](../../../../宗教/技能/神圣世俗辨析/SKILL.md)
 6. **失范** / Anomie — 社会规范的瓦解或弱化状态 / Disintegration or weakening of social norms
 7. **集体意识** / Collective Consciousness (Conscience Collective) — 社会成员共同拥有的信仰和情感的总和 / The totality of beliefs and sentiments common to members of society
 8. **集体表象** / Collective Representations — 社会共享的观念和象征体系 / Socially shared systems of ideas and symbols
@@ -261,11 +261,11 @@ Durkheim's "collective consciousness" concept dialogues with the Chinese concept
 
 | 条目 / Entry | 说明 / Description |
 |---|---|
-| [社会事实](concepts/social-facts.md) | 社会学的独特研究对象 / Sociology's distinctive subject matter |
-| [社会团结](concepts/solidarity.md) | 机械团结与有机团结 / Mechanical and organic solidarity |
-| [自杀类型学](concepts/suicide.md) | 四种自杀类型的社会学分析 / Sociological analysis of four suicide types |
-| [社会分工](concepts/division-of-labour.md) | 分工的社会功能与病理 / Social functions and pathologies of division of labour |
-| [神圣与世俗](concepts/sacred-profane.md) | 宗教的基本分类原则 / The basic classificatory principle of 宗教 |
+| [社会事实](../../../../伦理政治/学派/社会契约论/约翰/README.md) | 社会学的独特研究对象 / Sociology's distinctive subject matter |
+| [社会团结](概念/社会团结.md) | 机械团结与有机团结 / Mechanical and organic solidarity |
+| [自杀类型学](概念/自杀类型学.md) | 四种自杀类型的社会学分析 / Sociological analysis of four suicide types |
+| [社会分工](概念/社会分工.md) | 分工的社会功能与病理 / Social functions and pathologies of division of labour |
+| [神圣与世俗](../../../../宗教/技能/神圣世俗辨析/SKILL.md) | 宗教的基本分类原则 / The basic classificatory principle of 宗教 |
 | [著作年表](著作.md) | 涂尔干主要著作详述 / Detailed survey of Durkheim's major works |
 | [生平年谱](时间线.md) | 涂尔干生平与思想大事年表 / Chronology of Durkheim's life and intellectual milestones |
 | [进阶书单](阅读.md) | 系统阅读指南 / Systematic reading guide |

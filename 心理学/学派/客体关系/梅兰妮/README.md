@@ -240,9 +240,9 @@ Klein's concept of "splitting" can dialogue with Zhuangzi's "equalizing of thing
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **[弗洛伊德 Freud](../../精神分析/西格蒙德.md)** `[发展]` 克莱因扩展了弗洛伊德的驱力理论 (Klein extended Freud's drive theory)
-- **[温尼科特 Winnicott](../winnicott.md)** `[发展]` 温尼科特发展了克莱因的早期客体关系理论 (Winnicott developed Klein's early object relations theory)
-- **[鲍尔比 Bowlby](../../developmental/bowlby.md)** `[平行]` 两者都关注早期母婴关系 (Both concerned with early mother-infant relationships)
-- **[荣格 Jung](../../analytical-psychology/卡尔.md)** `[平行]` 两者都关注早期心理发展 (Both concerned with early psychological development)
+- **[温尼科特 Winnicott](../唐纳德/README.md)** `[发展]` 温尼科特发展了克莱因的早期客体关系理论 (Winnicott developed Klein's early object relations theory)
+- **[鲍尔比 Bowlby](../../发展心理学/约翰/README.md)** `[平行]` 两者都关注早期母婴关系 (Both concerned with early mother-infant relationships)
+- **[荣格 Jung](../../分析心理学/卡尔/README.md)** `[平行]` 两者都关注早期心理发展 (Both concerned with early psychological development)
 - **[比昂 Bion](../bion.md)** `[发展]` 比昂发展了克莱因的投射性认同和容器理论 (Bion developed Klein's projective identification and container theory)
 
 ## 进阶阅读 / Further Reading
@@ -264,11 +264,11 @@ Klein's concept of "splitting" can dialogue with Zhuangzi's "equalizing of thing
 
 ## 子条目索引 / Sub-entry Index
 
-- [concepts/object-relations.md](concepts/object-relations.md) — 客体关系理论 (Object Relations Theory)
-- [concepts/paranoid-schizoid.md](concepts/paranoid-schizoid.md) — 偏执-分裂位态 (Paranoid-Schizoid Position)
-- [concepts/depressive-position.md](concepts/depressive-position.md) — 抑郁位态 (Depressive Position)
-- [concepts/projective-identification.md](concepts/projective-identification.md) — 投射性认同 (Projective Identification)
-- [concepts/good-bad-breast.md](concepts/good-bad-breast.md) — 好乳房与坏乳房 (Good Breast and Bad Breast)
+- [concepts/object-relations.md](README.md) — 客体关系理论 (Object Relations Theory)
+- [concepts/paranoid-schizoid.md](概念/偏执-分裂位态.md) — 偏执-分裂位态 (Paranoid-Schizoid Position)
+- [concepts/depressive-position.md](概念/抑郁位态.md) — 抑郁位态 (Depressive Position)
+- [concepts/projective-identification.md](概念/投射性认同.md) — 投射性认同 (Projective Identification)
+- [concepts/good-bad-breast.md](概念/好乳房与坏乳房.md) — 好乳房与坏乳房 (Good Breast and Bad Breast)
 - [著作.md](著作.md) — 主要著作年表 (Chronological Works)
 - [时间线.md](时间线.md) — 生平年表 (Life Timeline)
 - [阅读.md](阅读.md) — 阅读指南 (Reading Guide)

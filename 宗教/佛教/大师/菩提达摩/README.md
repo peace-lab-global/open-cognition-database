@@ -7,7 +7,17 @@ school: buddhism-chan
 era: ancient
 birth: ~470
 death: ~543
-tags: [菩提达摩, 禅宗初祖, 壁观, 二人四行, 直指人心, 教外别传, Bodhidharma, Chan, Zen, First Patriarch]
+tags:
+  - 菩提达摩
+  - 禅宗初祖
+  - 壁观
+  - 二人四行
+  - 直指人心
+  - 教外别传
+  - bodhidharma
+  - chan
+  - zen
+  - first-patriarch
 aliases: [达摩, 菩提达磨, 达磨祖师, Bodhidharma, Daruma]
 parent: ../bodhidharma.md
 sub_entries:
@@ -114,20 +124,20 @@ Bodhidharma's thought is rooted in two major Indian Mahayana traditions: **Tatha
 
 ## 重要概念 / Key Concepts
 
-1. **壁观 Biguan (Wall-Gazing)**：面壁而坐，外息诸缘，内心无喘——心如墙壁，可以入道。这是达摩禅的核心修行方法。详见 → [壁观](concepts/wall-gazing.md)
-   Sitting facing a wall, externally ceasing all conditions, internally the mind does not waver — mind like a wall, one can enter the Way. The core practice method of Bodhidharma's Chan. See → [Wall-Gazing](concepts/wall-gazing.md)
+1. **壁观 Biguan (Wall-Gazing)**：面壁而坐，外息诸缘，内心无喘——心如墙壁，可以入道。这是达摩禅的核心修行方法。详见 → [壁观](概念/壁观 Biguan — Wall-Gazing Meditation.md)
+   Sitting facing a wall, externally ceasing all conditions, internally the mind does not waver — mind like a wall, one can enter the Way. The core practice method of Bodhidharma's Chan. See → [Wall-Gazing](概念/壁观 Biguan — Wall-Gazing Meditation.md)
 
-2. **无心 Wuxin (No-Mind)**：不执著于任何念头，心无所住。超越有意识的分别心，达到自然无造作的心理状态。详见 → [无心](concepts/no-mind.md)
-   Non-attachment to any thought, the mind abides nowhere. Transcending conscious discriminating mind to reach a natural, uncontrived mental state. See → [No-Mind](concepts/no-mind.md)
+2. **无心 Wuxin (No-Mind)**：不执著于任何念头，心无所住。超越有意识的分别心，达到自然无造作的心理状态。详见 → [无心](../../../../哲学/学派/悲观主义/叔本华/读书会分享/README.md)
+   Non-attachment to any thought, the mind abides nowhere. Transcending conscious discriminating mind to reach a natural, uncontrived mental state. See → [No-Mind](../../../../哲学/学派/悲观主义/叔本华/读书会分享/README.md)
 
 3. **顿悟 Dunwu (Sudden Enlightenment)**：直下承当，刹那见性。达摩虽未明确使用"顿悟"一词，但其"直指人心"的方法论隐含了顿悟的立场。详见 → [顿悟](../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md)
    Directly taking it upon oneself, seeing one's nature in a single instant. Although Bodhidharma did not explicitly use the term "sudden enlightenment," his methodology of "directly pointing to the human mind" implies a sudden-awakening stance. See → [Sudden Enlightenment](../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md)
 
-4. **坐禅 Zuochan (Sitting Meditation)**：达摩在嵩山少林寺面壁九年，确立了坐禅作为禅宗修行的基本形式。详见 → [坐禅](concepts/zazen-practice.md)
-   Bodhidharma faced the wall at Shaolin Temple on Mount Song for nine years, establishing seated meditation as the foundational form of Chan practice. See → [Sitting Meditation](concepts/zazen-practice.md)
+4. **坐禅 Zuochan (Sitting Meditation)**：达摩在嵩山少林寺面壁九年，确立了坐禅作为禅宗修行的基本形式。详见 → [坐禅](概念/坐禅 Zuochan — Sitting Meditation.md)
+   Bodhidharma faced the wall at Shaolin Temple on Mount Song for nine years, establishing seated meditation as the foundational form of Chan practice. See → [Sitting Meditation](概念/坐禅 Zuochan — Sitting Meditation.md)
 
-5. **教外别传 Jiaowai Biechuan (Transmission Outside Scriptures)**：禅宗独特的法脉传承方式，强调超越文字经典的心心相传。详见 → [教外别传](concepts/transmission-outside-scriptures.md)
-   Chan's unique mode of Dharma lineage transmission, emphasizing mind-to-mind transmission that transcends written scriptures. See → [Transmission Outside Scriptures](concepts/transmission-outside-scriptures.md)
+5. **教外别传 Jiaowai Biechuan (Transmission Outside Scriptures)**：禅宗独特的法脉传承方式，强调超越文字经典的心心相传。详见 → [教外别传](概念/教外别传 Jiaowai Biechuan — Transmission Outside Scriptures.md)
+   Chan's unique mode of Dharma lineage transmission, emphasizing mind-to-mind transmission that transcends written scriptures. See → [Transmission Outside Scriptures](概念/教外别传 Jiaowai Biechuan — Transmission Outside Scriptures.md)
 
 6. **二人四行 Two Entries and Four Practices**：达摩禅的完整修行体系。"理入"通过壁观契入真实，"行入"通过四种日常实践落实修行。
    The complete cultivation system of Bodhidharma's Chan. "Entry through principle" penetrates reality via wall-gazing; "entry through practice" implements cultivation through four daily practices.
@@ -278,11 +288,11 @@ For more readings see → [Advanced Reading List](阅读.md)
 
 | 条目 / Entry | 主题 / Topic | 文件 / File |
 |---|---|---|
-| 壁观 Wall-Gazing | 达摩的核心修行方法 / Core practice method | [concepts/wall-gazing.md](concepts/wall-gazing.md) |
-| 无心 No-Mind | 超越分别心的心理状态 / Transcending discriminating mind | [concepts/no-mind.md](concepts/no-mind.md) |
+| 壁观 Wall-Gazing | 达摩的核心修行方法 / Core practice method | [concepts/wall-gazing.md](概念/壁观 Biguan — Wall-Gazing Meditation.md) |
+| 无心 No-Mind | 超越分别心的心理状态 / Transcending discriminating mind | [concepts/no-mind.md](../../../../哲学/学派/悲观主义/叔本华/读书会分享/README.md) |
 | 顿悟 Sudden Enlightenment | 刹那见性的觉悟方式 / Instantaneous awakening | [concepts/顿悟.md](../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md) |
-| 坐禅 Sitting Meditation | 禅宗的基本修行形式 / Foundational Chan practice form | [concepts/zazen-practice.md](concepts/zazen-practice.md) |
-| 教外别传 Transmission Outside Scriptures | 禅宗独特的传承方式 / Chan's unique transmission mode | [concepts/transmission-outside-scriptures.md](concepts/transmission-outside-scriptures.md) |
+| 坐禅 Sitting Meditation | 禅宗的基本修行形式 / Foundational Chan practice form | [concepts/zazen-practice.md](概念/坐禅 Zuochan — Sitting Meditation.md) |
+| 教外别传 Transmission Outside Scriptures | 禅宗独特的传承方式 / Chan's unique transmission mode | [concepts/transmission-outside-scriptures.md](概念/教外别传 Jiaowai Biechuan — Transmission Outside Scriptures.md) |
 | 著作 Works | 达摩相关著作总览 / Overview of Bodhidharma-related works | [著作.md](著作.md) |
 | 年表 Timeline | 达摩生平与思想发展 / Life and intellectual development | [时间线.md](时间线.md) |
 | 阅读清单 Reading List | 推荐进阶阅读 / Recommended further reading | [阅读.md](阅读.md) |

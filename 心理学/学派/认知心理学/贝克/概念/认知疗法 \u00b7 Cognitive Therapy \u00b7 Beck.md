@@ -5,7 +5,13 @@ type: concept
 domain: 心理学
 school: cognitive
 thinker: beck
-tags: [cognitive-therapy, CBT, collaborative-empiricism, Socratic-questioning, behavioral-experiment, short-term-therapy]
+tags:
+  - cognitive-therapy
+  - cbt
+  - collaborative-empiricism
+  - socratic-questioning
+  - behavioral-experiment
+  - short-term-therapy
 cross-refs:
   - id: 心理学.cognitive.beck
     relation: thinker

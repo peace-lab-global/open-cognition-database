@@ -5,7 +5,12 @@ type: concept
 thinker: nagarjuna
 domain: 宗教
 school: buddhism-madhyamaka
-tags: [middle-way, madhyamaka, asta-nisedha, eight-negations, anti-extremism, Madhyamaka]
+tags:
+  - middle-way
+  - madhyamaka
+  - asta-nisedha
+  - eight-negations
+  - anti-extremism
 ---
 
 # 中道 Madhyamaka / Middle Way

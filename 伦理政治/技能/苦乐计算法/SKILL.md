@@ -6,7 +6,7 @@ linked_thinker: ../../schools/consequentialism/bentham.md
 linked_concepts:
   - ../../concepts/pleasure.md
 tags:
-  - 功利主义
+  - utilitarianism
   - 结果主义
   - 决策分析
   - 政策评估

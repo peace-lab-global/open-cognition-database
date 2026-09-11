@@ -17,9 +17,9 @@ tags:
   - 无我
   - 涅槃
   - 中道
-  - Buddhism
-  - Four Noble Truths
-  - Dependent Origination
+  - buddhism
+  - four-noble-truths
+  - dependent-origination
   - Anattā
 aliases:
   - 佛陀

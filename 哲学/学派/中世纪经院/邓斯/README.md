@@ -123,6 +123,6 @@ John Duns Scotus (1266–1308), the "Subtle Doctor," is one of the most importan
 
 ## 十、关联条目
 
-- [阿奎那 Aquinas](../aquinas/README.md) `[批判/超越]` 类比与单义之争
-- [奥卡姆 Ockham](../../nominalism/ockham/README.md) `[思想先驱]` 唯名论的形成
-- [海德格尔 Heidegger](../../existentialism/heidegger/README.md) `[远影响]` 存在问题
+- [阿奎那 Aquinas](../托马斯/README.md) `[批判/超越]` 类比与单义之争
+- [奥卡姆 Ockham](../../../../README.md) `[思想先驱]` 唯名论的形成
+- [海德格尔 Heidegger](../../存在主义/海德格尔/README.md) `[远影响]` 存在问题

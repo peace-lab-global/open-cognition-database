@@ -7,7 +7,12 @@ school: ecological
 era: contemporary
 birth: 1957
 death:
-tags: [extended-mind, predictive-processing, embodied-cognition, 4E-cognition, cognitive-offloading]
+tags:
+  - extended-mind
+  - predictive-processing
+  - embodied-cognition
+  - 4e-cognition
+  - cognitive-offloading
 aliases: [Andy Clark, 安迪·克拉克]
 sources: [Supersizing the Mind (2008), Surfing Uncertainty (2016), Natural-Born Cyborgs (2003)]
 ---

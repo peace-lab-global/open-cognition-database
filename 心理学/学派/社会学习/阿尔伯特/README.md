@@ -110,15 +110,15 @@ In his later years, Bandura turned his attention to moral 心理学 — the 2016
 
 ## 重要概念 / Key Concepts
 
-1. **自我效能感 / Self-Efficacy**：个体对自己在特定情境中能否成功执行某一行为的信念。四种来源：亲历成功、替代经验、言语说服、生理与情绪状态。详见 [self-efficacy](concepts/self-efficacy.md)。
+1. **自我效能感 / Self-Efficacy**：个体对自己在特定情境中能否成功执行某一行为的信念。四种来源：亲历成功、替代经验、言语说服、生理与情绪状态。详见 [self-efficacy](../../../技能/自我效能分析/SKILL.md)。
 
-2. **社会学习 / Social Learning**：通过观察他人行为及其后果而获得新知识和技能的学习方式，超越传统行为主义的直接经验框架。详见 [social-learning](concepts/social-learning.md)。
+2. **社会学习 / Social Learning**：通过观察他人行为及其后果而获得新知识和技能的学习方式，超越传统行为主义的直接经验框架。详见 [social-learning](README.md)。
 
 3. **观察学习 / Observational Learning**：观察学习的四个子过程——注意（Attention）、保持（Retention）、运动再现（Motor Reproduction）和动机（Motivation）。详见 [observational-learning](概念/观察学习.md)。
 
-4. **榜样示范 / Modeling**：通过示范行为传递知识、技能和价值观的过程。榜样可以是真实的人、符号化的人物（如媒体角色），也可以是抽象的规则。详见 [modeling](concepts/modeling.md)。
+4. **榜样示范 / Modeling**：通过示范行为传递知识、技能和价值观的过程。榜样可以是真实的人、符号化的人物（如媒体角色），也可以是抽象的规则。详见 [modeling](概念/榜样示范.md)。
 
-5. **交互决定论 / Reciprocal Determinism**：个体因素（P）、行为（B）和环境（E）三者之间的双向因果关系。详见 [reciprocal-determinism](concepts/reciprocal-determinism.md)。
+5. **交互决定论 / Reciprocal Determinism**：个体因素（P）、行为（B）和环境（E）三者之间的双向因果关系。详见 [reciprocal-determinism](概念/交互决定论.md)。
 
 6. **替代强化 / Vicarious Reinforcement**：观察者看到模型因某行为获得奖赏或惩罚，从而影响自己是否模仿该行为——不需要自己亲身经历强化。
 
@@ -225,8 +225,8 @@ The triadic model (P-B-E) of reciprocal determinism resonates deeply with Buddhi
 - [关键著作年表 / Works](著作.md)
 - [生平大事年表 / Timeline](时间线.md)
 - [进阶阅读书目 / Reading List](阅读.md)
-- [自我效能感 / Self-Efficacy](concepts/self-efficacy.md)
-- [社会学习 / Social Learning](concepts/social-learning.md)
+- [自我效能感 / Self-Efficacy](../../../技能/自我效能分析/SKILL.md)
+- [社会学习 / Social Learning](README.md)
 - [观察学习 / Observational Learning](概念/观察学习.md)
-- [榜样示范 / Modeling](concepts/modeling.md)
-- [交互决定论 / Reciprocal Determinism](concepts/reciprocal-determinism.md)
+- [榜样示范 / Modeling](概念/榜样示范.md)
+- [交互决定论 / Reciprocal Determinism](概念/交互决定论.md)

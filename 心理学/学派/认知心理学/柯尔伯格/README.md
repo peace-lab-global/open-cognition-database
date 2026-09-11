@@ -109,29 +109,29 @@ Kohlberg's final years were devoted to writing the two-volume *Essays on Moral D
 ## 重要概念 / Key Concepts
 
 ### 1. 道德发展 / Moral Development
-道德推理能力从自我中心的前习俗定向逐步发展为基于普遍正义原则的后习俗定向的固定序列过程。详见 → [moral-development.md](concepts/moral-development.md)
+道德推理能力从自我中心的前习俗定向逐步发展为基于普遍正义原则的后习俗定向的固定序列过程。详见 → [moral-development.md](概念/道德发展 Moral Development.md)
 
-The fixed sequential process by which moral reasoning develops from egocentric pre-conventional orientations to post-conventional orientations based on universal principles of justice. See → [moral-development.md](concepts/moral-development.md)
+The fixed sequential process by which moral reasoning develops from egocentric pre-conventional orientations to post-conventional orientations based on universal principles of justice. See → [moral-development.md](概念/道德发展 Moral Development.md)
 
 ### 2. 道德推理阶段 / Stages of Moral Reasoning
-三水平六阶段的具体内容：从惩罚-服从到普遍伦理原则的六个质变阶段。详见 → [stages-moral-reasoning.md](concepts/stages-moral-reasoning.md)
+三水平六阶段的具体内容：从惩罚-服从到普遍伦理原则的六个质变阶段。详见 → [stages-moral-reasoning.md](概念/道德推理阶段 Stages of Moral Reasoning.md)
 
-The specific content of three levels and six stages: six qualitative transformation stages from punishment-obedience to universal ethical principles. See → [stages-moral-reasoning.md](concepts/stages-moral-reasoning.md)
+The specific content of three levels and six stages: six qualitative transformation stages from punishment-obedience to universal ethical principles. See → [stages-moral-reasoning.md](概念/道德推理阶段 Stages of Moral Reasoning.md)
 
 ### 3. 正义 / Justice
-正义作为道德发展的核心取向和最高阶段的组织原则，与罗尔斯正义论的深度整合。详见 → [justice.md](concepts/justice.md)
+正义作为道德发展的核心取向和最高阶段的组织原则，与罗尔斯正义论的深度整合。详见 → [justice.md](../../../../伦理政治/技能/正义原则检验/SKILL.md)
 
-Justice as the core orientation of moral development and the organizing principle of the highest stage, deeply integrated with Rawls's theory of justice. See → [justice.md](concepts/justice.md)
+Justice as the core orientation of moral development and the organizing principle of the highest stage, deeply integrated with Rawls's theory of justice. See → [justice.md](../../../../伦理政治/技能/正义原则检验/SKILL.md)
 
 ### 4. 后习俗道德 / Post-Conventional Morality
-超越社会习俗、基于自主选择的可普遍化原则进行道德推理的最高发展水平。详见 → [post-conventional.md](concepts/post-conventional.md)
+超越社会习俗、基于自主选择的可普遍化原则进行道德推理的最高发展水平。详见 → [post-conventional.md](../../../../哲学/学派/后结构主义/雅克/README.md)
 
-The highest developmental level of moral reasoning based on autonomously chosen universalizable principles, transcending social conventions. See → [post-conventional.md](concepts/post-conventional.md)
+The highest developmental level of moral reasoning based on autonomously chosen universalizable principles, transcending social conventions. See → [post-conventional.md](../../../../哲学/学派/后结构主义/雅克/README.md)
 
 ### 5. 道德教育 / Moral Education
-通过"加一阶段"策略和"公正社群"模式促进道德发展的教育理论与实践。详见 → [moral-education.md](concepts/moral-education.md)
+通过"加一阶段"策略和"公正社群"模式促进道德发展的教育理论与实践。详见 → [moral-education.md](概念/道德教育 Moral Education.md)
 
-Educational theory and practice promoting moral development through "+1 stage" strategies and "just community" models. See → [moral-education.md](concepts/moral-education.md)
+Educational theory and practice promoting moral development through "+1 stage" strategies and "just community" models. See → [moral-education.md](概念/道德教育 Moral Education.md)
 
 ### 6. 海因茨两难 / Heinz Dilemma
 柯尔伯格最著名的道德两难故事：海因茨的妻子身患重病，药剂师以天价出售救命药物，海因茨无力购买后是否应该偷药？柯尔伯格关注的不是"偷还是不偷"的答案本身，而是支撑答案的推理结构——不同阶段的个体会给出相同的结论但基于完全不同的推理逻辑。
@@ -332,12 +332,12 @@ Kohlberg's "just community" ideal forms a triangular dialogue with Rawls's "just
 
 | 概念 / Concept | 文件 / File | 简述 / Summary |
 |----------------|-------------|----------------|
-| 道德发展 / Moral Development | [moral-development.md](concepts/moral-development.md) | 道德推理能力的认知结构发展过程 |
-| 道德推理阶段 / Stages of Moral Reasoning | [stages-moral-reasoning.md](concepts/stages-moral-reasoning.md) | 三水平六阶段的详细阐述 |
-| 正义 / Justice | [justice.md](concepts/justice.md) | 作为道德核心的正义感发展 |
-| 后习俗道德 / Post-Conventional Morality | [post-conventional.md](concepts/post-conventional.md) | 超越社会习俗的自主道德推理 |
-| 道德教育 / Moral Education | [moral-education.md](concepts/moral-education.md) | "加一"策略与公正社群模式 |
+| 道德发展 / Moral Development | [moral-development.md](概念/道德发展 Moral Development.md) | 道德推理能力的认知结构发展过程 |
+| 道德推理阶段 / Stages of Moral Reasoning | [stages-moral-reasoning.md](概念/道德推理阶段 Stages of Moral Reasoning.md) | 三水平六阶段的详细阐述 |
+| 正义 / Justice | [justice.md](../../../../伦理政治/技能/正义原则检验/SKILL.md) | 作为道德核心的正义感发展 |
+| 后习俗道德 / Post-Conventional Morality | [post-conventional.md](../../../../哲学/学派/后结构主义/雅克/README.md) | 超越社会习俗的自主道德推理 |
+| 道德教育 / Moral Education | [moral-education.md](概念/道德教育 Moral Education.md) | "加一"策略与公正社群模式 |
 
 ---
 
-> **相关条目 / Related Entries**: [Piaget 皮亚杰](../piaget/) · [Rawls 罗尔斯](../../../../伦理政治/学派/社会契约论/约翰-rawls.md) · [Gilligan 吉利根](../../schools/feminist/gilligan/) · [Erikson 埃里克森](../../schools/psychoanalysis/erikson/) · [Bandura 班杜拉](../../schools/social-learning/bandura/) · [Noddings 诺丁斯](../../../伦理政治/学派/关怀伦理学/内尔/)
+> **相关条目 / Related Entries**: [Piaget 皮亚杰](../piaget/) · [Rawls 罗尔斯](../../../../伦理政治/学派/社会契约论/约翰-rawls.md) · [Gilligan 吉利根](../../schools/feminist/gilligan/) · [Erikson 埃里克森](../../schools/psychoanalysis/erikson/) · [Bandura 班杜拉](../../schools/social-learning/bandura/) · [Noddings 诺丁斯](../../../../伦理政治/学派/关怀伦理学/内尔)

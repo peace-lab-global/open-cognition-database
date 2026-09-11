@@ -4,7 +4,10 @@ title: "意译 Free Translation: 罗什的翻译方法论"
 type: concept
 parent: kumarajiva
 domain: 宗教
-tags: [translation, free-translation, Kumarajiva]
+tags:
+  - translation
+  - free-translation
+  - kumarajiva
 ---
 # 意译 / Free Translation Methodology
 

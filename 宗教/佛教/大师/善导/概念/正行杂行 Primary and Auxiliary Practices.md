@@ -4,7 +4,9 @@ title: "正行杂行 Primary and Auxiliary Practices"
 type: concept
 parent: shandao
 domain: 宗教
-tags: [primary-practice, Pure-Land]
+tags:
+  - primary-practice
+  - pure-land
 ---
 # 正行杂行 / Primary and Auxiliary Practices
 

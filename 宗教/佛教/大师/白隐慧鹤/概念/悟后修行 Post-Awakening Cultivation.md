@@ -5,7 +5,15 @@ type: concept
 domain: 宗教
 school: buddhism-rinzai
 parent: ../README.md
-tags: [悟后修行, post-awakening, 白隐, Hakuin, 牧牛, ox-herding, 保任, 临济宗]
+tags:
+  - 悟后修行
+  - post-awakening
+  - 白隐
+  - hakuin
+  - 牧牛
+  - ox-herding
+  - 保任
+  - 临济宗
 ---
 
 # 悟后修行 Post-Awakening Cultivation (Gogo no Shugyō)

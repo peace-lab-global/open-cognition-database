@@ -155,16 +155,16 @@ Seth 在约克大学学习人工智能与计算机科学，后在牛津大学完
 
 ## 重要概念 · Key Concepts
 
-1. **受控幻觉 (Controlled Hallucination)** — 感知 = 大脑的自上而下预测 + 被自下而上输入约束的幻觉。见 [consciousness-real-illusion](concepts/consciousness-real-illusion.md)。
-2. **预测脑 (Predictive Brain)** — 大脑不是被动的刺激接收器，而是主动的预测机器。见 [predictive-brain](concepts/predictive-brain.md)。
-3. **内感受预测加工 (Interoceptive Inference)** — 大脑持续预测身体内部状态，构成自我意识的基底。见 [interoception](concepts/interoception.md)。
+1. **受控幻觉 (Controlled Hallucination)** — 感知 = 大脑的自上而下预测 + 被自下而上输入约束的幻觉。见 [consciousness-real-illusion](概念/意识：受控幻觉.md)。
+2. **预测脑 (Predictive Brain)** — 大脑不是被动的刺激接收器，而是主动的预测机器。见 [predictive-brain](../../../../认知系统/学派/预测加工/README.md)。
+3. **内感受预测加工 (Interoceptive Inference)** — 大脑持续预测身体内部状态，构成自我意识的基底。见 [interoception](概念/内感受.md)。
 4. **身体自我 (Bodily Self)** — "我"首先是一个身体性的存在——自我感根植于身体预测模型。
 5. **意识的真问题 (The Real Problem)** — 从"为什么有体验"转向"体验的特定属性如何产生"。
-6. **兽性机器 (Beast Machine)** — 意识在生物界呈连续谱分布，人类不是唯一拥有意识的物种。见 [beast-machine](concepts/beast-machine.md)。
+6. **兽性机器 (Beast Machine)** — 意识在生物界呈连续谱分布，人类不是唯一拥有意识的物种。见 [beast-machine](概念/兽性机器.md)。
 7. **意识多维框架 (Multidimensional Framework)** — 意识不是单一维度的属性，而是由感知、自我、情感等多个维度构成。
 8. **扰动复杂性指数 (Perturbational Complexity Index, PCI)** — 基于脑刺激与反应的复杂性度量意识水平。
 9. **自我作为预测 (Self as Prediction)** — 从内感受自我到叙事自我，自我的层级结构根植于大脑预测模型。
-10. **做你自己 (Being You)** — Seth 对意识科学完整框架的综合命名。见 [being-you](concepts/being-you.md)。
+10. **做你自己 (Being You)** — Seth 对意识科学完整框架的综合命名。见 [being-you](概念/做你自己.md)。
 
 ---
 
@@ -303,10 +303,10 @@ Seth 的"受控幻觉"与庄子的"蝴蝶梦"有有趣的对话空间。庄子�
 
 | 领域 | 关联 | 说明 |
 |---|---|---|
-| 计算神经科学 | [弗里斯顿 Friston](../friston.md) `[继承]` | 将自由能原理应用于意识科学 |
-| 情绪心理学 | [巴雷特 Barrett](../barrett.md) `[平行]` | 情绪建构理论 vs 预测加工情绪论 |
-| 具身认知 | [达马西奥 Damasio](../damasio.md) `[承接]` | 躯体标记与身体自我 |
-| 全局工作空间 | [巴尔斯 Baars](../baars.md) `[对话]` | 意识的信息功能 vs 意识的预测本质 |
+| 计算神经科学 | [弗里斯顿 Friston](../弗里斯顿/README.md) `[继承]` | 将自由能原理应用于意识科学 |
+| 情绪心理学 | [巴雷特 Barrett](../巴雷特/README.md) `[平行]` | 情绪建构理论 vs 预测加工情绪论 |
+| 具身认知 | [达马西奥 Damasio](../达玛西奥/README.md) `[承接]` | 躯体标记与身体自我 |
+| 全局工作空间 | [巴尔斯 Baars](../巴尔斯/README.md) `[对话]` | 意识的信息功能 vs 意识的预测本质 |
 | 佛教哲学 | [八识体系](../../../../宗教/佛教/概念/cognitive-theory/八识体系.md) `[平行]` | 身体自我 ≈ 阿赖耶识的身体图式功能 |
 | 佛教哲学 | [五蕴的认知读法](../../../../宗教/佛教/概念/cognitive-theory/五蕴的认知读法.md) `[平行]` | 意识作为建构过程 ≈ 五蕴的动态组合 |
 | 存在哲学 | [梅洛-庞蒂 Merleau-Ponty](../../../../哲学/学派/现象学/梅洛庞蒂/README.md) `[平行]` | 身体主体性 vs 身体自我 |
@@ -337,11 +337,11 @@ Seth 的"受控幻觉"与庄子的"蝴蝶梦"有有趣的对话空间。庄子�
 
 | 条目 | 路径 | 说明 |
 |---|---|---|
-| 做你自己 (Being You) | [concepts/being-you.md](concepts/being-you.md) | Seth 意识科学框架的综合概念 |
-| 预测脑 (Predictive Brain) | [concepts/predictive-brain.md](concepts/predictive-brain.md) | 大脑作为预测机器的核心机制 |
-| 意识：受控幻觉 (Controlled Hallucination) | [concepts/consciousness-real-illusion.md](concepts/consciousness-real-illusion.md) | 意识的实在论与幻觉论 |
-| 内感受 (Interoception) | [concepts/interoception.md](concepts/interoception.md) | 身体自我与内感受预测加工 |
-| 兽性机器 (Beast Machine) | [concepts/beast-machine.md](concepts/beast-machine.md) | 意识的生物连续谱 |
+| 做你自己 (Being You) | [concepts/being-you.md](概念/做你自己.md) | Seth 意识科学框架的综合概念 |
+| 预测脑 (Predictive Brain) | [concepts/predictive-brain.md](../../../../认知系统/学派/预测加工/README.md) | 大脑作为预测机器的核心机制 |
+| 意识：受控幻觉 (Controlled Hallucination) | [concepts/consciousness-real-illusion.md](概念/意识：受控幻觉.md) | 意识的实在论与幻觉论 |
+| 内感受 (Interoception) | [concepts/interoception.md](概念/内感受.md) | 身体自我与内感受预测加工 |
+| 兽性机器 (Beast Machine) | [concepts/beast-machine.md](概念/兽性机器.md) | 意识的生物连续谱 |
 | 作品总览 | [著作.md](著作.md) | 按年代排序的著作列表 |
 | 思想年表 | [时间线.md](时间线.md) | 生平与思想发展大事记 |
 | 进阶阅读 | [阅读.md](阅读.md) | 原典、二手研究、跨学科阅读 |

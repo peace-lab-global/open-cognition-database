@@ -7,7 +7,7 @@ linked_concepts:
   - ../../concepts/attachment.md
   - ../../心理学/概念/依恋-styles.md
 tags:
-  - 依恋理论
+  - attachment-theory
   - 亲密关系
   - 早期经验
   - 人际关系

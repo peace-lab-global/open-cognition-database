@@ -112,17 +112,17 @@ Tart's central contribution was bringing altered states of consciousness — inc
 
 ## 重要概念 / Key Concepts
 
-1. **离散意识状态（Discrete States of Consciousness, d-SoC）**：意识在不同状态间发生质的跃迁，而非渐变过渡。每种 d-SoC 有其独特的知觉、认知和情感模式。详见 → [consciousness-states.md](concepts/consciousness-states.md)
+1. **离散意识状态（Discrete States of Consciousness, d-SoC）**：意识在不同状态间发生质的跃迁，而非渐变过渡。每种 d-SoC 有其独特的知觉、认知和情感模式。详见 → [consciousness-states.md](概念/意识状态理论.md)
 
-2. **变异意识状态（Altered States of Consciousness, ASC）**：与基准清醒意识（baseline waking consciousness）在结构上有质的差异的意识状态。详见 → [altered-states.md](concepts/altered-states.md)
+2. **变异意识状态（Altered States of Consciousness, ASC）**：与基准清醒意识（baseline waking consciousness）在结构上有质的差异的意识状态。详见 → [altered-states.md](概念/变异意识状态.md)
 
-3. **状态特异性科学（State-Specific Science, SSS）**：某些知识和现象只有在特定意识状态中才能被完整观察和验证——不同状态可能需要不同的科学方法论。详见 → [state-specific-science.md](concepts/state-specific-science.md)
+3. **状态特异性科学（State-Specific Science, SSS）**：某些知识和现象只有在特定意识状态中才能被完整观察和验证——不同状态可能需要不同的科学方法论。详见 → [state-specific-science.md](概念/状态特异性科学.md)
 
 4. **共识恍惚（Consensus Trance）**：日常清醒意识本身是由社会文化条件化塑造的"集体催眠"。我们习以为常的感知方式只是众多可能方式之一。
 
-5. **正念与觉知训练（Mindfulness and Awareness Training）**：塔特将佛教正念传统引入西方心理学的科学研究框架，主张冥想训练可以扩展人类的觉知能力。详见 → [正念.md](concepts/正念.md)
+5. **正念与觉知训练（Mindfulness and Awareness Training）**：塔特将佛教正念传统引入西方心理学的科学研究框架，主张冥想训练可以扩展人类的觉知能力。详见 → [正念.md](../戈尔曼/概念/正念.md)
 
-6. **超个人心理学（Transpersonal Psychology）**：作为心理学"第四势力"的超个人心理学，将灵性维度纳入科学心理学的研究范围。详见 → [transpersonal.md](concepts/transpersonal.md)
+6. **超个人心理学（Transpersonal Psychology）**：作为心理学"第四势力"的超个人心理学，将灵性维度纳入科学心理学的研究范围。详见 → [transpersonal.md](概念/超个人心理学.md)
 
 7. **状态特异性记忆（State-Specific Memory）**：某些记忆只在诱发的意识状态中可获取，跨状态时产生"状态依赖性遗忘"（state-dependent forgetting）。
 
@@ -236,12 +236,12 @@ The difference lies in the fact that Buddhist awakening is an ultimate transform
 
 | 关联领域 / Field | 关联思想家 / Thinker | 关系类型 / Relationship | 说明 / Notes |
 |---|---|---|---|
-| 正念减压 / MBSR | [卡巴金 Kabat-Zinn](../kabat-zinn.md) | 同源 / Cognate | 冥想的科学化研究 / Scientific study of meditation |
-| 情商研究 / Emotional Intelligence | [戈尔曼 Goleman](../goleman.md) | 同源 / Cognate | 冥想与意识的神经科学研究 / Neuroscience of meditation and consciousness |
+| 正念减压 / MBSR | [卡巴金 Kabat-Zinn](../卡巴金/README.md) | 同源 / Cognate | 冥想的科学化研究 / Scientific study of meditation |
+| 情商研究 / Emotional Intelligence | [戈尔曼 Goleman](../戈尔曼/README.md) | 同源 / Cognate | 冥想与意识的神经科学研究 / Neuroscience of meditation and consciousness |
 | 人本主义心理学 / Humanistic Psychology | [马斯洛 Maslow](../../人本主义/马斯洛.md) | 继承 / Inheritance | 高峰体验与自我超越的理论基础 / Theoretical foundation of peak experience and self-transcendence |
 | 意识图谱 / Consciousness Cartography | [格罗夫 Grof](../../humanistic/grof.md) | 平行 / Parallel | LSD 研究与非普通意识状态的系统描述 / LSD 研究 and systematic description of non-ordinary states |
-| 全局工作空间 / Global Workspace | [巴尔斯 Baars](../baars.md) | 平行/互补 / Parallel/Complementary | 意识的认知架构研究 / Cognitive architecture of consciousness |
-| 宗教经验 / Religious Experience | [詹姆斯 James](../../functionalism/james.md) | 继承 / Inheritance | 意识多元性与宗教经验的心理学研究 / Psychological study of consciousness plurality and religious experience |
+| 全局工作空间 / Global Workspace | [巴尔斯 Baars](../巴尔斯/README.md) | 平行/互补 / Parallel/Complementary | 意识的认知架构研究 / Cognitive architecture of consciousness |
+| 宗教经验 / Religious Experience | [詹姆斯 James](../../功能主义/威廉-william-james/README.md) | 继承 / Inheritance | 意识多元性与宗教经验的心理学研究 / Psychological study of consciousness plurality and religious experience |
 | 佛教心理学 / Buddhist Psychology | [四念处 Satipaṭṭhāna](../../../../宗教/佛教/概念/cognitive-theory/四念处作为元认知训练.md) | 平行 / Parallel | 正念训练作为从共识恍惚中觉醒的方法 / Mindfulness training as method of awakening from consensus trance |
 | 止观研究 / Śamatha-Vipaśyanā | [止观的认知分工](../../../../宗教/佛教/概念/cognitive-theory/止观的认知分工.md) | 平行 / Parallel | 冥想定境作为独立的意识状态 / Meditative absorption as an independent state of consciousness |
 
@@ -281,11 +281,11 @@ The difference lies in the fact that Buddhist awakening is an ultimate transform
 
 | 子条目 / Sub-entry | 说明 / Description |
 |---|---|
-| [altered-states.md](concepts/altered-states.md) | 变异意识状态 — ASC 研究的理论框架与分类系统 / Altered States of Consciousness — theoretical framework and taxonomy of ASC 研究 |
-| [state-specific-science.md](concepts/state-specific-science.md) | 状态特异性科学 — 不同意识状态的方法论含义 / State-Specific Science — methodological implications of different consciousness states |
-| [正念.md](concepts/正念.md) | 正念与觉知训练 — 冥想传统的心理学转化 / Mindfulness and Awareness Training — psychological transformation of contemplative traditions |
-| [transpersonal.md](concepts/transpersonal.md) | 超个人心理学 — 心理学的"第四势力" / Transpersonal Psychology — the "fourth force" in 心理学 |
-| [consciousness-states.md](concepts/consciousness-states.md) | 意识状态理论 — 离散状态的结构分析与转换机制 / Consciousness States Theory — structural analysis and transition mechanisms of discrete states |
+| [altered-states.md](概念/变异意识状态.md) | 变异意识状态 — ASC 研究的理论框架与分类系统 / Altered States of Consciousness — theoretical framework and taxonomy of ASC 研究 |
+| [state-specific-science.md](概念/状态特异性科学.md) | 状态特异性科学 — 不同意识状态的方法论含义 / State-Specific Science — methodological implications of different consciousness states |
+| [正念.md](../戈尔曼/概念/正念.md) | 正念与觉知训练 — 冥想传统的心理学转化 / Mindfulness and Awareness Training — psychological transformation of contemplative traditions |
+| [transpersonal.md](概念/超个人心理学.md) | 超个人心理学 — 心理学的"第四势力" / Transpersonal Psychology — the "fourth force" in 心理学 |
+| [consciousness-states.md](概念/意识状态理论.md) | 意识状态理论 — 离散状态的结构分析与转换机制 / Consciousness States Theory — structural analysis and transition mechanisms of discrete states |
 
 ---
 

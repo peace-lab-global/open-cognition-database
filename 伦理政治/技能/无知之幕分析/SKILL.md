@@ -8,7 +8,7 @@ linked_concepts:
   - ../../concepts/社会契约.md
 tags:
   - 正义论
-  - 社会契约
+  - social-contract
   - 制度分析
   - 分配正义
 ---

@@ -9,7 +9,7 @@ tags:
   - 分享
   - keynote
   - 作为意志和表象的世界
-  - MOCICI
+  - mocici
   - 冥想
   - 唯识
   - 直接认知

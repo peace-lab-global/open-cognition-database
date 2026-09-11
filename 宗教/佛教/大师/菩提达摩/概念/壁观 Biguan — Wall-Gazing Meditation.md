@@ -5,7 +5,13 @@ type: concept
 domain: 宗教
 school: buddhism-chan
 era: ancient
-tags: [壁观, Biguan, Wall-Gazing, Meditation, 达摩禅法, Bodhidharma]
+tags:
+  - 壁观
+  - biguan
+  - wall-gazing
+  - meditation
+  - 达摩禅法
+  - bodhidharma
 parent: ../README.md
 related:
   - no-mind.md

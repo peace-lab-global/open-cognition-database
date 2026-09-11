@@ -129,7 +129,7 @@ Dan Zahavi is one of the most prominent contemporary phenomenologists. His centr
 
 ## 十、关联 Skills
 
-- [胡塞尔 Husserl](../husserl/README.md) `[继承/发展]` 现象学方法与时间意识分析
-- [汤普森 Thompson](../thompson/README.md) `[同源]` 现象学与认知科学的对话
-- [梅青格 Metzinger](../metzinger/README.md) `[张力]` 前反思自身意识的实在性 vs 自我模型论
-- [梅洛-庞蒂 Merleau-Ponty](../merleau-ponty/README.md) `[继承]` 身体现象学传统
+- [胡塞尔 Husserl](../胡塞尔/README.md) `[继承/发展]` 现象学方法与时间意识分析
+- [汤普森 Thompson](../汤普森/README.md) `[同源]` 现象学与认知科学的对话
+- [梅青格 Metzinger](../梅青格/README.md) `[张力]` 前反思自身意识的实在性 vs 自我模型论
+- [梅洛-庞蒂 Merleau-Ponty](../梅洛庞蒂/README.md) `[继承]` 身体现象学传统

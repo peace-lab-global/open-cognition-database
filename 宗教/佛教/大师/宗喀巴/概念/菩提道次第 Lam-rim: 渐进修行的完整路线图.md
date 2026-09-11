@@ -4,7 +4,12 @@ title: "菩提道次第 Lam-rim: 渐进修行的完整路线图"
 type: concept
 parent: tsongkhapa
 domain: 宗教
-tags: [lam-rim, graduated-path, three-scopes, Tsongkhapa, Gelug]
+tags:
+  - lam-rim
+  - graduated-path
+  - three-scopes
+  - tsongkhapa
+  - gelug
 ---
 
 # 菩提道次第 Lam-rim / The Graduated Path

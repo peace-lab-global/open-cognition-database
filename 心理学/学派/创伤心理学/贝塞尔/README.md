@@ -7,7 +7,19 @@ school: trauma-psychology
 era: contemporary
 birth: 1943
 death: ~
-tags: [创伤心理学, 身体记忆, EMDR, 发展性创伤, 神经科学, 创伤知情照护, 体感体验, trauma, somatic, neuroscience, PTSD, body-keeps-score]
+tags:
+  - 创伤心理学
+  - 身体记忆
+  - emdr
+  - 发展性创伤
+  - 神经科学
+  - 创伤知情照护
+  - 体感体验
+  - trauma
+  - somatic
+  - neuroscience
+  - ptsd
+  - body-keeps-score
 aliases: [范德科尔克, Bessel van der Kolk, 范德寇克, Bessel Inti van der Kolk]
 sources: [The Body Keeps the Score, Traumatic Stress, Psychological Trauma, Posttraumatic Therapy]
 cross-refs: [freud, damasio, bowlby, pavic, levine, porges, siegel, herman]
@@ -99,15 +111,15 @@ The 2014 publication of *The Body Keeps the Score* marked van der Kolk's transfo
 
 ## 重要概念 / Key Concepts
 
-1. **身体记忆 / Body Keeps the Score** — 创伤以感觉-运动印记的形式储存在身体中，触发线索可使身体"重演"创伤场景，而非作为记忆被回忆。→ [详见 body-keeps-score.md](concepts/body-keeps-score.md)
+1. **身体记忆 / Body Keeps the Score** — 创伤以感觉-运动印记的形式储存在身体中，触发线索可使身体"重演"创伤场景，而非作为记忆被回忆。→ [详见 body-keeps-score.md](概念/身体从未忘记.md)
 
-2. **创伤性应激 / Traumatic Stress** — 超出个体应对能力的压倒性体验所引发的神经生物学和心理反应谱系，涵盖急性应激、PTSD 和复杂性 PTSD。→ [详见 traumatic-stress.md](concepts/traumatic-stress.md)
+2. **创伤性应激 / Traumatic Stress** — 超出个体应对能力的压倒性体验所引发的神经生物学和心理反应谱系，涵盖急性应激、PTSD 和复杂性 PTSD。→ [详见 traumatic-stress.md](概念/创伤性应激.md)
 
-3. **发展性创伤障碍 / Developmental Trauma Disorder** — 儿童期长期人际创伤导致的综合性临床综合征，涵盖情感失调、解离、躯体化和关系紊乱。→ [详见 developmental-trauma.md](concepts/developmental-trauma.md)
+3. **发展性创伤障碍 / Developmental Trauma Disorder** — 儿童期长期人际创伤导致的综合性临床综合征，涵盖情感失调、解离、躯体化和关系紊乱。→ [详见 developmental-trauma.md](../../发展心理学/皮亚杰/README.md)
 
-4. **EMDR 与躯体疗法 / EMDR and Somatic Approaches** — 眼动脱敏再加工和体感体验等身体导向疗法，通过"自下而上"的通道促进创伤记忆的再整合。→ [详见 emdr-somatic.md](concepts/emdr-somatic.md)
+4. **EMDR 与躯体疗法 / EMDR and Somatic Approaches** — 眼动脱敏再加工和体感体验等身体导向疗法，通过"自下而上"的通道促进创伤记忆的再整合。→ [详见 emdr-somatic.md](概念/EMDR 与躯体疗法.md)
 
-5. **创伤知情照护 / Trauma-Informed Care** — 将创伤理解融入制度实践的系统性框架，从"你有什么毛病？"转向"你经历了什么？"。→ [详见 trauma-informed-care.md](concepts/trauma-informed-care.md)
+5. **创伤知情照护 / Trauma-Informed Care** — 将创伤理解融入制度实践的系统性框架，从"你有什么毛病？"转向"你经历了什么？"。→ [详见 trauma-informed-care.md](README.md)
 
 6. **神经影像与创伤 / Neuroimaging and Trauma** — 范德科尔克利用 fMRI 和 PET 技术首次系统展示了 PTSD 患者大脑的功能失衡模式，包括杏仁核过度激活、前额叶抑制和海马体萎缩。
 
@@ -242,11 +254,11 @@ Van der Kolk's emphasis on "felt safety" as a prerequisite for trauma recovery d
 
 | 子条目 / Sub-entry | 文件 / File | 主题 / Topic |
 |---|---|---|
-| 身体从未忘记 / Body Keeps the Score | [body-keeps-score.md](concepts/body-keeps-score.md) | 创伤的身体记忆与神经生物学基础 / Body memory of trauma and neurobiological foundations |
-| 创伤性应激 / Traumatic Stress | [traumatic-stress.md](concepts/traumatic-stress.md) | 创伤的神经生物学反应谱系与类型学 / Neurobiological response spectrum and typology of trauma |
-| 发展性创伤 / Developmental Trauma | [developmental-trauma.md](concepts/developmental-trauma.md) | 儿童期创伤的发展性影响与 DTD 概念 / Developmental impact of childhood trauma and DTD concept |
-| EMDR 与躯体疗法 / EMDR and Somatic Approaches | [emdr-somatic.md](concepts/emdr-somatic.md) | 身体导向的创伤治疗机制与实践 / Body-oriented trauma treatment mechanisms and practices |
-| 创伤知情照护 / Trauma-Informed Care | [trauma-informed-care.md](concepts/trauma-informed-care.md) | 创伤理解的制度化与系统性变革 / Institutionalization and systemic change of trauma understanding |
+| 身体从未忘记 / Body Keeps the Score | [body-keeps-score.md](概念/身体从未忘记.md) | 创伤的身体记忆与神经生物学基础 / Body memory of trauma and neurobiological foundations |
+| 创伤性应激 / Traumatic Stress | [traumatic-stress.md](概念/创伤性应激.md) | 创伤的神经生物学反应谱系与类型学 / Neurobiological response spectrum and typology of trauma |
+| 发展性创伤 / Developmental Trauma | [developmental-trauma.md](../../发展心理学/皮亚杰/README.md) | 儿童期创伤的发展性影响与 DTD 概念 / Developmental impact of childhood trauma and DTD concept |
+| EMDR 与躯体疗法 / EMDR and Somatic Approaches | [emdr-somatic.md](概念/EMDR 与躯体疗法.md) | 身体导向的创伤治疗机制与实践 / Body-oriented trauma treatment mechanisms and practices |
+| 创伤知情照护 / Trauma-Informed Care | [trauma-informed-care.md](README.md) | 创伤理解的制度化与系统性变革 / Institutionalization and systemic change of trauma understanding |
 
 
 ## 相关名言

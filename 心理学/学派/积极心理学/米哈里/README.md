@@ -141,19 +141,19 @@ The optimal experience state of intense focus, self-forgetfulness, and intrinsic
 Creativity is the systemic product of interaction among person, domain, and field. See [creativity](概念/创造力.md).
 
 ### 最优体验（Optimal Experience）
-意识处于高度有序状态时的主观体验，与精神熵相对。详见 [optimal-experience](concepts/optimal-experience.md)。
+意识处于高度有序状态时的主观体验，与精神熵相对。详见 [optimal-experience](概念/最优体验.md)。
 
-Subjective experience when consciousness is in a highly ordered state, the opposite of psychic entropy. See [optimal-experience](concepts/optimal-experience.md).
+Subjective experience when consciousness is in a highly ordered state, the opposite of psychic entropy. See [optimal-experience](概念/最优体验.md).
 
 ### 自带目的人格（Autotelic Personality）
-一种人格特质：天生倾向于从活动本身而非外部奖赏中获得满足。详见 [autotelic-personality](concepts/autotelic-personality.md)。
+一种人格特质：天生倾向于从活动本身而非外部奖赏中获得满足。详见 [autotelic-personality](概念/自带目的人格.md)。
 
-A personality trait: the natural tendency to derive satisfaction from the activity itself rather than external rewards. See [autotelic-personality](concepts/autotelic-personality.md).
+A personality trait: the natural tendency to derive satisfaction from the activity itself rather than external rewards. See [autotelic-personality](概念/自带目的人格.md).
 
 ### 内在动机（Intrinsic Motivation）
-从事某一活动的驱动力来自活动本身的乐趣和挑战，而非外在报酬。详见 [intrinsic-motivation](concepts/intrinsic-motivation.md)。
+从事某一活动的驱动力来自活动本身的乐趣和挑战，而非外在报酬。详见 [intrinsic-motivation](概念/内在动机.md)。
 
-The drive to engage in an activity comes from the pleasure and challenge of the activity itself, not from external compensation. See [intrinsic-motivation](concepts/intrinsic-motivation.md).
+The drive to engage in an activity comes from the pleasure and challenge of the activity itself, not from external compensation. See [intrinsic-motivation](概念/内在动机.md).
 
 ### 经验取样法（Experience Sampling Method, ESM）
 通过随机时段取样记录受试者即时心理状态的研究方法，由米哈里及其团队在1970年代发展完善。ESM克服了回忆偏差，为心流研究提供了坚实的实证基础。
@@ -267,12 +267,12 @@ Zhuangzi's parable of "Cook Ding cutting up an ox" is almost a classical Chinese
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **[马斯洛 Maslow](../../人本主义/马斯洛.md)** — [继承] 高峰体验（peak experience）是心流概念的重要前驱 / [Inheritance] Peak experience is an important precursor to the flow concept
-- **[塞利格曼 Seligman](../positive/seligman.md)** — [合作] 积极心理学联合创立者 / [Collaboration] Co-founder of positive 心理学
+- **[塞利格曼 Seligman](../马丁/README.md)** — [合作] 积极心理学联合创立者 / [Collaboration] Co-founder of positive 心理学
 - **[亚里士多德 Aristotle](../../../../哲学/学派/古希腊/亚里士多德.md)** — [继承] 实现幸福（eudaimonia）作为终极目的 / [Inheritance] Eudaimonia as the ultimate end
-- **[荣格 Jung](../analytical/卡尔.md)** — [启蒙] 少年米哈里的心理学启蒙者 / [Inspiration] Mihaly's psychological awakening in youth
+- **[荣格 Jung](../../分析心理学/卡尔/README.md)** — [启蒙] 少年米哈里的心理学启蒙者 / [Inspiration] Mihaly's psychological awakening in youth
 - **[德西 & 瑞安 Deci & Ryan](../humanistic/deci-ryan.md)** — [平行] 自我决定理论（SDT）与内在动机研究 / [Parallel] Self-Determination Theory (SDT) and intrinsic motivation 研究
 - **[禅宗 Zen Buddhism](../../../../宗教/传统/佛教/禅宗.md)** — [平行] 无我、正念、专注 / [Parallel] No-self, mindfulness, concentration
-- **[庄子 Zhuangzi](../../../../哲学/学派/东方哲学/zhuangzi.md)** — [平行] "游"与"技进乎道" / [Parallel] "You" (free play) and "skill approaching the Dao"
+- **[庄子 Zhuangzi](../../../../哲学/学派/东方哲学/庄子.md)** — [平行] "游"与"技进乎道" / [Parallel] "You" (free play) and "skill approaching the Dao"
 
 ---
 
@@ -304,9 +304,9 @@ Zhuangzi's parable of "Cook Ding cutting up an ox" is almost a classical Chinese
 |---|---|
 | [心流 Flow](概念/心流.md) | 心流状态的定义、特征与条件 / Definition, characteristics, and conditions of the flow state |
 | [创造力 Creativity](概念/创造力.md) | 创造力系统模型 / Systems model of creativity |
-| [最优体验 Optimal Experience](concepts/optimal-experience.md) | 意识有序化的心理体验 / Psychological experience of ordering consciousness |
-| [自带目的人格 Autotelic Personality](concepts/autotelic-personality.md) | 内在奖赏倾向的人格特质 / Personality trait of intrinsic reward orientation |
-| [内在动机 Intrinsic Motivation](concepts/intrinsic-motivation.md) | 来自活动本身的驱动力 / Drive originating from the activity itself |
+| [最优体验 Optimal Experience](概念/最优体验.md) | 意识有序化的心理体验 / Psychological experience of ordering consciousness |
+| [自带目的人格 Autotelic Personality](概念/自带目的人格.md) | 内在奖赏倾向的人格特质 / Personality trait of intrinsic reward orientation |
+| [内在动机 Intrinsic Motivation](概念/内在动机.md) | 来自活动本身的驱动力 / Drive originating from the activity itself |
 | [著作年表 Works](著作.md) | 完整著作列表 / Complete works listing |
 | [生平年表 Timeline](时间线.md) | 生平大事记 / Life chronology |
 | [推荐阅读 Reading List](阅读.md) | 分级阅读指南 / Tiered reading guide |

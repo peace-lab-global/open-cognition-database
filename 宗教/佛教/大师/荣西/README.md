@@ -7,7 +7,16 @@ school: buddhism-rinzai
 era: medieval
 birth: 1141
 death: 1215
-tags: [荣西, Yosai, 临济宗, Rinzai Zen, 茶道, 吃茶养生记, 兴禅护国, 看话禅, 兼修禅]
+tags:
+  - 荣西
+  - yosai
+  - 临济宗
+  - rinzai-zen
+  - 茶道
+  - 吃茶养生记
+  - 兴禅护国
+  - 看话禅
+  - 兼修禅
 aliases: [Yōsai, 明庵荣西, 千光祖师, Eisai, Yōsai, 荣西禅师]
 parent: ../yosai.md
 children: [concepts/zen-protects-nation, concepts/tea-zen-unity, concepts/kanhua-zen, concepts/combined-practice, concepts/kissa-yojoki, works, timeline, reading-list]
@@ -174,19 +183,19 @@ Yōsai's influence extended far beyond religion, profoundly shaping the fundamen
 
 ## 重要概念 / Key Concepts
 
-- **兴禅护国 Kōzen Gokoku** — 禅宗能护持国家、安定社会。详见 [兴禅护国](concepts/zen-protects-nation.md)。
+- **兴禅护国 Kōzen Gokoku** — 禅宗能护持国家、安定社会。详见 [兴禅护国](../../../../心理学/学派/积极心理学/米哈里/README.md)。
   Zen protects the nation and stabilizes society.
 
-- **茶禅一味 Sa-Zen Ichimi** — 茶道与禅修在根本旨趣上无二无别。详见 [茶禅一味](concepts/tea-zen-unity.md)。
+- **茶禅一味 Sa-Zen Ichimi** — 茶道与禅修在根本旨趣上无二无别。详见 [茶禅一味](概念/茶禅一味 Sa-Zen Ichimi: 荣西的茶道与禅修统一思想.md)。
   Tea and Zen share a single fundamental taste.
 
-- **看话禅 Kanna Zen** — 以公案参究为核心的禅修方法。详见 [看话禅](concepts/kanhua-zen.md)。
+- **看话禅 Kanna Zen** — 以公案参究为核心的禅修方法。详见 [看话禅](概念/看话禅 Kanna Zen: 荣西的公案参究禅修方法.md)。
   Kōan introspection as the core meditation method.
 
-- **兼修立场 Kenshū Richiba** — 禅与天台、密教三宗融合。详见 [兼修立场](concepts/combined-practice.md)。
+- **兼修立场 Kenshū Richiba** — 禅与天台、密教三宗融合。详见 [兼修立场](概念/兼修立场 Kenshū Richiba: 荣西的禅.md)。
   Integration of Zen with Tendai and esoteric Buddhism.
 
-- **吃茶养生 Kissa Yōjō** — 饮茶作为养生与禅修的双重法门。详见 [吃茶养生记](concepts/kissa-yojoki.md)。
+- **吃茶养生 Kissa Yōjō** — 饮茶作为养生与禅修的双重法门。详见 [吃茶养生记](概念/吃茶养生记 Kissa Yojoki: 荣西的茶道医学经典.md)。
   Tea drinking as a dual practice of health cultivation and Zen training.
 
 ---
@@ -266,8 +275,8 @@ Kōans are not ordinary riddles or logical puzzles. Working with them requires t
 ## 跨学科关联 / Interdisciplinary Connections
 
 - [道元 Dōgen](../道元.md) — [对照 contrast] 曹洞 vs 临济 / Sōtō vs Rinzai
-- [空海 Kūkai](../kukai.md) — [继承 inheritance] 密教传统 / Esoteric tradition
-- [禅宗 Chan/Zen](../schools/禅宗.md) — [日本传承 Japanese transmission]
+- [空海 Kūkai](../空海/README.md) — [继承 inheritance] 密教传统 / Esoteric tradition
+- [禅宗 Chan/Zen](../../学派/禅宗.md) — [日本传承 Japanese transmission]
 - [龙树 Nāgārjuna](../龙树.md) — [思想渊源 philosophical source] 中观-禅的关联 / Mādhyamaka-Zen connection
 - [美学 Aesthetics] — [下位 subordinate] 茶禅美学 / Tea-Zen 美学
 
@@ -296,11 +305,11 @@ Kōans are not ordinary riddles or logical puzzles. Working with them requires t
 
 | 条目 / Entry | 路径 / Path |
 |---|---|
-| 兴禅护国 Kōzen Gokoku | [concepts/zen-protects-nation](concepts/zen-protects-nation.md) |
-| 茶禅一味 Sa-Zen Ichimi | [concepts/tea-zen-unity](concepts/tea-zen-unity.md) |
-| 看话禅 Kanna Zen | [concepts/kanhua-zen](concepts/kanhua-zen.md) |
-| 兼修立场 Kenshū Richiba | [concepts/combined-practice](concepts/combined-practice.md) |
-| 吃茶养生记 Kissa Yōjōki | [concepts/kissa-yojoki](concepts/kissa-yojoki.md) |
+| 兴禅护国 Kōzen Gokoku | [concepts/zen-protects-nation](../../../../心理学/学派/积极心理学/米哈里/README.md) |
+| 茶禅一味 Sa-Zen Ichimi | [concepts/tea-zen-unity](概念/茶禅一味 Sa-Zen Ichimi: 荣西的茶道与禅修统一思想.md) |
+| 看话禅 Kanna Zen | [concepts/kanhua-zen](概念/看话禅 Kanna Zen: 荣西的公案参究禅修方法.md) |
+| 兼修立场 Kenshū Richiba | [concepts/combined-practice](概念/兼修立场 Kenshū Richiba: 荣西的禅.md) |
+| 吃茶养生记 Kissa Yōjōki | [concepts/kissa-yojoki](概念/吃茶养生记 Kissa Yojoki: 荣西的茶道医学经典.md) |
 | 著作列表 Works | [works](著作.md) |
 | 年表 Timeline | [timeline](时间线.md) |
 | 阅读清单 Reading List | [reading-list](阅读.md) |

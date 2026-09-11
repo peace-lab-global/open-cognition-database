@@ -8,18 +8,16 @@ era: contemporary
 birth: 1905
 death: 1980
 tags:
-  - 存在主义
+  - existentialism
   - 自由
   - 虚无
   - 意识
   - 介入
-  - 现象学
-  - existentialism
+  - phenomenology
   - freedom
   - nothingness
   - engagement
   - bad-faith
-  - phenomenology
 aliases:
   - 萨特
   - Sartre

@@ -4,7 +4,15 @@ title: "常惭愧 Constant Humility: 印光的修行心态与对治我慢"
 type: concept
 parent: yinguang
 domain: 宗教
-tags: [常惭愧, 惭愧心, 我慢, 修行心态, humility, shame, self-awareness, moral emotion]
+tags:
+  - 常惭愧
+  - 惭愧心
+  - 我慢
+  - 修行心态
+  - humility
+  - shame
+  - self-awareness
+  - moral-emotion
 ---
 
 # 常惭愧 Constant Humility

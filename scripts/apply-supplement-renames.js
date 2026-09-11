@@ -3,7 +3,7 @@
 // 以及 thinker 目录里的 reading-list/timeline/works.md -> 阅读/时间线/著作.md
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
+const { execFileSync } = require('child_process');
 const ROOT = '/Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition';
 
 const dirRenames = { concepts: '概念' };
@@ -32,7 +32,7 @@ function gitMv(oldPath, newPath) {
   if (!fs.existsSync(oldPath)) { skip++; return; }
   if (fs.existsSync(newPath)) { fail++; log.push({ reason: 'exists', old: oldPath, new: newPath }); return; }
   try {
-    execSync(`git mv -- ${JSON.stringify(oldPath)} ${JSON.stringify(newPath)}`, {
+    execFileSync('git', ['mv', '--', oldPath, newPath], {
       cwd: ROOT, stdio: ['ignore', 'pipe', 'pipe'],
     });
     ok++;

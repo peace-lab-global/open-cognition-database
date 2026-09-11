@@ -7,7 +7,16 @@ school: buddhism-rinzai
 era: early-modern
 birth: 1686
 death: 1769
-tags: [白隐, Hakuin, 临济宗, Rinzai, 公案, koan, 看话禅, 日本禅, Japanese Zen]
+tags:
+  - 白隐
+  - hakuin
+  - 临济宗
+  - rinzai
+  - 公案
+  - koan
+  - 看话禅
+  - 日本禅
+  - japanese-zen
 aliases: [Hakuin Ekaku, 白隐禅师, 慧鹤, 白隐慧鹤]
 parent: ../hakuin.md
 children: [concepts/koan-systematization, concepts/sound-one-hand, concepts/post-awakening, concepts/body-cultivation, concepts/zazen-hymn, works, timeline, reading-list]
@@ -154,19 +163,19 @@ See [Complete Works List](著作.md).
 
 ## 重要概念 / Key Concepts
 
-- **公案系统化 Kōan Systematization** — 将散乱的公案组织为五级递进修行体系。详见 [公案系统化](concepts/koan-systematization.md)。
+- **公案系统化 Kōan Systematization** — 将散乱的公案组织为五级递进修行体系。详见 [公案系统化](概念/公案系统化 Koan Systematization.md)。
   Organizing scattered kōans into a five-level progressive practice system.
 
-- **只手之声 Sound of One Hand** — 白隐自创的初始公案："两手拍则有声音，只手之声音如何？"详见 [只手之声](concepts/sound-one-hand.md)。
+- **只手之声 Sound of One Hand** — 白隐自创的初始公案："两手拍则有声音，只手之声音如何？"详见 [只手之声](概念/只手之声 Sound of One Hand.md)。
   Hakuin's self-created initial kōan: "Two hands clapping make a sound — what is the sound of one hand?"
 
-- **悟后修行 Post-Awakening Cultivation** — 开悟不是终点，悟后仍需不断深入。详见 [悟后修行](concepts/post-awakening.md)。
+- **悟后修行 Post-Awakening Cultivation** — 开悟不是终点，悟后仍需不断深入。详见 [悟后修行](../../../../哲学/学派/后结构主义/雅克/README.md)。
   Awakening is not the endpoint; continuous deepening after satori is essential.
 
-- **软酥法 Soft-Butter Method** — 白隐独创的身体调养法，以意象观想对治"禅病"。详见 [软酥法](concepts/body-cultivation.md)。
+- **软酥法 Soft-Butter Method** — 白隐独创的身体调养法，以意象观想对治"禅病"。详见 [软酥法](概念/软酥法 Soft-Butter Method (Nanso no Hō).md).md).md).md)。
   Hakuin's original body-cultivation technique using visualization to remedy "Zen sickness."
 
-- **坐禅和赞 Hymn to Zazen** — "众生本来佛"的赞歌，白隐禅的精髓浓缩。详见 [坐禅和赞](concepts/zazen-hymn.md)。
+- **坐禅和赞 Hymn to Zazen** — "众生本来佛"的赞歌，白隐禅的精髓浓缩。详见 [坐禅和赞](概念/坐禅和赞 Zazen Wasan (Hymn to Zazen).md).md).md).md)。
   The hymn declaring "all beings are originally Buddha" — the essence of Hakuin's Zen distilled.
 
 ---
@@ -266,12 +275,12 @@ Although Hakuin criticized treating kōans as literary objects, he was himself a
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [荣西 Yōsai](../yosai.md) — [继承 inheritance] 日本临济宗创始人，白隐的思想先驱
+- [荣西 Yōsai](../荣西/README.md) — [继承 inheritance] 日本临济宗创始人，白隐的思想先驱
 - [大慧宗杲 Dahui Zonggao](../../学派/禅宗.md) — [继承 inheritance] 看话禅创始人，白隐的方法论渊源
 - [道元 Dōgen](../道元.md) — [对比 contrast] 日本禅的另一大传统——曹洞宗
-- [菩提达摩 Bodhidharma](../bodhidharma.md) — [继承 inheritance] 禅宗法脉的源头
-- [公案参究法 Koan Practice](../../skills/koan-practice/SKILL.md) — [同源 cognate] 白隐的公案体系是此 Skill 的主要依据
-- [禅宗 Chan/Zen](../schools/禅宗.md) — [同源 cognate] 临济宗日本传承
+- [菩提达摩 Bodhidharma](../菩提达摩/README.md) — [继承 inheritance] 禅宗法脉的源头
+- [公案参究法 Koan Practice](../../../技能/公案参究法/SKILL.md) — [同源 cognate] 白隐的公案体系是此 Skill 的主要依据
+- [禅宗 Chan/Zen](../../学派/禅宗.md) — [同源 cognate] 临济宗日本传承
 
 ---
 
@@ -301,11 +310,11 @@ See [Complete Reading List](阅读.md).
 
 | 条目 / Entry | 路径 / Path |
 |---|---|
-| 公案系统化 Kōan Systematization | [concepts/koan-systematization](concepts/koan-systematization.md) |
-| 只手之声 Sound of One Hand | [concepts/sound-one-hand](concepts/sound-one-hand.md) |
-| 悟后修行 Post-Awakening | [concepts/post-awakening](concepts/post-awakening.md) |
-| 软酥法 Soft-Butter Method | [concepts/body-cultivation](concepts/body-cultivation.md) |
-| 坐禅和赞 Hymn to Zazen | [concepts/zazen-hymn](concepts/zazen-hymn.md) |
+| 公案系统化 Kōan Systematization | [concepts/koan-systematization](概念/公案系统化 Koan Systematization.md) |
+| 只手之声 Sound of One Hand | [concepts/sound-one-hand](概念/只手之声 Sound of One Hand.md) |
+| 悟后修行 Post-Awakening | [concepts/post-awakening](../../../../哲学/学派/后结构主义/雅克/README.md) |
+| 软酥法 Soft-Butter Method | [concepts/body-cultivation](概念/软酥法 Soft-Butter Method (Nanso no Hō).md).md).md).md) |
+| 坐禅和赞 Hymn to Zazen | [concepts/zazen-hymn](概念/坐禅和赞 Zazen Wasan (Hymn to Zazen).md).md).md).md) |
 | 著作列表 Works | [works](著作.md) |
 | 年表 Timeline | [timeline](时间线.md) |
 | 阅读清单 Reading List | [reading-list](阅读.md) |

@@ -101,24 +101,24 @@ In the final phase of his life, Winnicott expanded his vision from the clinical 
 ## 重要概念 / Key Concepts
 
 ### 1. 过渡客体 / Transitional Object
-婴儿选择的第一个"非我"所有物（如毛毯、泰迪熊），存在于"主观的我"与"客观的世界"之间的过渡空间中。它标志着象征化能力的出现，代表了从与母亲融合到分离的过渡。详见 [过渡客体](concepts/transitional-object.md)。
-The infant's first "not-me" possession (e.g. a blanket, a teddy bear), existing in the transitional space between the subjective self and the objective world. It marks the emergence of symbolisation and represents the transition from fusion with the mother to separation. See [Transitional Object](concepts/transitional-object.md).
+婴儿选择的第一个"非我"所有物（如毛毯、泰迪熊），存在于"主观的我"与"客观的世界"之间的过渡空间中。它标志着象征化能力的出现，代表了从与母亲融合到分离的过渡。详见 [过渡客体](概念/过渡客体.md)。
+The infant's first "not-me" possession (e.g. a blanket, a teddy bear), existing in the transitional space between the subjective self and the objective world. It marks the emergence of symbolisation and represents the transition from fusion with the mother to separation. See [Transitional Object](概念/过渡客体.md).
 
 ### 2. 足够好的母亲 / Good-Enough Mother
-完美的母亲反而阻碍发展——足够好的母亲在最初近乎完美地适应婴儿，然后逐步"失败"，让婴儿在可承受的挫折中发展出自我调节能力与现实感。详见 [足够好的母亲](concepts/good-enough-mother.md)。
-The perfect mother actually hinders development — the good-enough mother adapts almost perfectly to the infant at first, then gradually "fails," allowing the infant to develop self-regulation and a sense of reality through bearable frustration. See [Good-Enough Mother](concepts/good-enough-mother.md).
+完美的母亲反而阻碍发展——足够好的母亲在最初近乎完美地适应婴儿，然后逐步"失败"，让婴儿在可承受的挫折中发展出自我调节能力与现实感。详见 [足够好的母亲](概念/足够好的母亲.md)。
+The perfect mother actually hinders development — the good-enough mother adapts almost perfectly to the infant at first, then gradually "fails," allowing the infant to develop self-regulation and a sense of reality through bearable frustration. See [Good-Enough Mother](概念/足够好的母亲.md).
 
 ### 3. 真自体与假自体 / True Self and False Self
-真自体源自婴儿的自发性姿态被回应；假自体源自婴儿被迫顺应环境。健康的假自体是社会性的"礼貌面具"；病理性的假自体彻底取代真自体，导致空虚与不真实感。详见 [真自体与假自体](concepts/true-false-self.md)。
-The true self originates when the infant's spontaneous gestures are met; the false self arises when the infant is forced to comply. A healthy false self is a social "polite mask"; a pathological false self entirely replaces the true self, producing emptiness and unreality. See [True Self and False Self](concepts/true-false-self.md).
+真自体源自婴儿的自发性姿态被回应；假自体源自婴儿被迫顺应环境。健康的假自体是社会性的"礼貌面具"；病理性的假自体彻底取代真自体，导致空虚与不真实感。详见 [真自体与假自体](概念/真自体与假自体.md)。
+The true self originates when the infant's spontaneous gestures are met; the false self arises when the infant is forced to comply. A healthy false self is a social "polite mask"; a pathological false self entirely replaces the true self, producing emptiness and unreality. See [True Self and False Self](概念/真自体与假自体.md).
 
 ### 4. 抱持环境 / Holding Environment
-母亲（或治疗师）为婴儿（或来访者）提供的物理与心理的"容器"，包含抱持（holding）、操弄（handling）与客体呈现（object presenting）三个维度。详见 [抱持环境](concepts/holding-environment.md)。
-The physical and psychological "container" provided by the mother (or therapist) for the infant (or patient), encompassing three dimensions: holding, handling, and object presenting. See [Holding Environment](concepts/holding-environment.md).
+母亲（或治疗师）为婴儿（或来访者）提供的物理与心理的"容器"，包含抱持（holding）、操弄（handling）与客体呈现（object presenting）三个维度。详见 [抱持环境](概念/抱持环境.md)。
+The physical and psychological "container" provided by the mother (or therapist) for the infant (or patient), encompassing three dimensions: holding, handling, and object presenting. See [Holding Environment](概念/抱持环境.md).
 
 ### 5. 潜在空间 / Potential Space
-内在现实与外在现实之间的"第三领域"——游戏、艺术、宗教、哲学在此发生。它不是被发现的，而是被创造的；它不是确定的，而是在确定与不确定之间"游戏"。详见 [潜在空间](concepts/potential-space.md)。
-The "third area" between inner and outer reality — where play, art, religion, and 哲学 take place. It is not discovered but created; not fixed but "played" between certainty and uncertainty. See [Potential Space](concepts/potential-space.md).
+内在现实与外在现实之间的"第三领域"——游戏、艺术、宗教、哲学在此发生。它不是被发现的，而是被创造的；它不是确定的，而是在确定与不确定之间"游戏"。详见 [潜在空间](概念/潜在空间.md)。
+The "third area" between inner and outer reality — where play, art, religion, and 哲学 take place. It is not discovered but created; not fixed but "played" between certainty and uncertainty. See [Potential Space](概念/潜在空间.md).
 
 ### 6. 独处的能力 / The Capacity to Be Alone
 在母亲在场的情况下独处的经验——婴儿在母亲身边安心地玩耍，不需要主动寻求互动。这种经验被内化后，个体获得了在没有外部支持时仍保持真自体存在的能力。
@@ -263,11 +263,11 @@ Winnicott's concept of play parallels Zhuangzi's "yóu" (wandering/roaming) rema
 
 | 条目 / Entry | 路径 / Path |
 |------|------|
-| 过渡客体 / Transitional Object | [concepts/transitional-object.md](concepts/transitional-object.md) |
-| 足够好的母亲 / Good-Enough Mother | [concepts/good-enough-mother.md](concepts/good-enough-mother.md) |
-| 真自体与假自体 / True Self and False Self | [concepts/true-false-self.md](concepts/true-false-self.md) |
-| 抱持环境 / Holding Environment | [concepts/holding-environment.md](concepts/holding-environment.md) |
-| 潜在空间 / Potential Space | [concepts/potential-space.md](concepts/potential-space.md) |
+| 过渡客体 / Transitional Object | [concepts/transitional-object.md](概念/过渡客体.md) |
+| 足够好的母亲 / Good-Enough Mother | [concepts/good-enough-mother.md](概念/足够好的母亲.md) |
+| 真自体与假自体 / True Self and False Self | [concepts/true-false-self.md](概念/真自体与假自体.md) |
+| 抱持环境 / Holding Environment | [concepts/holding-environment.md](概念/抱持环境.md) |
+| 潜在空间 / Potential Space | [concepts/potential-space.md](概念/潜在空间.md) |
 | 关键著作 / Key Works | [著作.md](著作.md) |
 | 年表 / Timeline | [时间线.md](时间线.md) |
 | 阅读清单 / Reading List | [阅读.md](阅读.md) |

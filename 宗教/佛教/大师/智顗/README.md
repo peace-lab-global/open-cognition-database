@@ -7,7 +7,17 @@ school: buddhism-tiantai
 era: medieval
 birth: 538
 death: 597
-tags: [智顗, 天台宗, Tiantai, 一念三千, 三谛圆融, 五时八教, 摩诃止观, 法华经, 止观双修, 性具善恶]
+tags:
+  - 智顗
+  - 天台宗
+  - tiantai
+  - 一念三千
+  - 三谛圆融
+  - 五时八教
+  - 摩诃止观
+  - 法华经
+  - 止观双修
+  - 性具善恶
 aliases: ["智者大师", "天台大师", "智顗", "Zhiyi", "Chih-i", "Master Zhiyi"]
 sources: ["摩诃止观", "法华玄义", "法华文句", "小止观", "六妙门", "释禅波罗蜜次第法门", "四教义"]
 cross_refs: ["nagarjuna", "huineng", "fazang", "kumarajiva", "huineng", "dogen", "tsongkhapa"]
@@ -60,7 +70,7 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 
 **Zhiyi's doxographical system classifies the Buddha's teachings temporally (five periods) and methodologically (eight types), positioning the Lotus Sutra as the supreme teaching. This is not mere taxonomy but a cognitive developmental framework — from foundational concepts through dialectical reasoning to holographic integration.**
 
-详见 [五时八教](concepts/classification-teachings.md)。
+详见 [五时八教](概念/五时八教 Wushi Bajiao: 智顗的判教体系与认知发展层次论.md)。
 
 ### 4. 摩诃止观 The Great Calming and Contemplation
 
@@ -68,7 +78,7 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 
 **Calming (samatha, stabilizing attention) and contemplation (vipasyana, metacognitive insight) are not separate practices but two dimensions of one cognitive training. Zhiyi systematized them into a complete path from beginner to awakening, creating Buddhism's most refined meditation 心理学.**
 
-详见 [摩诃止观](concepts/mohe-zhiguan.md)。
+详见 [摩诃止观](概念/摩诃止观 Mohe Zhiguan: 智顗的大止观修行体系.md)。
 
 ### 5. 性具善恶 Inherent Good and Evil
 
@@ -82,7 +92,7 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 
 **The Lotus Sutra represents the Buddha's ultimate teaching because it reveals the principle of "opening the provisional to manifest the real" — all expedient teachings converge into the One Buddha Vehicle.**
 
-详见 [法华至上](concepts/lotus-supremacy.md)。
+详见 [法华至上](概念/法华至上 Lotus Supremacy: 智顗的《法华经》至上论与开权显实原则.md)。
 
 ---
 
@@ -232,8 +242,8 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **哲学**: [龙树](../nagarjuna/README.md) — 中观基础；[黑格尔](../../../../哲学/学派/德国唯心论/黑格尔.md) — 辩证法平行；[怀特海](../../../哲学/schools/process/whitehead.md) — 过程哲学
-- **佛教内部**: [慧思](../nagarjuna/README.md) — 师承；[灌顶] — 首席弟子；[湛然] — 天台复兴者；[法藏](../fazang/README.md) — 华严宗对照
+- **哲学**: [龙树](../龙树/README.md) — 中观基础；[黑格尔](../../../../哲学/学派/德国唯心论/黑格尔.md) — 辩证法平行；[怀特海](../../../../哲学/学派/分析哲学/怀特海/概念/过程哲学.md) — 过程哲学
+- **佛教内部**: [慧思](../龙树/README.md) — 师承；[灌顶] — 首席弟子；[湛然] — 天台复兴者；[法藏](../法藏/README.md) — 华严宗对照
 - **学派**: [天台宗](../schools/天台.md) — 创始人
 - **认知科学**: 注意力训练、元认知、全息认知、分布式表征
 - **复杂性科学**: 涌现、自组织、全息原理
@@ -262,10 +272,10 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
 - [三谛圆融 Three Truths](concepts/三谛.md) — 空假中的完美融合
-- [摩诃止观 Mohe Zhiguan](concepts/mohe-zhiguan.md) — 大止观修行体系
-- [五时八教 Classification](concepts/classification-teachings.md) — 判教体系
+- [摩诃止观 Mohe Zhiguan](概念/摩诃止观 Mohe Zhiguan: 智顗的大止观修行体系.md) — 大止观修行体系
+- [五时八教 Classification](概念/五时八教 Wushi Bajiao: 智顗的判教体系与认知发展层次论.md) — 判教体系
 - [一念三千 One Thought 3000](concepts/一念三千.md) — 全息本体论
-- [法华至上 Lotus Supremacy](concepts/lotus-supremacy.md) — 法华经的至高地位
+- [法华至上 Lotus Supremacy](概念/法华至上 Lotus Supremacy: 智顗的《法华经》至上论与开权显实原则.md) — 法华经的至高地位
 - [著作目录](著作.md) — 完整著作列表与考证
 - [年表](时间线.md) — 生平与历史语境
 - [进阶阅读](阅读.md) — 分类书单

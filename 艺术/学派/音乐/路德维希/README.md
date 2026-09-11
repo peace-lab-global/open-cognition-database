@@ -9,7 +9,7 @@ birth: 1770
 death: 1827
 tags:
   - 古典音乐
-  - 浪漫主义
+  - romanticism
   - 意志
   - 苦难与艺术
   - 英雄主义
@@ -134,15 +134,15 @@ After 1815, Beethoven's creative output declined sharply in quantity, but the sp
 
 ## 重要概念 / Key Concepts
 
-1. **[英雄风格](concepts/heroic-style.md)** / **[Heroic Style](concepts/heroic-style.md)**：贝多芬中期形成的以斗争-凯旋叙事为核心的音乐美学，标志着从古典优雅向浪漫崇高的转变。
+1. **[英雄风格](概念/英雄风格.md)** / **[Heroic Style](概念/英雄风格.md)**：贝多芬中期形成的以斗争-凯旋叙事为核心的音乐美学，标志着从古典优雅向浪漫崇高的转变。
 
-2. **[交响乐革新](concepts/symphonic-innovation.md)** / **[Symphonic Innovation](concepts/symphonic-innovation.md)**：贝多芬对交响曲体裁的系统性改造——扩展规模、增加乐器编制、引入人声、重构乐章间的有机联系。
+2. **[交响乐革新](概念/交响乐革新.md)** / **[Symphonic Innovation](概念/交响乐革新.md)**：贝多芬对交响曲体裁的系统性改造——扩展规模、增加乐器编制、引入人声、重构乐章间的有机联系。
 
-3. **[苦难超越](concepts/deafness-transcendence.md)** / **[Deafness and Transcendence](concepts/deafness-transcendence.md)**：耳聋作为贝多芬创作的核心精神动力，从个人悲剧转化为艺术超越的范式。
+3. **[苦难超越](概念/苦难超越.md)** / **[Deafness and Transcendence](概念/苦难超越.md)**：耳聋作为贝多芬创作的核心精神动力，从个人悲剧转化为艺术超越的范式。
 
-4. **[奏鸣曲式扩展](concepts/sonata-form-expansion.md)** / **[Sonata Form Expansion](concepts/sonata-form-expansion.md)**：贝多芬对奏鸣曲式的根本性改造——扩大发展部、提升尾声的结构性地位、实现动机的极端经济。
+4. **[奏鸣曲式扩展](概念/奏鸣曲式扩展.md)** / **[Sonata Form Expansion](概念/奏鸣曲式扩展.md)**：贝多芬对奏鸣曲式的根本性改造——扩大发展部、提升尾声的结构性地位、实现动机的极端经济。
 
-5. **[晚期弦乐四重奏](concepts/late-string-quartets.md)** / **[Late String Quartets](concepts/late-string-quartets.md)**：贝多芬最后六首弦乐四重奏所呈现的超越性风格，代表了室内乐的最高精神表达。
+5. **[晚期弦乐四重奏](概念/晚期弦乐四重奏.md)** / **[Late String Quartets](概念/晚期弦乐四重奏.md)**：贝多芬最后六首弦乐四重奏所呈现的超越性风格，代表了室内乐的最高精神表达。
 
 6. **主题变形 (Thematic Transformation)**：贝多芬发展了海顿的动机发展技法，将简短的音乐动机通过节奏、和声、织体等维度的持续变形，构建出完整而统一的大型音乐结构。
 
@@ -218,12 +218,12 @@ In sum, Beethoven's dialogue with Eastern thought traditions reveals an importan
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **[尼采 / Nietzsche](../../../../哲学/学派/存在主义/尼采.md)** `[平行/parallel]`：尼采的"酒神精神"和"超人"概念与贝多芬的英雄主义美学形成深层对话。尼采在《悲剧的诞生》中以贝多芬为典范，认为其音乐体现了狄俄尼索斯式的生命肯定。
-- **[叔本华 / Schopenhauer](../../../../哲学/学派/悲观主义/schopenhauer.md)** `[影响/influence]`：叔本华将音乐视为"意志本身的直接客体化"，这一美学论断深受贝多芬音乐的启发。
+- **[叔本华 / Schopenhauer](../../../../哲学/学派/悲观主义/叔本华.md)** `[影响/influence]`：叔本华将音乐视为"意志本身的直接客体化"，这一美学论断深受贝多芬音乐的启发。
 - **[存在主义/萨特 / Sartre](../../../../哲学/学派/存在主义/萨特.md)** `[平行/parallel]`：贝多芬对自由和自我创造的强调与存在主义的"存在先于本质"和"绝对自由"概念相呼应。贝多芬的存在先于本质。
 - **[心理学/韧性研究](../../../心理学/概念/resilience.md)** `[应用/application]`：贝多芬在耳聋逆境中的创造力是心理韧性研究的经典案例，体现了"创伤后成长"(Post-Traumatic Growth)的心理学概念。
-- **[神经科学/创造力](../../../neuroscience/concepts/创造力.md)** `[探讨/exploration]`：贝多芬的速写本为研究创造性认知过程提供了宝贵的第一手资料。
+- **[神经科学/创造力](../../../../心理学/学派/认知心理学/卢茨/概念/冥想神经科学.md)** `[探讨/exploration]`：贝多芬的速写本为研究创造性认知过程提供了宝贵的第一手资料。
 - **[政治哲学/自由](../../../../伦理政治/学派/结果主义/密尔/概念/论自由.md)** `[主题/theme]`：贝多芬对政治自由的信仰——特别是对法国大革命理想的认同——贯穿其创作生涯。
-- **[文学/歌德 / Goethe](../../../../文学/学派/诗人/goethe.md)** `[平行/parallel]`：贝多芬为歌德的《埃格蒙特》配乐，两人在艺术理想上有共鸣也有分歧（贝多芬认为歌德对宫廷过于恭敬）。
+- **[文学/歌德 / Goethe](../../../../文学/学派/诗人/约翰.md)** `[平行/parallel]`：贝多芬为歌德的《埃格蒙特》配乐，两人在艺术理想上有共鸣也有分歧（贝多芬认为歌德对宫廷过于恭敬）。
 - **[瓦格纳 / Wagner](../wagner/wagner.md)** `[影响/influence]`：瓦格纳继承贝多芬的宏大叙事理想，称第九交响曲为"未来艺术的福音"，并将其推向总体艺术 (Gesamtkunstwerk)。
 
 ## 进阶阅读 / Further Reading
@@ -256,11 +256,11 @@ In sum, Beethoven's dialogue with Eastern thought traditions reveals an importan
 
 ## 子条目索引 / Sub-entry Index
 
-- [英雄风格 / Heroic Style](concepts/heroic-style.md)
-- [交响乐革新 / Symphonic Innovation](concepts/symphonic-innovation.md)
-- [苦难超越 / Deafness and Transcendence](concepts/deafness-transcendence.md)
-- [奏鸣曲式扩展 / Sonata Form Expansion](concepts/sonata-form-expansion.md)
-- [晚期弦乐四重奏 / Late String Quartets](concepts/late-string-quartets.md)
+- [英雄风格 / Heroic Style](概念/英雄风格.md)
+- [交响乐革新 / Symphonic Innovation](概念/交响乐革新.md)
+- [苦难超越 / Deafness and Transcendence](概念/苦难超越.md)
+- [奏鸣曲式扩展 / Sonata Form Expansion](概念/奏鸣曲式扩展.md)
+- [晚期弦乐四重奏 / Late String Quartets](概念/晚期弦乐四重奏.md)
 - [著作年表 / Works Bibliography](著作.md)
 - [生平大事记 / Biographical Timeline](时间线.md)
 - [阅读指南 / Reading Guide](阅读.md)

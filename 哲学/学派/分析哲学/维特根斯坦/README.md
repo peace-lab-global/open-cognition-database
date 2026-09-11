@@ -96,10 +96,10 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 ## 重要概念 / Key Concepts
 
 1. **语言游戏 Language-Games** — 语言与活动交织的整体，每种游戏有自己的规则和意义标准。详见 → [language-game](概念/语言游戏.md)
-2. **家族相似 Family Resemblance** — 概念由交叉重叠的相似性统一，而非共同本质。详见 → [family-resemblance](concepts/family-resemblance.md)
-3. **私人语言论证 Private Language Argument** — 反驳笛卡尔式内在认识论，论证语言本质上是公共的。详见 → [private-language](concepts/private-language.md)
-4. **生活形式 Forms of Life** — 语言根植于人类共同的行为方式和自然历史。详见 → [forms-of-life](concepts/forms-of-life.md)
-5. **图像论 Picture Theory** — 前期理论：命题是事实的逻辑图像。详见 → [picture-theory](concepts/picture-theory.md)
+2. **家族相似 Family Resemblance** — 概念由交叉重叠的相似性统一，而非共同本质。详见 → [family-resemblance](概念/家族相似.md)
+3. **私人语言论证 Private Language Argument** — 反驳笛卡尔式内在认识论，论证语言本质上是公共的。详见 → [private-language](概念/私人语言论证.md)
+4. **生活形式 Forms of Life** — 语言根植于人类共同的行为方式和自然历史。详见 → [forms-of-life](概念/生活形式.md)
+5. **图像论 Picture Theory** — 前期理论：命题是事实的逻辑图像。详见 → [picture-theory](概念/图像论.md)
 6. **遵守规则 Rule-Following** — 遵守规则不是私人行为，而是嵌入公共实践的活动
 7. **"看见...为..." / Seeing-as** — 鸭兔图揭示知觉与概念的关系
 8. **深度语法 / Depth Grammar** — 表面语法掩盖的深层逻辑结构
@@ -156,8 +156,8 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 - [量论 · Pramana](../../../../宗教/佛教/概念/cognitive-theory/量论.md) `[张力/tension]` 自证的"不可说性"与私人语言论证
 - [七处征心 · Seven Places of Mind-Seeking](../../../../宗教/佛教/概念/cognitive-theory/七处征心.md) `[平行/parallel]` 语言不能表达的，可以通过行动指向
 - [二谛 · Satyadvaya](../../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` "用完即弃"与"不执二谛"
-- [罗素 Russell](../russell/README.md) `[同源/kindred]` 逻辑原子主义的分歧
-- [卡尔纳普 Carnap](../carnap/README.md) `[影响/influence]` 语言批判的两种路线
+- [罗素 Russell](../伯特兰/README.md) `[同源/kindred]` 逻辑原子主义的分歧
+- [卡尔纳普 Carnap](../卡尔纳普.md) `[影响/influence]` 语言批判的两种路线
 
 ## 进阶阅读 / Further Reading
 
@@ -184,10 +184,10 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 | 条目 / Entry | 主题 / Topic |
 |---|---|
 | [language-game](概念/语言游戏.md) | 语言游戏概念 / The concept of language-games |
-| [family-resemblance](concepts/family-resemblance.md) | 家族相似 / Family resemblance |
-| [private-language](concepts/private-language.md) | 私人语言论证 / Private language argument |
-| [forms-of-life](concepts/forms-of-life.md) | 生活形式 / Forms of life |
-| [picture-theory](concepts/picture-theory.md) | 图像论 / Picture theory of meaning |
+| [family-resemblance](概念/家族相似.md) | 家族相似 / Family resemblance |
+| [private-language](概念/私人语言论证.md) | 私人语言论证 / Private language argument |
+| [forms-of-life](概念/生活形式.md) | 生活形式 / Forms of life |
+| [picture-theory](概念/图像论.md) | 图像论 / Picture theory of meaning |
 | [works](著作.md) | 完整著作列表与导读 / Complete works and guide |
 | [timeline](时间线.md) | 生平年表 / Biographical timeline |
 | [reading-list](阅读.md) | 进阶阅读指南 / Advanced reading guide |

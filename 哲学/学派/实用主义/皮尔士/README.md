@@ -123,6 +123,6 @@ Charles Sanders Peirce is the true founder of pragmatism and one of the founders
 
 ## 十、关联 Skills
 
-- [詹姆斯 William James](../../../心理学/学派/功能主义/威廉/README.md) `[同源]` 实用主义心理学化
-- [杜威 John Dewey](../dewey/README.md) `[继承]` 实用主义的制度化与教育哲学
-- [维特根斯坦 Wittgenstein](../analytic/wittgenstein/README.md) `[对照]` 语言意义的使用论
+- [詹姆斯 William James](../../../../心理学/学派/功能主义/威廉/README.md) `[同源]` 实用主义心理学化
+- [杜威 John Dewey](../约翰/README.md) `[继承]` 实用主义的制度化与教育哲学
+- [维特根斯坦 Wittgenstein](../../分析哲学/维特根斯坦/README.md) `[对照]` 语言意义的使用论

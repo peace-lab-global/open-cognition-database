@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[哈贝马斯](../../学派/批判理论/habermas.md)
+- 来源思想家：[哈贝马斯](../../学派/批判理论/哈贝马斯.md)
 - 来源概念：[交往行为](../../concepts/communicative-action.md)、[公共领域](../../concepts/public-sphere.md)
 - 关键文献：《交往行为理论》、《公共领域的结构转型》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[哈贝马斯](../../学派/批判理论/habermas.md)
+- 思想家：[哈贝马斯](../../学派/批判理论/哈贝马斯.md)
 - 概念：[交往行为](../../concepts/communicative-action.md)、[公共领域](../../concepts/public-sphere.md)
 - 相关 Skill：[social-fact-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[class-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

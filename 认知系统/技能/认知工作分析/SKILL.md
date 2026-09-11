@@ -9,7 +9,7 @@ linked_concepts:
 tags:
   - cognitive-work-analysis
   - abstraction-hierarchy
-  - SRK
+  - srk
   - system-design
 ---
 

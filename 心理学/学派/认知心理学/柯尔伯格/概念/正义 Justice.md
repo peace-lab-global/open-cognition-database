@@ -5,7 +5,17 @@ type: concept
 domain: 心理学
 school: cognitive
 era: modern
-tags: [正义, 公正, 道德核心, 罗尔斯, 康德, justice, fairness, moral-core, Rawls, Kant]
+tags:
+  - 正义
+  - 公正
+  - 道德核心
+  - 罗尔斯
+  - 康德
+  - justice
+  - fairness
+  - moral-core
+  - rawls
+  - kant
 aliases: [Justice, 公正, 正义感, Sense of Justice, 公正取向, Justice Orientation]
 parent: kohlberg
 cross-refs: [moral-development, post-conventional, stages-moral-reasoning, moral-education]

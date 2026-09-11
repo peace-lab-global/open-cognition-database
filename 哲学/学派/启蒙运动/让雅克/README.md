@@ -9,14 +9,13 @@ birth: 1712
 death: 1778
 tags:
   - 启蒙运动
-  - 社会契约
+  - social-contract
   - 自然状态
   - 公意
   - 教育哲学
   - 不平等
   - 自爱
   - enlightenment
-  - social-contract
   - general-will
   - state-of-nature
   - education
@@ -73,7 +72,7 @@ Political legitimacy derives not from nature or force but from a covenant in whi
 
 The general will is the keystone of the social contract. It differs from the "will of all" — the latter aggregates private interests, while the general will targets only the common good. It is always right (droite) because it expresses citizens' rational pursuit of the public good as legislators; yet the people's judgment about it may be misled. This concept sparked lasting debate: is it collective rationality or a totalitarian seed? Kant transformed it into moral autonomy, Hegel into Sittlichkeit, while liberals (Berlin, Talmon) identified it as the philosophical root of "positive liberty" tyranny.
 
-> 详见 → [公意 / General Will](concepts/general-will.md)
+> 详见 → [公意 / General Will](概念/公意.md)
 
 ### 3. 高贵的野蛮人与文明批判（Le Bon Sauvage / Noble Savage）
 
@@ -81,7 +80,7 @@ The general will is the keystone of the social contract. It differs from the "wi
 
 Rousseau's "state of nature" in the *Second Discourse* is a fundamental reversal of Hobbes's war of all against all. Natural humans are solitary, self-sufficient, peaceful, driven by two pre-rational principles: self-love and pity. Without reason or reflection, they are without vice — vice is the product of social institutions. The term "noble savage" was never Rousseau's own phrase (it originates with Dryden), yet it captures his core insight: evil in human nature is not natural but social. Civilization — language, reason, property, the state — deepens humanity's alienation from its own nature at every step.
 
-> 详见 → [高贵的野蛮人 / Noble Savage](concepts/noble-savage.md)
+> 详见 → [高贵的野蛮人 / Noble Savage](概念/高贵的野蛮人.md)
 
 ### 4. 自爱与怜悯（Amour de Soi et Pitié / Self-Love and Pity）
 
@@ -89,7 +88,7 @@ Rousseau's "state of nature" in the *Second Discourse* is a fundamental reversal
 
 Rousseau distinguished two forms of self-regard: **amour de soi** (self-love) is natural, pre-social self-preservation, gentle and finite; **amour-propre** (vanity/pride) is the product of social comparison, demanding others' recognition and thus infinitely expandable. In the state of nature, amour-propre lies dormant; society activates it, making it the source of jealousy, competition, hatred, and all social ills. Yet Rousseau's later works suggest amour-propre need not corrupt — in a well-ordered polity, it can be channeled into love of law and the common good. **Pity** (pitié), shared with some animals, is a natural sentiment preceding reason, the natural foundation of all social virtues.
 
-> 详见 → [自爱与虚荣 / Amour-Propre](concepts/amour-propre.md)
+> 详见 → [自爱与虚荣 / Amour-Propre](概念/自爱与虚荣.md)
 
 ### 5. 教育即自然发展（Éducation Naturelle / Education as Natural Development）
 
@@ -97,7 +96,7 @@ Rousseau distinguished two forms of self-regard: **amour de soi** (self-love) is
 
 *Emile* is Rousseau's most personal and systematic work, articulating "negative education" (éducation négative) through the fictional pupil Emile and his tutor: education's first task is not to inculcate knowledge but to shield the child's natural development from social prejudice and artificial constraint. Five stages unfold: infancy (physical development), childhood (sensory training, "the sleep of reason"), pre-adolescence (knowledge through natural curiosity), adolescence (awakening of moral sentiment and sociability), adulthood (love and social responsibility). The tutor is not a lecturer but an environmental architect, letting the child learn from the "necessity of things."
 
-> 详见 → [教育哲学 / Education](concepts/education.md)
+> 详见 → [教育哲学 / Education](概念/教育哲学.md)
 
 ### 6. 不平等的起源（Origine de l'Inégalité / Origin of Inequality）
 
@@ -130,14 +129,14 @@ The 1762 persecution opened Rousseau's exile. The *Confessions* inaugurated mode
 | 概念 | 法文 | 英文 | 简述 | 详见 |
 |------|------|------|------|------|
 | 社会契约 | Contrat Social | Social Contract | 政治合法性的来源：全体对全体的让渡 | [→](../../../../伦理政治/学派/社会契约论/托马斯/概念/社会契约.md) |
-| 公意 | Volonté Générale | General Will | 以公共利益为对象的集体意志 | [→](concepts/general-will.md) |
-| 自然状态 | État de Nature | State of Nature | 前社会的假想人类境况 | [→](concepts/noble-savage.md) |
-| 高贵的野蛮人 | Bon Sauvage | Noble Savage | 自然状态中未被腐蚀的理想人 | [→](concepts/noble-savage.md) |
-| 自爱 | Amour de Soi | Self-Love | 自然的自我保存本能 | [→](concepts/amour-propre.md) |
-| 自尊心/虚荣 | Amour-Propre | Vanity/Pride | 社会比较中产生的承认需求 | [→](concepts/amour-propre.md) |
-| 怜悯 | Pitié | Pity/Compassion | 先于理性的自然同情 | [→](concepts/amour-propre.md) |
-| 消极教育 | Éducation Négative | Negative Education | 保护自然发展免受社会偏见 | [→](concepts/education.md) |
-| 众意 | Volonté de Tous | Will of All | 私人利益的加总（非公意） | [→](concepts/general-will.md) |
+| 公意 | Volonté Générale | General Will | 以公共利益为对象的集体意志 | [→](概念/公意.md) |
+| 自然状态 | État de Nature | State of Nature | 前社会的假想人类境况 | [→](概念/高贵的野蛮人.md) |
+| 高贵的野蛮人 | Bon Sauvage | Noble Savage | 自然状态中未被腐蚀的理想人 | [→](概念/高贵的野蛮人.md) |
+| 自爱 | Amour de Soi | Self-Love | 自然的自我保存本能 | [→](概念/自爱与虚荣.md) |
+| 自尊心/虚荣 | Amour-Propre | Vanity/Pride | 社会比较中产生的承认需求 | [→](概念/自爱与虚荣.md) |
+| 怜悯 | Pitié | Pity/Compassion | 先于理性的自然同情 | [→](概念/自爱与虚荣.md) |
+| 消极教育 | Éducation Négative | Negative Education | 保护自然发展免受社会偏见 | [→](概念/教育哲学.md) |
+| 众意 | Volonté de Tous | Will of All | 私人利益的加总（非公意） | [→](概念/公意.md) |
 | 道德自由 | Liberté Morale | Moral Freedom | 服从自己制定的法律 | [→](../../../../伦理政治/学派/社会契约论/托马斯/概念/社会契约.md) |
 
 ## 思想风格与修辞 / Intellectual Style and Rhetoric
@@ -291,10 +290,10 @@ Rousseau's "return to nature" is achieved through institutional reform — the s
 | 条目 | 内容 |
 |------|------|
 | [社会契约 / Social Contract](../../../../伦理政治/学派/社会契约论/托马斯/概念/社会契约.md) | 合法政治权威、总体让渡、与霍布斯/洛克的比较 |
-| [公意 / General Will](concepts/general-will.md) | 公共利益、众意之别、不可分割性、可谬性争论 |
-| [高贵的野蛮人 / Noble Savage](concepts/noble-savage.md) | 自然状态、自然善良、术语本身的批判 |
-| [自爱与虚荣 / Amour-Propre](concepts/amour-propre.md) | 自爱 vs 虚荣、社会比较、健康形态与病态形态 |
-| [教育哲学 / Education](concepts/education.md) | 消极教育、发展阶段、导师角色、自然后果 |
+| [公意 / General Will](概念/公意.md) | 公共利益、众意之别、不可分割性、可谬性争论 |
+| [高贵的野蛮人 / Noble Savage](概念/高贵的野蛮人.md) | 自然状态、自然善良、术语本身的批判 |
+| [自爱与虚荣 / Amour-Propre](概念/自爱与虚荣.md) | 自爱 vs 虚荣、社会比较、健康形态与病态形态 |
+| [教育哲学 / Education](概念/教育哲学.md) | 消极教育、发展阶段、导师角色、自然后果 |
 | [著作概览 / Works](著作.md) | 主要著作的系统概述 |
 | [年表 / Timeline](时间线.md) | 生平与思想的编年脉络 |
 | [阅读指南 / Reading List](阅读.md) | 分级阅读建议 |

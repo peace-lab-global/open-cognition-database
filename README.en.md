@@ -6,7 +6,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-v0.9%20buddhist--academy--deep-blue.svg)](#)
 [![Domains](https://img.shields.io/badge/domains-9-orange.svg)](#domains)
-[![Entries](https://img.shields.io/badge/entries-210%20thinkers%20%7C%20213%20concepts%20%7C%20126%20skills-brightgreen.svg)](#content-overview)
+[![Entries](https://img.shields.io/badge/entries-1027%20thinkers%20%7C%201392%20concepts%20%7C%20137%20skills-brightgreen.svg)](#content-overview)
 
 **Chinese version**: see [README.md](README.md)
 
@@ -28,7 +28,7 @@ Insights across disciplines are scattered across hard-to-read primary texts and 
 
 ```
 9 domains x N thinker/concept entries + Skills + thematic deep-dives
-= 210 thinkers | 213 concepts | 126 Skills | 650+ structured .md files
+= 1027 thinkers | 1392 concepts | 137 Skills | 2670 indexed entries (see index.json)
 ```
 
 ### Domains
@@ -96,7 +96,7 @@ open-cognition/
   TAGS.md                     # Unified tag taxonomy
   CONTRIBUTING.md             # Contribution guide
   index.json                  # Machine-readable index
-  哲学/                  # Philosophy (42 thinkers / 8 concepts / 19 skills)
+  哲学/                  # Philosophy (280 thinkers / 251 concepts / 19 skills)
   宗教/                    # Religion (incl. Buddhist cognitive theory flagship)
   社会学/                   # Sociology
   心理学/                  # Psychology

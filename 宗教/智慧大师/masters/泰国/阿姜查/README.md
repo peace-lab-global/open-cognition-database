@@ -118,7 +118,7 @@ Ajahn Chah repeatedly emphasized that practice is neither in the past nor in the
 
 Ajahn Chah lived a life of simplicity. He taught that true freedom lies not in having more, but in needing less. At Wat Nong Pah Pong, monks were required to minimize personal possessions — one robe, one alms bowl, a few books. This minimalism was not self-mortification but a conscious choice aimed at reducing external distractions to the inner life.
 
-> 详见 → [简单生活 / Simple Living](concepts/simple-living.md)
+> 详见 → [简单生活 / Simple Living](概念/简单生活.md)
 
 ### 五、西方弘法 / Teaching Westerners
 
@@ -126,7 +126,7 @@ Ajahn Chah lived a life of simplicity. He taught that true freedom lies not in h
 
 Ajahn Chah was among the earliest Theravada masters to actively embrace Western disciples. He not only permitted Westerners to ordain at Wat Nong Pah Pong but also supported them in establishing meditation centers in their home countries. This decision had a profound impact on the global spread of Theravada Buddhism.
 
-> 详见 → [西方弘法 / Teaching Westerners](concepts/teaching-westerners.md)
+> 详见 → [西方弘法 / Teaching Westerners](概念/西方弘法.md)
 
 ## 教学风格 / Teaching Style
 
@@ -162,10 +162,10 @@ In one famous example, when someone asked him "What is Dhamma?", he picked up a 
 
 | 关联人物 / Figure | 传统 / Tradition | 关系 / Relationship |
 |---|---|---|
-| [阿姜曼](../ajahn-mun.md) / Ajahn Mun | 南传·森林传统 | 师父 / Teacher |
-| [佛使比丘](../buddhadasa.md) / Buddhadasa | 南传佛教 | 同代泰国大师 / Contemporary Thai master |
+| [阿姜曼](README.md) / Ajahn Mun | 南传·森林传统 | 师父 / Teacher |
+| [佛使比丘](../佛使比丘/README.md) / Buddhadasa | 南传佛教 | 同代泰国大师 / Contemporary Thai master |
 | [一行禅师](../../西方/一行禅师.md) / Thich Nhat Hanh | 入世佛教 | 平行：正念生活 / Parallel: mindful living |
-| [道元](../japan/道元.md) / Dogen | 日本·曹洞宗 | 平行：日常修行 / Parallel: practice in daily life |
+| [道元](../../../../../美学/概念/日本美学.md) / Dogen | 日本·曹洞宗 | 平行：日常修行 / Parallel: practice in daily life |
 | [米拉日巴](../tibet/milarepa.md) / Milarepa | 藏传·噶举派 | 平行：苦行证悟 / Parallel: ascetic realization |
 
 ## 当代应用 / Contemporary Applications

@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[威廉·莎士比亚](../../学派/剧作家/shakespeare.md)
+- 来源思想家：[威廉·莎士比亚](../../学派/剧作家/威廉.md)
 - 来源概念：[人性洞察](../../concepts/human-insight.md)、[戏剧冲突](../../concepts/dramatic-conflict.md)
 - 关键文献：《哈姆雷特》、《麦克白》、《李尔王》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[威廉·莎士比亚](../../学派/剧作家/shakespeare.md)
+- 思想家：[威廉·莎士比亚](../../学派/剧作家/威廉.md)
 - 概念：[人性洞察](../../concepts/human-insight.md)、[戏剧冲突](../../concepts/dramatic-conflict.md)
 - 相关 Skill：[unconscious-analysis](../../../心理学/技能/潜意识分析/SKILL.md)、[existentialism-analysis](../../../哲学/技能/存在主义分析/SKILL.md)

@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[费奥多尔·陀思妥耶夫斯基](../../../美学/学派/文学思想/dostoevsky.md)
+- 来源思想家：[费奥多尔·陀思妥耶夫斯基](../../../美学/学派/文学思想/陀思妥耶夫斯基.md)
 - 来源概念：[苦难救赎](../../concepts/suffering-redemption.md)、[人性深度](../../concepts/human-depth.md)
 - 关键文献：《罪与罚》、《卡拉马佐夫兄弟》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[费奥多尔·陀思妥耶夫斯基](../../../美学/学派/文学思想/dostoevsky.md)
+- 思想家：[费奥多尔·陀思妥耶夫斯基](../../../美学/学派/文学思想/陀思妥耶夫斯基.md)
 - 概念：[苦难救赎](../../concepts/suffering-redemption.md)、[人性深度](../../concepts/human-depth.md)
 - 相关 Skill：[logotherapy](../../../心理学/技能/意义疗法/SKILL.md)、[existentialism-analysis](../../../哲学/技能/存在主义分析/SKILL.md)

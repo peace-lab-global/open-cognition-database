@@ -133,23 +133,23 @@ children:
 
 ### 1. 情绪构造论 (Theory of Constructed Emotion)
 
-每次情绪体验都是大脑的"推断"而非"反应"。大脑利用内感受信号、过去经验的概念库和当下情境来"构造"一个情绪实例。详见 [concepts/theory-of-constructed-emotion.md](concepts/theory-of-constructed-emotion.md)。
+每次情绪体验都是大脑的"推断"而非"反应"。大脑利用内感受信号、过去经验的概念库和当下情境来"构造"一个情绪实例。详见 [concepts/theory-of-constructed-emotion.md](../../依恋理论/README.md)。
 
 ### 2. 情感实在论批判 (Critique of Affective Realism)
 
-传统情绪观认为情绪是客观的"自然类", 可以被面部表情可靠识别。巴雷特称之为"情感实在论"并系统批判其方法论缺陷。详见 [concepts/affective-realism.md](concepts/affective-realism.md)。
+传统情绪观认为情绪是客观的"自然类", 可以被面部表情可靠识别。巴雷特称之为"情感实在论"并系统批判其方法论缺陷。详见 [concepts/affective-realism.md](概念/情感实在论批判.md)。
 
 ### 3. 情绪粒度 (Emotional Granularity)
 
-个体区分情绪状态的精细程度, 是心理健康的核心可测量指标。高粒度者有更好的情绪调节能力和更低的精神疾病风险。详见 [concepts/emotional-granularity.md](concepts/emotional-granularity.md)。
+个体区分情绪状态的精细程度, 是心理健康的核心可测量指标。高粒度者有更好的情绪调节能力和更低的精神疾病风险。详见 [concepts/emotional-granularity.md](概念/情绪粒度.md)。
 
 ### 4. 预测与主动推断 (Prediction and Active Inference)
 
-大脑的核心运作不是反应而是预测。情绪不是"对刺激的反应"而是"对世界的推断"。详见 [concepts/prediction.md](concepts/prediction.md)。
+大脑的核心运作不是反应而是预测。情绪不是"对刺激的反应"而是"对世界的推断"。详见 [concepts/prediction.md](概念/预测与主动推断.md)。
 
 ### 5. 情感 / 身体预算 (Affect / Body Budget)
 
-身体的内感受基调构成情绪构造的原材料。Affect 本身不是情绪, 而是身体能量收支的"会计系统"。详见 [concepts/affect.md](concepts/affect.md)。
+身体的内感受基调构成情绪构造的原材料。Affect 本身不是情绪, 而是身体能量收支的"会计系统"。详见 [concepts/affect.md](../../../../名言/情动/斯宾诺莎-情动定义.md)。
 
 ### 6. 内感受 (Interoception)
 
@@ -247,10 +247,10 @@ children:
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [弗里斯顿 · Friston](../friston.md) — **[平行]** 预测加工与自由能原理的共同框架; Friston 的主动推断 (active inference) 是情绪构造论的计算基础
-- [塞斯 · Seth](../seth.md) — **[平行]** 意识的预测理论; 内感受预测与情绪体验的关系
-- [达马西奥 · Damasio](../damasio.md) — **[对话与分歧]** 躯体标记假说 (Somatic Marker Hypothesis) 与身体预算的对话; Damasio 更接近基本情绪论
-- [詹姆斯 · William James](../../functionalism/james.md) — **[继承与批判]** "情绪是对身体变化的感知"是先驱, 但 James 仍预设了固定的情绪类型
+- [弗里斯顿 · Friston](../弗里斯顿/README.md) — **[平行]** 预测加工与自由能原理的共同框架; Friston 的主动推断 (active inference) 是情绪构造论的计算基础
+- [塞斯 · Seth](../赛斯/README.md) — **[平行]** 意识的预测理论; 内感受预测与情绪体验的关系
+- [达马西奥 · Damasio](../达玛西奥/README.md) — **[对话与分歧]** 躯体标记假说 (Somatic Marker Hypothesis) 与身体预算的对话; Damasio 更接近基本情绪论
+- [詹姆斯 · William James](../../功能主义/威廉-william-james/README.md) — **[继承与批判]** "情绪是对身体变化的感知"是先驱, 但 James 仍预设了固定的情绪类型
 - [Ekman](../ekman.md) — **[对立]** 基本情绪论 (Basic Emotions) vs 构造情绪论 (Constructed Emotion) 的核心对手
 - [阿毗达磨心识论 · Abhidharma Mind](../../../../宗教/佛教/概念/cognitive-theory/阿毗达磨心识论.md) — **[平行]** 心所组合 = 情绪的构造论
 - [梅洛-庞蒂 · Merleau-Ponty](../../../../哲学/学派/现象学/梅洛庞蒂/README.md) — **[哲学呼应]** 身体主体性 (bodily subjectivity) 与具身建构主义
@@ -284,11 +284,11 @@ children:
 
 | 条目 | 说明 |
 |---|---|
-| [情绪构造论](concepts/theory-of-constructed-emotion.md) | 核心理论: 情绪是构造的而非触发的 |
-| [情感实在论批判](concepts/affective-realism.md) | 对传统情绪观的系统批判 |
-| [情绪粒度](concepts/emotional-granularity.md) | 心理健康的核心可测量指标 |
-| [预测与主动推断](concepts/prediction.md) | 大脑的核心运作机制 |
-| [情感/身体预算](concepts/affect.md) | 情绪构造的原材料 |
+| [情绪构造论](../../依恋理论/README.md) | 核心理论: 情绪是构造的而非触发的 |
+| [情感实在论批判](概念/情感实在论批判.md) | 对传统情绪观的系统批判 |
+| [情绪粒度](概念/情绪粒度.md) | 心理健康的核心可测量指标 |
+| [预测与主动推断](概念/预测与主动推断.md) | 大脑的核心运作机制 |
+| [情感/身体预算](../../../../名言/情动/斯宾诺莎-情动定义.md) | 情绪构造的原材料 |
 | [作品总览](著作.md) | 巴雷特主要著作年表 |
 | [思想年表](时间线.md) | 生平与思想发展大事记 |
 | [进阶阅读](阅读.md) | 原典、二手研究、中文资源与跨学科阅读 |

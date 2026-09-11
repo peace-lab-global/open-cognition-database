@@ -4,7 +4,12 @@ title: "不立文字 Buli Wenzi: 语言与觉悟的关系"
 type: concept
 parent: bodhidharma
 domain: 宗教
-tags: [beyond-words, language, Chan, ineffability, buli-wenzi]
+tags:
+  - beyond-words
+  - language
+  - chan
+  - ineffability
+  - buli-wenzi
 ---
 
 # 不立文字 Buli Wenzi / Not Establishing Words and Letters

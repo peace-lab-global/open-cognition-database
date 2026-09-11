@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[孔子](../../学派/东方哲学/confucius.md)
+- 来源思想家：[孔子](../../学派/东方哲学/孔子.md)
 - 来源概念：[仁](../../concepts/ren.md)、[礼](../../concepts/li.md)
 - 关键文献：《论语》、《孟子》、《中庸》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[孔子](../../学派/东方哲学/confucius.md)
+- 思想家：[孔子](../../学派/东方哲学/孔子.md)
 - 概念：[仁](../../concepts/ren.md)、[礼](../../concepts/li.md)
 - 相关 Skill：[golden-mean-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[east-west-ethics-comparison](../../../宗教/佛教/技能/从前五识/SKILL.md)

@@ -5,7 +5,14 @@ type: concept
 domain: 宗教
 school: buddhism-vajrayana
 parent: 宗教.buddhism.masters.milarepa
-tags: [那洛六法, Six Yogas of Naropa, 密续, tantra, 噶举派, Kagyu, 无上瑜伽]
+tags:
+  - 那洛六法
+  - six-yogas-of-naropa
+  - 密续
+  - tantra
+  - 噶举派
+  - kagyu
+  - 无上瑜伽
 ---
 
 # 那洛六法 Six Yogas of Naropa

@@ -4,7 +4,14 @@ title: "律藏补阙 Vinaya Completion: 法显西行求法的根本动机"
 type: concept
 parent: faxian
 domain: 宗教
-tags: [Vinaya, 律藏, 戒律, monastic-discipline, 广律, Mahasanghika-vinaya, Sarvastivada-vinaya]
+tags:
+  - vinaya
+  - 律藏
+  - 戒律
+  - monastic-discipline
+  - 广律
+  - mahasanghika-vinaya
+  - sarvastivada-vinaya
 ---
 
 # 律藏补阙 Vinaya Completion

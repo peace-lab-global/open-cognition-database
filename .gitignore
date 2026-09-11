@@ -132,3 +132,14 @@ ehthumbs.db
 # Local overrides — put personal ignores in .gitignore.local (never committed)
 # -----------------------------------------------------------------------------
 .gitignore.local
+
+# -----------------------------------------------------------------------------
+# Local tooling & generated artifacts (2026-09 整理)
+# -----------------------------------------------------------------------------
+.mimosa/
+.v2c/
+.video_agent/
+.qoder/
+lint-report.json
+link-fix-review.md
+nav-fix-review.md

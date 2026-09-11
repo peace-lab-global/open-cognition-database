@@ -111,15 +111,15 @@ In the summer of 1788, he completed his final three symphonies in rapid successi
 
 ## 重要概念 / Key Concepts
 
-- **古典完美 / Classical Perfection** ([详情](concepts/classical-perfection.md))：以清晰曲式、主题对比与节制表现为特征的美学理想，莫扎特是其完美化身。An aesthetic ideal characterized by clear formal structure, thematic contrast, and expressive restraint, of which Mozart is the perfect embodiment.
+- **古典完美 / Classical Perfection** ([详情](../../../../社会学/学派/古典社会学/涂尔干/README.md))：以清晰曲式、主题对比与节制表现为特征的美学理想，莫扎特是其完美化身。An aesthetic ideal characterized by clear formal structure, thematic contrast, and expressive restraint, of which Mozart is the perfect embodiment.
 
-- **歌剧革新 / Opera Innovation** ([详情](concepts/opera-innovation.md))：莫扎特以音乐化的心理描写重新定义了歌剧的戏剧可能性。Mozart redefined opera's dramatic possibilities through musicalized psychological portrayal.
+- **歌剧革新 / Opera Innovation** ([详情](概念/歌剧革新.md))：莫扎特以音乐化的心理描写重新定义了歌剧的戏剧可能性。Mozart redefined opera's dramatic possibilities through musicalized psychological portrayal.
 
-- **旋律天才 / Melodic Genius** ([详情](concepts/melodic-genius.md))：莫扎特创造旋律的能力被视为西方音乐史上最卓越的旋律天赋。Mozart's ability to create melody is regarded as the most exceptional melodic gift in Western music history.
+- **旋律天才 / Melodic Genius** ([详情](概念/旋律天才.md))：莫扎特创造旋律的能力被视为西方音乐史上最卓越的旋律天赋。Mozart's ability to create melody is regarded as the most exceptional melodic gift in Western music history.
 
-- **形式均衡 / Formal Balance** ([详情](concepts/formal-balance.md))：奏鸣曲式与回旋曲式中的比例关系，是莫扎特结构思维的核心。Proportional relationships in sonata and rondo forms are the core of Mozart's structural thinking.
+- **形式均衡 / Formal Balance** ([详情](概念/形式均衡.md))：奏鸣曲式与回旋曲式中的比例关系，是莫扎特结构思维的核心。Proportional relationships in sonata and rondo forms are the core of Mozart's structural thinking.
 
-- **神童神话 / Child Prodigy Myth** ([详情](concepts/child-prodigy-myth.md))：莫扎特的神童形象如何在文化记忆中被建构、神话化与去神话化。How Mozart's prodigy image was constructed, mythologized, and demythologized in cultural memory.
+- **神童神话 / Child Prodigy Myth** ([详情](概念/神童神话.md))：莫扎特的神童形象如何在文化记忆中被建构、神话化与去神话化。How Mozart's prodigy image was constructed, mythologized, and demythologized in cultural memory.
 
 - **协奏曲对话 / Concerto Dialogue**：独奏与乐队的平等互动，体现启蒙理想的音乐形式。Equal interplay between soloist and orchestra, a musical form embodying Enlightenment ideals.
 
@@ -187,9 +187,9 @@ Mozart's thinking about formal balance also invites cross-cultural comparison wi
 
 - [海顿 / Haydn](../haydn/) `[双向影响 / Mutual Influence]` 莫扎特与海顿互相学习：海顿的动机发展启发莫扎特，莫扎特的歌剧化旋律反哺海顿晚期作品 / Mozart and Haydn learned from each other: Haydn's motivic development inspired Mozart; Mozart's operatic melody fed back into Haydn's late works
 - [贝多芬 / Beethoven](../beethoven/) `[发展 / Development]` 继承莫扎特的钢琴协奏曲和交响曲框架，推向意志冲突与英雄性叙事 / Inherited Mozart's piano concerto and symphony frameworks, pushing them toward will-conflict and heroic narrative
-- [启蒙思想 / Enlightenment Thought](../../../哲学/学派/启蒙运动/) `[同源 / Common Source]` 共享十八世纪对自然、清晰与普遍人性的信念 / Shared eighteenth-century belief in nature, clarity, and universal human nature
-- [康德美学 / Kant Aesthetics](../../../哲学/学派/德国唯心论/康德/) `[平行 / Parallel]` "无目的的合目的性"与莫扎特音乐中"自由美"的古典均衡相呼应 / "Purposiveness without purpose" parallels the Classical equilibrium of "free beauty" in Mozart's music
-- [叔本华 / Schopenhauer](../../../哲学/学派/悲观主义/叔本华/) `[互补 / Complementary]` 视音乐为意志本身的直接客体化，莫扎特为其最高典范之一 / Regarded music as the direct objectification of the Will itself, with Mozart as one of its supreme exemplars
+- [启蒙思想 / Enlightenment Thought](../../../../哲学/学派/启蒙运动) `[同源 / Common Source]` 共享十八世纪对自然、清晰与普遍人性的信念 / Shared eighteenth-century belief in nature, clarity, and universal human nature
+- [康德美学 / Kant Aesthetics](../../../../哲学/学派/德国唯心论/康德) `[平行 / Parallel]` "无目的的合目的性"与莫扎特音乐中"自由美"的古典均衡相呼应 / "Purposiveness without purpose" parallels the Classical equilibrium of "free beauty" in Mozart's music
+- [叔本华 / Schopenhauer](../../../../哲学/学派/悲观主义/叔本华) `[互补 / Complementary]` 视音乐为意志本身的直接客体化，莫扎特为其最高典范之一 / Regarded music as the direct objectification of the Will itself, with Mozart as one of its supreme exemplars
 - [叙事理论 / Narrative Theory](../../../文学/概念/narrative/) `[互补 / Complementary]` 重唱即多声部叙事——多人视角的同步编织，可视为音乐化的多声部小说 / Ensemble as polyphonic narrative—simultaneous weaving of multiple perspectives, readable as musicalized polyphonic novel
 - [认知科学 / Cognitive Science](../../../science/cognitive-science/) `[应用 / Applied]` 莫扎特音乐的认知加工——格式塔知觉组织原则在音乐听觉中的体现 / Cognitive processing of Mozart's music—Gestalt perceptual organization principles in musical hearing
 - [心理分析 / Psychoanalysis](../../../心理学/psychoanalysis/) `[诠释 / Interpretive]` 所罗门的心理传记研究将莫扎特与父亲的关系解读为其创作动力的核心 / Solomon's psychobiographical study interprets Mozart's relationship with his father as the core of his creative drive
@@ -218,11 +218,11 @@ Mozart's thinking about formal balance also invites cross-cultural comparison wi
 
 ## 子条目索引 / Sub-entry Index
 
-- [古典完美 / Classical Perfection](concepts/classical-perfection.md)
-- [歌剧革新 / Opera Innovation](concepts/opera-innovation.md)
-- [旋律天才 / Melodic Genius](concepts/melodic-genius.md)
-- [形式均衡 / Formal Balance](concepts/formal-balance.md)
-- [神童神话 / Child Prodigy Myth](concepts/child-prodigy-myth.md)
+- [古典完美 / Classical Perfection](../../../../社会学/学派/古典社会学/涂尔干/README.md)
+- [歌剧革新 / Opera Innovation](概念/歌剧革新.md)
+- [旋律天才 / Melodic Genius](概念/旋律天才.md)
+- [形式均衡 / Formal Balance](概念/形式均衡.md)
+- [神童神话 / Child Prodigy Myth](概念/神童神话.md)
 - [著作年表 / Works Bibliography](著作.md)
 - [生平大事记 / Biographical Timeline](时间线.md)
 - [阅读指南 / Reading Guide](阅读.md)

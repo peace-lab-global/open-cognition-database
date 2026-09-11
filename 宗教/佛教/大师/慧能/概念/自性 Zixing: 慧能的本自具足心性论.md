@@ -4,7 +4,13 @@ title: "自性 Zixing: 慧能的本自具足心性论"
 type: concept
 parent: huineng
 domain: 宗教
-tags: [self-nature, zixing, Buddha-nature, tathagatagarbha, innate-enlightenment, Chan]
+tags:
+  - self-nature
+  - zixing
+  - buddha-nature
+  - tathagatagarbha
+  - innate-enlightenment
+  - chan
 ---
 
 # 自性 Zixing / Self-Nature

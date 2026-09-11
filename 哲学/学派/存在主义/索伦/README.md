@@ -9,14 +9,13 @@ era: modern
 birth: 1813
 death: 1855
 tags:
-  - 存在主义
+  - existentialism
   - 信仰
   - 焦虑
   - 主观真理
   - 个体性
   - 反讽
   - 间接沟通
-  - existentialism
   - faith
   - anxiety
   - subjective-truth

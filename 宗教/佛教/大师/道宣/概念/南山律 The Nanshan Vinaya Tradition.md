@@ -5,7 +5,12 @@ type: concept
 domain: 宗教
 school: buddhism-vinaya
 parent: [[../README|道宣]]
-tags: [南山律, 律宗, Vinaya, Nanshan, 终南山]
+tags:
+  - 南山律
+  - 律宗
+  - vinaya
+  - nanshan
+  - 终南山
 ---
 
 # 南山律 · The Nanshan Vinaya Tradition (Nánshān Lǜ)

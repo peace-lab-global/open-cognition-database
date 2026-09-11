@@ -2,7 +2,7 @@
 // 应用 /tmp/rename-map.json 中的 git mv 操作。
 // 顺序: 1) 所有文件 mv  2) 所有目录 mv (按深度倒序, 深的先动)
 const fs = require('fs');
-const { execSync } = require('child_process');
+const { execFileSync } = require('child_process');
 const path = require('path');
 
 const ROOT = '/Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition';
@@ -28,7 +28,7 @@ function gitMv(oldPath, newPath) {
     return;
   }
   try {
-    execSync(`git mv -- ${JSON.stringify(oldPath)} ${JSON.stringify(newPath)}`, {
+    execFileSync('git', ['mv', '--', oldPath, newPath], {
       cwd: ROOT, stdio: ['ignore', 'pipe', 'pipe'],
     });
     ok++;

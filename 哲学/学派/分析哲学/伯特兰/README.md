@@ -112,10 +112,10 @@ sub-entries:
 ## 重要概念 / Key Concepts
 
 1. **逻辑原子主义 / Logical Atomism** — 世界由简单事实构成，语言映射事实的逻辑结构 → [logical-atomism](概念/逻辑原子主义.md)
-2. **描述理论 / Theory of Descriptions** — 限定描述的逻辑分析 → [theory-of-descriptions](concepts/theory-of-descriptions.md)
-3. **类型论 / Theory of Types** — 解决悖论的分层逻辑系统 → [types-theory](concepts/types-theory.md)
-4. **感觉材料 / Sense-Data** — 认识的直接对象 → [sense-data](concepts/sense-data.md)
-5. **分析方法 / Analytic Method** — 从常识到逻辑结构的哲学方法 → [analytic-method](concepts/analytic-method.md)
+2. **描述理论 / Theory of Descriptions** — 限定描述的逻辑分析 → [theory-of-descriptions](../../../../心理学/学派/依恋理论/README.md)
+3. **类型论 / Theory of Types** — 解决悖论的分层逻辑系统 → [types-theory](概念/类型论.md)
+4. **感觉材料 / Sense-Data** — 认识的直接对象 → [sense-data](../../苏格兰常识学派/托马斯/README.md)
+5. **分析方法 / Analytic Method** — 从常识到逻辑结构的哲学方法 → [analytic-method](README.md)
 6. **罗素悖论 / Russell's Paradox** — 动摇朴素集合论的逻辑悖论
 7. **中立一元论 / Neutral Monism** — 心与物是同一材料的不同排列
 8. **摹状词 / Descriptions** — 限定与不限定描述的逻辑区分
@@ -168,9 +168,9 @@ Yogacara similarly uses precise analytic methods to deconstruct everyday cogniti
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [怀特海 Whitehead](../whitehead/README.md) `[合作/collaboration]` 《数学原理》的共同作者
-- [维特根斯坦 Wittgenstein](../wittgenstein/README.md) `[师承/student]` 逻辑原子主义的分歧
-- [卡尔纳普 Carnap](../carnap/README.md) `[影响/influence]` 描述理论对逻辑经验主义的影响
+- [怀特海 Whitehead](../怀特海/README.md) `[合作/collaboration]` 《数学原理》的共同作者
+- [维特根斯坦 Wittgenstein](../维特根斯坦/README.md) `[师承/student]` 逻辑原子主义的分歧
+- [卡尔纳普 Carnap](../卡尔纳普.md) `[影响/influence]` 描述理论对逻辑经验主义的影响
 - [量论 · Pramana](../../../../宗教/佛教/概念/cognitive-theory/量论.md) `[对照/contrast]` 知识的来源与有效性
 - [二谛 · Satyadvaya](../../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` 逻辑分析层面 vs 日常理解层面
 
@@ -196,10 +196,10 @@ Yogacara similarly uses precise analytic methods to deconstruct everyday cogniti
 | 条目 / Entry | 主题 / Topic |
 |---|---|
 | [logical-atomism](概念/逻辑原子主义.md) | 逻辑原子主义 / Logical Atomism |
-| [theory-of-descriptions](concepts/theory-of-descriptions.md) | 描述理论 / Theory of Descriptions |
-| [types-theory](concepts/types-theory.md) | 类型论 / Theory of Types |
-| [sense-data](concepts/sense-data.md) | 感觉材料 / Sense-Data |
-| [analytic-method](concepts/analytic-method.md) | 分析方法 / Analytic Method |
+| [theory-of-descriptions](../../../../心理学/学派/依恋理论/README.md) | 描述理论 / Theory of Descriptions |
+| [types-theory](概念/类型论.md) | 类型论 / Theory of Types |
+| [sense-data](../../苏格兰常识学派/托马斯/README.md) | 感觉材料 / Sense-Data |
+| [analytic-method](README.md) | 分析方法 / Analytic Method |
 | [works](著作.md) | 完整著作列表 / Complete works list |
 | [timeline](时间线.md) | 生平年表 / Biographical timeline |
 | [reading-list](阅读.md) | 进阶阅读 / Advanced reading |

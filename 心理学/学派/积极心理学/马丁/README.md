@@ -20,12 +20,11 @@ aliases:
   - 马丁·塞利格曼
 tags:
   - 习得性无助
-  - 积极心理学
+  - positive-psychology
   - PERMA模型
   - 性格优势
   - 真实幸福
   - learned-helplessness
-  - positive-psychology
   - perma-model
   - character-strengths
   - authentic-happiness
@@ -158,9 +157,9 @@ During this period, Seligman also engaged deeply in applied projects: co-develop
 ## 重要概念 / Key Concepts
 
 ### 1. 习得性无助 / Learned Helplessness
-当有机体反复经历不可控的负面事件后，形成「无论我做什么都无法改变结果」的预期，从而停止尝试。这是理解抑郁症的核心认知模型。详见 [→ concepts/learned-helplessness](concepts/learned-helplessness.md)。
+当有机体反复经历不可控的负面事件后，形成「无论我做什么都无法改变结果」的预期，从而停止尝试。这是理解抑郁症的核心认知模型。详见 [→ concepts/learned-helplessness](概念/习得性无助.md)。
 
-When an organism repeatedly experiences uncontrollable negative events, it forms the expectation that "nothing I do can change the outcome" and stops trying. This is a core cognitive model for understanding depression. See [→ concepts/learned-helplessness](concepts/learned-helplessness.md).
+When an organism repeatedly experiences uncontrollable negative events, it forms the expectation that "nothing I do can change the outcome" and stops trying. This is a core cognitive model for understanding depression. See [→ concepts/learned-helplessness](概念/习得性无助.md).
 
 ### 2. 解释风格 / Explanatory Style
 个体对事件原因的习惯性解释方式，包括三个维度：内部/外部（personalization）、稳定/暂时（permanence）、普遍/特定（pervasiveness）。悲观风格增加抑郁风险，乐观风格起保护作用。
@@ -168,19 +167,19 @@ When an organism repeatedly experiences uncontrollable negative events, it forms
 An individual's habitual way of explaining event causes, across three dimensions: internal/external (personalization), stable/temporary (permanence), global/specific (pervasiveness). Pessimistic style increases depression risk; optimistic style is protective.
 
 ### 3. 积极心理学 / Positive Psychology
-用科学方法研究使生活值得过的因素——积极体验、积极特质和积极制度。不是替代传统心理学，而是使之完整。详见 [→ concepts/positive-psychology](concepts/positive-psychology.md)。
+用科学方法研究使生活值得过的因素——积极体验、积极特质和积极制度。不是替代传统心理学，而是使之完整。详见 [→ concepts/positive-psychology](../米哈里/README.md)。
 
-The scientific study of what makes life worth living—positive experiences, positive traits, and positive institutions. Not a replacement for traditional 心理学 but its completion. See [→ concepts/positive-psychology](concepts/positive-psychology.md).
+The scientific study of what makes life worth living—positive experiences, positive traits, and positive institutions. Not a replacement for traditional 心理学 but its completion. See [→ concepts/positive-psychology](../米哈里/README.md).
 
 ### 4. PERMA幸福模型 / PERMA Well-being Model
-幸福的五个不可化约维度：积极情绪（P）、投入（E）、关系（R）、意义（M）、成就（A）。蓬勃发展是五个维度的综合实现。详见 [→ concepts/well-being-theory](concepts/well-being-theory.md)。
+幸福的五个不可化约维度：积极情绪（P）、投入（E）、关系（R）、意义（M）、成就（A）。蓬勃发展是五个维度的综合实现。详见 [→ concepts/well-being-theory](../../../../认知系统/学派/自然决策/斯威勒/README.md)。
 
-Five irreducible dimensions of well-being: Positive Emotion, Engagement, Relationships, Meaning, Accomplishment. Flourishing is the combined realization of all five. See [→ concepts/well-being-theory](concepts/well-being-theory.md).
+Five irreducible dimensions of well-being: Positive Emotion, Engagement, Relationships, Meaning, Accomplishment. Flourishing is the combined realization of all five. See [→ concepts/well-being-theory](../../../../认知系统/学派/自然决策/斯威勒/README.md).
 
 ### 5. 性格优势与美德 / Character Strengths and Virtues
-六大美德（智慧、勇气、仁爱、正义、节制、超越）和24种性格优势的跨文化分类系统。标志性优势（signature strengths）是个人最突出的3-5种优势。详见 [→ concepts/character-strengths](concepts/character-strengths.md)。
+六大美德（智慧、勇气、仁爱、正义、节制、超越）和24种性格优势的跨文化分类系统。标志性优势（signature strengths）是个人最突出的3-5种优势。详见 [→ concepts/character-strengths](概念/性格优势与美德.md)。
 
-A cross-cultural classification of six virtues (wisdom, courage, humanity, justice, temperance, transcendence) and 24 character strengths. Signature strengths are an individual's top 3–5 strengths. See [→ concepts/character-strengths](concepts/character-strengths.md).
+A cross-cultural classification of six virtues (wisdom, courage, humanity, justice, temperance, transcendence) and 24 character strengths. Signature strengths are an individual's top 3–5 strengths. See [→ concepts/character-strengths](概念/性格优势与美德.md).
 
 ### 6. 习得性乐观 / Learned Optimism
 通过ABCDE技术（逆境-信念-后果-反驳-激活）训练更灵活、更有建设性的解释风格。乐观不是天赋，而是可以习得的技能。详见 [→ concepts/learned-optimism](概念/习得性乐观.md)。
@@ -362,10 +361,10 @@ Zhuangzi advocates "free and easy wandering"—transcending worldly judgments of
 
 ## 子条目索引 / Sub-entry Index
 
-- [积极心理学 / Positive Psychology](concepts/positive-psychology.md)
-- [习得性无助 / Learned Helplessness](concepts/learned-helplessness.md)
-- [性格优势与美德 / Character Strengths and Virtues](concepts/character-strengths.md)
-- [幸福理论·PERMA模型 / Well-being Theory · PERMA Model](concepts/well-being-theory.md)
+- [积极心理学 / Positive Psychology](../米哈里/README.md)
+- [习得性无助 / Learned Helplessness](概念/习得性无助.md)
+- [性格优势与美德 / Character Strengths and Virtues](概念/性格优势与美德.md)
+- [幸福理论·PERMA模型 / Well-being Theory · PERMA Model](../../../../认知系统/学派/自然决策/斯威勒/README.md)
 - [习得性乐观 / Learned Optimism](概念/习得性乐观.md)
 - [关键著作年表 / Key Works Chronology](著作.md)
 - [生平大事年表 / Life Timeline](时间线.md)

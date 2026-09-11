@@ -7,7 +7,16 @@ school: buddhism-vajrayana
 era: medieval
 birth: 982
 death: 1054
-tags: [Atisa, Kadam, Lamrim, Lojong, bodhicitta, three-scopes, vinaya, Tibet, Vikramasila]
+tags:
+  - atisa
+  - kadam
+  - lamrim
+  - lojong
+  - bodhicitta
+  - three-scopes
+  - vinaya
+  - tibet
+  - vikramasila
 aliases: ["Atiśa Dīpaṃkara Śrījñāna", "燃灯智", "阿底峡尊者", "觉沃杰", "Jo-bo-rje"]
 sources: ["Bodhipathapradīpa", "Lamrim", "Lojong"]
 cross_refs: ["tsongkhapa", "padmasambhava", "nagarjuna", "santideva", "dromtonpa"]
@@ -64,7 +73,7 @@ children: ["concepts/three-scopes", "concepts/bodhicitta", "concepts/mind-traini
 
 **All practitioners are categorized into three scopes based on their motivation and goal: the lower scope (seeking better rebirth), the middle scope (seeking personal liberation), and the higher scope (seeking enlightenment for all beings). These are not parallel options but progressive stages — the higher scope necessarily includes the lower and middle, while the lower scopes are incomplete without aspiring to the higher.**
 
-详见 [三士道](concepts/three-scopes.md)。
+详见 [三士道](概念/三士道 Three Scopes: 阿底峡的修行次第.md)。
 
 ### 2. 菩提心 Bodhicitta (菩提心)
 
@@ -72,7 +81,7 @@ children: ["concepts/three-scopes", "concepts/bodhicitta", "concepts/mind-traini
 
 **Bodhicitta — the altruistic aspiration to attain enlightenment for the benefit of all sentient beings — is the root motivation and central goal of Mahayana practice. Atiśa emphasized two types: aspirational bodhicitta and engaged bodhicitta, and systematically taught practical methods for its cultivation, including the "seven-fold cause and effect" and "exchanging self and others."**
 
-详见 [菩提心](concepts/bodhicitta.md)。
+详见 [菩提心](../宗喀巴/概念/菩提心 Bodhicitta: 一切修行的核心.md)。
 
 ### 3. 修心七要 Lojong (修心七要)
 
@@ -80,7 +89,7 @@ children: ["concepts/three-scopes", "concepts/bodhicitta", "concepts/mind-traini
 
 **The Seven Points of Mind Training condense profound Mahayana teachings into seven actionable guidelines: (1) preliminary practices; (2) main practice of bodhicitta; (3) transforming adverse conditions into the path; (4) integrating practice into one's entire life; (5) the measure of mind training; (6) commitments of mind training; (7) precepts of mind training. The core spirit is to transform adversity, afflictions, and suffering in daily life into aids for practice.**
 
-详见 [修心七要](concepts/mind-training.md)。
+详见 [修心七要](../../../../研究/01-稳定培养/README.md)。
 
 ### 4. 戒律复兴 Vinaya Revival (戒律复兴)
 
@@ -88,7 +97,7 @@ children: ["concepts/three-scopes", "concepts/bodhicitta", "concepts/mind-traini
 
 **Upon arriving in Tibet, Atiśa confronted the chaotic state of the "later dissemination" of Buddhism — abuse of tantric practices, lax monastic discipline, and antagonism between sutra and tantra. Through gentle yet firm methods, he reformed the situation by emphasizing the importance of vinaya, regulating the stages of tantric practice, and harmonizing the relationship between sutra and tantra, laying the foundation for the healthy development of Tibetan Buddhism.**
 
-详见 [戒律复兴](concepts/vinaya-revival.md)。
+详见 [戒律复兴](../法显/README.md)。
 
 ### 5. 噶当派 Kadam School (噶当派)
 
@@ -96,7 +105,7 @@ children: ["concepts/three-scopes", "concepts/bodhicitta", "concepts/mind-traini
 
 **The Kadam school, founded by Atiśa, takes its name from "bka' gdams" — meaning that all of the Buddha's words are regarded as practical instructions. The Kadam school emphasizes graduated practice, integration of sutra and tantra, emphasis on study and discipline, becoming the direct predecessor of Tsongkhapa's Gelug school.**
 
-详见 [噶当派](concepts/kadam-school.md)。
+详见 [噶当派](概念/噶当派 Kadam School: 阿底峡创立的佛语教授传承.md)。
 
 ### 6. 善知识 Kalyāṇamitra (善知识)
 
@@ -271,7 +280,7 @@ children: ["concepts/three-scopes", "concepts/bodhicitta", "concepts/mind-traini
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **佛教内部**: [宗喀巴](../宗喀巴.md) — 直接继承者；[莲花生](../莲花生大士.md) — 前后弘期互补；[寂天](../寂天.md) — 菩提心教法来源；[龙树](../龙树.md) — 中观见地来源
-- **学派**: [噶当派](concepts/kadam-school.md) — 创始人；[密乘](../schools/vajrayana.md) — 复兴者
+- **学派**: [噶当派](概念/噶当派 Kadam School: 阿底峡创立的佛语教授传承.md) — 创始人；[密乘](../莲花生大士/README.md) — 复兴者
 - **哲学**: 次第认识论、教育哲学、道德动机理论
 - **心理学**: 慈悲冥想、认知重构、心理韧性
 - **教育学**: 渐进教学法、全人教育、师徒制
@@ -281,11 +290,11 @@ children: ["concepts/three-scopes", "concepts/bodhicitta", "concepts/mind-traini
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [三士道 Tri-scope Path](concepts/three-scopes.md) — 修行次第的三层架构
-- [菩提心 Bodhicitta](concepts/bodhicitta.md) — 大乘修行的根本动力
-- [修心七要 Lojong](concepts/mind-training.md) — 七项修心要诀
-- [戒律复兴 Vinaya Revival](concepts/vinaya-revival.md) — 藏传佛教的戒律整顿
-- [噶当派 Kadam School](concepts/kadam-school.md) — "佛语教授"的传承学派
+- [三士道 Tri-scope Path](概念/三士道 Three Scopes: 阿底峡的修行次第.md) — 修行次第的三层架构
+- [菩提心 Bodhicitta](../宗喀巴/概念/菩提心 Bodhicitta: 一切修行的核心.md) — 大乘修行的根本动力
+- [修心七要 Lojong](../../../../研究/01-稳定培养/README.md) — 七项修心要诀
+- [戒律复兴 Vinaya Revival](../法显/README.md) — 藏传佛教的戒律整顿
+- [噶当派 Kadam School](概念/噶当派 Kadam School: 阿底峡创立的佛语教授传承.md) — "佛语教授"的传承学派
 - [著作目录](著作.md) — 完整著作列表与考证
 - [年表](时间线.md) — 生平与历史语境
 - [进阶阅读](阅读.md) — 分类书单

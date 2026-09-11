@@ -7,7 +7,12 @@ school: safety-science
 era: modern
 birth: 1941
 death: 2024
-tags: [safety-II, ETTO-principle, FRAM, CREAM, resilience-engineering]
+tags:
+  - safety-ii
+  - etto-principle
+  - fram
+  - cream
+  - resilience-engineering
 aliases: [埃里克·霍纳格尔, Erik Hollnagel]
 sources:
   - "Safety-I and Safety-II (2014)"

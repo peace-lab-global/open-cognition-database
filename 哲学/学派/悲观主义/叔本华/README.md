@@ -15,7 +15,7 @@ tags:
   - 形而上学
   - pessimism
   - will-philosophy
-  - 美学
+  - aesthetics
   - compassion-ethics
   - metaphysics
   - denial-of-will
@@ -319,13 +319,13 @@ The Yogācāra school's doctrine of vijñaptimātra ("representation-only") — 
 
 | 关联方向 | 人物/传统 | 关系类型 | 说明 |
 |----------|----------|----------|------|
-| 德国观念论 | [康德 · Immanuel Kant](../../german-idealism/kant/康德.md) | 继承/批判 | 继承物自体/现象区分，将物自体等同于意志 |
+| 德国观念论 | [康德 · Immanuel Kant](../../德国唯心论/康德/README.md) | 继承/批判 | 继承物自体/现象区分，将物自体等同于意志 |
 | 存在主义 | [尼采 · Friedrich Nietzsche](../../存在主义/尼采.md) | 发展/批判 | 早期师从，后以权力意志批判生存意志 |
 | 精神分析 | [弗洛伊德 · Sigmund Freud](../../../心理学/学派/精神分析/西格蒙德/freud.md) | 平行 | 无意识驱力与意志概念呼应 |
 | 佛教哲学 | [四圣谛](../../../../宗教/传统/佛教/四圣谛与八正道.md) | 结构平行 | 苦/集/灭/道与意志/悲观/否定/禁欲 |
 | 分析哲学 | [维特根斯坦 · Ludwig Wittgenstein](../../分析哲学/维特根斯坦.md) | 呼应 | "可说/不可说"与意志-表象结构 |
 | 生命哲学 | [柏格森 · Henri Bergson](../../continental/bergson/bergson.md) | 继承/转化 | 生命冲动（élan vital）继承并转化意志概念 |
-| 神经科学 | [达马西奥 · Antonio Damasio](../../../cognitive-science/damasio.md) | 呼应 | 躯体标记理论与理性作为意志仆从 |
+| 神经科学 | [达马西奥 · Antonio Damasio](../../../../心理学/学派/认知心理学/达玛西奥/README.md) | 呼应 | 躯体标记理论与理性作为意志仆从 |
 | 动物伦理 | [辛格 · Peter Singer](../../../ethics/singer.md) | 先驱 | 同情伦理扩展到动物领域 |
 
 ---

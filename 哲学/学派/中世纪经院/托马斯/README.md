@@ -127,6 +127,6 @@ Thomas Aquinas (1225–1274), the "Angelic Doctor," achieved the greatest mediev
 
 ## 十、关联条目
 
-- [司各脱 Scotus](../scotus/README.md) `[后继批判]` 类比与单义之争
-- [亚里士多德 Aristotle](../../ancient/aristotle/README.md) `[继承]` 亚里士多德哲学与基督教神学的综合
-- [奥古斯丁 Augustine](../patristics/augustine/README.md) `[继承]` 基督教神学传统
+- [司各脱 Scotus](../邓斯/README.md) `[后继批判]` 类比与单义之争
+- [亚里士多德 Aristotle](../../../../README.md) `[继承]` 亚里士多德哲学与基督教神学的综合
+- [奥古斯丁 Augustine](../../../../README.md) `[继承]` 基督教神学传统

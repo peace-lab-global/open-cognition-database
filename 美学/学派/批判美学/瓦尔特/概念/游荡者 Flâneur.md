@@ -4,7 +4,12 @@ title: 游荡者 Flâneur
 type: concept
 domain: 美学
 parent: 美学.critical-aesthetics.benjamin
-tags: [游荡者, 波德莱尔, 现代性, 都市, 人群]
+tags:
+  - 游荡者
+  - 波德莱尔
+  - modernity
+  - 都市
+  - 人群
 ---
 
 # 游荡者 / Flâneur

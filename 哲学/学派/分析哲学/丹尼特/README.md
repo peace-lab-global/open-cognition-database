@@ -128,6 +128,6 @@ Daniel Dennett (1942–2024) was one of the most influential American philosophe
 
 ## 十、关联条目
 
-- [麦金 McGinn](../mcginn/README.md) `[论敌]` 新神秘主义 vs 自然主义
-- [查尔默斯 Chalmers](../chalmers/README.md) `[论敌]` 硬问题 vs 取消主义
-- [内格尔 Nagel](../nagel/README.md) `[论敌]` 第一人称 vs 第三人称
+- [麦金 McGinn](../麦金/README.md) `[论敌]` 新神秘主义 vs 自然主义
+- [查尔默斯 Chalmers](../../../../伦理政治/学派/德性伦理学/阿拉斯戴尔/README.md) `[论敌]` 硬问题 vs 取消主义
+- [内格尔 Nagel](../内格尔/README.md) `[论敌]` 第一人称 vs 第三人称

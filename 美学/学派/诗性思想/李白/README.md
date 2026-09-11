@@ -11,7 +11,7 @@ tags:
   - 中国诗歌
   - 道家美学
   - 唐代文学
-  - 自然主义
+  - naturalism
   - 自由精神
   - 诗仙
 aliases:

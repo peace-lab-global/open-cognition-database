@@ -5,7 +5,13 @@ type: concept
 domain: 宗教
 school: buddhism-chan
 era: ancient
-tags: [教外别传, 不立文字, 以心传心, 法脉传承, 达摩禅法, Bodhidharma]
+tags:
+  - 教外别传
+  - 不立文字
+  - 以心传心
+  - 法脉传承
+  - 达摩禅法
+  - bodhidharma
 parent: ../README.md
 related:
   - 顿悟.md

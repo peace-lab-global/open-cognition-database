@@ -7,7 +7,18 @@ school: psychoanalysis
 era: modern
 birth: 1856
 death: 1939
-tags: [精神分析, 潜意识, 人格结构, 防御机制, 梦的解析, 性心理发展, psychoanalysis, unconscious, personality-structure, defense-mechanisms, dream-interpretation, psychosexual-development]
+tags:
+  - psychoanalysis
+  - 潜意识
+  - 人格结构
+  - 防御机制
+  - 梦的解析
+  - 性心理发展
+  - unconscious
+  - personality-structure
+  - defense-mechanisms
+  - dream-interpretation
+  - psychosexual-development
 aliases: [弗洛伊德, Freud, Sigmund Freud, 佛洛伊德]
 sources: [梦的解析, 精神分析引论, 自我与本我, 文明及其不满]
 cross-refs: [jung, adler, nietzsche, erikson, van-der-kolk, william-james, lacan, anna-freud]
@@ -126,15 +137,15 @@ After World War I, Freud's theory underwent significant revision. *Beyond the Pl
 
 ## 重要概念 / Key Concepts
 
-1. **潜意识 / The Unconscious**：心理活动中不被意识觉察的部分，包含被压抑的欲望、创伤记忆和原始冲动。→ [详见子条目](concepts/unconscious.md) / The portion of mental activity not accessible to conscious awareness, containing repressed desires, traumatic memories, and primal drives.
+1. **潜意识 / The Unconscious**：心理活动中不被意识觉察的部分，包含被压抑的欲望、创伤记忆和原始冲动。→ [详见子条目](../../../技能/潜意识分析/SKILL.md) / The portion of mental activity not accessible to conscious awareness, containing repressed desires, traumatic memories, and primal drives.
 
-2. **压抑 / Repression**：将不可接受的冲动、记忆或欲望推入潜意识的心理过程，是最基本的防御机制。→ [详见子条目](concepts/repression.md) / The psychological process of pushing unacceptable impulses, memories, or desires into the unconscious; the most fundamental defense mechanism.
+2. **压抑 / Repression**：将不可接受的冲动、记忆或欲望推入潜意识的心理过程，是最基本的防御机制。→ [详见子条目](概念/压抑.md) / The psychological process of pushing unacceptable impulses, memories, or desires into the unconscious; the most fundamental defense mechanism.
 
-3. **俄狄浦斯情结 / Oedipus Complex**：儿童对异性父母的性爱欲望和对同性父母的竞争敌意，是人格发展的核心冲突。→ [详见子条目](concepts/oedipus-complex.md) / The child's sexual desire for the opposite-sex parent and competitive hostility toward the same-sex parent; the central conflict of personality development.
+3. **俄狄浦斯情结 / Oedipus Complex**：儿童对异性父母的性爱欲望和对同性父母的竞争敌意，是人格发展的核心冲突。→ [详见子条目](概念/俄狄浦斯情结.md) / The child's sexual desire for the opposite-sex parent and competitive hostility toward the same-sex parent; the central conflict of personality development.
 
-4. **梦的工作 / Dream-Work**：将潜意识欲望（隐意）转化为梦的显意的心理过程，包括凝缩、移置、象征和二次加工。→ [详见子条目](concepts/dream-work.md) / The psychological processes that transform unconscious wishes (latent content) into the manifest content of dreams, including condensation, displacement, symbolism, and secondary revision.
+4. **梦的工作 / Dream-Work**：将潜意识欲望（隐意）转化为梦的显意的心理过程，包括凝缩、移置、象征和二次加工。→ [详见子条目](概念/梦的工作.md) / The psychological processes that transform unconscious wishes (latent content) into the manifest content of dreams, including condensation, displacement, symbolism, and secondary revision.
 
-5. **防御机制 / Defense Mechanisms**：自我用以保护自身免受焦虑侵扰的无意识心理策略，包括压抑、投射、否认、合理化、反向形成等。→ [详见子条目](concepts/defense-mechanisms.md) / Unconscious psychological strategies used by the ego to protect against anxiety, including repression, projection, denial, rationalization, and reaction formation.
+5. **防御机制 / Defense Mechanisms**：自我用以保护自身免受焦虑侵扰的无意识心理策略，包括压抑、投射、否认、合理化、反向形成等。→ [详见子条目](概念/防御机制.md) / Unconscious psychological strategies used by the ego to protect against anxiety, including repression, projection, denial, rationalization, and reaction formation.
 
 6. **力比多 / Libido**：心理能量的核心形式，最初指性驱力，后扩展为广义的生命驱力 / The core form of psychic energy; originally referred to sexual drive, later expanded to mean the life drive broadly.
 
@@ -226,17 +237,17 @@ The Confucian ideal of "restraining oneself and returning to the rites" (克己�
 
 | 关联方向 / Connection | 思想家/领域 / Thinker/Field | 关系 / Relationship |
 |:---|:---|:---|
-| 精神分析后学 / Psychoanalytic Descendants | [荣格 Jung](../jung/README.md) | 从潜意识到集体无意识 / From the unconscious to the collective unconscious |
-| 个体心理学 / Individual Psychology | [阿德勒 Adler](../adler/README.md) | 从性驱力到社会兴趣与权力追求 / From sexual drive to social interest and power striving |
-| 发展心理学 / Developmental Psychology | [埃里克森 Erikson](../../developmental/erikson/README.md) | 从性心理发展到心理社会八阶段 / From psychosexual to psychosocial eight-stage development |
-| 结构主义精神分析 / Structuralist Psychoanalysis | [拉康 Lacan](../lacan/README.md) | "回归弗洛伊德"——以语言学重读潜意识 / "Return to Freud" — rereading the unconscious through linguistics |
+| 精神分析后学 / Psychoanalytic Descendants | [荣格 Jung](../../分析心理学/卡尔/README.md) | 从潜意识到集体无意识 / From the unconscious to the collective unconscious |
+| 个体心理学 / Individual Psychology | [阿德勒 Adler](../../个体心理学/阿尔弗雷德/README.md) | 从性驱力到社会兴趣与权力追求 / From sexual drive to social interest and power striving |
+| 发展心理学 / Developmental Psychology | [埃里克森 Erikson](../../发展心理学/埃里克/README.md) | 从性心理发展到心理社会八阶段 / From psychosexual to psychosocial eight-stage development |
+| 结构主义精神分析 / Structuralist Psychoanalysis | [拉康 Lacan](../雅克.md) | "回归弗洛伊德"——以语言学重读潜意识 / "Return to Freud" — rereading the unconscious through linguistics |
 | 存在主义哲学 / Existentialist Philosophy | [尼采 Nietzsche](../../../../哲学/学派/存在主义/尼采/README.md) | 权力意志与潜意识驱动力的哲学先驱 / Philosophical precursor of will to power and unconscious drives |
-| 创伤神经科学 / Trauma Neuroscience | [范德科尔克 Van der Kolk](../../trauma-psychology/van-der-kolk/README.md) | 从精神分析创伤理论到身体导向的神经科学 / From psychoanalytic trauma theory to body-oriented neuroscience |
+| 创伤神经科学 / Trauma Neuroscience | [范德科尔克 Van der Kolk](../../创伤心理学/贝塞尔/README.md) | 从精神分析创伤理论到身体导向的神经科学 / From psychoanalytic trauma theory to body-oriented neuroscience |
 | 佛教认知理论 / Buddhist Cognitive Theory | [种子与熏习 Bīja and Vāsanā](../../../../宗教/佛教/概念/cognitive-theory/种子与熏习.md) | 早期经验的持久影响——平行比较 / Enduring influence of early experience — parallel comparison |
 | 佛教认知理论 / Buddhist Cognitive Theory | [八识体系 Eight Consciousnesses](../../../../宗教/佛教/概念/cognitive-theory/八识体系.md) | 阿赖耶识与潜意识的储存功能 / The storage function of ālaya-vijñāna and the unconscious |
 | 功能主义心理学 / Functionalist Psychology | [詹姆斯 William James](../../功能主义/威廉-william-james/README.md) | 同时代开创者——潜意识与意识流的不同切入 / Contemporary founders — unconscious vs. stream of consciousness |
 | 批判理论 / Critical Theory | 法兰克福学派 Frankfurt School | 精神分析与马克思主义的综合 / Synthesis of psychoanalysis and Marxism |
-| 文学批评 / Literary Criticism | [精神分析批评 Psychoanalytic Criticism](../../../文学/criticism/psychoanalytic/README.md) | 精神分析视角在文学与文化研究中的应用 / Application of psychoanalytic perspective in literary and cultural studies |
+| 文学批评 / Literary Criticism | [精神分析批评 Psychoanalytic Criticism](../../../../文学/概念/精神分析文论.md) | 精神分析视角在文学与文化研究中的应用 / Application of psychoanalytic perspective in literary and cultural studies |
 
 ## 进阶阅读 / Further Reading
 
@@ -260,11 +271,11 @@ The Confucian ideal of "restraining oneself and returning to the rites" (克己�
 
 | 子条目 / Sub-entry | 主题 / Topic | 路径 / Path |
 |:---|:---|:---|
-| 潜意识 / The Unconscious | 潜意识理论与心理地形学 / Unconscious theory and psychic topography | [concepts/unconscious.md](concepts/unconscious.md) |
-| 压抑 / Repression | 压抑机制与被压抑物的回归 / Repression mechanism and the return of the repressed | [concepts/repression.md](concepts/repression.md) |
-| 俄狄浦斯情结 / Oedipus Complex | 三角关系、阉割焦虑与认同 / Triangular relations, castration anxiety, and identification | [concepts/oedipus-complex.md](concepts/oedipus-complex.md) |
-| 梦的工作 / Dream-Work | 凝缩、移置、象征与二次加工 / Condensation, displacement, symbolism, and secondary revision | [concepts/dream-work.md](concepts/dream-work.md) |
-| 防御机制 / Defense Mechanisms | 自我的无意识保护策略 / The ego's unconscious protective strategies | [concepts/defense-mechanisms.md](concepts/defense-mechanisms.md) |
+| 潜意识 / The Unconscious | 潜意识理论与心理地形学 / Unconscious theory and psychic topography | [concepts/unconscious.md](../../../技能/潜意识分析/SKILL.md) |
+| 压抑 / Repression | 压抑机制与被压抑物的回归 / Repression mechanism and the return of the repressed | [concepts/repression.md](概念/压抑.md) |
+| 俄狄浦斯情结 / Oedipus Complex | 三角关系、阉割焦虑与认同 / Triangular relations, castration anxiety, and identification | [concepts/oedipus-complex.md](概念/俄狄浦斯情结.md) |
+| 梦的工作 / Dream-Work | 凝缩、移置、象征与二次加工 / Condensation, displacement, symbolism, and secondary revision | [concepts/dream-work.md](概念/梦的工作.md) |
+| 防御机制 / Defense Mechanisms | 自我的无意识保护策略 / The ego's unconscious protective strategies | [concepts/defense-mechanisms.md](概念/防御机制.md) |
 
 ### 附属文件 / Supplementary Files
 - [著作年表 / Works Chronology](著作.md)

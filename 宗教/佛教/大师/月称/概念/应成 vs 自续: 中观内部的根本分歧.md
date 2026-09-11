@@ -5,7 +5,15 @@ type: concept
 parent: candrakirti
 domain: 宗教
 school: buddhism-madhyamaka-prasangika
-tags: [Prasangika, Svatantrika, Buddhapalita, Bhaviveka, Candrakirti, Santaraksita, Tsongkhapa, Madhyamaka]
+tags:
+  - prasangika
+  - svatantrika
+  - buddhapalita
+  - bhaviveka
+  - candrakirti
+  - santaraksita
+  - tsongkhapa
+  - madhyamaka
 ---
 
 # 应成 vs 自续 / Prasangika vs Svatantrika

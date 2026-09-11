@@ -4,7 +4,16 @@ title: "儒佛合一 Confucian-Buddhist Synthesis: 印光的分层融合思想"
 type: concept
 parent: yinguang
 domain: 宗教
-tags: [儒佛合一, 儒释道, 敦伦尽分, 印光, Confucianism, Buddhism, synthesis, syncretism, Chinese 宗教]
+tags:
+  - 儒佛合一
+  - 儒释道
+  - 敦伦尽分
+  - 印光
+  - confucianism
+  - buddhism
+  - synthesis
+  - syncretism
+  - Chinese-宗教
 ---
 
 # 儒佛合一 Confucian-Buddhist Synthesis

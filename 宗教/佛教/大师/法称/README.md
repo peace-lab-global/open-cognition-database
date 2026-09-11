@@ -7,7 +7,16 @@ school: buddhism-yogacara
 era: medieval
 birth: 600
 death: 660
-tags: [Pramana, epistemology, logic, Yogacara, apoha, momentariness, inference, perception, hetu-vidya]
+tags:
+  - pramana
+  - epistemology
+  - logic
+  - yogacara
+  - apoha
+  - momentariness
+  - inference
+  - perception
+  - hetu-vidya
 aliases: ["Dharmakīrti", "达摩基尔提", "法称论师"]
 sources: ["Pramanavarttika", "Nyayabindu", "Pramanaviniścaya", "Santanantarasiddhi", "Hetubindu", "Vadanyaya", "Sambandhapariksa"]
 cross_refs: ["dignaga", "isvarasena", "santarakshita", "kamalasila", "sakyabuddhi", "karnakagomin", "tsongkhapa", "frege", "wittgenstein"]
@@ -43,7 +52,7 @@ children: ["concepts/two-valid-cognitions", "concepts/particular-universal", "co
 
 **Only two valid means of cognition exist: perception (pratyakṣa) and inference (anumāna). All other purported means — testimony, analogy, etc. — are reducible to inference.**
 
-详见 [二量](concepts/two-valid-cognitions.md)。
+详见 [二量](../../../../社会学/学派/网络社会/卡斯特/README.md)。
 
 ### 2. 自相与共相 Svalakṣaṇa-Sāmānyalakṣaṇa
 
@@ -59,7 +68,7 @@ children: ["concepts/two-valid-cognitions", "concepts/particular-universal", "co
 
 **Concepts function not by referring to positive entities but by excluding others (anyāpoha). 'Cow' means 'not non-cow' — meaning arises through differentiation, not reference to universals.**
 
-详见 [Apoha 排除理论](concepts/apoha-theory.md)。
+详见 [Apoha 排除理论](概念/Apoha 排除理论: 法称的意义与概念哲学.md)。
 
 ### 4. 刹那灭 Kṣaṇikavāda
 
@@ -67,7 +76,7 @@ children: ["concepts/two-valid-cognitions", "concepts/particular-universal", "co
 
 **All real entities are momentary — to exist is to change, to be unchanging is to be unreal. Momentariness grounds the validity of perception: what is perceived is the unique particular of the present instant.**
 
-详见 [刹那灭](concepts/momentariness.md)。
+详见 [刹那灭](概念/刹那灭 Kṣaṇikavāda: 法称的刹那本体论.md)。
 
 ### 5. 因三相 Trirūpaliṅga
 
@@ -75,7 +84,7 @@ children: ["concepts/two-valid-cognitions", "concepts/particular-universal", "co
 
 **Valid inference requires a triple-character reason (trirūpaliṅga): the reason must be present in the subject, present in similar cases, and absent in dissimilar cases. Dharmakīrti refines this into three types of valid reason: non-apprehension, self-nature, and effect.**
 
-详见 [因三相](concepts/triple-character-reason.md)。
+详见 [因三相](概念/因三相 Trirūpaliṅga: 法称的有效推理理论.md)。
 
 ### 6. 量的可靠性与解脱论关联
 
@@ -227,7 +236,7 @@ children: ["concepts/two-valid-cognitions", "concepts/particular-universal", "co
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **佛教内部**: [陈那](../dignaga.md) — 量论创始人；[寂护](santarakshita.md) — 将量论引入西藏；[宗喀巴](../宗喀巴.md) — 藏传量论教育体系
+- **佛教内部**: [陈那](../陈那/README.md) — 量论创始人；[寂护](santarakshita.md) — 将量论引入西藏；[宗喀巴](../宗喀巴.md) — 藏传量论教育体系
 - **哲学**: [弗雷格](../../../哲学/学派/分析哲学/frege.md) — 指称理论；[维特根斯坦](../../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言与意义；[塞拉斯](../../../哲学/学派/分析哲学/sellars.md) — 所予神话
 - **学派**: [瑜伽行派](../../概念/foundational/唯识 Vijñaptimātratā.md) — 哲学基础；[经量部](../schools/sautrantika.md) — 方法论来源
 - **认知科学**: 概念形成、感知与概念化分离、预测编码
@@ -256,11 +265,11 @@ children: ["concepts/two-valid-cognitions", "concepts/particular-universal", "co
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [二量 Dve Pramāṇe](concepts/two-valid-cognitions.md) — 现量与比量的认识论基础
+- [二量 Dve Pramāṇe](../../../../社会学/学派/网络社会/卡斯特/README.md) — 现量与比量的认识论基础
 - [自相与共相](../../概念/foundational/判教 Doctrinal Classification.md) — 实在的二重结构
-- [Apoha 排除理论](concepts/apoha-theory.md) — 语义学的佛教路径
-- [刹那灭 Kṣaṇikavāda](concepts/momentariness.md) — 实在的刹那生灭性
-- [因三相 Trirūpaliṅga](concepts/triple-character-reason.md) — 有效推理的三重条件
+- [Apoha 排除理论](概念/Apoha 排除理论: 法称的意义与概念哲学.md) — 语义学的佛教路径
+- [刹那灭 Kṣaṇikavāda](概念/刹那灭 Kṣaṇikavāda: 法称的刹那本体论.md) — 实在的刹那生灭性
+- [因三相 Trirūpaliṅga](概念/因三相 Trirūpaliṅga: 法称的有效推理理论.md) — 有效推理的三重条件
 - [著作目录](著作.md) — 完整著作列表与考证
 - [年表](时间线.md) — 生平与历史语境
 - [进阶阅读](阅读.md) — 分类书单

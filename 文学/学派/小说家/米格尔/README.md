@@ -12,7 +12,7 @@ tags:
   - 西班牙文学
   - 文艺复兴
   - 骑士文学
-  - 现实主义
+  - realism
   - 元叙事
 aliases:
   - 米格尔·德·塞万提斯
@@ -110,7 +110,7 @@ Miguel de Cervantes Saavedra (1547–1616) is universally recognized as the foun
 
 - **承接**：中世纪骑士文学传统（被戏仿与超越）→ 伊拉斯谟的人文主义讽刺传统
 - **同代对话**：与洛佩·德·维加的戏剧革新并行，共同塑造西班牙黄金世纪
-- **下游文学**：[菲尔丁](../novelists/README.md)（《汤姆·琼斯》的直接继承）→ [陀思妥耶夫斯基](../novelists/dostoevsky/README.md)（多声部小说）→ [福楼拜](../novelists/README.md)（包法利夫人的堂吉诃德主义）→ [博尔赫斯](../novelists/README.md)（《皮埃尔·梅纳尔》的元叙事）→ [昆德拉](../novelists/README.md)（小说的智慧）
+- **下游文学**：[菲尔丁](../弗兰茨/README.md)（《汤姆·琼斯》的直接继承）→ [陀思妥耶夫斯基](../费奥多尔/README.md)（多声部小说）→ [福楼拜](../弗兰茨/README.md)（包法利夫人的堂吉诃德主义）→ [博尔赫斯](../弗兰茨/README.md)（《皮埃尔·梅纳尔》的元叙事）→ [昆德拉](../弗兰茨/README.md)（小说的智慧）
 - **哲学影响**：乌纳穆诺的"堂吉诃德哲学"、舍斯托夫的存在主义解读、理查德·罗蒂的反基础主义
 
 ## 七、当代影响 / Contemporary Influence

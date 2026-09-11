@@ -4,7 +4,15 @@ title: "翻译方法 Translation Method: 鸠摩罗什的意译哲学与译场制
 type: concept
 parent: kumarajiva
 domain: 宗教
-tags: [translation, 意译, free translation, 译场, translation assembly, Buddhist translation, 佛教翻译, dynamic equivalence]
+tags:
+  - translation
+  - 意译
+  - free-translation
+  - 译场
+  - translation-assembly
+  - buddhist-translation
+  - 佛教翻译
+  - dynamic-equivalence
 ---
 
 # 翻译方法 Translation Method / Kumārajīva's Approach to Translation

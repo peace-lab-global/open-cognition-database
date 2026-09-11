@@ -8,7 +8,7 @@ era: modern
 birth: 1907
 death: 1990
 tags:
-  - 依恋理论
+  - attachment-theory
   - 安全基地
   - 内部工作模型
   - 分离焦虑
@@ -16,7 +16,6 @@ tags:
   - 客体关系
   - 哀伤与丧失
   - 儿童发展
-  - attachment-theory
   - secure-base
   - internal-working-models
   - separation-anxiety
@@ -168,10 +167,10 @@ In the final two decades of his life, Bowlby devoted himself to clinical applica
 ## 重要概念 / Key Concepts
 
 1. **依恋行为系统（Attachment Behavioural System）** — 一种进化而来的、以维持与照顾者接近为目标的行为组织系统 → [concepts/attachment-theory](../../../概念/依恋.md)
-2. **安全基地（Secure Base）** — 可靠的照顾者为儿童提供的心理与物理"基地"，支撑探索行为 → [concepts/secure-base](concepts/secure-base.md)
-3. **内部工作模型（Internal Working Models）** — 基于依恋经验建构的关于自我与他人的无意识心理表征 → [concepts/internal-working-models](concepts/internal-working-models.md)
-4. **分离焦虑（Separation Anxiety）** — 与依恋对象分离时引发的阶段性痛苦反应 → [concepts/separation-anxiety](concepts/separation-anxiety.md)
-5. **母性剥夺（Maternal Deprivation）** — 婴幼儿期缺乏母亲或母亲替代者的敏感照顾所导致的发展损害 → [concepts/maternal-deprivation](concepts/maternal-deprivation.md)
+2. **安全基地（Secure Base）** — 可靠的照顾者为儿童提供的心理与物理"基地"，支撑探索行为 → [concepts/secure-base](概念/安全基地.md)
+3. **内部工作模型（Internal Working Models）** — 基于依恋经验建构的关于自我与他人的无意识心理表征 → [concepts/internal-working-models](概念/内部工作模型.md)
+4. **分离焦虑（Separation Anxiety）** — 与依恋对象分离时引发的阶段性痛苦反应 → [concepts/separation-anxiety](概念/分离焦虑.md)
+5. **母性剥夺（Maternal Deprivation）** — 婴幼儿期缺乏母亲或母亲替代者的敏感照顾所导致的发展损害 → [concepts/maternal-deprivation](概念/母性剥夺.md)
 6. **依恋类型（Attachment Patterns）** — 安斯沃思在鲍尔比理论基础上识别的安全型、回避型、焦虑-矛盾型、混乱型四种模式
 7. **哀伤与丧失（Grief and Loss）** — 依恋对象丧失后的心理反应过程，包括正常哀伤与病理性哀伤的区分
 8. **安全基地行为（Secure Base Behaviour）** — 儿童在安全基地与探索行为之间的动态平衡模式
@@ -313,10 +312,10 @@ This dialogue suggests a potential synthesis: psychological health may require b
 | 类型 / Type | 条目 / Entry | 简述 / Description |
 |------|------|------|
 | 概念 / Concept | [attachment-theory](../../../概念/依恋.md) | 依恋行为系统的进化基础、核心机制与类型学 / Evolutionary basis, core mechanisms, and typology of the attachment behavioural system |
-| 概念 / Concept | [secure-base](concepts/secure-base.md) | 安全基地的功能、发展意义与临床应用 / Secure base function, developmental significance, and clinical applications |
-| 概念 / Concept | [internal-working-models](concepts/internal-working-models.md) | 内部工作模型的形成、运作与修正机制 / Formation, operation, and modification of internal working models |
-| 概念 / Concept | [separation-anxiety](concepts/separation-anxiety.md) | 分离反应的三阶段模型与社会政策影响 / Three-phase model of separation response and social policy impact |
-| 概念 / Concept | [maternal-deprivation](concepts/maternal-deprivation.md) | 母性剥夺假说的提出、争议与当代修正 / Proposal, controversy, and contemporary revision of the maternal deprivation hypothesis |
+| 概念 / Concept | [secure-base](概念/安全基地.md) | 安全基地的功能、发展意义与临床应用 / Secure base function, developmental significance, and clinical applications |
+| 概念 / Concept | [internal-working-models](概念/内部工作模型.md) | 内部工作模型的形成、运作与修正机制 / Formation, operation, and modification of internal working models |
+| 概念 / Concept | [separation-anxiety](概念/分离焦虑.md) | 分离反应的三阶段模型与社会政策影响 / Three-phase model of separation response and social policy impact |
+| 概念 / Concept | [maternal-deprivation](概念/母性剥夺.md) | 母性剥夺假说的提出、争议与当代修正 / Proposal, controversy, and contemporary revision of the maternal deprivation hypothesis |
 | 著作 / Works | [works](著作.md) | 鲍尔比著作年表 / Chronological bibliography of Bowlby's works |
 | 年表 / Timeline | [timeline](时间线.md) | 鲍尔比生平年表 / Biographical timeline of Bowlby's life |
 | 阅读 / Reading | [reading-list](阅读.md) | 推荐阅读清单 / Recommended reading list |

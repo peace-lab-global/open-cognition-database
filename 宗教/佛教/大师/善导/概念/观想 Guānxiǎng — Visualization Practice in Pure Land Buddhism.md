@@ -5,7 +5,13 @@ type: concept
 domain: 宗教
 school: buddhism-pure-land
 parent: 宗教.buddhism.master.shandao.readme
-tags: [观想, Visualization, 十六观, Sixteen Contemplations, 观经, Contemplation Sūtra]
+tags:
+  - 观想
+  - visualization
+  - 十六观
+  - sixteen-contemplations
+  - 观经
+  - Contemplation-Sūtra
 ---
 
 # 观想 Visualization

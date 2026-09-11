@@ -9,9 +9,9 @@ birth: 1921
 death: 2002
 tags:
   - 正义论
-  - 社会契约
-  - 政治哲学
-  - 自由主义
+  - social-contract
+  - political-philosophy
+  - liberalism
   - 无知之幕
   - 差别原则
   - 重叠共识
@@ -19,9 +19,6 @@ tags:
   - 反思平衡
   - 政治自由主义
   - justice-theory
-  - social-contract
-  - political-philosophy
-  - liberalism
   - veil-of-ignorance
   - difference-principle
   - overlapping-consensus
@@ -266,13 +263,13 @@ Meaningful dialogue exists between Rawls's political liberalism and East Asian i
 ## 跨学科关联 / Interdisciplinary Connections
 
 ### 哲学 / Philosophy
-- [康德 Kant](../deontology/kant/README.md) `[继承/inherits]` — 自律、人是目的、定言命令的正义论转化
-- [洛克 Locke](../locke/README.md) `[对话/dialogue]` — 社会契约论传统的现代重构
+- [康德 Kant](../../道义论/康德/README.md) `[继承/inherits]` — 自律、人是目的、定言命令的正义论转化
+- [洛克 Locke](../约翰/README.md) `[对话/dialogue]` — 社会契约论传统的现代重构
 - [诺齐克 Nozick](../../自由至上主义/nozick/README.md) `[对立/opposes]` — 持有正义 vs 分配正义的根本分歧
 - [哈贝马斯 Habermas] `[对话/dialogue]` — 审议民主与公共理性
 
 ### 经济学 / Economics
-- [森 Sen](../capability-approach/sen/README.md) `[批判/critiques]` — 从基本善到能力的范式转换
+- [森 Sen](../../能力方法/森/README.md) `[批判/critiques]` — 从基本善到能力的范式转换
 - [哈桑伊 Harsanyi] `[对立/opposes]` — 无知之幕下的最大最小 vs 期望效用最大化
 - 皮凯蒂（Piketty）`[应用/applies]` — 《21世纪资本论》中的分配正义经验数据
 

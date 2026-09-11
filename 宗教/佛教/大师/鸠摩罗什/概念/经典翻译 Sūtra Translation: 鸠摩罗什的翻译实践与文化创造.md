@@ -4,7 +4,16 @@ title: "经典翻译 Sūtra Translation: 鸠摩罗什的翻译实践与文化创
 type: concept
 parent: kumarajiva
 domain: 宗教
-tags: [sutra translation, 经典翻译, Buddhist Chinese, 佛教汉语, textual transmission, 文本传播, literary translation, 文学翻译, cultural creation]
+tags:
+  - sutra-translation
+  - 经典翻译
+  - buddhist-chinese
+  - 佛教汉语
+  - textual-transmission
+  - 文本传播
+  - literary-translation
+  - 文学翻译
+  - cultural-creation
 ---
 
 # 经典翻译 Sūtra Translation / Kumārajīva's Translation Practice and Cultural Creation

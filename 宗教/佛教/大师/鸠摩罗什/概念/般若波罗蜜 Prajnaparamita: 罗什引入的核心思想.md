@@ -4,7 +4,11 @@ title: "般若波罗蜜 Prajnaparamita: 罗什引入的核心思想"
 type: concept
 parent: kumarajiva
 domain: 宗教
-tags: [prajnaparamita, wisdom, perfection, Kumarajiva]
+tags:
+  - prajnaparamita
+  - wisdom
+  - perfection
+  - kumarajiva
 ---
 # 般若波罗蜜 / Perfection of Wisdom
 

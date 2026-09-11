@@ -5,7 +5,16 @@ type: concept
 domain: 宗教
 school: buddhism-rinzai
 parent: ../README.md
-tags: [软酥法, nanso, body-cultivation, 禅病, Zen sickness, 白隐, Hakuin, 气脉, somatic]
+tags:
+  - 软酥法
+  - nanso
+  - body-cultivation
+  - 禅病
+  - zen-sickness
+  - 白隐
+  - hakuin
+  - 气脉
+  - somatic
 ---
 
 # 软酥法 Soft-Butter Method (Nanso no Hō)

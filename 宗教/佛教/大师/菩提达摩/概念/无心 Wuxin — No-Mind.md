@@ -5,7 +5,14 @@ type: concept
 domain: 宗教
 school: buddhism-chan
 era: ancient
-tags: [无心, Wuxin, No-Mind, Mushin, 心性, 达摩禅法, Bodhidharma]
+tags:
+  - 无心
+  - wuxin
+  - no-mind
+  - mushin
+  - 心性
+  - 达摩禅法
+  - bodhidharma
 parent: ../README.md
 related:
   - wall-gazing.md

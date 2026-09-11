@@ -8,8 +8,8 @@ era: early-modern
 birth: 1588
 death: 1679
 tags:
-  - 社会契约
-  - 政治哲学
+  - social-contract
+  - political-philosophy
   - 自然状态
   - 利维坦
   - 主权理论
@@ -18,8 +18,6 @@ tags:
   - 一切人反对一切人的战争
   - 自我保存
   - 自然法
-  - social-contract
-  - political-philosophy
   - state-of-nature
   - absolutism
   - materialism

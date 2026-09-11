@@ -8,7 +8,7 @@ era: ancient
 birth: -369
 death: -286
 tags:
-  - 道家
+  - daoist
   - 相对主义
   - 无为
   - 逍遥
@@ -93,11 +93,11 @@ related-comparative:
 
 ### 3. 无用之用 (wúyòng zhī yòng) — 无用的价值
 
-无用的大树因其"无用"而免于砍伐，得以存活、荫庇众生。世俗的"有用"标准往往遮蔽了更根本的价值。详见 [concepts/uselessness.md](concepts/uselessness.md)。
+无用的大树因其"无用"而免于砍伐，得以存活、荫庇众生。世俗的"有用"标准往往遮蔽了更根本的价值。详见 [concepts/uselessness.md](../../../技能/无用之用悖论/SKILL.md)。
 
 ### 4. 物化 (wùhuà) — 万物转化
 
-万物处于不断的变化之中，生死只是变化的环节。庄周梦蝶是物化最著名的寓言——"不知周之梦为蝴蝶与，蝴蝶之梦为周与？"详见 [concepts/transformation.md](concepts/transformation.md)。
+万物处于不断的变化之中，生死只是变化的环节。庄周梦蝶是物化最著名的寓言——"不知周之梦为蝴蝶与，蝴蝶之梦为周与？"详见 [concepts/transformation.md](../../../../名言/_packs/苦难转化五重奏.md)。
 
 ### 5. 卮言、寓言、重言 (zhīyán / yùyán / chóngyán) — 三重言说
 
@@ -134,8 +134,8 @@ related-comparative:
 | **齐物** | qíwù | 万物平等，是非大小皆为视角产物 | [齐物.md](概念/齐物.md) |
 | **逍遥** | xiāoyáo | 超越一切依赖的绝对精神自由 | [逍遥.md](概念/逍遥.md) |
 | **无** | wú | 无为、无用、无待——否定中的积极力量 | [wu.md](concepts/wu.md) |
-| **物化** | wùhuà | 万物流变转化，生死如一 | [transformation.md](concepts/transformation.md) |
-| **无用** | wúyòng | 被世俗判定为无用之物的根本价值 | [uselessness.md](concepts/uselessness.md) |
+| **物化** | wùhuà | 万物流变转化，生死如一 | [transformation.md](../../../../名言/_packs/苦难转化五重奏.md) |
+| **无用** | wúyòng | 被世俗判定为无用之物的根本价值 | [uselessness.md](../../../技能/无用之用悖论/SKILL.md) |
 
 ## 关键文本
 
@@ -174,8 +174,8 @@ related-comparative:
 
 ### 东方思想
 
-- [老子 · Laozi](../laozi.md) `[同源]` 道家共同传统——老子重"道"的本体论，庄子重"游"的生存论
-- [孔子 · Confucius](../confucius.md) `[对话/批判]` 庄子以寓言解构儒家的仁义礼智，但并非简单否定，而是追问其根基
+- [老子 · Laozi](../老子.md) `[同源]` 道家共同传统——老子重"道"的本体论，庄子重"游"的生存论
+- [孔子 · Confucius](../孔子.md) `[对话/批判]` 庄子以寓言解构儒家的仁义礼智，但并非简单否定，而是追问其根基
 - [惠施 · Hui Shi] `[论辩]` 名家的逻辑分析与庄子的超越立场构成互补
 - [禅宗 · Zen Buddhism](../../../../宗教/传统/佛教/禅宗.md) `[平行]` "庄禅"传统：直觉把握、语言的吊诡运用、日常即道
 
@@ -237,8 +237,8 @@ related-comparative:
 | [concepts/齐物.md](概念/齐物.md) | 齐物 (qíwù) — 万物平等，视角的相对主义 |
 | [concepts/逍遥.md](概念/逍遥.md) | 逍遥 (xiāoyáo) — 超越一切依赖的绝对自由 |
 | [concepts/wu.md](concepts/wu.md) | 无 (wú) — 无为、无用、无待的否定之力 |
-| [concepts/transformation.md](concepts/transformation.md) | 物化 (wùhuà) — 万物流变转化，生死如一 |
-| [concepts/uselessness.md](concepts/uselessness.md) | 无用 (wúyòng) — 无用的根本价值 |
+| [concepts/transformation.md](../../../../名言/_packs/苦难转化五重奏.md) | 物化 (wùhuà) — 万物流变转化，生死如一 |
+| [concepts/uselessness.md](../../../技能/无用之用悖论/SKILL.md) | 无用 (wúyòng) — 无用的根本价值 |
 | [著作.md](著作.md) | 作品总览 — 《庄子》三十三篇 |
 | [时间线.md](时间线.md) | 思想年表 / 文本形成史 |
 | [阅读.md](阅读.md) | 进阶阅读指南 |

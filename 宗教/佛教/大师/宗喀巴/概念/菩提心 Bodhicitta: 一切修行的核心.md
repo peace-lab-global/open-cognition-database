@@ -4,7 +4,11 @@ title: "菩提心 Bodhicitta: 一切修行的核心"
 type: concept
 parent: tsongkhapa
 domain: 宗教
-tags: [bodhicitta, awakening-mind, compassion, Mahayana]
+tags:
+  - bodhicitta
+  - awakening-mind
+  - compassion
+  - mahayana
 ---
 
 # 菩提心 Bodhicitta / The Awakening Mind

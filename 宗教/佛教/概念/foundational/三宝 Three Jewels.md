@@ -5,7 +5,11 @@ type: concept
 domain: 宗教
 school: buddhism-general
 era: ancient
-tags: [三宝, 皈依, 佛法僧, Buddha-Dharma-Sangha]
+tags:
+  - 三宝
+  - 皈依
+  - 佛法僧
+  - buddha-dharma-sangha
 aliases: [Three Jewels, 三归依, Triple Gem, Triratna]
 sources: [巴利三藏, 《大智度论》]
 ---

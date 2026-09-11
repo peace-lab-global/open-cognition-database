@@ -4,7 +4,16 @@ title: "九乘判教 Theg pa rim dgu: 隆钦巴对佛法的层级分类体系"
 type: concept
 parent: longchenpa
 domain: 宗教
-tags: [nine-yana, theg-pa, classification, Dzogchen, Nyingma, Atiyoga, tantra, Mahayana, Hinayana]
+tags:
+  - nine-yana
+  - theg-pa
+  - classification
+  - dzogchen
+  - nyingma
+  - atiyoga
+  - tantra
+  - mahayana
+  - hinayana
 ---
 
 # 九乘判教 Theg pa rim dgu / Nine-Yana Classification

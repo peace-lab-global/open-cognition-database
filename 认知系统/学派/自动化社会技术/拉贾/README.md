@@ -134,11 +134,11 @@ His final decade witnessed a complete academic evolution arc from behavioral 心
 
 - **自适应自动化（Adaptive Automation）**：根据操作者实时认知状态动态调整自动化水平的系统设计范式。→ [详见概念文件](concepts/adaptive-automation.md)
 
-- **自动化层级（Automation Levels）**：将自动化程度从"完全手动"到"完全自动"分为多个等级的分析框架。→ [详见概念文件](concepts/automation-levels.md)
+- **自动化层级（Automation Levels）**：将自动化程度从"完全手动"到"完全自动"分为多个等级的分析框架。→ [详见概念文件](../莱桑/README.md)
 
-- **情境意识模型（Situation Awareness Model）**：在自动化环境中理解操作者对系统状态的感知、理解和预测的三层级理论。→ [详见概念文件](concepts/situation-awareness-model.md)
+- **情境意识模型（Situation Awareness Model）**：在自动化环境中理解操作者对系统状态的感知、理解和预测的三层级理论。→ [详见概念文件](../../../技能/态势感知诊断/SKILL.md)
 
-- **人机自动化交互（Human-Automation Interaction）**：研究操作者与自动化系统之间认知、信任和绩效交互关系的系统性框架。→ [详见概念文件](concepts/human-automation-interaction.md)
+- **人机自动化交互（Human-Automation Interaction）**：研究操作者与自动化系统之间认知、信任和绩效交互关系的系统性框架。→ [详见概念文件](../../../../心理学/学派/人本主义/卡尔/README.md)
 
 - **神经人体工程学（Neuroergonomics）**：将脑科学与人因工程整合，利用脑成像技术优化人机系统设计的跨学科领域。→ [详见概念文件](concepts/neuroergonomics.md)
 
@@ -155,8 +155,8 @@ His final decade witnessed a complete academic evolution arc from behavioral 心
 ## 思想坐标 / Intellectual Coordinates
 
 - **承接 / Inherits**:
-  - [Lillian Bainbridge](../bainbridge.md) `[继承]`：将"自动化悖论"的定性诊断转化为可操作的分析框架
-  - [Thomas Sheridan](../sheridan.md) `[互补]`：整合Sheridan的十级自动化模型，发展四阶段分析框架
+  - [Lillian Bainbridge](../莱桑.md) `[继承]`：将"自动化悖论"的定性诊断转化为可操作的分析框架
+  - [Thomas Sheridan](../托马斯.md) `[互补]`：整合Sheridan的十级自动化模型，发展四阶段分析框架
   - [Earl Wiener](../README.md) `[继承]`：继承Wiener关于航空自动化人因问题的早期洞察
   - 信号检测理论 / Signal Detection Theory `[方法论基础]`：为信任与监控行为的量化分析提供工具
 
@@ -289,9 +289,9 @@ Additionally, his late-career advocacy for neuroergonomics—integrating first-p
 ## 子条目索引 / Sub-entry Index
 
 - [自适应自动化 · Adaptive Automation](concepts/adaptive-automation.md)
-- [自动化层级 · Automation Levels](concepts/automation-levels.md)
-- [情境意识模型 · Situation Awareness Model](concepts/situation-awareness-model.md)
-- [人机自动化交互 · Human-Automation Interaction](concepts/human-automation-interaction.md)
+- [自动化层级 · Automation Levels](../莱桑/README.md)
+- [情境意识模型 · Situation Awareness Model](../../../技能/态势感知诊断/SKILL.md)
+- [人机自动化交互 · Human-Automation Interaction](../../../../心理学/学派/人本主义/卡尔/README.md)
 - [神经人体工程学 · Neuroergonomics](concepts/neuroergonomics.md)
 - [著作年表](著作.md)
 - [生平大事记](时间线.md)

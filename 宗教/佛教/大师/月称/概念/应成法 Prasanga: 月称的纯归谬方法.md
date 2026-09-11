@@ -5,7 +5,12 @@ type: concept
 parent: candrakirti
 domain: 宗教
 school: buddhism-madhyamaka-prasangika
-tags: [prasanga, reductio, negation, Madhyamaka, critical-philosophy]
+tags:
+  - prasanga
+  - reductio
+  - negation
+  - madhyamaka
+  - critical-philosophy
 ---
 
 # 应成法 Prasanga / The Consequentialist Method

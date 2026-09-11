@@ -4,7 +4,15 @@ title: "智慧与方便统一 Prajna-upaya-yuganaddha: 寂天第九品的哲学�
 type: concept
 parent: santideva
 domain: 宗教
-tags: [prajna, upaya, wisdom, means, sunyata, Madhyamaka, ninth-chapter, two-truths]
+tags:
+  - prajna
+  - upaya
+  - wisdom
+  - means
+  - sunyata
+  - madhyamaka
+  - ninth-chapter
+  - two-truths
 ---
 
 # 智慧与方便统一 / Unity of Wisdom and Means (Prajna-upaya-yuganaddha)

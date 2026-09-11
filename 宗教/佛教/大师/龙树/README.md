@@ -7,7 +7,16 @@ school: buddhism-madhyamaka
 era: classical-india
 birth: 150
 death: 250
-tags: [Madhyamaka, Sunyata, emptiness, two-truths, tetralemma, dependent-origination, Mahayana, anti-essentialism, middle-way]
+tags:
+  - madhyamaka
+  - sunyata
+  - emptiness
+  - two-truths
+  - tetralemma
+  - dependent-origination
+  - mahayana
+  - anti-essentialism
+  - middle-way
 aliases: ["Nagarjuna", "龙猛", "龙胜", "Nagahrjuna", "龙树菩萨"]
 ---
 
@@ -43,7 +52,7 @@ Nagarjuna (c. 150–250 CE), born into a Brahmin family in South India, is rever
 
 Everything that arises dependently lacks inherent existence (svabhava). Emptiness is not nihilism but the logical consequence of dependent origination. Because things arise in dependence upon conditions, they cannot possess fixed, immutable essences. Emptiness and dependent origination are synonymous — this is Nagarjuna's most revolutionary equation.
 
-详见 [缘起性空](concepts/dependent-origination.md) | See [Dependent Origination](concepts/dependent-origination.md)
+详见 [缘起性空](../../../技能/缘起法分析/SKILL.md) | See [Dependent Origination](../../../技能/缘起法分析/SKILL.md)
 
 ### 2. 二谛不可分 / The Inseparability of Two Truths (Dve Satye)
 
@@ -51,7 +60,7 @@ Everything that arises dependently lacks inherent existence (svabhava). Emptines
 
 Conventional truth and ultimate truth are not two separate realities but two registers of discourse about the same reality. Without relying on the conventional, the ultimate cannot be taught. Nagarjuna's key insight: conceptual cognition and non-conceptual insight form a continuum, not a rupture.
 
-详见 [二谛](concepts/two-truths.md) | See [Two Truths](concepts/two-truths.md)
+详见 [二谛](../../../../社会学/学派/网络社会/卡斯特/README.md) | See [Two Truths](../../../../社会学/学派/网络社会/卡斯特/README.md)
 
 ### 3. 四句破 / Tetralemma (Catuskoti)
 
@@ -59,7 +68,7 @@ Conventional truth and ultimate truth are not two separate realities but two reg
 
 The tetralemma systematically negates all four logical positions regarding any metaphysical proposition — existence, non-existence, both, and neither. This is not anti-logic but logic's self-transcendence: when all conceptual possibilities are exhausted and negated, cognition is forced beyond its own frameworks.
 
-详见 [四句破](concepts/catuskoti-tetralemma.md) | See [Tetralemma](concepts/catuskoti-tetralemma.md)
+详见 [四句破](概念/四句破 Catuskoti: 否定性逻辑方法.md) | See [Tetralemma](概念/四句破 Catuskoti: 否定性逻辑方法.md)
 
 ### 4. 八不中道 / Eight Negations of the Middle Way (Asta-nisedha)
 
@@ -67,7 +76,7 @@ The tetralemma systematically negates all four logical positions regarding any m
 
 Neither arising nor ceasing, neither permanent nor annihilated, neither identical nor different, neither coming nor going — these eight double negations constitute the negative expression of the Middle Way. Not compromise but systematic deconstruction of all conceptual fixation.
 
-详见 [中道](concepts/middle-way.md) | See [Middle Way](concepts/middle-way.md)
+详见 [中道](../../概念/foundational/中道 Middle Way.md) | See [Middle Way](../../概念/foundational/中道 Middle Way.md)
 
 ### 5. 戏论寂灭 / Cessation of Conceptual Proliferation (Prapanca-upasama)
 
@@ -265,11 +274,11 @@ Nagarjuna denies causation-with-svabhava (causal relations between independently
 
 ## 子条目索引 / Sub-entries Index
 
-- [空性 Sunyata](concepts/sunyata-emptiness.md) — 无自性的哲学分析 / Philosophical analysis of no-svabhava
-- [二谛 Dve Satye](concepts/two-truths.md) — 世俗与胜义的不可分割 / Inseparability of conventional and ultimate
-- [中道 Madhyamaka](concepts/middle-way.md) — 八不与中道哲学 / Eight negations and Middle Way 哲学
-- [四句破 Catuskoti](concepts/catuskoti-tetralemma.md) — 否定性逻辑方法 / Negative logical method
-- [缘起 Pratityasamutpada](concepts/dependent-origination.md) — 相依缘起与空性 / Dependent co-arising and emptiness
+- [空性 Sunyata](../../../传统/佛教/大乘空性.md) — 无自性的哲学分析 / Philosophical analysis of no-svabhava
+- [二谛 Dve Satye](../../../../社会学/学派/网络社会/卡斯特/README.md) — 世俗与胜义的不可分割 / Inseparability of conventional and ultimate
+- [中道 Madhyamaka](../../概念/foundational/中道 Middle Way.md) — 八不与中道哲学 / Eight negations and Middle Way 哲学
+- [四句破 Catuskoti](概念/四句破 Catuskoti: 否定性逻辑方法.md) — 否定性逻辑方法 / Negative logical method
+- [缘起 Pratityasamutpada](../../../技能/缘起法分析/SKILL.md) — 相依缘起与空性 / Dependent co-arising and emptiness
 - [著作目录](著作.md) — 完整著作列表与考证 / Complete works listing with authentication
 - [年表](时间线.md) — 生平与历史语境 / Biography and historical context
 - [进阶阅读](阅读.md) — 分类书单 / Categorized reading list

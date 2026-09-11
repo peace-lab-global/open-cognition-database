@@ -324,7 +324,7 @@ Hegel's dialectics reveals and transcends the internal contradictions of concept
 | 政治哲学 | [波普尔 · Karl Popper](批评/波普尔批评.md) | 批判 | 极权主义指控与回应 |
 | 悲观主义 | [叔本华 · Arthur Schopenhauer](../../悲观主义/叔本华/README.md) | 对立 | 世界本质是精神 vs 世界本质是意志 |
 | 承认理论 | [霍耐特 · Axel Honneth](../承认理论.md) | 发展 | 三种承认形式：爱、权利、团结 |
-| 分析哲学 | [布兰顿 · Robert Brandom](../分析哲学.md) | 发展 | 推论主义语义学——社会性承认概念 |
+| 分析哲学 | [布兰顿 · Robert Brandom](../../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/哲学领域/分析哲学.md) | 发展 | 推论主义语义学——社会性承认概念 |
 | 国际关系 | [福山 · Francis Fukuyama](../国际关系.md) | 发展 | 历史的终结——主奴辩证法的政治哲学解读 |
 | 后殖民理论 | [法农 · Frantz Fanon](../后殖民理论.md) | 发展 | 殖民种族关系中的承认斗争 |
 | 佛教哲学 | [龙树 · Nāgārjuna](对话/与佛教关系.md) | 结构平行 | 辩证法与中观归谬论证 |

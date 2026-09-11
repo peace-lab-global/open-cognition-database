@@ -4,7 +4,18 @@ title: "汉传中观 Chinese Madhyamaka: 鸠摩罗什与龙树中观思想的东
 type: concept
 parent: kumarajiva
 domain: 宗教
-tags: [Madhyamaka, 中观, Chinese Madhyamaka, 汉传中观, Sanlun, 三论宗, Nagarjuna, 龙树, Aryadeva, 提婆, emptiness in China]
+tags:
+  - madhyamaka
+  - 中观
+  - chinese-madhyamaka
+  - 汉传中观
+  - sanlun
+  - 三论宗
+  - nagarjuna
+  - 龙树
+  - aryadeva
+  - 提婆
+  - emptiness-in-china
 ---
 
 # 汉传中观 Chinese Madhyamaka / Kumārajīva and the Sinification of Madhyamaka

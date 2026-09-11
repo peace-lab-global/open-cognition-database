@@ -12,10 +12,10 @@ concepts:
   - defusion
   - values
 tags:
-  - 心理学
+  - psychology
   - cognitive-behavioral
   - contextual-behavioral-science
-  - third-wave-CBT
+  - third-wave-cbt
 ---
 
 # 海耶斯 · Steven Hayes
@@ -105,15 +105,15 @@ tags:
 
 ## 重要概念 / Key Concepts
 
-1. **接纳承诺疗法 / Acceptance and Commitment Therapy (ACT)**：以心理灵活性为目标的第三代认知行为治疗方法，通过六大核心过程促进有意义的生活。详见 → [acceptance-commitment-therapy](concepts/acceptance-commitment-therapy.md)
+1. **接纳承诺疗法 / Acceptance and Commitment Therapy (ACT)**：以心理灵活性为目标的第三代认知行为治疗方法，通过六大核心过程促进有意义的生活。详见 → [acceptance-commitment-therapy](概念/接纳承诺疗法.md)
 
-2. **心理灵活性 / Psychological Flexibility**：全然接触当下并在价值方向上灵活行动的能力，由六边形模型（Hexaflex）描述。详见 → [psychological-flexibility](concepts/psychological-flexibility.md)
+2. **心理灵活性 / Psychological Flexibility**：全然接触当下并在价值方向上灵活行动的能力，由六边形模型（Hexaflex）描述。详见 → [psychological-flexibility](概念/心理灵活性.md)
 
-3. **关系框架理论 / Relational Frame Theory (RFT)**：关于人类语言与认知的功能主义理论，以任意适用的关系性反应为核心概念。详见 → [relational-frame-theory](concepts/relational-frame-theory.md)
+3. **关系框架理论 / Relational Frame Theory (RFT)**：关于人类语言与认知的功能主义理论，以任意适用的关系性反应为核心概念。详见 → [relational-frame-theory](概念/关系框架理论.md)
 
-4. **认知解离 / Cognitive Defusion**：改变与想法的关系（而非想法的内容），从想法中"后退一步"，以观察者的视角看待思维过程。详见 → [defusion](concepts/defusion.md)
+4. **认知解离 / Cognitive Defusion**：改变与想法的关系（而非想法的内容），从想法中"后退一步"，以观察者的视角看待思维过程。详见 → [defusion](概念/认知解离.md)
 
-5. **价值 / Values**：个人自由选择的、持续性的行动方向，区别于可达成的目标。详见 → [values](concepts/values.md)
+5. **价值 / Values**：个人自由选择的、持续性的行动方向，区别于可达成的目标。详见 → [values](概念/价值.md)
 
 6. **经验性回避 / Experiential Avoidance**：试图改变内在体验的形式、频率或情境敏感性，即使这样做在长期中造成心理损害。
 
@@ -237,11 +237,11 @@ ACT大量借鉴了正念（sati/smrti）技术，但海耶斯明确将正念从�
 
 ## 子条目索引 / Sub-Entries
 
-- [接纳承诺疗法 / Acceptance and Commitment Therapy](concepts/acceptance-commitment-therapy.md)
-- [心理灵活性 / Psychological Flexibility](concepts/psychological-flexibility.md)
-- [关系框架理论 / Relational Frame Theory](concepts/relational-frame-theory.md)
-- [认知解离 / Cognitive Defusion](concepts/defusion.md)
-- [价值 / Values](concepts/values.md)
+- [接纳承诺疗法 / Acceptance and Commitment Therapy](概念/接纳承诺疗法.md)
+- [心理灵活性 / Psychological Flexibility](概念/心理灵活性.md)
+- [关系框架理论 / Relational Frame Theory](概念/关系框架理论.md)
+- [认知解离 / Cognitive Defusion](概念/认知解离.md)
+- [价值 / Values](概念/价值.md)
 - [著作年表 / Works](著作.md)
 - [生平大事记 / Timeline](时间线.md)
 - [进阶阅读清单 / Reading List](阅读.md)

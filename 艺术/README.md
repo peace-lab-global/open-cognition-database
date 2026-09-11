@@ -36,27 +36,27 @@ entries:
 
 | 条目 | 方向 | 时代 | 核心贡献 |
 |------|------|------|----------|
-| [贝多芬](schools/music/beethoven/README.md) | 古典/浪漫 | 近代 | 从古典主义到浪漫主义的桥梁，以音乐承载人类精神 |
-| [巴赫](schools/music/bach/README.md) | 巴洛克 | 近代 | 对位法建筑，宗教音乐的顶峰 |
-| [莫扎特](schools/music/mozart/README.md) | 古典主义 | 近代 | 古典主义的完美，歌剧与协奏曲 |
-| [瓦格纳](schools/music/wagner/README.md) | 浪漫主义 | 现代 | 总体艺术(Gesamtkunstwerk)，乐剧，和声革命 |
-| [肖邦](schools/music/chopin/README.md) | 浪漫主义 | 现代 | 钢琴诗人，浪漫主义小品 |
+| [贝多芬](学派/音乐/路德维希/README.md) | 古典/浪漫 | 近代 | 从古典主义到浪漫主义的桥梁，以音乐承载人类精神 |
+| [巴赫](学派/音乐/约翰/README.md) | 巴洛克 | 近代 | 对位法建筑，宗教音乐的顶峰 |
+| [莫扎特](学派/音乐/沃尔夫冈/README.md) | 古典主义 | 近代 | 古典主义的完美，歌剧与协奏曲 |
+| [瓦格纳](学派/音乐/理查德/README.md) | 浪漫主义 | 现代 | 总体艺术(Gesamtkunstwerk)，乐剧，和声革命 |
+| [肖邦](学派/音乐/弗雷德里克/README.md) | 浪漫主义 | 现代 | 钢琴诗人，浪漫主义小品 |
 
 ### 视觉艺术 / Visual Arts
 
 | 条目 | 方向 | 时代 | 核心贡献 |
 |------|------|------|----------|
-| [达·芬奇](schools/visual-arts/leonardo-da-vinci/README.md) | 文艺复兴 | 近代 | 艺术与科学的统一，"全人"理想的典范 |
-| [梵高](schools/visual-arts/van-gogh/README.md) | 后印象派 | 现代 | 用色彩与笔触表达灵魂的燃烧，现代绘画的先驱 |
-| [米开朗基罗](schools/visual-arts/michelangelo/README.md) | 文艺复兴 | 近代 | 雕塑与壁画的崇高，形体的英雄主义 |
-| [毕加索](schools/visual-arts/picasso/README.md) | 立体主义 | 当代 | 形式革命，20 世纪艺术的枢纽 |
-| [莫奈](schools/visual-arts/monet/README.md) | 印象派 | 现代 | 印象派创始人，光与瞬间的捕捉 |
+| [达·芬奇](学派/视觉艺术/列奥纳多/README.md) | 文艺复兴 | 近代 | 艺术与科学的统一，"全人"理想的典范 |
+| [梵高](学派/视觉艺术/文森特/README.md) | 后印象派 | 现代 | 用色彩与笔触表达灵魂的燃烧，现代绘画的先驱 |
+| [米开朗基罗](学派/视觉艺术/米开朗基罗/README.md) | 文艺复兴 | 近代 | 雕塑与壁画的崇高，形体的英雄主义 |
+| [毕加索](学派/视觉艺术/巴勃罗/README.md) | 立体主义 | 当代 | 形式革命，20 世纪艺术的枢纽 |
+| [莫奈](学派/视觉艺术/克劳德/README.md) | 印象派 | 现代 | 印象派创始人，光与瞬间的捕捉 |
 
 ### 表演艺术 / Performing Arts
 
 | 条目 | 方向 | 时代 | 核心贡献 |
 |------|------|------|----------|
-| [爱森斯坦](schools/performing-arts/eisenstein/README.md) | 电影理论 | 当代 | 蒙太奇理论，冲突剪辑的革命 |
+| [爱森斯坦](学派/表演艺术/谢尔盖/README.md) | 电影理论 | 当代 | 蒙太奇理论，冲突剪辑的革命 |
 
 ### 文学艺术 / Literary Arts
 
@@ -76,8 +76,8 @@ entries:
 
 > 艺术领域暂无独立 Skill 框架，相关分析请使用：
 > - [艺术批评框架](../美学/技能/艺术批评框架/SKILL.md) — 四层艺术批评方法
-> - [色彩—情感分析](./skills/color-emotion-analysis/SKILL.md) — 色彩与情绪的跨学科解读
-> - [苦难—艺术分析](./skills/suffering-art-analysis/SKILL.md) — 苦难如何转化为艺术
+> - [色彩—情感分析](技能/色彩与情感分/SKILL.md) — 色彩与情绪的跨学科解读
+> - [苦难—艺术分析](技能/苦难与艺术分/SKILL.md) — 苦难如何转化为艺术
 
 ## 阅读建议
 

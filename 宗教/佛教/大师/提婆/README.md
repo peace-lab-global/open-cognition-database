@@ -7,7 +7,15 @@ school: buddhism-madhyamaka
 era: classical-india
 birth: 200
 death: 300
-tags: [Madhyamaka, Catuhsataka, Satasatra, four-inversions, compassion-wisdom, anti-essentialism, Mahayana, debate]
+tags:
+  - madhyamaka
+  - catuhsataka
+  - satasatra
+  - four-inversions
+  - compassion-wisdom
+  - anti-essentialism
+  - mahayana
+  - debate
 aliases: ["Aryadeva", "圣天", "圣提婆", "Kanadeva", "提婆菩萨"]
 sources: ["Catuhsataka", "Satasatra", "Sataksara", "Hastavalaprakarana"]
 cross_refs: ["nagarjuna", "candrakirti", "buddhapalita", "kumarajiva", "jizang"]
@@ -41,7 +49,7 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 
 **Aryadeva extends Nagarjuna's method of "refuting errors to reveal truth" with greater intensity and systematic rigor. While Nagarjuna's MMK focuses on establishing the logical structure of emptiness, Aryadeva's Satasatra and Catuhsataka systematically dismantle the specific positions of non-Buddhist schools and Abhidharma realists. His stance: no positive thesis needs to be established — the thorough destruction of all wrong views is itself the revelation of right view.**
 
-详见 [与龙树的分工](concepts/nagarjuna-partnership.md)。
+详见 [与龙树的分工](../龙树/README.md)。
 
 ### 2. 大悲为体 Compassion as Essence
 
@@ -57,7 +65,7 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 
 **The first eight chapters of the Catuhsataka systematically dismantle the four cognitive inversions (viparyasa): permanence (nitya), pleasure (sukha), purity (subha), and self (atman). These four inversions constitute the root cognitive errors that bind beings to samsara — perceiving the impermanent as permanent, suffering as pleasure, the impure as pure, and the selfless as self. Aryadeva dismantles these deep-seated cognitive habits through rigorous logical argumentation.**
 
-详见 [破四倒](concepts/four-inversions.md)。
+详见 [破四倒](概念/破四倒 Catvarah Viparyasah: 提婆对常乐净我四种认知颠倒的系统瓦解.md)。
 
 ### 4. 破斥外道 Refutation of Non-Buddhist Schools
 
@@ -65,7 +73,7 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 
 **Aryadeva is the most actively engaged debater among Madhyamaka thinkers. The Satasatra systematically refutes the core doctrines of major Indian philosophical schools — Samkhya, Vaisesika, Nyaya — covering theories such as cause-contains-effect, atomic realism, and soul-realism. His debate method — reductio ad absurdum (prasanga) — exhausts the logical possibilities of the opponent's position and demonstrates their internal contradictions one by one.**
 
-详见 [百论](concepts/hundred-treatise.md)。
+详见 [百论](概念/百论 Satasatra: 提婆破斥外道的辩论方法论.md)。
 
 ---
 
@@ -202,13 +210,13 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **师**: [龙树 Nagarjuna](../nagarjuna/README.md) — 中观创始人，提婆的直接老师
-- **注释者**: [月称 Candrakirti](../candrakirti.md) — 为《四百论》作注
+- **师**: [龙树 Nagarjuna](../龙树/README.md) — 中观创始人，提婆的直接老师
+- **注释者**: [月称 Candrakirti](../月称/README.md) — 为《四百论》作注
 - **传承**: 龙树→提婆→罗睺罗跋陀罗→…→佛护→月称（应成派谱系）
-- **汉传**: [鸠摩罗什 Kumarajiva](../kumarajiva.md) — 翻译《百论》；[吉藏 Jizang](../jizang.md) — 三论宗集大成者
+- **汉传**: [鸠摩罗什 Kumarajiva](../鸠摩罗什/README.md) — 翻译《百论》；[吉藏 Jizang](../吉藏/README.md) — 三论宗集大成者
 - **学派**: [中观学派](../../概念/cognitive-theory/中观.md) — 第二代祖师
 - **哲学**: [波普尔 Popper](../../../../哲学/学派/分析哲学/波普尔.md) — 证伪主义的平行
-- **学派**: [三论宗](../schools/sanlun.md) — "三论"之一《百论》的作者
+- **学派**: [三论宗](../吉藏/README.md) — "三论"之一《百论》的作者
 
 ---
 
@@ -231,10 +239,10 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [破四倒 Catvarah Viparyasah](concepts/four-inversions.md) — 常/乐/净/我的系统破除
-- [百论 Satasatra](concepts/hundred-treatise.md) — 破斥外道的辩论方法论
-- [四百论 Catuhsataka](concepts/four-hundred-verses.md) — 菩萨道的修证次第
-- [与龙树的分工](concepts/nagarjuna-partnership.md) — 建构 vs 破斥的互补
+- [破四倒 Catvarah Viparyasah](概念/破四倒 Catvarah Viparyasah: 提婆对常乐净我四种认知颠倒的系统瓦解.md) — 常/乐/净/我的系统破除
+- [百论 Satasatra](概念/百论 Satasatra: 提婆破斥外道的辩论方法论.md) — 破斥外道的辩论方法论
+- [四百论 Catuhsataka](概念/四百论 Catuhsataka: 提婆的菩萨道修证次第.md) — 菩萨道的修证次第
+- [与龙树的分工](../龙树/README.md) — 建构 vs 破斥的互补
 - [悲智双运 Karuna-Prajna](concepts/悲智双运.md) — 空性与大悲的不可分割
 - [著作目录](著作.md) — 完整著作列表与考证
 - [年表](时间线.md) — 生平与历史语境

@@ -79,9 +79,9 @@ children:
 ## 子条目索引
 | 子条目 | 内容 |
 |---|---|
-| [concepts/capability-approach.md](concepts/capability-approach.md) | 能力进路 |
-| [concepts/entitlement-theory.md](concepts/entitlement-theory.md) | 权利方法 · 饥荒 |
-| [concepts/development-as-自由.md](concepts/development-as-自由.md) | 以自由看待发展 |
-| [concepts/social-choice.md](concepts/social-choice.md) | 社会选择理论 |
-| [concepts/identity-and-violence.md](concepts/identity-and-violence.md) | 身份与暴力 |
+| [concepts/capability-approach.md](README.md) | 能力进路 |
+| [concepts/entitlement-theory.md](../../自由至上主义/罗伯特/概念/资格理论.md) | 权利方法 · 饥荒 |
+| [concepts/development-as-自由.md](../../../../心理学/学派/发展心理学/皮亚杰/README.md) | 以自由看待发展 |
+| [concepts/social-choice.md](../../社会契约论/约翰/README.md) | 社会选择理论 |
+| [concepts/identity-and-violence.md](概念/身份与暴力-identity-violence.md) | 身份与暴力 |
 | [著作.md](著作.md) · [时间线.md](时间线.md) · [阅读.md](阅读.md) |

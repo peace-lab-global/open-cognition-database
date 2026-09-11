@@ -78,9 +78,9 @@ children:
 ## 子条目索引
 | 子条目 | 内容 |
 |---|---|
-| [concepts/utility-principle.md](concepts/utility-principle.md) | 功利原则 · 最大幸福 |
-| [concepts/felicific-calculus.md](concepts/felicific-calculus.md) | 快乐计算 · 七个维度 |
-| [concepts/panopticon.md](concepts/panopticon.md) | 全景监狱 · 规训 |
-| [concepts/legal-positivism.md](concepts/legal-positivism.md) | 法律实证主义 |
-| [concepts/animal-rights.md](concepts/animal-rights.md) | 动物权利 · 受苦能力 |
+| [concepts/utility-principle.md](概念/功利原则-utility-principle.md) | 功利原则 · 最大幸福 |
+| [concepts/felicific-calculus.md](概念/快乐计算.md) | 快乐计算 · 七个维度 |
+| [concepts/panopticon.md](../../../../名言/权力驯服/福柯-可见性是陷阱.md) | 全景监狱 · 规训 |
+| [concepts/legal-positivism.md](概念/法律实证主义.md) | 法律实证主义 |
+| [concepts/animal-rights.md](概念/动物权利.md) | 动物权利 · 受苦能力 |
 | [著作.md](著作.md) · [时间线.md](时间线.md) · [阅读.md](阅读.md) |

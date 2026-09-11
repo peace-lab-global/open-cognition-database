@@ -129,15 +129,15 @@ In his later years, Wagner was deeply influenced by Schopenhauer's pessimism and
 
 ## 重要概念 / Key Concepts
 
-- **[总体艺术 Gesamtkunstwerk](concepts/gesamtkunstwerk.md)**：统合所有艺术门类以服务于单一戏剧理念的整体艺术形式。瓦格纳认为各门艺术的独立发展导致了艺术的碎片化，唯有在"总体艺术"中，音乐、诗歌、舞蹈、建筑、绘画与雕塑才能恢复其原始的有机统一。→ 详见 [gesamtkunstwerk.md](concepts/gesamtkunstwerk.md)
+- **[总体艺术 Gesamtkunstwerk](概念/总体艺术.md)**：统合所有艺术门类以服务于单一戏剧理念的整体艺术形式。瓦格纳认为各门艺术的独立发展导致了艺术的碎片化，唯有在"总体艺术"中，音乐、诗歌、舞蹈、建筑、绘画与雕塑才能恢复其原始的有机统一。→ 详见 [gesamtkunstwerk.md](概念/总体艺术.md)
 
-- **[主导动机 Leitmotif](concepts/leitmotif.md)**：随戏剧情境反复变形的短小音乐主题，是庞大音乐叙事的索引与记忆装置。瓦格纳将其发展为一种复杂的"音乐记忆术"，使长达数小时的乐剧具有内在的有机统一性。→ 详见 [leitmotif.md](concepts/leitmotif.md)
+- **[主导动机 Leitmotif](概念/主导动机.md)**：随戏剧情境反复变形的短小音乐主题，是庞大音乐叙事的索引与记忆装置。瓦格纳将其发展为一种复杂的"音乐记忆术"，使长达数小时的乐剧具有内在的有机统一性。→ 详见 [leitmotif.md](概念/主导动机.md)
 
-- **[乐剧 Musikdrama](concepts/music-drama.md)**：音乐与戏剧不可分的连续整体，取代传统分曲歌剧。瓦格纳刻意避免使用"歌剧"一词，以"乐剧"强调戏剧与音乐的同等地位。→ 详见 [music-drama.md](concepts/music-drama.md)
+- **[乐剧 Musikdrama](../路德维希/README.md)**：音乐与戏剧不可分的连续整体，取代传统分曲歌剧。瓦格纳刻意避免使用"歌剧"一词，以"乐剧"强调戏剧与音乐的同等地位。→ 详见 [music-drama.md](../路德维希/README.md)
 
-- **[指环四联剧 Ring Cycle](concepts/ring-cycle.md)**：《尼伯龙根的指环》作为总体艺术的终极实践，以北欧神话为框架展开对权力、资本、爱与命运的四夜叙事。→ 详见 [ring-cycle.md](concepts/ring-cycle.md)
+- **[指环四联剧 Ring Cycle](../../../../认知系统/学派/认知工程/拉斯穆森/README.md)**：《尼伯龙根的指环》作为总体艺术的终极实践，以北欧神话为框架展开对权力、资本、爱与命运的四夜叙事。→ 详见 [ring-cycle.md](../../../../认知系统/学派/认知工程/拉斯穆森/README.md)
 
-- **[半音化和声 Chromatic Harmony](concepts/chromatic-harmony.md)**：以《特里斯坦》为标志的半音和声体系，悬置调性中心，释放"无限渴望"的音响维度，是西方音乐从调性走向无调性的关键转折。→ 详见 [chromatic-harmony.md](concepts/chromatic-harmony.md)
+- **[半音化和声 Chromatic Harmony](概念/半音化和声.md)**：以《特里斯坦》为标志的半音和声体系，悬置调性中心，释放"无限渴望"的音响维度，是西方音乐从调性走向无调性的关键转折。→ 详见 [chromatic-harmony.md](概念/半音化和声.md)
 
 - **无止境旋律（Unendliche Melodie / Endless Melody）**：以不间断的和声推进取代分曲的收束，制造永恒渴望的流动感。这一概念既是对传统歌剧中"终止式-新段落"交替模式的否定，也是对叔本华式"意志的永恒涌动"的音乐实现。
 
@@ -222,7 +222,7 @@ In contemporary contexts, there is a dialogue worth exploring between Wagner's G
 | [尼采 Nietzsche](../../../../哲学/学派/存在主义/尼采.md) | `[发展]` `[批判]` | 尼采早期以《悲剧的诞生》奉瓦格纳为酒神精神复兴者，后作《瓦格纳事件》激烈批判，二者的思想纠葛是19世纪思想史上最精彩的篇章 / Nietzsche initially championed Wagner as the reviver of Dionysian spirit in *The Birth of Tragedy*, later fiercely criticized him in *The Case of Wagner* |
 | [贝多芬 Beethoven](../beethoven/) | `[继承]` | 贝多芬第九交响曲中人声与器乐的融合是总体艺术的先声 / The fusion of voice and instrument in Beethoven's Ninth Symphony was a precursor to Gesamtkunstwerk |
 | [黑格尔 Hegel](../../../../哲学/学派/德国唯心论/黑格尔.md) | `[平行]` | 综合艺术与精神自我展开的历史叙事；瓦格纳的历史哲学有黑格尔辩证法的影子 / Synthetic art and the historical narrative of spirit's self-unfolding; Wagner's 哲学 of history bears traces of Hegelian dialectics |
-| [阿多诺 Adorno](../../../哲学/schools/critical-theory/adorno.md) | `[批判]` | 批判拜罗伊特为"文化工业"的先声，质疑总体艺术的"总体性"所隐含的支配逻辑 / Critiqued Bayreuth as a precursor to the "culture industry," questioning the domination logic implicit in Gesamtkunstwerk's "totality" |
+| [阿多诺 Adorno](../../../../美学/学派/批判美学/西奥多/README.md) | `[批判]` | 批判拜罗伊特为"文化工业"的先声，质疑总体艺术的"总体性"所隐含的支配逻辑 / Critiqued Bayreuth as a precursor to the "culture industry," questioning the domination logic implicit in Gesamtkunstwerk's "totality" |
 | [本雅明 Benjamin](../../../../美学/学派/批判美学/瓦尔特.md) | `[互补]` | 技术复制时代的艺术品与"灵光"（aura）的消失——拜罗伊特剧场的"此时此地"正是本雅明所论述的"灵光"的典型 / Art in the age of mechanical reproduction and the disappearance of "aura" — Bayreuth's "here and now" is precisely the typical "aura" Benjamin discussed |
 | [李斯特 Liszt](../liszt/) | `[同源]` `[影响]` | 李斯特是瓦格纳最重要的音乐盟友，也是其岳父；交响诗的形式与总体艺术理念有内在联系 / Liszt was Wagner's most important musical ally and father-in-law; the symphonic poem form has intrinsic connections to Gesamtkunstwerk |
 | [巴迪欧 Badiou](../../../哲学/schools/continental/badiou.md) | `[当代阐释]` | 《瓦格纳五讲》从当代法国哲学视角重新审视瓦格纳作为"事件"与"真理程序"的意义 / *Five Lessons on Wagner* re-examines Wagner as "event" and "truth procedure" from a contemporary French 哲学 perspective |
@@ -251,11 +251,11 @@ In contemporary contexts, there is a dialogue worth exploring between Wagner's G
 
 ## 子条目索引 / Sub-entry Index
 
-- [总体艺术 Gesamtkunstwerk](concepts/gesamtkunstwerk.md) — 统合所有艺术门类的总体艺术理念
-- [主导动机 Leitmotif](concepts/leitmotif.md) — 音乐记忆与戏剧叙事的索引系统
-- [乐剧 Musikdrama](concepts/music-drama.md) — 取代传统歌剧的新型音乐戏剧形式
-- [指环四联剧 Ring Cycle](concepts/ring-cycle.md) — 总体艺术的终极实践
-- [半音化和声 Chromatic Harmony](concepts/chromatic-harmony.md) — 调性悬置与现代音乐的起源
+- [总体艺术 Gesamtkunstwerk](概念/总体艺术.md) — 统合所有艺术门类的总体艺术理念
+- [主导动机 Leitmotif](概念/主导动机.md) — 音乐记忆与戏剧叙事的索引系统
+- [乐剧 Musikdrama](../路德维希/README.md) — 取代传统歌剧的新型音乐戏剧形式
+- [指环四联剧 Ring Cycle](../../../../认知系统/学派/认知工程/拉斯穆森/README.md) — 总体艺术的终极实践
+- [半音化和声 Chromatic Harmony](概念/半音化和声.md) — 调性悬置与现代音乐的起源
 - [著作年表](著作.md) — 瓦格纳全部作品编年
 - [生平大事记](时间线.md) — 瓦格纳生平与思想里程碑
 - [阅读指南](阅读.md) — 分级进阶阅读推荐

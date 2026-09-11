@@ -4,7 +4,12 @@ title: "止观双修 Samatha-Vipasyana: 天台禅修双通道"
 type: concept
 parent: zhiyi
 domain: 宗教
-tags: [samatha, vipasyana, calm-abiding, insight, Tiantai]
+tags:
+  - samatha
+  - vipasyana
+  - calm-abiding
+  - insight
+  - tiantai
 ---
 
 # 止观双修 / The Dual Practice of Calming and Insight

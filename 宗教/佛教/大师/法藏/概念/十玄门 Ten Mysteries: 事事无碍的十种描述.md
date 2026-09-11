@@ -4,7 +4,10 @@ title: "十玄门 Ten Mysteries: 事事无碍的十种描述"
 type: concept
 parent: fazang
 domain: 宗教
-tags: [ten-mysteries, Huayan, interpenetration]
+tags:
+  - ten-mysteries
+  - huayan
+  - interpenetration
 ---
 # 十玄门 / Ten Mysterious Gates
 

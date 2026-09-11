@@ -4,7 +4,16 @@ title: "海路求法 Maritime Dharma-Seeking: 法显的海上回程与丝绸之�
 type: concept
 parent: faxian
 domain: 宗教
-tags: [maritime-route, 海路, sea-route, Maritime-Silk-Road, 航海, navigation, Java, Sri-Lanka, trade]
+tags:
+  - maritime-route
+  - 海路
+  - sea-route
+  - maritime-silk-road
+  - 航海
+  - navigation
+  - java
+  - sri-lanka
+  - trade
 ---
 
 # 海路求法 Maritime Dharma-Seeking

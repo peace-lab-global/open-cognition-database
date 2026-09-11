@@ -4,7 +4,11 @@ title: "性具善恶 Nature Contains Both Good and Evil"
 type: concept
 parent: zhiyi
 domain: 宗教
-tags: [nature-contains, good-evil, buddha-nature, Tiantai]
+tags:
+  - nature-contains
+  - good-evil
+  - buddha-nature
+  - tiantai
 ---
 
 # 性具善恶 / Nature Contains Both Good and Evil

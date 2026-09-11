@@ -7,7 +7,17 @@ school: buddhism-vajrayana
 era: medieval
 birth: 720
 death: 800
-tags: [Guru Rinpoche, Vajrayana, Dzogchen, terma, bardo, Nyingma, samaya, tantra, Tibet, Rigpa]
+tags:
+  - guru-rinpoche
+  - vajrayana
+  - dzogchen
+  - terma
+  - bardo
+  - nyingma
+  - samaya
+  - tantra
+  - tibet
+  - rigpa
 aliases: ["Guru Rinpoche", "莲师", "Padmakara", "Padmasambhava", "邬金莲花生"]
 sources: ["Bardo Thodol", "The Lotus-Born (Yeshe Tsogyal)", "Padma Kathang", "Mani Kabum", "Kathang Tongthrol"]
 cross_refs: ["longchenpa", "milarepa", "tsongkhapa", "vimalamitra", "shantarakshita", "trishong-detsen", "jung"]
@@ -72,7 +82,7 @@ Padmasambhava (c. 720-800 CE) was an 8th-century master from Uddiyana (modern Sw
 
 **Vajrayana offers a direct path to Buddhahood within a single lifetime through recognizing the nature of rigpa (pristine awareness), rather than requiring countless aeons of gradual cultivation.**
 
-详见 [大圆满](concepts/dzogchen.md)。
+详见 [大圆满](../../../技能/大圆满引导/SKILL.md)。
 
 ### 2. 降伏与转化 / Subjugation and Transformation
 
@@ -80,7 +90,7 @@ Padmasambhava (c. 720-800 CE) was an 8th-century master from Uddiyana (modern Sw
 
 **Rather than destroying hostile forces, Padmasambhava subjugated and transformed them into Dharma protectors — a principle that extends to all aspects of tantric practice where afflictions are transmuted into wisdom.**
 
-详见 [降伏与转化](concepts/subjugation-transformation.md)。
+详见 [降伏与转化](概念/降伏与转化 Subjugation and Transformation: 密法的核心修行原则.md)。
 
 ### 3. 伏藏传统 / The Terma Tradition
 
@@ -88,7 +98,7 @@ Padmasambhava (c. 720-800 CE) was an 8th-century master from Uddiyana (modern Sw
 
 **Padmasambhava concealed teachings in rocks, lakes, space, and the mind-streams of disciples, to be discovered by tertons (treasure revealers) when conditions ripened — ensuring the Nyingma lineage's perpetual renewal.**
 
-详见 [伏藏](concepts/terma.md)。
+详见 [伏藏](概念/伏藏 Terma: 隐藏待时的教法.md)。
 
 ### 4. 中阴救度 / Liberation in the Bardo
 
@@ -96,7 +106,7 @@ Padmasambhava (c. 720-800 CE) was an 8th-century master from Uddiyana (modern Sw
 
 **The Bardo Thodol describes the conscious experiences during the 49-day intermediate state after death, providing instructions for liberation at each stage.**
 
-详见 [中阴](concepts/bardo.md)。
+详见 [中阴](概念/中阴 Bardo: 死后49天的过渡状态.md)。
 
 ### 5. 三昧耶戒 / Samaya as Sacred Bond
 
@@ -104,7 +114,7 @@ Padmasambhava (c. 720-800 CE) was an 8th-century master from Uddiyana (modern Sw
 
 **Samaya is the sacred commitment that sustains the living transmission of Vajrayana — not merely rules, but the bond that keeps tantric lineage alive and effective.**
 
-详见 [三昧耶](concepts/samaya.md)。
+详见 [三昧耶](概念/三昧耶 Samaya: 密乘戒.md)。
 
 ---
 
@@ -312,7 +322,7 @@ Padmasambhava (c. 720-800 CE) was an 8th-century master from Uddiyana (modern Sw
 - **死亡学 Thanatology** — [互补] 濒死体验 (NDE) 研究与中阴教法的对话
 - **[龙树 Nagarjuna](../龙树.md)** — [理论基础] 空性哲学为密法的非二元实践提供理论前提
 - **象征人类学 Symbolic Anthropology** — [框架] 仪式中的象征转化与文化再生产
-- **[密乘 Vajrayana](../schools/vajrayana.md)** — [核心传承]
+- **[密乘 Vajrayana](README.md)** — [核心传承]
 
 ---
 

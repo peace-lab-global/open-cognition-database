@@ -7,7 +7,7 @@ linked_concepts:
   - ../../traditions/taoism/无为.md
 tags:
   - 无为
-  - 道家
+  - daoist
   - 管理
   - 自然
 ---

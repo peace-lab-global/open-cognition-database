@@ -93,11 +93,11 @@ Kūkai (774–835), Heian period monk, founder of the **Shingon (True Word) scho
 
 ## 跨学科关联 Interdisciplinary Connections
 
-- [密乘](../schools/vajrayana.md) — [日本传承]
-- [荣西](yosai/README.md) — [对照] 禅 vs 密
-- [道元](dogen/README.md) — [对照] 日本佛教两大传统
+- [密乘](../莲花生大士/README.md) — [日本传承]
+- [荣西](../荣西/README.md) — [对照] 禅 vs 密
+- [道元](../道元/README.md) — [对照] 日本佛教两大传统
 - [德里达](../../../../哲学/学派/后结构主义/雅克.md) — [平行] 声字实相 vs 书写学
-- [莲花生](padmasambhava/README.md) — [比较] 藏密 vs 东密
+- [莲花生](../莲花生大士/README.md) — [比较] 藏密 vs 东密
 
 ## 进阶阅读 Further Reading
 
@@ -116,11 +116,11 @@ Kūkai (774–835), Heian period monk, founder of the **Shingon (True Word) scho
 
 ## 子条目索引 Sub-entry Index
 
-- [密教](concepts/esoteric-buddhism.md)
-- [三密](concepts/three-mysteries.md)
-- [曼荼罗](concepts/mandala.md)
-- [即身成佛](concepts/sokushin-jobutsu.md)
-- [真言宗](concepts/shingon.md)
+- [密教](概念/密教 Esoteric Buddhism.md)
+- [三密](概念/三密相应 Three Mysteries in Union.md)
+- [曼荼罗](概念/曼荼罗 Mandala.md)
+- [即身成佛](概念/即身成佛 Buddhahood in This Body.md)
+- [真言宗](概念/真言宗 Shingon School.md)
 - [著作详述](著作.md)
 - [年表](时间线.md)
 - [阅读清单](阅读.md)

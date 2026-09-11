@@ -8,7 +8,7 @@ era: modern
 birth: 1902
 death: 1987
 tags:
-  - 人本主义
+  - humanistic
   - 来访者中心疗法
   - 无条件积极关注
   - 自我实现倾向
@@ -160,10 +160,10 @@ After moving to La Jolla, California in 1964, his work expanded into cross-cultu
 
 | 概念 | 英文 | 核心要义 | 详见 |
 |------|------|---------|------|
-| 来访者中心疗法 | Client-Centered Therapy | 以来访者为主体，治疗师提供核心条件而非指导 | [client-centered](concepts/client-centered.md) |
+| 来访者中心疗法 | Client-Centered Therapy | 以来访者为主体，治疗师提供核心条件而非指导 | [client-centered](../../../技能/来访者中心对话/SKILL.md) |
 | 无条件积极关注 | Unconditional Positive Regard | 无条件接纳来访者的全部经验，不评判不附带条件 | [unconditional-positive-regard](概念/无条件积极关注.md) |
-| 自我实现倾向 | Actualizing Tendency | 有机体内在的成长驱动力，朝向潜能实现的方向 | [actualizing-tendency](concepts/actualizing-tendency.md) |
-| 真诚一致 | Congruence | 治疗师内在经验与外在表达的一致性，不戴面具 | [congruence](concepts/congruence.md) |
+| 自我实现倾向 | Actualizing Tendency | 有机体内在的成长驱动力，朝向潜能实现的方向 | [actualizing-tendency](概念/自我实现倾向.md) |
+| 真诚一致 | Congruence | 治疗师内在经验与外在表达的一致性，不戴面具 | [congruence](概念/真诚一致.md) |
 | 共情理解 | Empathic Understanding | 深入来访者的主观世界，感受其感受而非同情 | [empathy](../../认知心理学/戈尔曼/概念/共情.md) |
 | 充分发挥功能的人 | The Fully Functioning Person | 心理健康的理想状态：开放、信任、灵活、投入 | — |
 | 自我概念 | Self-Concept | 个体对自身的知觉和评价，经验与自我不一致导致焦虑 | — |
@@ -332,19 +332,19 @@ Rogers' "empathy" engages in deep dialogue with Buddhism's "karuṇā" (compassi
 
 ### 相关资源 / Related Resources
 
-- 马斯洛 [Maslow](../maslow/README.md) `[合作]` — 人本主义心理学共同奠基者
-- 罗洛·梅 [Rollo May](../../existential/may/README.md) `[对话]` — 存在主义心理治疗，关于人性的辩论
-- 简德林 [Eugene Gendlin](../../existential/gendlin/README.md) `[传承]` — 聚焦取向心理治疗
-- 塞利格曼 [Seligman](../../positive/seligman/README.md) `[发展]` — 积极心理学
+- 马斯洛 [Maslow](../马斯洛/README.md) `[合作]` — 人本主义心理学共同奠基者
+- 罗洛·梅 [Rollo May](../../../../README.md) `[对话]` — 存在主义心理治疗，关于人性的辩论
+- 简德林 [Eugene Gendlin](../../../../README.md) `[传承]` — 聚焦取向心理治疗
+- 塞利格曼 [Seligman](../../积极心理学/马丁/README.md) `[发展]` — 积极心理学
 
 ---
 
 ## 子条目索引 / Sub-entry Index
 
-- [来访者中心疗法 / Client-Centered Therapy](concepts/client-centered.md)
+- [来访者中心疗法 / Client-Centered Therapy](../../../技能/来访者中心对话/SKILL.md)
 - [无条件积极关注 / Unconditional Positive Regard](概念/无条件积极关注.md)
-- [自我实现倾向 / Actualizing Tendency](concepts/actualizing-tendency.md)
-- [真诚一致 / Congruence](concepts/congruence.md)
+- [自我实现倾向 / Actualizing Tendency](概念/自我实现倾向.md)
+- [真诚一致 / Congruence](概念/真诚一致.md)
 - [共情理解 / Empathic Understanding](../../认知心理学/戈尔曼/概念/共情.md)
 - [著作年表 / Works Chronology](著作.md)
 - [生平年表 / Life Timeline](时间线.md)

@@ -5,7 +5,13 @@ type: concept
 domain: 宗教
 school: buddhism-vajrayana
 parent: [[README|空海 Kūkai]]
-tags: [密教, 密宗, 真言, Esoteric Buddhism, Vajrayana, 东密]
+tags:
+  - 密教
+  - 密宗
+  - 真言
+  - esoteric-buddhism
+  - vajrayana
+  - 东密
 ---
 
 # 密教 Esoteric Buddhism

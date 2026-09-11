@@ -4,7 +4,13 @@ title: 佛性 Busho (Buddha-Nature in Dōgen)
 type: concept
 domain: 宗教
 parent: ../README.md
-tags: [道元, Dogen, 佛性, busho, Buddha-nature, 一切众生悉有佛性]
+tags:
+  - 道元
+  - dogen
+  - 佛性
+  - busho
+  - buddha-nature
+  - 一切众生悉有佛性
 ---
 
 # 佛性 Busho (Buddha-Nature in Dōgen)

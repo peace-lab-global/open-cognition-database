@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[圣雄甘地](../../学派/非暴力抵抗/gandhi.md)
+- 来源思想家：[圣雄甘地](../../学派/非暴力抵抗/圣雄甘地.md)
 - 来源概念：[真理之力](../../concepts/satyagraha.md)、[非暴力](../../concepts/nonviolence.md)
 - 关键文献：《我体验真理的故事》、《非暴力抵抗》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[圣雄甘地](../../学派/非暴力抵抗/gandhi.md)
+- 思想家：[圣雄甘地](../../学派/非暴力抵抗/圣雄甘地.md)
 - 概念：[真理之力](../../concepts/satyagraha.md)、[非暴力](../../concepts/nonviolence.md)
 - 相关 Skill：[justice-principle-test](../../../宗教/佛教/技能/从前五识/SKILL.md)、[social-contract-analysis](../../../哲学/技能/社会契约分析/SKILL.md)

@@ -4,7 +4,12 @@ title: 文化工业 Culture Industry
 type: concept
 domain: 美学
 parent: 美学.critical-aesthetics.adorno
-tags: [文化工业, 文化批评, 马克思主义, 商品拜物教, 意识形态]
+tags:
+  - 文化工业
+  - 文化批评
+  - marxism
+  - 商品拜物教
+  - 意识形态
 ---
 
 # 文化工业 / Culture Industry

@@ -5,7 +5,13 @@ type: concept
 domain: 宗教
 school: buddhism-pure-land
 parent: 宗教.buddhism.master.shandao.readme
-tags: [净土修行, Pure Land Practice, 往生, Rebirth, 极乐世界, Sukhāvatī]
+tags:
+  - 净土修行
+  - pure-land-practice
+  - 往生
+  - rebirth
+  - 极乐世界
+  - Sukhāvatī
 ---
 
 # 净土修行 Pure Land Practice

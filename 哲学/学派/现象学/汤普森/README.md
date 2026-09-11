@@ -68,15 +68,15 @@ Cognition is not the brain's representation of a pre-given world; it is the orga
 
 ### 2. 生命-心智连续性 (Life-Mind Continuity):自体生成作为心智根基
 
-心智不是从大脑中"冒出来"的副产品 -- 它是生命自组织过程 (autopoiesis) 的内在延伸。最原始的生命形式 (如单细胞生物) 已经蕴含最基础的心智特征 (感受性 sentience),自组织是心智的生物学根基。这意味着理解意识必须从理解生命开始。详见 [concepts/mind-in-life.md](concepts/mind-in-life.md)。
+心智不是从大脑中"冒出来"的副产品 -- 它是生命自组织过程 (autopoiesis) 的内在延伸。最原始的生命形式 (如单细胞生物) 已经蕴含最基础的心智特征 (感受性 sentience),自组织是心智的生物学根基。这意味着理解意识必须从理解生命开始。详见 [concepts/mind-in-life.md](../../../../研究/01-稳定培养/README.md)。
 
 ### 3. 意义建构 (Sense-Making):有机体创造意义
 
-有机体不是被动地接收信息,而是通过与环境的交互**主动建构意义**。一个细菌向糖源移动,不是在"处理关于糖的信息",而是在其生存需要中**赋予糖以"价值"** (valence)。意义建构是认知的基本活动,先于任何符号表征。详见 [concepts/sense-making.md](concepts/sense-making.md)。
+有机体不是被动地接收信息,而是通过与环境的交互**主动建构意义**。一个细菌向糖源移动,不是在"处理关于糖的信息",而是在其生存需要中**赋予糖以"价值"** (valence)。意义建构是认知的基本活动,先于任何符号表征。详见 [concepts/sense-making.md](../../苏格兰常识学派/托马斯/README.md)。
 
 ### 4. 神经现象学方法 (Neurophenomenology)
 
-继承并发展 Varela 的方法论纲领:将训练有素的第一人称报告 (如冥想者的精细内省) 与第三人称神经科学数据**互相约束** (mutual constraints)、互相验证,形成双向方法论。这不是简单的"主观加客观",而是两种方法论的结构性对话。详见 [concepts/neurophenomenology.md](concepts/neurophenomenology.md)。
+继承并发展 Varela 的方法论纲领:将训练有素的第一人称报告 (如冥想者的精细内省) 与第三人称神经科学数据**互相约束** (mutual constraints)、互相验证,形成双向方法论。这不是简单的"主观加客观",而是两种方法论的结构性对话。详见 [concepts/neurophenomenology.md](../梅青格/概念/神经现象学.md)。
 
 ### 5. 意识三态分析 (Waking-Dreaming-Being)
 
@@ -107,10 +107,10 @@ Varela 于 2001 年去世后,汤普森承担起继续发展生成认知理论的
 | 概念 | 英文 | 核心含义 | 子条目 |
 |------|------|----------|--------|
 | 生成 | Enaction | 认知通过感知-行动循环"生成"世界,而非反映世界 | [生成认知.md](概念/生成认知.md) |
-| 自体生成 | Autopoiesis | 生命系统的自我生产、自我维持过程;心智的生物学根基 | [mind-in-life.md](concepts/mind-in-life.md) |
-| 生命-心智连续性 | Life-Mind Continuity | 心智是生命自组织的延伸,非大脑的副产品 | [mind-in-life.md](concepts/mind-in-life.md) |
-| 意义建构 | Sense-Making | 有机体通过与环境的交互主动创造意义和价效 | [sense-making.md](concepts/sense-making.md) |
-| 神经现象学 | Neurophenomenology | 第一人称经验与第三人称数据的双向约束方法 | [neurophenomenology.md](concepts/neurophenomenology.md) |
+| 自体生成 | Autopoiesis | 生命系统的自我生产、自我维持过程;心智的生物学根基 | [mind-in-life.md](../../../../研究/01-稳定培养/README.md) |
+| 生命-心智连续性 | Life-Mind Continuity | 心智是生命自组织的延伸,非大脑的副产品 | [mind-in-life.md](../../../../研究/01-稳定培养/README.md) |
+| 意义建构 | Sense-Making | 有机体通过与环境的交互主动创造意义和价效 | [sense-making.md](../../苏格兰常识学派/托马斯/README.md) |
+| 神经现象学 | Neurophenomenology | 第一人称经验与第三人称数据的双向约束方法 | [neurophenomenology.md](../梅青格/概念/神经现象学.md) |
 | 具身认知 | 4E Cognition | 认知涉及身体 (embodied)、嵌入 (embedded)、延展 (extended)、生成 (enactive) 的整合 | [生成认知.md](概念/生成认知.md) |
 | 结构耦合 | Structural Coupling | 有机体与环境在历史中形成的动态协调关系 | [生成认知.md](概念/生成认知.md) |
 | 意识三态 | Three States | 清醒、做梦、深睡各有不同的自我结构 | -- |
@@ -197,10 +197,10 @@ Varela 于 2001 年去世后,汤普森承担起继续发展生成认知理论的
 ## 跨学科关联
 
 ### 哲学
-- [梅洛-庞蒂 Merleau-Ponty](../merleau-ponty/README.md) `[继承]` 身体现象学传统
-- [胡塞尔 Husserl](../husserl/README.md) `[继承]` 现象学方法论
-- [扎哈维 Zahavi](../zahavi/README.md) `[同源]` 现象学与认知科学的对话;合编 *Self, No Self?*
-- [梅青格 Metzinger](../metzinger/README.md) `[张力]` 自我是过程 vs 自我是透明模型
+- [梅洛-庞蒂 Merleau-Ponty](../梅洛庞蒂/README.md) `[继承]` 身体现象学传统
+- [胡塞尔 Husserl](../胡塞尔/README.md) `[继承]` 现象学方法论
+- [扎哈维 Zahavi](../扎哈维/README.md) `[同源]` 现象学与认知科学的对话;合编 *Self, No Self?*
+- [梅青格 Metzinger](../梅青格/README.md) `[张力]` 自我是过程 vs 自我是透明模型
 
 ### 认知科学
 - [弗里斯顿 Friston](../../../../心理学/学派/认知心理学/弗里斯顿.md) `[张力]` 生成认知 vs 预测加工 (predictive processing) -- 核心方法论分歧:生成认知强调行动-感知循环中的世界生成,预测加工强调脑内模型的贝叶斯推断
@@ -241,9 +241,9 @@ Varela 于 2001 年去世后,汤普森承担起继续发展生成认知理论的
 | 子条目 | 内容 |
 |--------|------|
 | [concepts/生成认知.md](概念/生成认知.md) | 生成认知 -- 结构耦合、bringing-forth a world、认知即生成 |
-| [concepts/mind-in-life.md](concepts/mind-in-life.md) | 生命-心智连续性 -- autopoiesis、深层连续性、生命作为心智根基 |
-| [concepts/sense-making.md](concepts/sense-making.md) | 意义建构 -- 价效 (valence)、适应性 (adaptivity)、有机体创造意义 |
-| [concepts/neurophenomenology.md](concepts/neurophenomenology.md) | 神经现象学 -- 互相约束、训练内省、Varela 方法论的延续 |
+| [concepts/mind-in-life.md](../../../../研究/01-稳定培养/README.md) | 生命-心智连续性 -- autopoiesis、深层连续性、生命作为心智根基 |
+| [concepts/sense-making.md](../../苏格兰常识学派/托马斯/README.md) | 意义建构 -- 价效 (valence)、适应性 (adaptivity)、有机体创造意义 |
+| [concepts/neurophenomenology.md](../梅青格/概念/神经现象学.md) | 神经现象学 -- 互相约束、训练内省、Varela 方法论的延续 |
 | [concepts/生成认知.md](概念/生成认知.md) | 4E 认知 -- 身体作为认知媒介、反脑中心主义 |
 | [著作.md](著作.md) | 作品总览 -- 专著、编著、重要论文 |
 | [时间线.md](时间线.md) | 思想年表 -- 生平与学术发展 |

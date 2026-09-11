@@ -9,14 +9,14 @@ birth: 709
 death: 788
 tags:
 - 马祖道一
-- Mazu Daoyi
+- mazu-daoyi
 - 洪州宗
-- Hongzhou
+- hongzhou
 - 即心是佛
 - 平常心是道
 - 非心非佛
 - 禅宗
-- Chan Buddhism
+- chan-buddhism
 aliases:
 - 马祖
 - Mazu
@@ -108,19 +108,19 @@ During the Tianbao period (c. 742), Mazu arrived in Hongzhou, Jiangxi. He first 
 
 ## 重要概念 / Key Concepts
 
-- **即心是佛 Mind is Buddha** — 当下之心即是佛，一切具足，不假外求。详见 [即心是佛](concepts/mind-is-buddha.md)。
+- **即心是佛 Mind is Buddha** — 当下之心即是佛，一切具足，不假外求。详见 [即心是佛](../../../../../研究/01-稳定培养/README.md)。
   The present mind itself is Buddha, complete in every way, needing nothing from outside.
 
-- **平常心是道 Ordinary Mind is the Way** — 不造作、不取舍、不断常，平常心即是道。详见 [平常心是道](concepts/ordinary-mind-way.md)。
+- **平常心是道 Ordinary Mind is the Way** — 不造作、不取舍、不断常，平常心即是道。详见 [平常心是道](概念/平常心是道 Píngcháng Xīn Shì Dào.md)。
   Without artifice, without grasping or rejecting, the ordinary mind is itself the Way.
 
-- **非心非佛 Neither Mind nor Buddha** — 超越一切概念执着，扫除"心"与"佛"的名相。详见 [非心非佛](concepts/neither-mind-nor-buddha.md)。
+- **非心非佛 Neither Mind nor Buddha** — 超越一切概念执着，扫除"心"与"佛"的名相。详见 [非心非佛](概念/非心非佛 Fēi Xīn Fēi Fó.md)。
   Transcend all conceptual attachment; sweep away the names "mind" and "Buddha."
 
-- **随处任真 Natural Authenticity** — 在任何时间地点保持本来面目。详见 [随处任真](concepts/natural-authenticity.md)。
+- **随处任真 Natural Authenticity** — 在任何时间地点保持本来面目。详见 [随处任真](../../../../../认知系统/学派/自然决策/克莱因/README.md)。
   Maintain your original face in every time and place.
 
-- **洪州宗 Hongzhou School** — 马祖开创的禅宗宗派，以"触类是道"为宗风。详见 [洪州宗](concepts/hongzhou-school.md)。
+- **洪州宗 Hongzhou School** — 马祖开创的禅宗宗派，以"触类是道"为宗风。详见 [洪州宗](概念/洪州宗 Hóngzhōu Zōng.md)。
   The Chan school founded by Mazu, taking "all activities are the Way" as its hallmark.
 
 ---
@@ -199,10 +199,10 @@ Ordinary mind is not drifting with the current or indulging desires. It is "with
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [六祖慧能 Huineng](hui-neng.md) — [继承 inheritance] 顿悟思想 / Sudden awakening
+- [六祖慧能 Huineng](../../../../佛教/大师/慧能/README.md) — [继承 inheritance] 顿悟思想 / Sudden awakening
 - [南岳怀让 Huairang](../../masters/huairang.md) — [师承 teacher] 磨砖作镜 / Polishing a brick
 - [百丈怀海 Baizhang](baizhang-huaihai.md) — [弟子 disciple] 丛林清规 / Monastic regulations
-- [临济义玄 Linji](linji-yixuan.md) — [法脉后裔 lineage descendant] 临济宗 / Linji School
+- [临济义玄 Linji](../临济义玄.md) — [法脉后裔 lineage descendant] 临济宗 / Linji School
 - [老庄 Laozi & Zhuangzi](../../../../传统/道教/masters/老子.md) — [平行 parallel] 道法自然 / Dao following nature
 - [海德格尔 Heidegger](../../../../../哲学/学派/存在主义/海德格尔.md) — [平行 parallel] 本真存在 / Authentic being
 
@@ -233,11 +233,11 @@ Ordinary mind is not drifting with the current or indulging desires. It is "with
 
 | 条目 / Entry | 路径 / Path |
 |---|---|
-| 即心是佛 Mind is Buddha | [concepts/mind-is-buddha](concepts/mind-is-buddha.md) |
-| 平常心是道 Ordinary Mind is the Way | [concepts/ordinary-mind-way](concepts/ordinary-mind-way.md) |
-| 非心非佛 Neither Mind nor Buddha | [concepts/neither-mind-nor-buddha](concepts/neither-mind-nor-buddha.md) |
-| 随处任真 Natural Authenticity | [concepts/natural-authenticity](concepts/natural-authenticity.md) |
-| 洪州宗 Hongzhou School | [concepts/hongzhou-school](concepts/hongzhou-school.md) |
+| 即心是佛 Mind is Buddha | [concepts/mind-is-buddha](../../../../../研究/01-稳定培养/README.md) |
+| 平常心是道 Ordinary Mind is the Way | [concepts/ordinary-mind-way](概念/平常心是道 Píngcháng Xīn Shì Dào.md) |
+| 非心非佛 Neither Mind nor Buddha | [concepts/neither-mind-nor-buddha](概念/非心非佛 Fēi Xīn Fēi Fó.md) |
+| 随处任真 Natural Authenticity | [concepts/natural-authenticity](../../../../../认知系统/学派/自然决策/克莱因/README.md) |
+| 洪州宗 Hongzhou School | [concepts/hongzhou-school](概念/洪州宗 Hóngzhōu Zōng.md) |
 | 著作列表 Works | [works](著作.md) |
 | 年表 Timeline | [timeline](时间线.md) |
 | 阅读清单 Reading List | [reading-list](阅读.md) |

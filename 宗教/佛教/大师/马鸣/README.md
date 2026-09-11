@@ -7,7 +7,15 @@ school: buddhism-mahayana
 era: classical-india
 birth: 80
 death: 150
-tags: [Aśvaghoṣa, Buddhacarita, Saundarananda, Mahāyāna-śraddhotpāda, tathāgatagarbha, Sanskrit-poetry, Buddhist-literature, one-mind-two-gates]
+tags:
+  - Aśvaghoṣa
+  - buddhacarita
+  - saundarananda
+  - Mahāyāna-śraddhotpāda
+  - tathāgatagarbha
+  - sanskrit-poetry
+  - buddhist-literature
+  - one-mind-two-gates
 aliases: ["Aśvaghoṣa", "阿湿缚窭沙", "马鸣菩萨", "Bodhisattva Aśvaghoṣa"]
 sources: ["Buddhacarita", "Saundarananda", "Mahāyāna-śraddhotpāda-śāstra", "Sūtrālaṃkāra-śāstra"]
 cross_refs: ["nagarjuna", "asanga-vasubandhu", "kumarajiva", "paramartha", "fazang"]
@@ -48,7 +56,7 @@ children: ["concepts/buddhacarita", "concepts/tathagatagarbha", "concepts/one-mi
 
 **In the *Buddhacarita*, Aśvaghoṣa does not merely "tell the Buddha's story" — he encodes each life episode as a narrative embodiment of deep doctrine. The narrative itself is the argument.**
 
-详见 [佛所行赞](concepts/buddhacarita.md)。
+详见 [佛所行赞](概念/佛所行赞 Buddhacarita: 佛教梵语史诗.md)。
 
 ### 2. 如来藏思想 / Tathāgatagarbha Thought
 
@@ -64,7 +72,7 @@ children: ["concepts/buddhacarita", "concepts/tathagatagarbha", "concepts/one-mi
 
 **The "One Mind, Two Gates" framework: all phenomena arise from the "One Mind" which has two aspects — the Gate of Suchness (tathatā) and the Gate of Arising-and-Ceasing. The two are neither identical nor different.**
 
-详见 [一心二门](concepts/one-mind-two-gates.md)。
+详见 [一心二门](../../../../哲学/学派/存在主义/西蒙娜/README.md)。
 
 ### 4. 文学与哲学的融合 / Fusion of Literature and Philosophy
 
@@ -72,7 +80,7 @@ children: ["concepts/buddhacarita", "concepts/tathagatagarbha", "concepts/one-mi
 
 **Aśvaghoṣa was the first Indian thinker to self-consciously use literary art (kāvya) as a vehicle for philosophy, believing that aesthetic experience (rasa) itself could serve as a pathway to religious awakening.**
 
-详见 [文学与哲学融合](concepts/literature-philosophy.md)。
+详见 [文学与哲学融合](../../../../文学/README.md)。
 
 ### 5. 梵语佛教诗歌传统 / Sanskrit Buddhist Poetry Tradition
 
@@ -80,7 +88,7 @@ children: ["concepts/buddhacarita", "concepts/tathagatagarbha", "concepts/one-mi
 
 **The Buddhist kāvya tradition initiated by Aśvaghoṣa fused classical Indian literary rhetoric with Buddhist soteriological narrative, creating a unique "dharma-rasa" aesthetic.**
 
-详见 [梵语佛教诗歌](concepts/sanskrit-poetry.md)。
+详见 [梵语佛教诗歌](概念/梵语佛教诗歌 Sanskrit Buddhist Poetry: kāvya 传统与 dharma-rasa 美学.md)。
 
 ---
 
@@ -254,11 +262,11 @@ children: ["concepts/buddhacarita", "concepts/tathagatagarbha", "concepts/one-mi
 
 | 条目 | 类型 | 内容概述 |
 |------|------|----------|
-| [佛所行赞](concepts/buddhacarita.md) | 概念 | 以诗传佛的叙事哲学 |
+| [佛所行赞](概念/佛所行赞 Buddhacarita: 佛教梵语史诗.md) | 概念 | 以诗传佛的叙事哲学 |
 | [如来藏](../../概念/foundational/如来藏 Tathāgatagarbha.md) | 概念 | 众生本具佛性的思想体系 |
-| [一心二门](concepts/one-mind-two-gates.md) | 概念 | 真如门与生灭门的哲学架构 |
-| [文学与哲学融合](concepts/literature-philosophy.md) | 概念 | 审美体验作为觉悟途径 |
-| [梵语佛教诗歌](concepts/sanskrit-poetry.md) | 概念 | kāvya 传统与 dharma-rasa 美学 |
+| [一心二门](../../../../哲学/学派/存在主义/西蒙娜/README.md) | 概念 | 真如门与生灭门的哲学架构 |
+| [文学与哲学融合](../../../../文学/README.md) | 概念 | 审美体验作为觉悟途径 |
+| [梵语佛教诗歌](概念/梵语佛教诗歌 Sanskrit Buddhist Poetry: kāvya 传统与 dharma-rasa 美学.md) | 概念 | kāvya 传统与 dharma-rasa 美学 |
 | [著作目录](著作.md) | 作品 | 完整著作列表与考证 |
 | [年表](时间线.md) | 年表 | 生平与历史语境 |
 | [进阶阅读](阅读.md) | 阅读 | 原典、注疏、研究文献 |

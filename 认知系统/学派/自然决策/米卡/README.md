@@ -7,7 +7,13 @@ school: naturalistic-decision
 era: modern
 birth: 1958
 death: null
-tags: [situation-awareness, SAGAT, perception-comprehension-projection, SA-design, dynamic-decision-making, human-factors]
+tags:
+  - situation-awareness
+  - sagat
+  - perception-comprehension-projection
+  - sa-design
+  - dynamic-decision-making
+  - human-factors
 aliases: [米卡·恩兹利, Mica Endsley]
 sources:
   - "Toward a Theory of Situation Awareness in Dynamic Systems (1995)"

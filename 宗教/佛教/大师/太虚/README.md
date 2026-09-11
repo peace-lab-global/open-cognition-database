@@ -7,7 +7,14 @@ school: buddhism-modern
 era: modern
 birth: 1890
 death: 1947
-tags: [Taixu, humanistic-buddhism, buddhist-reform, renjian-fojiao, modern-buddhism, three-revolutions, world-buddhism]
+tags:
+  - taixu
+  - humanistic-buddhism
+  - buddhist-reform
+  - renjian-fojiao
+  - modern-buddhism
+  - three-revolutions
+  - world-buddhism
 aliases: ["Tàixū", "太虚大师", "唯心", "吕淦森", "Master Taixu"]
 sources: ["《太虚大师全书》700万字 64册", "《人生佛教》", "《真现实论》", "《新的唯识论》", "《佛学源流及其新运动》", "《法相唯识学概论》", "《整理僧伽制度论》"]
 cross_refs: ["yinguang", "nagarjuna", "zhiyi", "huineng", "yinshun", "ouyang-jingwu"]
@@ -52,7 +59,7 @@ children: ["concepts/humanistic-buddhism", "concepts/three-revolutions", "concep
 
 **The Doctrinal Revolution redirects focus from the afterlife to this-worldly existence. The Institutional Revolution reforms the sangha system with modern seminaries. The Property Revolution communalizes temple assets for education, charity, and public welfare.**
 
-详见 [三大革命](concepts/three-revolutions.md)。
+详见 [三大革命](概念/三大革命 Three Great Revolutions: 太虚的佛教改革总纲领.md)。
 
 ### 3. 世界佛学 World Buddhism
 
@@ -60,7 +67,7 @@ children: ["concepts/humanistic-buddhism", "concepts/three-revolutions", "concep
 
 **Taixu envisioned a global framework for Buddhist studies — the World Institute of Buddhist Studies — integrating Theravada, Chinese, and Tibetan traditions with modern academic methods. Founded in Paris in 1928, it was a landmark in the globalization of Chinese Buddhism.**
 
-详见 [世界佛学](concepts/world-buddhism.md)。
+详见 [世界佛学](概念/世界佛学 World Buddhism: 太虚的全球佛教构想.md)。
 
 ### 4. 三级判教 Three-Level Doctrinal Classification
 
@@ -68,7 +75,7 @@ children: ["concepts/humanistic-buddhism", "concepts/three-revolutions", "concep
 
 **Taixu classified all Buddhist teachings into three tiers: the Shared Teaching of Five Vehicles (ethical practice for humans and devas), the Shared Teaching of Three Vehicles (liberation path of sravakas, pratyekabuddhas, and bodhisattvas), and the Unshared Teaching of Mahayana (the ultimate Buddha Way).**
 
-详见 [三级判教](concepts/three-level-classification.md)。
+详见 [三级判教](概念/三级判教 Three-Level Doctrinal Classification: 太虚的佛法判释体系.md)。
 
 ### 5. 法界圆觉宗 Dharmadhatu Perfect Awakening
 
@@ -76,7 +83,7 @@ children: ["concepts/humanistic-buddhism", "concepts/three-revolutions", "concep
 
 **Taixu's own doctrinal position — regarding the Tathagatagarbha (Buddha-nature) thought of the Awakening of Faith and the Sutra of Perfect Enlightenment as the most complete expression of Buddhist truth.**
 
-详见 [法界圆觉宗](concepts/dharmadhatu-awakening.md)。
+详见 [法界圆觉宗](概念/法界圆觉宗 Dharmadhatu Perfect Awakening: 太虚的自宗立场.md)。
 
 ### 6. 真现实论 True Realism
 
@@ -258,10 +265,10 @@ children: ["concepts/humanistic-buddhism", "concepts/three-revolutions", "concep
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
 - [人生佛教 Humanistic Buddhism](concepts/人间佛教.md) — 以现实人生为出发点的佛教
-- [三大革命 Three Revolutions](concepts/three-revolutions.md) — 教理、教制、教产三重改革
-- [世界佛学 World Buddhism](concepts/world-buddhism.md) — 全球视野的佛学构想
-- [三级判教 Three-Level Classification](concepts/three-level-classification.md) — 佛法的三级分类体系
-- [法界圆觉宗 Dharmadhatu Awakening](concepts/dharmadhatu-awakening.md) — 太虚的自宗立场
+- [三大革命 Three Revolutions](概念/三大革命 Three Great Revolutions: 太虚的佛教改革总纲领.md) — 教理、教制、教产三重改革
+- [世界佛学 World Buddhism](概念/世界佛学 World Buddhism: 太虚的全球佛教构想.md) — 全球视野的佛学构想
+- [三级判教 Three-Level Classification](概念/三级判教 Three-Level Doctrinal Classification: 太虚的佛法判释体系.md) — 佛法的三级分类体系
+- [法界圆觉宗 Dharmadhatu Awakening](概念/法界圆觉宗 Dharmadhatu Perfect Awakening: 太虚的自宗立场.md) — 太虚的自宗立场
 - [著作目录](著作.md) — 完整著作列表与分类
 - [年表](时间线.md) — 生平与历史语境
 - [进阶阅读](阅读.md) — 分类书单

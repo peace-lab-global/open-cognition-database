@@ -152,20 +152,20 @@ His late theoretical writings — including rethinking of montage, systematic di
 
 ## 重要概念 / Key Concepts
 
-1. **蒙太奇 / Montage** — 通过镜头的并置、冲突与组合产生超出单个镜头的新意义的电影构成方法。蒙太奇不仅是剪辑技术，更是思维方式的影像化。→ [蒙太奇理论](concepts/montage-theory.md)
-   Montage as a method of film construction that generates new meaning exceeding individual shots through juxtaposition, conflict, and combination. Montage is not merely an editing technique but the cinematisation of a mode of thought. → [Montage Theory](concepts/montage-theory.md)
+1. **蒙太奇 / Montage** — 通过镜头的并置、冲突与组合产生超出单个镜头的新意义的电影构成方法。蒙太奇不仅是剪辑技术，更是思维方式的影像化。→ [蒙太奇理论](概念/蒙太奇理论.md)
+   Montage as a method of film construction that generates new meaning exceeding individual shots through juxtaposition, conflict, and combination. Montage is not merely an editing technique but the cinematisation of a mode of thought. → [Montage Theory](概念/蒙太奇理论.md)
 
-2. **冲突蒙太奇 / Dialectical Montage (Conflict Montage)** — 以相邻镜头在形式或概念上的对立碰撞来生成意义的特定方法，是爱森斯坦蒙太奇体系中最具哲学深度的层面。→ [辩证蒙太奇](concepts/dialectical-montage.md)
-   The specific method of generating meaning through the oppositional collision of adjacent shots in form or concept; the most philosophically profound dimension of Eisenstein's montage system. → [Dialectical Montage](concepts/dialectical-montage.md)
+2. **冲突蒙太奇 / Dialectical Montage (Conflict Montage)** — 以相邻镜头在形式或概念上的对立碰撞来生成意义的特定方法，是爱森斯坦蒙太奇体系中最具哲学深度的层面。→ [辩证蒙太奇](概念/辩证蒙太奇.md)
+   The specific method of generating meaning through the oppositional collision of adjacent shots in form or concept; the most philosophically profound dimension of Eisenstein's montage system. → [Dialectical Montage](概念/辩证蒙太奇.md)
 
-3. **理性电影 / Intellectual Cinema** — 以蒙太奇直接表达抽象概念与逻辑推理的电影理想，代表了电影作为"思维工具"的最高可能性。→ [理性电影](concepts/intellectual-cinema.md)
-   The cinematic ideal of expressing abstract concepts and logical reasoning directly through montage, representing the highest possibility of cinema as a "thinking tool." → [Intellectual Cinema](concepts/intellectual-cinema.md)
+3. **理性电影 / Intellectual Cinema** — 以蒙太奇直接表达抽象概念与逻辑推理的电影理想，代表了电影作为"思维工具"的最高可能性。→ [理性电影](概念/理性电影.md)
+   The cinematic ideal of expressing abstract concepts and logical reasoning directly through montage, representing the highest possibility of cinema as a "thinking tool." → [Intellectual Cinema](概念/理性电影.md)
 
-4. **杂耍/吸引力 / Attractions** — 任何能冲击观众、产生可计算心理效果的独立场景单元，戏剧与电影的基本构成块。→ [吸引力](concepts/attractions.md)
-   Any independent scene-unit capable of shocking the spectator and producing calculable psychological effects; the fundamental building block of theater and cinema. → [Attractions](concepts/attractions.md)
+4. **杂耍/吸引力 / Attractions** — 任何能冲击观众、产生可计算心理效果的独立场景单元，戏剧与电影的基本构成块。→ [吸引力](概念/吸引力.md)
+   Any independent scene-unit capable of shocking the spectator and producing calculable psychological effects; the fundamental building block of theater and cinema. → [Attractions](概念/吸引力.md)
 
-5. **战舰波将金号 / Battleship Potemkin** — 爱森斯坦冲突蒙太奇理论的最完整电影实践，敖德萨阶梯段落成为电影语法的奠基性文本。→ [战舰波将金号](concepts/battleship-potemkin.md)
-   The most complete cinematic realization of Eisenstein's conflict montage theory; the Odessa Steps sequence became a foundational text of cinematic grammar. → [Battleship Potemkin](concepts/battleship-potemkin.md)
+5. **战舰波将金号 / Battleship Potemkin** — 爱森斯坦冲突蒙太奇理论的最完整电影实践，敖德萨阶梯段落成为电影语法的奠基性文本。→ [战舰波将金号](概念/战舰波将金号.md)
+   The most complete cinematic realization of Eisenstein's conflict montage theory; the Odessa Steps sequence became a foundational text of cinematic grammar. → [Battleship Potemkin](概念/战舰波将金号.md)
 
 6. **激情路径 / Pathos** — 让观众经历量变到质变飞跃的辩证结构，是爱森斯坦艺术目的论的核心。Pathos不是情绪宣泄，而是认知飞跃的感性载体。
    The dialectical structure that makes the spectator experience the leap from quantitative accumulation to qualitative transformation; the core of Eisenstein's artistic teleology. Pathos is not emotional catharsis but the sensuous vehicle of cognitive transformation.
@@ -303,11 +303,11 @@ The Chinese aesthetic concept of "yijing" (意境, artistic conception) — prod
 
 ## 子条目索引 / Sub-entry Index
 
-- [蒙太奇理论 / Montage Theory](concepts/montage-theory.md) — 爱森斯坦最核心的理论贡献 / Eisenstein's most central theoretical contribution
-- [辩证蒙太奇 / Dialectical Montage](concepts/dialectical-montage.md) — 冲突蒙太奇的哲学深化 / Philosophical deepening of conflict montage
-- [理性电影 / Intellectual Cinema](concepts/intellectual-cinema.md) — 电影作为思维工具的最高理想 / The highest ideal of cinema as a thinking tool
-- [吸引力 / Attractions](concepts/attractions.md) — 蒙太奇的基本构成单元 / The fundamental building unit of montage
-- [战舰波将金号 / Battleship Potemkin](concepts/battleship-potemkin.md) — 蒙太奇理论的经典电影实践 / The classic cinematic realization of montage theory
+- [蒙太奇理论 / Montage Theory](概念/蒙太奇理论.md) — 爱森斯坦最核心的理论贡献 / Eisenstein's most central theoretical contribution
+- [辩证蒙太奇 / Dialectical Montage](概念/辩证蒙太奇.md) — 冲突蒙太奇的哲学深化 / Philosophical deepening of conflict montage
+- [理性电影 / Intellectual Cinema](概念/理性电影.md) — 电影作为思维工具的最高理想 / The highest ideal of cinema as a thinking tool
+- [吸引力 / Attractions](概念/吸引力.md) — 蒙太奇的基本构成单元 / The fundamental building unit of montage
+- [战舰波将金号 / Battleship Potemkin](概念/战舰波将金号.md) — 蒙太奇理论的经典电影实践 / The classic cinematic realization of montage theory
 - [著作年表 / Works](著作.md) — 完整作品列表与分析 / Complete works list with analysis
 - [生平大事记 / Timeline](时间线.md) — 生平与历史语境 / Biography and historical context
 - [阅读指南 / Reading List](阅读.md) — 分阶阅读路径 / Tiered reading paths

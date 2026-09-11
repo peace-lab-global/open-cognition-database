@@ -4,7 +4,12 @@ title: "戏论 Prapanca: 概念增殖的批判与寂灭"
 type: concept
 parent: nagarjuna
 domain: 宗教
-tags: [prapanca, conceptual-proliferation, reification, language, Madhyamaka]
+tags:
+  - prapanca
+  - conceptual-proliferation
+  - reification
+  - language
+  - madhyamaka
 ---
 
 # 戏论 Prapanca / Conceptual Proliferation

@@ -5,7 +5,14 @@ type: concept
 thinker: nagarjuna
 domain: 宗教
 school: buddhism-madhyamaka
-tags: [emptiness, sunyata, svabhava, anti-essentialism, Madhyamaka, nihsvabhava, sunyata-sunyata]
+tags:
+  - emptiness
+  - sunyata
+  - svabhava
+  - anti-essentialism
+  - madhyamaka
+  - nihsvabhava
+  - sunyata-sunyata
 ---
 
 # 空性 Sunyata / Emptiness

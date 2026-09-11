@@ -127,6 +127,6 @@ Thomas Nagel (1937–) is one of the most important contemporary American philos
 
 ## 十、关联条目
 
-- [麦金 McGinn](../mcginn/README.md) `[影响]` 认知闭合与蝙蝠论证
-- [丹尼特 Dennett](../dennett/README.md) `[论敌]` 意识的还原 vs 取消
-- [帕菲特 Parfit](../parfit/README.md) `[同时代对话]` 理性与利他主义
+- [麦金 McGinn](../麦金/README.md) `[影响]` 认知闭合与蝙蝠论证
+- [丹尼特 Dennett](../丹尼特/README.md) `[论敌]` 意识的还原 vs 取消
+- [帕菲特 Parfit](../帕菲特/README.md) `[同时代对话]` 理性与利他主义

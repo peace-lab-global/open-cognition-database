@@ -153,11 +153,11 @@ Descartes's final years were largely devoted to the thorniest problem in his sys
 
 | 概念 / Concept | 说明 / Description | 详见 / See |
 |------|------|------|
-| Cogito（我思） | 通过怀疑发现的思维活动存在的第一确定性 | [cogito.md](concepts/cogito.md) |
-| 身心二元论 | 心灵与身体作为两种根本不同实体的学说 | [mind-body-dualism.md](concepts/mind-body-dualism.md) |
-| 方法论怀疑 | 系统性的怀疑策略，旨在找到知识的确定基础 | [methodic-doubt.md](concepts/methodic-doubt.md) |
-| 清楚分明的观念 | 真理的认识论标准 | [clear-distinct.md](concepts/clear-distinct.md) |
-| Res Cogitans（思维实体） | 心灵的本质属性，非物质的、不可分的思维 | [res-cogitans.md](concepts/res-cogitans.md) |
+| Cogito（我思） | 通过怀疑发现的思维活动存在的第一确定性 | [cogito.md](../../../../名言/怀疑方法/笛卡尔-我思故我在.md) |
+| 身心二元论 | 心灵与身体作为两种根本不同实体的学说 | [mind-body-dualism.md](../../../../研究/01-稳定培养/README.md) |
+| 方法论怀疑 | 系统性的怀疑策略，旨在找到知识的确定基础 | [methodic-doubt.md](概念/方法论怀疑.md) |
+| 清楚分明的观念 | 真理的认识论标准 | [clear-distinct.md](概念/清楚分明的观念.md) |
+| Res Cogitans（思维实体） | 心灵的本质属性，非物质的、不可分的思维 | [res-cogitans.md](../../../../研究/README.md) |
 | Res Extensa（广延实体） | 物质的本质属性，占据空间、可分的广延 | — |
 | 天赋观念（Innate Ideas） | 心灵中先于经验的观念，如上帝观念、数学公理 | — |
 | 松果体（Pineal Gland） | 笛卡尔认定的身心交互作用的物理枢纽 | — |
@@ -251,11 +251,11 @@ The dialogue between Cartesian 哲学 and Eastern intellectual traditions is ric
 
 | 子条目 | 说明 |
 |--------|------|
-| [cogito.md](concepts/cogito.md) | 我思故我在 — 现代哲学的第一原理 |
-| [mind-body-dualism.md](concepts/mind-body-dualism.md) | 身心二元论 — 最具影响力的笛卡尔学说 |
-| [methodic-doubt.md](concepts/methodic-doubt.md) | 方法论怀疑 — 通向确定性的怀疑之路 |
-| [clear-distinct.md](concepts/clear-distinct.md) | 清楚分明的观念 — 真理的认识论标准 |
-| [res-cogitans.md](concepts/res-cogitans.md) | 思维实体 — 心灵的形而上学界定 |
+| [cogito.md](../../../../名言/怀疑方法/笛卡尔-我思故我在.md) | 我思故我在 — 现代哲学的第一原理 |
+| [mind-body-dualism.md](../../../../研究/01-稳定培养/README.md) | 身心二元论 — 最具影响力的笛卡尔学说 |
+| [methodic-doubt.md](概念/方法论怀疑.md) | 方法论怀疑 — 通向确定性的怀疑之路 |
+| [clear-distinct.md](概念/清楚分明的观念.md) | 清楚分明的观念 — 真理的认识论标准 |
+| [res-cogitans.md](../../../../研究/README.md) | 思维实体 — 心灵的形而上学界定 |
 | [著作.md](著作.md) | 著作详述 |
 | [时间线.md](时间线.md) | 思想年表 |
 | [阅读.md](阅读.md) | 进阶阅读书单 |

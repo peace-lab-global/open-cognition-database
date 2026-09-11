@@ -6,9 +6,9 @@ linked_thinker: ../../schools/consequentialism/密尔.md
 linked_concepts:
   - ../../concepts/社会契约.md
 tags:
-  - 自由主义
+  - liberalism
   - 伤害原则
-  - 政治哲学
+  - political-philosophy
   - 公民自由
 ---
 

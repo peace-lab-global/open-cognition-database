@@ -56,9 +56,9 @@ children:
 ## 子条目索引
 | 子条目 | 内容 |
 |---|---|
-| [concepts/central-capabilities.md](concepts/central-capabilities.md) | 十项核心能力 |
-| [concepts/fragility-of-goodness.md](concepts/fragility-of-goodness.md) | 善的脆弱性 |
-| [concepts/emotions-as-judgments.md](concepts/emotions-as-judgments.md) | 情感即判断 |
-| [concepts/cosmopolitanism.md](concepts/cosmopolitanism.md) | 世界主义 |
-| [concepts/disability-justice.md](concepts/disability-justice.md) | 残疾人正义 |
+| [concepts/central-capabilities.md](概念/十项核心能力.md) | 十项核心能力 |
+| [concepts/fragility-of-goodness.md](概念/善的脆弱性.md) | 善的脆弱性 |
+| [concepts/emotions-as-judgments.md](概念/情感即判断.md) | 情感即判断 |
+| [concepts/cosmopolitanism.md](概念/世界主义.md) | 世界主义 |
+| [concepts/disability-justice.md](概念/残疾人正义.md) | 残疾人正义 |
 | [著作.md](著作.md) · [时间线.md](时间线.md) · [阅读.md](阅读.md) |

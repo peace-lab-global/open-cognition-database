@@ -40,12 +40,12 @@ Wiener (控制论)
 
 ## 关键概念
 
-- [自动化偏见](../../concepts/automation-bias.md) · Automation Bias
+- [自动化偏见](莱桑/README.md) · Automation Bias
 - [脱离回路](../../概念/脱离回路.md) · Out-of-the-Loop
-- [社会技术系统](../../concepts/sociotechnical-system.md) · Sociotechnical System
-- [生态界面设计](../../concepts/ecological-interface-design.md) · Ecological Interface Design
-- [自动化-自主性光谱](../../concepts/automation-autonomy-spectrum.md) · Automation-Autonomy Spectrum
-- [多资源模型](../../concepts/multiple-resource-model.md) · Multiple Resource Model
+- [社会技术系统](莱桑/README.md) · Sociotechnical System
+- [生态界面设计](../生态认知/克拉克/README.md) · Ecological Interface Design
+- [自动化-自主性光谱](莱桑/README.md) · Automation-Autonomy Spectrum
+- [多资源模型](../../概念/多资源模型.md) · Multiple Resource Model
 
 ## 跨学派关联
 

@@ -178,8 +178,8 @@ sources:
 
 ## 关联 Skills
 
-- **社会学 Skills**: [Durkheim 涂尔干](durkheim.md) — 宏观社会事实与微观互动形式的互补视角 [平行]
-- **社会学 Skills**: [Weber 韦伯](weber.md) — 理解社会学与形式社会学的对话 [平行]
-- **社会学 Skills**: [Goffman 戈夫曼](../互动论/goffman.md) — 互动形式分析的戏剧理论发展 [发展]
-- **社会学 Skills**: [Bauman 鲍曼](../现代性/bauman.md) — 陌生人理论的流动性现代性延伸 [发展]
-- **社会学 Skills**: [Castells 卡斯特尔](../网络社会/castells.md) — 网络社会中的互动形式 [平行]
+- **社会学 Skills**: [Durkheim 涂尔干](涂尔干.md) — 宏观社会事实与微观互动形式的互补视角 [平行]
+- **社会学 Skills**: [Weber 韦伯](韦伯.md) — 理解社会学与形式社会学的对话 [平行]
+- **社会学 Skills**: [Goffman 戈夫曼](../互动论/戈夫曼.md) — 互动形式分析的戏剧理论发展 [发展]
+- **社会学 Skills**: [Bauman 鲍曼](../现代性/鲍曼.md) — 陌生人理论的流动性现代性延伸 [发展]
+- **社会学 Skills**: [Castells 卡斯特尔](../网络社会/卡斯特.md) — 网络社会中的互动形式 [平行]

@@ -4,7 +4,11 @@ title: "因陀罗网 Indra's Net: 重重无尽的宇宙隐喻"
 type: concept
 parent: fazang
 domain: 宗教
-tags: [indra-net, holism, network, Huayan]
+tags:
+  - indra-net
+  - holism
+  - network
+  - huayan
 ---
 # 因陀罗网 / Indra's Net
 

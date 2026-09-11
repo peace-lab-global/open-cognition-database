@@ -4,7 +4,11 @@ title: "格鲁派 Gelug: 宗喀巴创立的藏传佛教传统"
 type: concept
 parent: tsongkhapa
 domain: 宗教
-tags: [Gelug, yellow-hat, monastic-reform, Dalai-Lama]
+tags:
+  - gelug
+  - yellow-hat
+  - monastic-reform
+  - dalai-lama
 ---
 
 # 格鲁派 Gelug / The Virtuous Tradition

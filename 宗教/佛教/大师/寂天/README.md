@@ -7,7 +7,15 @@ school: buddhism-madhyamaka
 era: classical-india
 birth: 685
 death: 763
-tags: [Bodhicaryavatara, bodhicitta, patience, self-other-exchange, Madhyamaka, Buddhist-ethics, ksanti, karuna]
+tags:
+  - bodhicaryavatara
+  - bodhicitta
+  - patience
+  - self-other-exchange
+  - madhyamaka
+  - buddhist-ethics
+  - ksanti
+  - karuna
 aliases: ["Santideva", "寂天菩萨", "Shantideva"]
 sources: ["Bodhicaryavatara", "Siksasamuccaya", "Sutrasamuccaya"]
 cross_refs: ["nagarjuna", "candrakirti", "tsongkhapa", "atisha", "asanga-vasubandhu"]
@@ -42,7 +50,7 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 
 **Through rigorous logical reasoning, Santideva demonstrates the fundamental symmetry between self and other: since all beings equally wish to avoid suffering, privileging one's own suffering over others' has no rational justification.**
 
-详见 [自他平等](concepts/self-other-equality.md)。
+详见 [自他平等](概念/自他平等 Paratmasamata: 寂天的伦理论证.md)。
 
 ### 2. 忍辱的哲学 Ksanti-paramita / The Philosophy of Patience
 
@@ -50,7 +58,7 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 
 **Patience is not passive endurance but an active philosophical insight — understanding that anger rests on the illusion of an independently existing agent of harm, when in reality all harm arises from a complex web of conditions.**
 
-详见 [忍辱哲学](concepts/patience-philosophy.md)。
+详见 [忍辱哲学](概念/忍辱哲学 Ksanti-paramita: 寂天对嗔恨的逻辑分析.md)。
 
 ### 3. 自他交换 Paratmaparivartana / Self-Other Exchange
 
@@ -58,7 +66,7 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 
 **Self-other exchange is a meditative practice that systematically reverses the habitual self-cherishing attitude, training the practitioner to take on others' suffering and give away one's own happiness — a cognitive restructuring that dismantles egocentrism from within.**
 
-详见 [自他交换](concepts/self-other-exchange.md)。
+详见 [自他交换](概念/自他交换 Paratmaparivartana: 寂天的修心法.md)。
 
 ### 4. 智慧与方便的统一 Prajna-upaya-yuganaddha / Unity of Wisdom and Means
 
@@ -66,7 +74,7 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 
 **The ninth chapter presents the philosophical summit: ethical practice (means/upaya) without wisdom (prajna) remains contaminated by self-grasping, while wisdom without compassionate practice degenerates into intellectual exercise. Their union is the heart of the bodhisattva path.**
 
-详见 [智慧与方便统一](concepts/wisdom-means-unity.md)。
+详见 [智慧与方便统一](../../../智慧大师/masters/中国/马祖道一/README.md)。
 
 ### 5. 菩提心修 Bodhicitta-bhavana / Cultivation of the Awakening Mind
 
@@ -74,7 +82,7 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 
 **Bodhicitta — the aspiration to attain full awakening for the benefit of all beings — is the central engine of Santideva's entire philosophical system, systematically developed from initial arising through protection, growth, and ultimate perfection.**
 
-详见 [菩提心修](concepts/bodhicitta-cultivation.md)。
+详见 [菩提心修](概念/菩提心修 Bodhicitta-bhavana: 寂天的觉悟之心修习体系.md)。
 
 ---
 
@@ -245,11 +253,11 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [自他平等](concepts/self-other-equality.md) — 打破自我中心的伦理论证
-- [忍辱哲学](concepts/patience-philosophy.md) — 嗔恨的逻辑分析与对治
-- [自他交换](concepts/self-other-exchange.md) — 修心法的核心修行
-- [智慧与方便统一](concepts/wisdom-means-unity.md) — 第九品中观空性与伦理实践
-- [菩提心修](concepts/bodhicitta-cultivation.md) — 菩提心的生起与圆满
+- [自他平等](概念/自他平等 Paratmasamata: 寂天的伦理论证.md) — 打破自我中心的伦理论证
+- [忍辱哲学](概念/忍辱哲学 Ksanti-paramita: 寂天对嗔恨的逻辑分析.md) — 嗔恨的逻辑分析与对治
+- [自他交换](概念/自他交换 Paratmaparivartana: 寂天的修心法.md) — 修心法的核心修行
+- [智慧与方便统一](../../../智慧大师/masters/中国/马祖道一/README.md) — 第九品中观空性与伦理实践
+- [菩提心修](概念/菩提心修 Bodhicitta-bhavana: 寂天的觉悟之心修习体系.md) — 菩提心的生起与圆满
 - [著作目录](著作.md) — 完整著作列表与考证
 - [年表](时间线.md) — 生平与历史语境
 - [进阶阅读](阅读.md) — 分类书单

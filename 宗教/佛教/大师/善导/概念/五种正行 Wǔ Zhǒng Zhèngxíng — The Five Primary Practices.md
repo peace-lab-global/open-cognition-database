@@ -5,7 +5,13 @@ type: concept
 domain: 宗教
 school: buddhism-pure-land
 parent: 宗教.buddhism.master.shandao.readme
-tags: [五种正行, Five Primary Practices, 正行, 杂行, 正定业, Pure Land]
+tags:
+  - 五种正行
+  - five-primary-practices
+  - 正行
+  - 杂行
+  - 正定业
+  - pure-land
 ---
 
 # 五种正行 The Five Primary Practices

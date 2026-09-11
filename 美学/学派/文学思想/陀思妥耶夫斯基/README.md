@@ -9,7 +9,7 @@ birth: 1821
 death: 1881
 tags:
   - 复调小说
-  - 存在主义
+  - existentialism
   - 苦难美学
   - 非理性自由
   - 道德心理学
@@ -107,7 +107,7 @@ Dostoevsky (1821–1881) is the creator of the polyphonic novel and one of the d
 ## 六、思想坐标
 
 - **承接**：果戈理 → 普希金 → 别林斯基
-- **同代对话**：与[托尔斯泰](tolstoy/README.md)的双峰对峙
+- **同代对话**：与[托尔斯泰](../托尔斯泰/README.md)的双峰对峙
 - **下游**：尼采 → 萨特 → 加缪 → 弗洛伊德 → 巴赫金 → 卡夫卡
 
 ## 七、当代影响

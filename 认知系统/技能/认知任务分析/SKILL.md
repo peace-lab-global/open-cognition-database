@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[克莱因 Klein](../../学派/自然决策/klein.md)
+- 来源思想家：[克莱因 Klein](../../学派/自然决策/克莱因.md)
 - 来源概念：[宏观认知](../../concepts/macrocognition.md)、[心智模型](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/心智模型.md)
 - 关键文献：Crandall, B. et al. *Working Minds: A Practitioner's Guide to Cognitive Task Analysis*. MIT Press, 2006.
 
@@ -126,7 +126,7 @@ tags:
 
 ## 关联条目
 
-- 思想家：[克莱因 Klein](../../学派/自然决策/klein.md)
+- 思想家：[克莱因 Klein](../../学派/自然决策/克莱因.md)
 - 概念：[宏观认知](../../concepts/macrocognition.md)
 - 概念：[心智模型](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/心智模型.md)
 - 相关 Skill：[自然决策分析](../../../宗教/佛教/技能/从前五识/SKILL.md)

@@ -124,11 +124,11 @@ related-comparative:
 
 | 母题 | 代表作 | 子条目 |
 |---|---|---|
-| **无穷** | 《巴别图书馆》《沙之书》《扎伊尔》 | [infinity.md](concepts/infinity.md) |
-| **时间** | 《小径分岔的花园》《环形废墟》《秘密奇迹》 | [time.md](concepts/time.md) |
-| **同一性** | 《博尔赫斯和我》《另一个人》《主题与背叛》 | [identity.md](concepts/identity.md) |
-| **语言** | 《特隆,乌克巴尔,第三世界》《皮埃尔·梅纳尔》 | [language.md](concepts/language.md) |
-| **迷宫** | 《阿斯特里翁之屋》《死亡与罗盘》《两位国王与两个迷宫》 | [labyrinth.md](concepts/labyrinth.md) |
+| **无穷** | 《巴别图书馆》《沙之书》《扎伊尔》 | [infinity.md](概念/无穷.md) |
+| **时间** | 《小径分岔的花园》《环形废墟》《秘密奇迹》 | [time.md](../../../../哲学/概念/时间.md) |
+| **同一性** | 《博尔赫斯和我》《另一个人》《主题与背叛》 | [identity.md](../../../../哲学/学派/分析哲学/帕菲特/概念/人格同一性.md) |
+| **语言** | 《特隆,乌克巴尔,第三世界》《皮埃尔·梅纳尔》 | [language.md](../../../../哲学/概念/语言.md) |
+| **迷宫** | 《阿斯特里翁之屋》《死亡与罗盘》《两位国王与两个迷宫》 | [labyrinth.md](概念/迷宫.md) |
 
 ## 关键著作
 
@@ -185,9 +185,9 @@ related-comparative:
 - [唯识 · Yogācāra](../../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 博尔赫斯是"文学的唯识"——《特隆》≈ 遍计所执、阿莱夫 ≈ 大圆镜智、巴别图书馆 ≈ 阿赖耶识
 
 ### 文学
-- [卡夫卡](../literary-thought/kafka.md) `[平行]` 迷宫、悖论、官僚体系的噩梦感
-- [鲁迅](../literary-thought/lu-xun.md) `[平行]` 短制的密度与启蒙的锋利
-- [塞万提斯](../../../../文学/学派/小说家/cervantes.md) `[同源]` 《堂吉诃德》是博尔赫斯元小说的源头
+- [卡夫卡](../卡夫卡/README.md) `[平行]` 迷宫、悖论、官僚体系的噩梦感
+- [鲁迅](../鲁迅/README.md) `[平行]` 短制的密度与启蒙的锋利
+- [塞万提斯](../../../../文学/学派/小说家/米格尔.md) `[同源]` 《堂吉诃德》是博尔赫斯元小说的源头
 
 ## 东西方对话:博尔赫斯 × 唯识
 
@@ -250,11 +250,11 @@ related-comparative:
 
 | 子条目 | 内容 |
 |---|---|
-| [concepts/infinity.md](concepts/infinity.md) | 无穷 · 巴别图书馆 · 沙之书 |
-| [concepts/time.md](concepts/time.md) | 时间 · 分岔 · 循环 |
-| [concepts/identity.md](concepts/identity.md) | 同一性 · 镜像 · 替身 |
-| [concepts/language.md](concepts/language.md) | 语言 · 特隆 · 翻译 |
-| [concepts/labyrinth.md](concepts/labyrinth.md) | 迷宫 · 老虎 · 镜子 |
+| [concepts/infinity.md](概念/无穷.md) | 无穷 · 巴别图书馆 · 沙之书 |
+| [concepts/time.md](../../../../哲学/概念/时间.md) | 时间 · 分岔 · 循环 |
+| [concepts/identity.md](../../../../哲学/学派/分析哲学/帕菲特/概念/人格同一性.md) | 同一性 · 镜像 · 替身 |
+| [concepts/language.md](../../../../哲学/概念/语言.md) | 语言 · 特隆 · 翻译 |
+| [concepts/labyrinth.md](概念/迷宫.md) | 迷宫 · 老虎 · 镜子 |
 | [著作.md](著作.md) | 作品总览 |
 | [时间线.md](时间线.md) | 思想年表 |
 | [阅读.md](阅读.md) | 进阶阅读指南 |

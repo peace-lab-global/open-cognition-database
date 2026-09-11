@@ -3,8 +3,8 @@
 > 本文件是 AI Agent（Qoder、Claude Code、Claude Skills、Cursor、自定义 RAG 等）调用本知识库的快速入口。人类读者请从 [README.md](README.md) 进入。
 
 [![Skills](https://img.shields.io/badge/skills-137-blue.svg)](#代表-skill-示例)
-[![Concepts](https://img.shields.io/badge/concepts-1112-green.svg)](./INDEX.md)
-[![Thinkers](https://img.shields.io/badge/thinkers-1075-orange.svg)](./INDEX.md)
+[![Concepts](https://img.shields.io/badge/concepts-1392-green.svg)](./INDEX.md)
+[![Thinkers](https://img.shields.io/badge/thinkers-1027-orange.svg)](./INDEX.md)
 
 > 以上计数以 `index.json`（`_meta/scripts/build-index.py` 生成）为单一数据源，含思想家专题子条目。
 
@@ -31,24 +31,26 @@ qodercli skill run 心理学/技能/认知扭曲识别/SKILL.md \
 
 ```
 open-cognition/
-├── index.json                          # 机器可读索引（v0.3，189 entries）
+├── index.json                          # 机器可读索引（v0.6，2670 entries + 137 skills，id 全库唯一）
 ├── INDEX.md                            # 人类可读双视角索引
 ├── TAGS.md                             # 统一标签词典 + 关联类型规范
 │
 ├── <domain>/                           # 思想家 + 概念条目 + Skills
-│   ├── 哲学/    (42 thinkers / 8 concepts / 19 skills)
-│   ├── 宗教/      (34 thinkers / 127 concepts / 39 skills) ← 含佛教认知专题
-│   ├── 社会学/     (18 thinkers / 7 concepts / 15 skills)
-│   ├── 心理学/    (42 thinkers / 8 concepts / 16 skills)
-│   ├── 伦理政治/ (15 / 11 / 10 skills)
-│   ├── 美学/    (23 / 9 / 3 skills)
-│   ├── 文学/    (5 / 8 / 5 skills)
-│   ├── 艺术/          (3 / 8 / 3 skills)
-│   └── 认知系统/ (28 / 27 / 16 skills)
+│   ├── 哲学/    (280 thinkers / 251 concepts / 19 skills)
+│   ├── 宗教/      (66 thinkers / 377 concepts / 50 skills) ← 含佛教认知专题
+│   ├── 社会学/     (92 thinkers / 94 concepts / 15 skills)
+│   ├── 心理学/    (166 thinkers / 208 concepts / 16 skills)
+│   ├── 伦理政治/ (68 / 103 / 10 skills)
+│   ├── 美学/    (104 / 105 / 3 skills)
+│   ├── 文学/    (57 / 79 / 5 skills)
+│   ├── 艺术/          (48 / 134 / 3 skills)
+│   └── 认知系统/ (146 / 41 / 16 skills)
 │
 ├── 宗教/佛教/概念/cognitive-theory/   # 🌟 佛教认知专题
 │   ├── <concept>.md                    # 19 概念
-│   └── skills/<skill-id>/SKILL.md      # 15 专项 Skill
+│   └── 技能/<skill-id>/SKILL.md        # 15 专项 Skill
+│
+├── 清单/、研究/、TECH/                  # 辅助板块（素材清单 / 研究课题 / 公共议题分析）
 │
 └── _meta/                              # 元数据、模板、报告、可视化
 ```
@@ -270,14 +272,20 @@ find . -name "*.md" -not -name "README.md" -not -name "INDEX.md" -not -path "./_
 }
 ```
 
-### 5. MCP Server（规划中）
+### 5. MCP Server（已提供 ✅）
 
-v0.7 路线图计划提供 MCP server，暴露：
+`mcp/` 目录提供开箱即用的 MCP server（详见 [mcp/README.md](mcp/README.md)）：
 
 - `list_skills(domain?)` — 列出 Skill
-- `read_entry(path)` — 读条目（含解析 frontmatter）
-- `apply_skill(skill_id, task)` — 直接调用
-- `cross_links(path, type?)` — 查跨链
+- `read_entry(path, section?)` — 读条目（可只取某个 `## 小节`）
+- `search(query, domain?, type?)` — 按 id/title/school/tags 检索
+- `apply_skill(skill_id, task)` — 拼装可直接执行的 prompt
+- `cross_links(path)` — 查显式关联类型跨链
+
+```bash
+pip install "mcp[cli]"
+python mcp/open_cognition_mcp/server.py     # stdio
+```
 
 ---
 

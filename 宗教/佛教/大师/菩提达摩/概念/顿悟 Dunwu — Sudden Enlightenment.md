@@ -5,7 +5,14 @@ type: concept
 domain: 宗教
 school: buddhism-chan
 era: ancient
-tags: [顿悟, Dunwu, Sudden Enlightenment, 见性成佛, 直指人心, 达摩禅法, Bodhidharma]
+tags:
+  - 顿悟
+  - dunwu
+  - sudden-enlightenment
+  - 见性成佛
+  - 直指人心
+  - 达摩禅法
+  - bodhidharma
 parent: ../README.md
 related:
   - no-mind.md

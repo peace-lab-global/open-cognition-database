@@ -14,12 +14,12 @@ tags:
   - 关系伦理学
   - 母性思维
   - 自然关怀
-  - care ethics
-  - feminist 哲学
-  - 哲学 of education
-  - relational ethics
-  - maternal thinking
-  - natural caring
+  - care-ethics
+  - feminist-哲学
+  - 哲学-of-education
+  - relational-ethics
+  - maternal-thinking
+  - natural-caring
 aliases:
   - 内尔·诺丁斯
   - 诺丁斯
@@ -276,12 +276,12 @@ In the Buddhist tradition, the concept of *karuna* (compassion) similarly emphas
 |---|---|---|---|
 | 心理学 / Psychology | [罗杰斯 · Carl Rogers](../../../../心理学/学派/人本主义/卡尔.md) | `[同源] / [Convergent]` | 都强调关系、接纳和无条件积极关注在人的成长中的作用 / Both emphasize the role of relations, acceptance, and unconditional positive regard in human growth |
 | 哲学 / Philosophy | [亚里士多德 · Aristotle](../../../../哲学/学派/古希腊/亚里士多德.md) | `[继承/批判] / [Inherits/Critiques]` | 继承德性伦理传统但批判其理性主义偏见 / Inherits the virtue ethics tradition but critiques its rationalist bias |
-| 哲学 / Philosophy | [康德 · Immanuel Kant](../../哲学/schools/modern-european/康德.md) | `[批判] / [Critiques]` | 批判道义论对情感和关系的忽视 / Critiques deontology's neglect of emotion and relations |
+| 哲学 / Philosophy | [康德 · Immanuel Kant](../../../../宗教/佛教/大师/太虚/README.md) | `[批判] / [Critiques]` | 批判道义论对情感和关系的忽视 / Critiques deontology's neglect of emotion and relations |
 | 社会学 / Sociology | [帕森斯 · Talcott Parsons](../../../../社会学/学派/功能主义/帕森斯.md) | `[发展] / [Develops]` | 在职业群体中实践关怀伦理 / Practices care ethics within professional communities |
 | 政治学 / Political Science | [特朗托 · Joan Tronto](../political-theory/tronto.md) | `[影响] / [Influences]` | 特朗托将关怀伦理发展为民主政治理论 / Tronto develops care ethics into democratic political theory |
-| 环境伦理 / Environmental Ethics | [环境伦理](../../concepts/environmental-ethics.md) | `[互补] / [Complementary]` | 关怀从人际扩展到人与自然的关系 / Care extends from interpersonal to human-nature relations |
+| 环境伦理 / Environmental Ethics | [环境伦理](../../../概念/环境伦理.md) | `[互补] / [Complementary]` | 关怀从人际扩展到人与自然的关系 / Care extends from interpersonal to human-nature relations |
 | 护理学 / Nursing | [沃森 · Jean Watson](../../health-sciences/nursing/watson.md) | `[影响] / [Influences]` | 沃森的"人文关怀理论"深受诺丁斯影响 / Watson's "Human Caring Theory" deeply influenced by Noddings |
-| 教育学 / Education | [弗莱雷 · Paulo Freire](../../education/critical-pedagogy/freire.md) | `[对话] / [Dialogue]` | 二者都强调教育中的关系性，但弗莱雷更关注权力与解放 / Both emphasize relationality in education, but Freire focuses more on power and liberation |
+| 教育学 / Education | [弗莱雷 · Paulo Freire](../../../../名言/教育启蒙/弗莱雷-提问式教育.md) | `[对话] / [Dialogue]` | 二者都强调教育中的关系性，但弗莱雷更关注权力与解放 / Both emphasize relationality in education, but Freire focuses more on power and liberation |
 
 ## 进阶阅读 / Further Reading
 

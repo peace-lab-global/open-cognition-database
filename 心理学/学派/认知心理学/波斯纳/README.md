@@ -6,7 +6,19 @@ domain: 心理学
 school: cognitive
 era: contemporary
 birth: 1936
-tags: [注意力网络, 执行控制, 认知心理学, 注意定向, 心理计时学, 认知神经科学, attention networks, executive attention, orienting, alerting, cognitive control, mental chronometry]
+tags:
+  - 注意力网络
+  - 执行控制
+  - 认知心理学
+  - 注意定向
+  - 心理计时学
+  - 认知神经科学
+  - attention-networks
+  - executive-attention
+  - orienting
+  - alerting
+  - cognitive-control
+  - mental-chronometry
 aliases: [Michael Posner, 迈克尔·波斯纳, Michael I. Posner]
 sources: [Chronometric Explorations of Mind, The attention system of the human brain, Attention in a Social World, Educating the Human Brain, Images of Mind]
 cross-refs: [baars, kahneman, fan, petersen, rothbart]
@@ -101,15 +113,15 @@ In the twenty-first century, Posner's 研究 expanded into developmental, traini
 
 ## 重要概念 / Key Concepts
 
-1. **注意力网络 / Attention Networks** — 注意力由警觉、定向和执行控制三个解剖学上独立的网络组成，每个网络有特定的脑区和神经递质基础。→ [详见 attention-net著作.md](concepts/attention-net著作.md)
+1. **注意力网络 / Attention Networks** — 注意力由警觉、定向和执行控制三个解剖学上独立的网络组成，每个网络有特定的脑区和神经递质基础。→ [详见 attention-net著作.md](概念/注意力网络.md)
 
-2. **执行控制 / Executive Attention** — 负责冲突监测、抑制优势反应和认知灵活性调节的高级注意功能，主要依赖前扣带回和前额叶。→ [详见 executive-attention.md](concepts/executive-attention.md)
+2. **执行控制 / Executive Attention** — 负责冲突监测、抑制优势反应和认知灵活性调节的高级注意功能，主要依赖前扣带回和前额叶。→ [详见 executive-attention.md](概念/执行控制.md)
 
-3. **定向网络 / Orienting Network** — 负责将注意力指向特定的感官信息来源，涉及顶叶、上丘和丘脑枕等脑区。→ [详见 orienting.md](concepts/orienting.md)
+3. **定向网络 / Orienting Network** — 负责将注意力指向特定的感官信息来源，涉及顶叶、上丘和丘脑枕等脑区。→ [详见 orienting.md](概念/定向网络.md)
 
-4. **警觉网络 / Alerting Network** — 负责维持高度警觉状态和觉醒水平，涉及右额叶和顶叶，依赖去甲肾上腺素系统。→ [详见 alerting.md](concepts/alerting.md)
+4. **警觉网络 / Alerting Network** — 负责维持高度警觉状态和觉醒水平，涉及右额叶和顶叶，依赖去甲肾上腺素系统。→ [详见 alerting.md](概念/警觉网络.md)
 
-5. **认知控制 / Cognitive Control** — 广义的自上而下调节功能，包括冲突解决、错误监控和任务切换，是执行控制网络的核心功能体现。→ [详见 cognitive-control.md](concepts/cognitive-control.md)
+5. **认知控制 / Cognitive Control** — 广义的自上而下调节功能，包括冲突解决、错误监控和任务切换，是执行控制网络的核心功能体现。→ [详见 cognitive-control.md](../README.md)
 
 6. **心理计时学 / Mental Chronometry** — 通过精确测量反应时间来推断认知处理内部结构的方法论，是波斯纳整个研究纲领的方法论基础。
 
@@ -241,8 +253,8 @@ The Daoist concept of "emptiness and stillness" (xu jing) — attaining wisdom t
 
 | 子条目 / Sub-entry | 文件 / File | 主题 / Topic |
 |---|---|---|
-| 注意力网络 / Attention Networks | [attention-net著作.md](concepts/attention-net著作.md) | 三网络的整合理论框架 / Integrative framework of three networks |
-| 执行控制 / Executive Attention | [executive-attention.md](concepts/executive-attention.md) | 冲突监测与认知控制 / Conflict monitoring and cognitive control |
-| 定向网络 / Orienting | [orienting.md](concepts/orienting.md) | 注意力的空间选择机制 / Spatial selection mechanisms of attention |
-| 警觉网络 / Alerting | [alerting.md](concepts/alerting.md) | 觉醒维持与警觉准备 / Arousal maintenance and alert preparation |
-| 认知控制 / Cognitive Control | [cognitive-control.md](concepts/cognitive-control.md) | 自上而下的认知调节功能 / Top-down cognitive regulation functions |
+| 注意力网络 / Attention Networks | [attention-net著作.md](概念/注意力网络.md) | 三网络的整合理论框架 / Integrative framework of three networks |
+| 执行控制 / Executive Attention | [executive-attention.md](概念/执行控制.md) | 冲突监测与认知控制 / Conflict monitoring and cognitive control |
+| 定向网络 / Orienting | [orienting.md](概念/定向网络.md) | 注意力的空间选择机制 / Spatial selection mechanisms of attention |
+| 警觉网络 / Alerting | [alerting.md](概念/警觉网络.md) | 觉醒维持与警觉准备 / Arousal maintenance and alert preparation |
+| 认知控制 / Cognitive Control | [cognitive-control.md](../README.md) | 自上而下的认知调节功能 / Top-down cognitive regulation functions |

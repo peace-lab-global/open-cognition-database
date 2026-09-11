@@ -7,7 +7,15 @@ school: buddhism-madhyamaka-prasangika
 era: classical-india
 birth: 600
 death: 650
-tags: [Prasangika, Madhyamaka, prasanga, emptiness, conventional-truth, reductio, Madhyamakavatara, Prasannapada]
+tags:
+  - prasangika
+  - madhyamaka
+  - prasanga
+  - emptiness
+  - conventional-truth
+  - reductio
+  - madhyamakavatara
+  - prasannapada
 aliases: ["Candrakirti", "月称论师", "Candrakirti"]
 sources: ["Madhyamakavatara", "Prasannapada", "Yuktisastika-vrtti", "Sunyatasaptati-vrtti"]
 cross_refs: ["nagarjuna", "aryadeva", "buddhapalita", "bhaviveka", "tsongkhapa", "candragomin", "santaraksita"]
@@ -41,7 +49,7 @@ Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** sch
 
 **The Prasangika method uses only reductio ad absurdum — exposing the internal contradictions of the opponent's position without asserting any independent thesis. To posit an autonomous reason (svatantra-hetu) is to implicitly accept inherent existence.**
 
-详见 [应成法](concepts/prasanga-method.md)。
+详见 [应成法](概念/应成法 Prasanga: 月称的纯归谬方法.md)。
 
 ### 2. 名言中许有 — 世间共许的世俗谛
 
@@ -49,7 +57,7 @@ Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** sch
 
 **Candrakirti rigorously distinguishes between conventional existence and inherent existence. At the conventional level, he fully accepts causation, karma, ethics, and the path — everything the world agrees upon (loka-prasiddha). Conventional truth does not need to withstand rational analysis; it only needs worldly consensus.**
 
-详见 [名言中许有](concepts/conventional-acceptance.md)。
+详见 [名言中许有](概念/名言中许有: 月称的世间共许与世俗谛理论.md)。
 
 ### 3. 所破事 (dgag bya) 的精确化
 
@@ -57,7 +65,7 @@ Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** sch
 
 **The object of negation (dgag bya) is not phenomena themselves but the grasping at inherent existence (svabhava-graha). If the negation target is set too broadly, one falls into nihilism; if too narrowly, one fails to fully realize emptiness.**
 
-详见 [所破事精确化](concepts/negation-target.md)。
+详见 [所破事精确化](概念/所破事精确化: 月称对空性所破对象的精确界定.md)。
 
 ### 4. 应成与自续的根本分歧
 
@@ -65,7 +73,7 @@ Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** sch
 
 **The Prasangika-Svatantrika divide is not merely methodological but reflects different depths of understanding emptiness. Tsongkhapa later deepened this distinction, arguing that only Prasangika fully realizes emptiness, since Svatantrika still accepts existence by way of own-character (svalaksana) at the conventional level.**
 
-详见 [应成 vs 自续](concepts/prasangika-vs-svatantrika.md)。
+详见 [应成 vs 自续](README.md)。
 
 ### 5. 名言有与自性有的精确区分
 
@@ -73,7 +81,7 @@ Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** sch
 
 **Candrakirti's most subtle philosophical contribution is the precise stratification of "existence." Conventionally, causation, karma, and all phenomena exist — but none of these exist inherently. This distinction is the key to avoiding both eternalism and nihilism.**
 
-详见 [名言有与自性有](concepts/conventional-vs-inherent.md)。
+详见 [名言有与自性有](概念/名言有与自性有: 月称对存在概念的精确区分.md)。
 
 ---
 
@@ -238,11 +246,11 @@ Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** sch
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [应成法 Prasanga](concepts/prasanga-method.md) — 纯归谬方法的哲学分析
-- [名言中许有](concepts/conventional-acceptance.md) — 世间共许的世俗谛
-- [所破事精确化](concepts/negation-target.md) — 精确界定空性所破的对象
-- [应成 vs 自续](concepts/prasangika-vs-svatantrika.md) — 中观内部的根本分歧
-- [名言有与自性有](concepts/conventional-vs-inherent.md) — "有"的层次区分
+- [应成法 Prasanga](概念/应成法 Prasanga: 月称的纯归谬方法.md) — 纯归谬方法的哲学分析
+- [名言中许有](概念/名言中许有: 月称的世间共许与世俗谛理论.md) — 世间共许的世俗谛
+- [所破事精确化](概念/所破事精确化: 月称对空性所破对象的精确界定.md) — 精确界定空性所破的对象
+- [应成 vs 自续](README.md) — 中观内部的根本分歧
+- [名言有与自性有](概念/名言有与自性有: 月称对存在概念的精确区分.md) — "有"的层次区分
 - [著作目录](著作.md) — 完整著作列表与考证
 - [年表](时间线.md) — 生平与历史语境
 - [进阶阅读](阅读.md) — 分类书单

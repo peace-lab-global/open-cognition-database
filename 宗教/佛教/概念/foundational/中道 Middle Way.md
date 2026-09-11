@@ -5,7 +5,10 @@ type: concept
 domain: 宗教
 school: buddhism-general
 era: ancient
-tags: [中道, Middle Way, madhyamā-pratipad]
+tags:
+  - 中道
+  - middle-way
+  - madhyamā-pratipad
 aliases: [Middle Way, 中道]
 sources: [巴利三藏, 《中论》]
 ---

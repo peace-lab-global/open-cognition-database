@@ -7,7 +7,19 @@ school: buddhism-chan
 era: medieval-china
 birth: 638
 death: 713
-tags: [Chan, Zen, sudden-enlightenment, no-thought, self-nature, Platform-Sutra, non-dwelling, 慧能, 禅宗, 顿悟, 六祖坛经, 见性成佛]
+tags:
+  - chan
+  - zen
+  - sudden-enlightenment
+  - no-thought
+  - self-nature
+  - platform-sutra
+  - non-dwelling
+  - 慧能
+  - 禅宗
+  - 顿悟
+  - 六祖坛经
+  - 见性成佛
 aliases: ["六祖", "曹溪慧能", "大鉴禅师", "Huineng", "Hui-neng", "Eno"]
 sources: ["Platform Sutra of the Sixth Patriarch", "Diamond Sutra"]
 cross_refs: ["bodhidharma", "dogen", "hakuin", "heidegger", "wittgenstein", "nagarjuna"]
@@ -43,7 +55,7 @@ children: ["concepts/sudden-enlightenment", "concepts/no-thought-wunian", "conce
 
 **No sutras, no rituals — directly pointing to the mind of every person. Buddha is not in scriptures or statues, but in the self-nature of each mind. Huineng shifted the locus of practice from external forms to inner realization.**
 
-详见 [自性](concepts/self-nature.md)。
+详见 [自性](../../../../心理学/技能/自我效能分析/SKILL.md)。
 
 ### 2. 顿悟成佛 / Sudden Enlightenment Leads to Buddhahood
 
@@ -59,7 +71,7 @@ children: ["concepts/sudden-enlightenment", "concepts/no-thought-wunian", "conce
 
 **These three principles form a complete anti-conceptual cognitive methodology: no-thought — thoughts flow naturally without grasping; no-form — non-fixation on external appearances; non-dwelling — the mind does not settle anywhere. This "Triple No" framework is the operational core of Huineng's Chan.**
 
-详见 [无念](concepts/no-thought-wunian.md) 与 [无住](concepts/non-dwelling.md)。
+详见 [无念](../../../../哲学/学派/悲观主义/叔本华/读书会分享/README.md) 与 [无住](../../../../伦理政治/学派/非暴力抵抗/圣雄甘地/README.md)。
 
 ### 4. 自性本自具足 / Self-Nature Is Originally Complete
 
@@ -112,7 +124,7 @@ children: ["concepts/sudden-enlightenment", "concepts/no-thought-wunian", "conce
 | 《六祖坛经》*Platform Sutra* | 慧能在大梵寺等处说法的记录，弟子法海编集 / Records of Huineng's teachings compiled by disciple Fahai | 唯一汉人所说称"经"的佛教文本；禅宗最重要的原典 / The only Chinese-composed text honored as "sutra"; the foundational Chan classic |
 | 《金刚经》注疏（散见于《坛经》）| 慧能在《坛经》中对《金刚经》的创造性诠释 / Huineng's creative interpretation within the Platform Sutra | 将般若空慧转化为禅宗实践的关键环节 / Key link transforming Prajnaparamita wisdom into Chan practice |
 
-详见 [著作目录](著作.md) 与 [坛经](concepts/platform-sutra.md)。
+详见 [著作目录](著作.md) 与 [坛经](../../经典/六祖坛经.md)。
 
 ---
 
@@ -231,9 +243,9 @@ children: ["concepts/sudden-enlightenment", "concepts/no-thought-wunian", "conce
 
 - **哲学**: [海德格尔 Heidegger](../../../../哲学/学派/存在主义/海德格尔.md) — 本真性与自性的平行；[维特根斯坦 Wittgenstein](../../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言的界限与不立文字
 - **佛教内部**: [菩提达摩 Bodhidharma](../菩提达摩.md) — 禅宗初祖；[道元 Dogen](../道元.md) — 日本曹洞宗；[白隐 Hakuin](../白隐慧鹤.md) — 临济宗复兴
-- **学派**: [禅宗 Chan/Zen](../schools/禅宗.md) — 创立者
+- **学派**: [禅宗 Chan/Zen](../../学派/禅宗.md) — 创立者
 - **认知科学**: 具身直觉 embodied intuition、隐性知识 tacit knowledge (Polanyi)、认知灵活性 cognitive flexibility
-- **心理学**: [心流 Flow](../../../心理学/概念/心流.md) — 忘我与无念的平行
+- **心理学**: [心流 Flow](../../../../心理学/概念/心流.md) — 忘我与无念的平行
 - **龙树 Nagarjuna**: [龙树](../龙树.md) — 空性与自性概念的深层关联：慧能的"自性"在某种程度上重新表述了龙树的"空性"，从否定性表述转向肯定性表述
 
 ---
@@ -262,10 +274,10 @@ children: ["concepts/sudden-enlightenment", "concepts/no-thought-wunian", "conce
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联 / This file: core propositions, intellectual context, interdisciplinary connections
 - [顿悟 Sudden Enlightenment](../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md) — 认知框架的瞬间重组 / Instantaneous cognitive restructuring
-- [无念 No-Thought (Wunian)](concepts/no-thought-wunian.md) — 念起不著的认知自由 / Cognitive freedom through non-grasping
-- [自性 Self-Nature](concepts/self-nature.md) — 本自具足的心性论 / Mind-nature theory of original completeness
-- [坛经 Platform Sutra](concepts/platform-sutra.md) — 唯一汉人所说之"经" / The only Chinese-composed Buddhist "sutra"
-- [无住 Non-Dwelling](concepts/non-dwelling.md) — 心不停留的认知原则 / The cognitive principle of non-settling
+- [无念 No-Thought (Wunian)](../../../../哲学/学派/悲观主义/叔本华/读书会分享/README.md) — 念起不著的认知自由 / Cognitive freedom through non-grasping
+- [自性 Self-Nature](../../../../心理学/技能/自我效能分析/SKILL.md) — 本自具足的心性论 / Mind-nature theory of original completeness
+- [坛经 Platform Sutra](../../经典/六祖坛经.md) — 唯一汉人所说之"经" / The only Chinese-composed Buddhist "sutra"
+- [无住 Non-Dwelling](../../../../伦理政治/学派/非暴力抵抗/圣雄甘地/README.md) — 心不停留的认知原则 / The cognitive principle of non-settling
 - [著作目录 Works](著作.md) — 完整著作列表与考证 / Complete works listing and authentication
 - [年表 Timeline](时间线.md) — 生平与历史语境 / Life and historical context
 - [进阶阅读 Reading List](阅读.md) — 分类书单 / Categorized bibliography

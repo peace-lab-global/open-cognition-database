@@ -5,7 +5,14 @@ type: concept
 domain: 宗教
 school: buddhism-vajrayana
 parent: [[README|空海 Kūkai]]
-tags: [真言宗, 东密, 高野山, 东寺, Shingon, Tōmitsu, Kōyasan]
+tags:
+  - 真言宗
+  - 东密
+  - 高野山
+  - 东寺
+  - shingon
+  - Tōmitsu
+  - Kōyasan
 ---
 
 # 真言宗 Shingon School (真言宗 · Shingon-shū)

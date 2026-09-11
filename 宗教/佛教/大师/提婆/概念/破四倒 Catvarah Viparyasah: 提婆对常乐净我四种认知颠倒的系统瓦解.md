@@ -4,7 +4,15 @@ title: "破四倒 Catvarah Viparyasah: 提婆对常乐净我四种认知颠倒�
 type: concept
 parent: aryadeva
 domain: 宗教
-tags: [viparyasa, four-inversions, nitya, sukha, subha, atman, cognitive-distortion, Catuhsataka]
+tags:
+  - viparyasa
+  - four-inversions
+  - nitya
+  - sukha
+  - subha
+  - atman
+  - cognitive-distortion
+  - catuhsataka
 ---
 
 # 破四倒 Catvarah Viparyasah / Dismantling the Four Inversions

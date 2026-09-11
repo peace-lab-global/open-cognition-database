@@ -251,11 +251,11 @@ aliases: [John Flavell, 约翰·弗拉维尔, John H. Flavell]
 
 | 条目 | 路径 | 主题 |
 |------|------|------|
-| 元认知 | [concepts/metacognition](concepts/metacognition.md) | 核心概念 |
-| 元认知知识 | [concepts/metacognitive-knowledge](concepts/metacognitive-knowledge.md) | 知识的三元分类 |
-| 心理理论 | [concepts/theory-of-mind](concepts/theory-of-mind.md) | 社会认知延伸 |
-| 认知监控 | [concepts/cognitive-monitoring](concepts/cognitive-monitoring.md) | 实时评估机制 |
-| 认知发展 | [concepts/developmental](concepts/developmental.md) | 发展视角 |
+| 元认知 | [concepts/metacognition](概念/元认知.md) | 核心概念 |
+| 元认知知识 | [concepts/metacognitive-knowledge](概念/元认知知识.md) | 知识的三元分类 |
+| 心理理论 | [concepts/theory-of-mind](../../依恋理论/README.md) | 社会认知延伸 |
+| 认知监控 | [concepts/cognitive-monitoring](../README.md) | 实时评估机制 |
+| 认知发展 | [concepts/developmental](../../发展心理学/皮亚杰/README.md) | 发展视角 |
 | 著作年表 | [works](著作.md) | 完整著作列表 |
 | 生平年表 | [timeline](时间线.md) | 生平与学术事件 |
 | 进阶阅读 | [reading-list](阅读.md) | 原典与二手文献 |

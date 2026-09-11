@@ -133,11 +133,11 @@ In his final years, Bach turned increasingly toward pure contrapuntal summation.
 
 ## 重要概念 / Key Concepts
 
-- **[对位法 / Counterpoint](concepts/counterpoint.md)**：多条独立旋律线同时进行并相互契合的作曲技艺，是巴赫音乐的结构骨架与思维范式。
-- **[赋格的艺术 / Fugue Art](concepts/fugue-art.md)**：以单一主题在各声部依次进入、再以增殖、倒影、密接和应等手段展开的严密复调形式，是音乐推理的最高形态。
-- **[平均律 / Well-Temperament](concepts/well-temperament.md)**：使所有大小调皆可自由使用的调律体系，巴赫以《平均律钢琴曲集》论证其可行性与美学价值。
-- **[宗教音乐 / Sacred Music](concepts/sacred-music.md)**：巴赫将路德宗神学与音乐创作深度融合，使宗教音乐成为信仰体验的直接载体。
-- **[复调思维 / Polyphonic Thinking](concepts/polyphonic-thinking.md)**：超越具体作曲技法的认知范式——在同时追踪多个独立线索的前提下维持整体意义与和谐。
+- **[对位法 / Counterpoint](概念/对位法.md)**：多条独立旋律线同时进行并相互契合的作曲技艺，是巴赫音乐的结构骨架与思维范式。
+- **[赋格的艺术 / Fugue Art](概念/赋格的艺术.md)**：以单一主题在各声部依次进入、再以增殖、倒影、密接和应等手段展开的严密复调形式，是音乐推理的最高形态。
+- **[平均律 / Well-Temperament](../../../../认知系统/学派/自然决策/斯威勒/README.md)**：使所有大小调皆可自由使用的调律体系，巴赫以《平均律钢琴曲集》论证其可行性与美学价值。
+- **[宗教音乐 / Sacred Music](概念/宗教音乐.md)**：巴赫将路德宗神学与音乐创作深度融合，使宗教音乐成为信仰体验的直接载体。
+- **[复调思维 / Polyphonic Thinking](概念/复调思维.md)**：超越具体作曲技法的认知范式——在同时追踪多个独立线索的前提下维持整体意义与和谐。
 - **众赞歌 / Chorale**：路德会众颂歌旋律，是巴赫宗教作品的主题素材与精神核心，众赞歌前奏曲将简单的赞美诗旋律转化为深邃的音乐冥想。
 - **通奏低音 / Basso Continuo**：巴洛克音乐中持续低音与和声填充的演奏实践，巴赫将其发展为独立的对位声部而非仅仅的和声支撑。
 - **利都奈罗 / Ritornello**：协奏曲中全奏反复段落的结构原则，巴赫从维瓦尔第处习得并融入其赋格与协奏曲创作。
@@ -255,11 +255,11 @@ Bach's inexhaustible exploration of variations on a single subject parallels the
 
 ## 子条目索引 / Sub-entry Index
 
-- [对位法 Counterpoint](concepts/counterpoint.md) — 多声部写作的结构技艺与思维范式
-- [赋格的艺术 The Art of Fugue](concepts/fugue-art.md) — 音乐推理的严密形式
-- [平均律 Well-Temperament](concepts/well-temperament.md) — 调律体系与调性空间的统一
-- [宗教音乐 Sacred Music](concepts/sacred-music.md) — 路德宗神学与音乐的融合
-- [复调思维 Polyphonic Thinking](concepts/polyphonic-thinking.md) — 超越音乐的认知范式
+- [对位法 Counterpoint](概念/对位法.md) — 多声部写作的结构技艺与思维范式
+- [赋格的艺术 The Art of Fugue](概念/赋格的艺术.md) — 音乐推理的严密形式
+- [平均律 Well-Temperament](../../../../认知系统/学派/自然决策/斯威勒/README.md) — 调律体系与调性空间的统一
+- [宗教音乐 Sacred Music](概念/宗教音乐.md) — 路德宗神学与音乐的融合
+- [复调思维 Polyphonic Thinking](概念/复调思维.md) — 超越音乐的认知范式
 - [著作年表 Works](著作.md) — 巴赫全部主要作品编年
 - [生平大事记 Timeline](时间线.md) — 巴赫生平、创作与历史语境
 - [阅读指南 Reading List](阅读.md) — 分级进阶阅读推荐

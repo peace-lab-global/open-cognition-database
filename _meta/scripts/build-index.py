@@ -47,7 +47,7 @@ SKIP_FILENAMES = {"README.md", "INDEX.md", "QUICKSTART.md", "SKILLS.md", "AGENT.
 
 _DOMAIN_DIR_NAMES = [
     "哲学", "宗教", "伦理政治", "心理学", "社会学", "美学",
-    "文学", "艺术", "认知系统", "清单", "研究",
+    "文学", "艺术", "认知系统", "清单", "研究", "TECH",
 ]
 _DOMAIN_DIRS = [REPO_ROOT / d for d in _DOMAIN_DIR_NAMES]
 VERSION = "v0.6"
@@ -125,9 +125,14 @@ def scan_entries() -> list[dict]:
                 continue
             fm = extract_frontmatter(path)
             rel = path.relative_to(REPO_ROOT).as_posix()
+            entry_id = fm.get("id") or path.stem
+            if path.name == "SKILL.md":
+                # SKILL.md files use `name:` not `id:`; the stem is literally
+                # "SKILL" for all 137 of them. Fall back to the skill slug.
+                entry_id = fm.get("id") or fm.get("name") or path.parent.name
             entry = {
                 "path": rel,
-                "id": fm.get("id") or path.stem,
+                "id": entry_id,
                 "title": fm.get("title") or fm.get("name") or path.stem,
                 "type": entry_type,
                 "domain": domain_from_path(path),
@@ -145,23 +150,44 @@ def scan_entries() -> list[dict]:
             if fm.get("count") is not None:
                 entry["count"] = fm["count"]
             entries.append(entry)
+    return namespace_duplicate_ids(entries)
+
+
+def namespace_duplicate_ids(entries: list[dict]) -> list[dict]:
+    """Make `id` unique: repeated child-page ids (约翰-时间线 across three
+    thinkers named 约翰, wuwei in three domains…) get a path-derived prefix.
+    Entry ids that lint's E004 already guarantees unique are untouched."""
+    counts: dict[str, int] = {}
+    for e in entries:
+        counts[e["id"]] = counts.get(e["id"], 0) + 1
+    for e in entries:
+        if counts[e["id"]] <= 1:
+            continue
+        parts = e["path"].split("/")
+        prefix = ".".join(parts[:-1])  # full directory path; stem is parts[-1]
+        e["id"] = f"{prefix}.{e['id']}"
     return entries
 
 
 def scan_skills() -> list[dict]:
-    """Walk skills/ and buddhism/cognitive-theory/skills/ and extract Skills."""
+    """Extract Skills from each domain's 技能/ tree (plus legacy roots)."""
     skills = []
-    for base_dir in (SKILLS_DIR, BUDDHISM_SKILLS_DIR):
+    seen: set[str] = set()
+    base_dirs = [d for d in _DOMAIN_DIRS] + [SKILLS_DIR, BUDDHISM_SKILLS_DIR]
+    for base_dir in base_dirs:
         if not base_dir.exists():
             continue
         for path in sorted(base_dir.rglob("SKILL.md")):
-            fm = extract_frontmatter(path)
             rel = path.relative_to(REPO_ROOT).as_posix()
+            if rel in seen:
+                continue
+            seen.add(rel)
+            fm = extract_frontmatter(path)
             skill = {
                 "path": rel,
                 "name": fm.get("name") or path.parent.name,
                 "description": fm.get("description") or "",
-                "domain": fm.get("domain") or "",
+                "domain": fm.get("domain") or domain_from_path(path),
                 "tags": fm.get("tags") or [],
             }
             skills.append(skill)

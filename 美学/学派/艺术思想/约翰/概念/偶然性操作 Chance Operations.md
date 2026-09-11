@@ -3,7 +3,12 @@ id: 美学.arts-thought.cage.concepts.chance-operations
 title: 偶然性操作 Chance Operations
 type: concept
 parent: 美学.arts-thought.cage
-tags: [chance, I-Ching, randomness, composition, ego-dissolution]
+tags:
+  - chance
+  - i-ching
+  - randomness
+  - composition
+  - ego-dissolution
 ---
 
 # 偶然性操作 / Chance Operations

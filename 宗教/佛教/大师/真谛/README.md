@@ -80,8 +80,8 @@ Above the standard eight consciousnesses, Paramārtha posited a ninth—the **am
 
 The philosophical significance lies in providing a positive ontological grounding for "consciousness-transformation" (*vijñāna-parāvṛtti*). In Xuánzàng's system, transformation is largely negative—the cessation of defilement is enlightenment. Paramārtha's ninth consciousness suggests a pure substrate transcending the duality of defiled and pure, serving as the ultimate basis for transformation. The dialogue with *tathāgata-garbha* thought is evident.
 
-→ 详见 [九识说](concepts/八识体系.md)
-→ See [Nine Consciousnesses](concepts/八识体系.md)
+→ 详见 [九识说](../无著/概念/八识体系.md)
+→ See [Nine Consciousnesses](../无著/概念/八识体系.md)
 
 ### 二、阿黎耶识 / Ālaya According to Paramārtha
 
@@ -96,8 +96,8 @@ Paramārtha rendered *ālaya-vijñāna* as **阿黎耶識** rather than Xuánzà
 
 Paramārtha's ālaya is broader and more neutral—a repository of seeds, the basis for the arising of all phenomena, not necessarily implicated by the seventh consciousness's clinging. This allows a more natural dialogue with *tathāgata-garbha*: a "pure" ālaya, free from defiled seeds, comes much closer to the "inherently pure mind" of Buddha-nature doctrine.
 
-→ 详见 [阿黎耶识](concepts/alaya-paramartha.md)
-→ See [Ālaya in Paramārtha's System](concepts/alaya-paramartha.md)
+→ 详见 [阿黎耶识](概念/阿黎耶识 Ālaya-vijñāna in Paramārtha's System.md)
+→ See [Ālaya in Paramārtha's System](概念/阿黎耶识 Ālaya-vijñāna in Paramārtha's System.md)
 
 ### 三、解性黎耶 / The Awakening-Nature of the Ālaya
 
@@ -124,8 +124,8 @@ The Shèlùn School (攝論宗), founded by Paramārtha and centered on the *Mah
 
 Although the Shèlùn School no longer exists as an independent institution, its intellectual legacy profoundly shaped subsequent Chinese Buddhism. In particular, its universalist soteriology and integration with *tathāgata-garbha* thought became important theoretical resources for the Tiāntái, Huáyán, and Chán schools.
 
-→ 详见 [摄论宗](concepts/shelun-school.md)
-→ See [Shèlùn School](concepts/shelun-school.md)
+→ 详见 [摄论宗](../../学派/摄论宗 Shèlùn.md)
+→ See [Shèlùn School](../../学派/摄论宗 Shèlùn.md)
 
 ---
 
@@ -148,8 +148,8 @@ The divergence between Paramārtha's and Xuánzàng's Yogācāra systems represe
 
 These differences are not merely terminological but reflect fundamentally divergent answers to the question of "the natural luminosity of mind" (*citta-prakṛti-prabhāsvaratā*). Xuánzàng's system insists on the separation of nature (*dharmatā*) and characteristics (*dharma-lakṣaṇa*); Paramārtha's tends toward their integration, seeking the ground of awakening within the deep structure of consciousness itself.
 
-→ 详见 [真谛vs玄奘系唯识](concepts/paramartha-vs-xuanzang.md)
-→ See [Paramārtha vs. Xuánzàng Yogācāra](concepts/paramartha-vs-xuanzang.md)
+→ 详见 [真谛vs玄奘系唯识](README.md)
+→ See [Paramārtha vs. Xuánzàng Yogācāra](README.md)
 
 ---
 
@@ -229,12 +229,12 @@ Paramārtha's intellectual legacy can be assessed from three dimensions:
 
 ## 跨学科关联 / Cross-Disciplinary Connections
 
-- [摄论宗](../schools/shelun.md) — [创立] 以真谛所译《摄大乘论》立宗 / Founded upon Paramārtha's translation of the *Mahāyānasaṃgraha*
-- [无著·世亲](../thinkers/asanga-vasubandhu.md) — [继承] 唯识学传承 / Yogācāra lineage inheritance
+- [摄论宗](../../学派/摄论宗 Shèlùn.md) — [创立] 以真谛所译《摄大乘论》立宗 / Founded upon Paramārtha's translation of the *Mahāyānasaṃgraha*
+- [无著·世亲](../无著/README.md) — [继承] 唯识学传承 / Yogācāra lineage inheritance
 - [玄奘](../thinkers/xuanzang.md) — [对照] 唯识学的另一条传承线 / Alternative Yogācāra lineage for comparison
 - [窥基](../窥基.md) — [对立] 玄奘系唯识的代言人 / Chief exponent of Xuánzàng's Yogācāra
-- [如来藏](../concepts/tathagata-garbha.md) — [融合] 唯识与如来藏的对话 / Dialogue between Yogācāra and Buddha-nature thought
-- [佛性论](../concepts/buddha-nature.md) — [延伸] 一切有情皆有佛性 / All beings possess Buddha-nature
+- [如来藏](../马鸣/概念/如来藏 Tathagatagarbha: 众生本具佛性.md) — [融合] 唯识与如来藏的对话 / Dialogue between Yogācāra and Buddha-nature thought
+- [佛性论](../乔达摩/README.md) — [延伸] 一切有情皆有佛性 / All beings possess Buddha-nature
 
 ---
 

@@ -12,7 +12,7 @@ tags:
   - epistemology
   - ethics
   - political
-  - 美学
+  - aesthetics
 aliases:
   - Plátōn
   - Πλάτων
@@ -129,11 +129,11 @@ Late dialogues display profound self-critical spirit. The "Third Man Argument" i
 ## 重要概念 Key Concepts
 
 - **[理念论 Theory of Forms](概念/理念论.md)** — 永恒不变的真实存在 / Eternal, unchanging true reality
-- **[洞穴比喻 Cave Allegory](concepts/cave-allegory.md)** — 教育是灵魂的转向 / Education as the turning of the soul
-- **[哲学王 Philosopher-King](concepts/philosopher-king.md)** — 知识与权力应当统一 / Knowledge and power should be unified
-- **[回忆说 Anamnesis](concepts/anamnesis.md)** — 知识是灵魂对前世所知的回忆 / Knowledge as recollection of what the soul knew before birth
+- **[洞穴比喻 Cave Allegory](../../../技能/洞穴寓言分析/SKILL.md)** — 教育是灵魂的转向 / Education as the turning of the soul
+- **[哲学王 Philosopher-King](../亚里士多德/README.md)** — 知识与权力应当统一 / Knowledge and power should be unified
+- **[回忆说 Anamnesis](概念/回忆说.md)** — 知识是灵魂对前世所知的回忆 / Knowledge as recollection of what the soul knew before birth
 - **[灵魂三分 Tripartite Soul](概念/灵魂三分.md)** — 理性、激情与欲望的和谐 / Harmony of reason, spirit, and appetite
-- **[辩证法 Dialectics](../../concepts/辩证法.md)** — 上升至理念的认识方法 / Method of ascent to the Forms
+- **[辩证法 Dialectics](../../德国唯心论/黑格尔/概念/辩证法.md)** — 上升至理念的认识方法 / Method of ascent to the Forms
 - **[认识论 Epistemology](../../../概念/认识论.md)** — 知识（epistēmē）vs 意见（doxa）/ Knowledge vs. opinion
 - **爱欲 Erōs** — 从美的身体上升到美本身的灵魂动力 / The soul's drive ascending from beautiful bodies to Beauty itself
 - **造物主 Demiurge** — 《蒂迈欧篇》中的理性创造者 / The rational creator in the *Timaeus*
@@ -272,9 +272,9 @@ Zhu Xi's concept of *lǐ* (Principle)—each thing has its own *lǐ*, and all *l
 | 子条目 Sub-Entry | 路径 Path |
 |-------------------|-----------|
 | 理念论 Theory of Forms | [concepts/理念论.md](概念/理念论.md) |
-| 洞穴比喻 Cave Allegory | [concepts/cave-allegory.md](concepts/cave-allegory.md) |
-| 哲学王 Philosopher-King | [concepts/philosopher-king.md](concepts/philosopher-king.md) |
-| 回忆说 Anamnesis | [concepts/anamnesis.md](concepts/anamnesis.md) |
+| 洞穴比喻 Cave Allegory | [concepts/cave-allegory.md](../../../技能/洞穴寓言分析/SKILL.md) |
+| 哲学王 Philosopher-King | [concepts/philosopher-king.md](../亚里士多德/README.md) |
+| 回忆说 Anamnesis | [concepts/anamnesis.md](概念/回忆说.md) |
 | 灵魂三分 Tripartite Soul | [concepts/灵魂三分.md](概念/灵魂三分.md) |
 | 著作年表 Works Chronology | [著作.md](著作.md) |
 | 生平年表 Timeline | [时间线.md](时间线.md) |

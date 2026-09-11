@@ -18,7 +18,7 @@ tags:
   - trace
   - 幽灵学
   - hauntology
-  - 后结构主义
+  - post-structuralism
 aliases:
   - 德里达
   - Derrida
@@ -107,14 +107,14 @@ cross-refs:
 *Western metaphysics from Plato to Husserl presupposes presence as the origin of truth, privileging speech over writing, reason over body, identity over difference. Derrida names this tradition "logocentrism," then deconstructs it by first reversing its hierarchies, then dislocating the opposition itself.* → [concepts/逻各斯中心主义.md](概念/逻各斯中心主义.md).
 
 ### 4. 踪迹 · Trace
-每个符号都携带着它所不是之物的痕迹；不存在"纯粹的当下"，只有"原初踪迹"（archi-trace）。踪迹既铭刻又擦除，是意义得以可能的同时又使之不可能的条件。详见 → [concepts/trace.md](concepts/trace.md)。
+每个符号都携带着它所不是之物的痕迹；不存在"纯粹的当下"，只有"原初踪迹"（archi-trace）。踪迹既铭刻又擦除，是意义得以可能的同时又使之不可能的条件。详见 → [concepts/trace.md](概念/踪迹.md)。
 
-*Every sign bears the mark of what it is not; there is no "pure present," only the archi-trace. The trace inscribes and erases itself at once — the condition that makes meaning possible while also making it impossible.* → [concepts/trace.md](concepts/trace.md).
+*Every sign bears the mark of what it is not; there is no "pure present," only the archi-trace. The trace inscribes and erases itself at once — the condition that makes meaning possible while also making it impossible.* → [concepts/trace.md](概念/踪迹.md).
 
 ### 5. 补充与药 · Supplement and *pharmakon*
-补充看似次要、外在、可有可无，实际上却填补了"本源"的缺失，进而替代了本源本身。柏拉图笔下的"药"（*pharmakon*）既是良药又是毒药；卢梭笔下的"危险的补充"既败坏自然又是自然所必需的。详见 → [concepts/supplement.md](concepts/supplement.md)。
+补充看似次要、外在、可有可无，实际上却填补了"本源"的缺失，进而替代了本源本身。柏拉图笔下的"药"（*pharmakon*）既是良药又是毒药；卢梭笔下的"危险的补充"既败坏自然又是自然所必需的。详见 → [concepts/supplement.md](概念/补充.md)。
 
-*The supplement seems marginal, external, dispensable — yet it fills a lack at the "origin" and ends up replacing the origin itself. Plato's *pharmakon* is both remedy and poison; Rousseau's "dangerous supplement" both corrupts nature and is required by nature.* → [concepts/supplement.md](concepts/supplement.md).
+*The supplement seems marginal, external, dispensable — yet it fills a lack at the "origin" and ends up replacing the origin itself. Plato's *pharmakon* is both remedy and poison; Rousseau's "dangerous supplement" both corrupts nature and is required by nature.* → [concepts/supplement.md](概念/补充.md).
 
 ### 6. 幽灵学与伦理转向 · Hauntology and the ethical turn
 1990年代起，德里达思想发生明显的伦理-政治转向：在《马克思的幽灵》中提出"幽灵学"（*hauntology*，*hantise* + *ontology*）——存在总已被"未到场者"所缠扰；在《论好客》《论宽恕》《论礼物》《友谊政治学》中，他将解构等同于"对不可能之正义的无限期待"。
@@ -273,9 +273,9 @@ cross-refs:
 |---|---|
 | [concepts/解构.md](概念/解构.md) | 解构的三重姿态：颠倒、位移、不可决断 / The triple gesture |
 | [concepts/延异.md](概念/延异.md) | 延异的语音-文字游戏 / The phonographic play |
-| [concepts/trace.md](concepts/trace.md) | 踪迹与 archi-trace / Trace and archi-trace |
+| [concepts/trace.md](概念/踪迹.md) | 踪迹与 archi-trace / Trace and archi-trace |
 | [concepts/逻各斯中心主义.md](概念/逻各斯中心主义.md) | 逻各斯中心主义与语音中心主义 / Logocentrism and phonocentrism |
-| [concepts/supplement.md](concepts/supplement.md) | 补充、药、危险补充 / Supplement, pharmakon, dangerous supplement |
+| [concepts/supplement.md](概念/补充.md) | 补充、药、危险补充 / Supplement, pharmakon, dangerous supplement |
 | [著作.md](著作.md) | 完整著作年表 / Complete chronological works |
 | [时间线.md](时间线.md) | 生平与思想事件年表 / Life and thought timeline |
 | [阅读.md](阅读.md) | 分级阅读建议 / Tiered reading list |

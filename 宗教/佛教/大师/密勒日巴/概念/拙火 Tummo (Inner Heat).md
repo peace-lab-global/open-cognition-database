@@ -5,7 +5,14 @@ type: concept
 domain: 宗教
 school: buddhism-vajrayana
 parent: 宗教.buddhism.masters.milarepa
-tags: [拙火, Tummo, 内热, 气脉明点, 那洛六法, inner heat, channels]
+tags:
+  - 拙火
+  - tummo
+  - 内热
+  - 气脉明点
+  - 那洛六法
+  - inner-heat
+  - channels
 ---
 
 # 拙火 Tummo (Inner Heat / Psychic Heat)

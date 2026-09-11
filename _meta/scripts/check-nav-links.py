@@ -55,9 +55,26 @@ def resolve(base: Path, target: str) -> bool:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--summary", action="store_true")
+    parser.add_argument("--errors-only", action="store_true",
+                        help="fail only on mechanical mislinks (the target's "
+                             "basename exists somewhere in the repo, so the "
+                             "link is fixable) — links to not-yet-authored "
+                             "entries are content backlog and stay warnings")
     args = parser.parse_args()
 
+    # basename index for the mechanical-vs-backlog classification
+    repo_names: set[str] = set()
+    if args.errors_only:
+        skip = {"-", ".git", ".github", ".mimosa", ".v2c", ".video_agent",
+                ".qoder", ".claude", "node_modules"}
+        for p in REPO_ROOT.rglob("*"):
+            rel = p.relative_to(REPO_ROOT)
+            if rel.parts[0] in skip:
+                continue
+            repo_names.add(p.name)
+
     total_broken = 0
+    total_errors = 0
     per_file: dict[str, list[tuple[int, str, str]]] = {}
     for f in nav_files():
         text = f.read_text(encoding="utf-8")
@@ -72,6 +89,28 @@ def main() -> int:
         if broken:
             per_file[str(f.relative_to(REPO_ROOT))] = broken
             total_broken += len(broken)
+
+    reportable = []
+    for path, broken in sorted(per_file.items(), key=lambda kv: -len(kv[1])):
+        kept = []
+        for line_no, label, target in broken:
+            if args.errors_only:
+                base = target.split("#")[0].rstrip("/").split("/")[-1]
+                if base not in repo_names:
+                    continue  # content backlog: target nowhere in repo
+                total_errors += 1
+            kept.append((line_no, label, target))
+        if kept:
+            reportable.append((path, kept))
+
+    if args.errors_only:
+        for path, kept in sorted(reportable, key=lambda kv: -len(kv[1])):
+            print(f"\n## {path} — {len(kept)} mechanical mislink(s)")
+            for line_no, label, target in kept:
+                print(f"  L{line_no}: [{label}]({target})")
+        print(f"\nTOTAL: {total_errors} mechanical mislink(s); "
+              f"{total_broken - total_errors} backlog link(s) (non-blocking)")
+        return 1 if total_errors else 0
 
     for path, broken in sorted(per_file.items(), key=lambda kv: -len(kv[1])):
         print(f"\n## {path} — {len(broken)} broken")

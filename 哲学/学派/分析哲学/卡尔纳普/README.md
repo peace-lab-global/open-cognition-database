@@ -102,11 +102,11 @@ Professor at University of Chicago and UCLA, institutionalizing 哲学 of scienc
 
 ## 重要概念 / Key Concepts
 
-1. **逻辑句法 / Logical Syntax** — 语言的形式规则，不涉及意义 → [logical-syntax](concepts/logical-syntax.md)
-2. **可证实性 / Verificationism** — 意义的验证标准 → [verificationism](concepts/verificationism.md)
-3. **理性重构 / Rational Reconstruction** — 概念的逻辑建构 → [rational-reconstruction](concepts/rational-reconstruction.md)
-4. **容忍原则 / Tolerance Principle** — 语言框架的实用选择 → [tolerance-principle](concepts/tolerance-principle.md)
-5. **经验意义 / Empirical Meaning** — 科学命题的意义标准 → [empirical-meaning](concepts/empirical-meaning.md)
+1. **逻辑句法 / Logical Syntax** — 语言的形式规则，不涉及意义 → [logical-syntax](../../../../认知系统/学派/生态认知/克拉克/README.md)
+2. **可证实性 / Verificationism** — 意义的验证标准 → [verificationism](概念/可证实性.md)
+3. **理性重构 / Rational Reconstruction** — 概念的逻辑建构 → [rational-reconstruction](../../理性论/勒内/README.md)
+4. **容忍原则 / Tolerance Principle** — 语言框架的实用选择 → [tolerance-principle](概念/容忍原则.md)
+5. **经验意义 / Empirical Meaning** — 科学命题的意义标准 → [empirical-meaning](概念/经验意义.md)
 6. **内部/外部问题 / Internal/External Questions** — 框架之内与之外的区分
 7. **物理主义 / Physicalism** — 科学语言的还原目标
 8. **形式化方法 / Formalization** — 哲学作为形式逻辑的应用
@@ -156,8 +156,8 @@ Yogacara's "dependent nature" (paratantra-svabhava) describes the causal network
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [维特根斯坦 Wittgenstein](../wittgenstein/README.md) `[同源/kindred]` 语言批判的两种路线
-- [波普尔 Popper](../popper/README.md) `[张力/tension]` 可确认性 vs 证伪主义
+- [维特根斯坦 Wittgenstein](../维特根斯坦/README.md) `[同源/kindred]` 语言批判的两种路线
+- [波普尔 Popper](../波普尔/README.md) `[张力/tension]` 可确认性 vs 证伪主义
 - [量论 · Pramana](../../../../宗教/佛教/概念/cognitive-theory/量论.md) `[对照/contrast]` 有效认知的判准
 - [二谛 · Satyadvaya](../../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` 框架内外的双层
 
@@ -181,11 +181,11 @@ Yogacara's "dependent nature" (paratantra-svabhava) describes the causal network
 
 | 条目 / Entry | 主题 / Topic |
 |---|---|
-| [logical-syntax](concepts/logical-syntax.md) | 逻辑句法 / Logical Syntax |
-| [verificationism](concepts/verificationism.md) | 可证实性 / Verificationism |
-| [rational-reconstruction](concepts/rational-reconstruction.md) | 理性重构 / Rational Reconstruction |
-| [tolerance-principle](concepts/tolerance-principle.md) | 容忍原则 / Tolerance Principle |
-| [empirical-meaning](concepts/empirical-meaning.md) | 经验意义 / Empirical Meaning |
+| [logical-syntax](../../../../认知系统/学派/生态认知/克拉克/README.md) | 逻辑句法 / Logical Syntax |
+| [verificationism](概念/可证实性.md) | 可证实性 / Verificationism |
+| [rational-reconstruction](../../理性论/勒内/README.md) | 理性重构 / Rational Reconstruction |
+| [tolerance-principle](概念/容忍原则.md) | 容忍原则 / Tolerance Principle |
+| [empirical-meaning](概念/经验意义.md) | 经验意义 / Empirical Meaning |
 | [works](著作.md) | 著作导读 / Works guide |
 | [timeline](时间线.md) | 年表 / Timeline |
 | [reading-list](阅读.md) | 进阶阅读 / Reading list |

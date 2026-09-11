@@ -8,7 +8,7 @@ era: ancient
 birth: 369 BCE
 death: 286 BCE
 tags:
-  - 道家
+  - daoist
   - 齐物
   - 逍遥
   - 心斋
@@ -99,7 +99,7 @@ All distinctions — great and small, beautiful and ugly, right and wrong, life 
 
 The useless great tree survives precisely because it is "useless" — spared the axe, it lives to shelter all beings. Worldly standards of usefulness often obscure deeper value.
 
-详见 [concepts/usefulness-uselessness.md](concepts/usefulness-uselessness.md)。
+详见 [concepts/usefulness-uselessness.md](../../../../../哲学/学派/东方哲学/庄子/概念/无用之用.md)。
 
 ### 4. 心斋 (Xinzhai) — 心灵的斋戒 / Fasting of the Mind
 
@@ -107,7 +107,7 @@ The useless great tree survives precisely because it is "useless" — spared the
 
 "Unify your will. Do not listen with your ears but with your mind; do not listen with your mind but with your vital energy (qi). Hearing stops at the ears; the mind stops at what fits. Qi is emptiness waiting upon things. Only the Dao gathers in emptiness. Emptiness is the fasting of the mind." Xinzhai is the practice of emptying the mind's preconceptions to attain luminous clarity — the Dao gathers only in the void.
 
-详见 [concepts/xinzhai.md](concepts/xinzhai.md)。
+详见 [concepts/xinzhai.md](概念/心斋.md)。
 
 ### 5. 庄周梦蝶 / Butterfly Dream — 物化
 
@@ -115,7 +115,7 @@ The useless great tree survives precisely because it is "useless" — spared the
 
 "Once Zhuang Zhou dreamed he was a butterfly, a butterfly fluttering happily... He did not know he was Zhou. Suddenly he awoke, and there he was, solidly Zhou. He did not know whether he was Zhou who had dreamed of being a butterfly, or a butterfly dreaming of being Zhou." The transformation of things (wuhua) teaches that the self is not a fixed entity but a flowing process.
 
-详见 [concepts/butterfly-dream.md](concepts/butterfly-dream.md)。
+详见 [concepts/butterfly-dream.md](../../../../../名言/梦境无意识/庄子-庄周梦蝶.md)。
 
 ### 6. "不知"之知 — 反知识论 / Knowledge of Not-Knowing
 
@@ -212,9 +212,9 @@ During the Wei-Jin period, Guo Xiang (d. 312 CE) edited and commented on the *Zh
 |---|---|---|---|
 | **齐物** | qiwu | 万物平等，是非大小皆为视角产物 | [齐物.md](../../../../../哲学/学派/东方哲学/庄子/概念/齐物.md) |
 | **逍遥** | xiaoyao | 超越一切依赖的绝对精神自由 | [逍遥.md](../../../../../哲学/学派/东方哲学/庄子/概念/逍遥.md) |
-| **无用之用** | wuyong zhi yong | 被世俗判定为无用之物的根本价值 | [usefulness-uselessness.md](concepts/usefulness-uselessness.md) |
-| **心斋** | xinzhai | 心灵的斋戒，达到虚静澄明 | [xinzhai.md](concepts/xinzhai.md) |
-| **物化/梦蝶** | wuhua | 万物流变转化，自我同一性的解构 | [butterfly-dream.md](concepts/butterfly-dream.md) |
+| **无用之用** | wuyong zhi yong | 被世俗判定为无用之物的根本价值 | [usefulness-uselessness.md](../../../../../哲学/学派/东方哲学/庄子/概念/无用之用.md) |
+| **心斋** | xinzhai | 心灵的斋戒，达到虚静澄明 | [xinzhai.md](概念/心斋.md) |
+| **物化/梦蝶** | wuhua | 万物流变转化，自我同一性的解构 | [butterfly-dream.md](../../../../../名言/梦境无意识/庄子-庄周梦蝶.md) |
 
 ## 关键文本 / Key Texts
 
@@ -287,10 +287,10 @@ These parables share a common structure: (1) Forgetting — letting go of self, 
 
 ### 西方哲学 / Western Philosophy
 
-- [海德格尔 · Heidegger](../../../../哲学/学派/存在主义/海德格尔/) `[平行]` "让存在" (Gelassenheit) 与无为；庖丁解牛与上手状态 (Zuhandenheit)
-- [德里达 · Derrida](../../../../哲学/学派/后结构主义/雅克/) `[平行]` 卮言与延异 (différance)
-- [尼采 · Nietzsche](../../../../哲学/学派/存在主义/尼采/) `[平行]` 重估一切价值与齐物论的相对主义
-- [博尔赫斯 · Borges](../../../../美学/学派/文学思想/博尔赫斯/) `[平行]` 梦与虚构、同一性的流动
+- [海德格尔 · Heidegger](../../../../../哲学/学派/存在主义/海德格尔) `[平行]` "让存在" (Gelassenheit) 与无为；庖丁解牛与上手状态 (Zuhandenheit)
+- [德里达 · Derrida](../../../../../哲学/学派/后结构主义/雅克) `[平行]` 卮言与延异 (différance)
+- [尼采 · Nietzsche](../../../../../哲学/学派/存在主义/尼采) `[平行]` 重估一切价值与齐物论的相对主义
+- [博尔赫斯 · Borges](../../../../../美学/学派/文学思想/博尔赫斯) `[平行]` 梦与虚构、同一性的流动
 
 ## 东西方对话 / East-West Dialogue
 
@@ -338,9 +338,9 @@ Zhuangzi and the Indian-Chinese Yogacara school (4th–7th c.) exhibit striking 
 |---|---|
 | [concepts/齐物.md](../../../../../哲学/学派/东方哲学/庄子/概念/齐物.md) | 齐物论 (Qiwu) — 万物平等，视角的相对主义 |
 | [concepts/逍遥.md](../../../../../哲学/学派/东方哲学/庄子/概念/逍遥.md) | 逍遥游 (Xiaoyao) — 超越一切依赖的绝对自由 |
-| [concepts/usefulness-uselessness.md](concepts/usefulness-uselessness.md) | 无用之用 (Wuyong) — 无用的根本价值 |
-| [concepts/xinzhai.md](concepts/xinzhai.md) | 心斋 (Xinzhai) — 心灵的斋戒，虚静澄明 |
-| [concepts/butterfly-dream.md](concepts/butterfly-dream.md) | 庄周梦蝶 — 物化，自我同一性的解构 |
+| [concepts/usefulness-uselessness.md](../../../../../哲学/学派/东方哲学/庄子/概念/无用之用.md) | 无用之用 (Wuyong) — 无用的根本价值 |
+| [concepts/xinzhai.md](概念/心斋.md) | 心斋 (Xinzhai) — 心灵的斋戒，虚静澄明 |
+| [concepts/butterfly-dream.md](../../../../../名言/梦境无意识/庄子-庄周梦蝶.md) | 庄周梦蝶 — 物化，自我同一性的解构 |
 | [著作.md](著作.md) | 作品总览 — 《庄子》三十三篇 |
 | [时间线.md](时间线.md) | 思想年表 / 文本形成史 |
 | [阅读.md](阅读.md) | 进阶阅读指南 |

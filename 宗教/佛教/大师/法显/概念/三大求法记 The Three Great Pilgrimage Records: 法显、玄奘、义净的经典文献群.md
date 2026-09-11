@@ -4,7 +4,15 @@ title: "三大求法记 The Three Great Pilgrimage Records: 法显、玄奘、�
 type: concept
 parent: faxian
 domain: 宗教
-tags: [three-records, 三大求法记, Xuanzang, Yijing, 大唐西域记, 南海寄归内法传, 佛国记, comparative-travel]
+tags:
+  - three-records
+  - 三大求法记
+  - xuanzang
+  - yijing
+  - 大唐西域记
+  - 南海寄归内法传
+  - 佛国记
+  - comparative-travel
 ---
 
 # 三大求法记 The Three Great Pilgrimage Records

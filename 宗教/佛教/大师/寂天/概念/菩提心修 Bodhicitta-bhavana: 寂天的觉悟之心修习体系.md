@@ -4,7 +4,14 @@ title: "菩提心修 Bodhicitta-bhavana: 寂天的觉悟之心修习体系"
 type: concept
 parent: santideva
 domain: 宗教
-tags: [bodhicitta, bodhisattva, awakening-mind, cultivation, bhavana, compassion, Mahayana]
+tags:
+  - bodhicitta
+  - bodhisattva
+  - awakening-mind
+  - cultivation
+  - bhavana
+  - compassion
+  - mahayana
 ---
 
 # 菩提心修 / Cultivation of the Awakening Mind (Bodhicitta-bhavana)

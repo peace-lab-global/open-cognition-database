@@ -93,7 +93,7 @@ children:
 ## 思想坐标
 - **批判**：功利主义（后果不等于道德）、幸福论（幸福不是道德标准）
 - **影响**：[罗尔斯](../../社会契约论/约翰-rawls/README.md)（原初状态是定言命令的程序化）
-- **对立**：[亚里士多德](../virtue-ethics/aristotle/README.md)（美德 vs 义务）
+- **对立**：[亚里士多德](../../德性伦理学/亚里士多德/README.md)（美德 vs 义务）
 - **下游**：哈贝马斯的商谈伦理、当代人权理论
 
 ## 常见误读
@@ -105,8 +105,8 @@ children:
 | 子条目 | 内容 |
 |---|---|
 | [concepts/定言命令.md](概念/定言命令.md) | 定言命令 · 三公式 |
-| [concepts/autonomy.md](concepts/autonomy.md) | 自律 · 自我立法 |
-| [concepts/duty-and-good-will.md](concepts/duty-and-good-will.md) | 义务 · 善良意志 |
-| [concepts/kingdom-of-ends.md](concepts/kingdom-of-ends.md) | 目的王国 |
-| [concepts/perpetual-peace.md](concepts/perpetual-peace.md) | 永久和平 |
+| [concepts/autonomy.md](概念/自律.md) | 自律 · 自我立法 |
+| [concepts/duty-and-good-will.md](概念/义务与善良意志.md) | 义务 · 善良意志 |
+| [concepts/kingdom-of-ends.md](概念/目的王国.md) | 目的王国 |
+| [concepts/perpetual-peace.md](概念/永久和平.md) | 永久和平 |
 | [著作.md](著作.md) · [时间线.md](时间线.md) · [阅读.md](阅读.md) |

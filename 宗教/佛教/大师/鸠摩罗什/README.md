@@ -7,7 +7,19 @@ school: buddhism-mahayana
 era: ancient
 birth: 344
 death: 413
-tags: [Kumārajīva, 鸠摩罗什, 佛经翻译, Buddhist translation, Madhyamaka, Prajnaparamita, 什门四哲, 般若, 法华经, 中观, sutra translation, Chinese Buddhism]
+tags:
+  - Kumārajīva
+  - 鸠摩罗什
+  - 佛经翻译
+  - buddhist-translation
+  - madhyamaka
+  - prajnaparamita
+  - 什门四哲
+  - 般若
+  - 法华经
+  - 中观
+  - sutra-translation
+  - chinese-buddhism
 aliases: ["Kumārajīva", "鸠摩罗什三藏", "什师", "罗什", "童寿"]
 sources: ["妙法莲华经 (Saddharmapundarika)", "维摩诘所说经 (Vimalakirtinirdesa)", "金刚经 (Vajracchedika)", "阿弥陀经 (Amitabha)", "中论 (Mulamadhyamakakarika)", "大智度论 (Mahaprajnaparamita-sastra)", "百论 (Sata-sastra)", "十二门论 (Dvadasamukha-sastra)"]
 cross_refs: ["nagarjuna", "aryadeva", "sengzhao", "zhiyi", "huiyuan", "xuanzang", "jizang"]
@@ -43,7 +55,7 @@ children: ["concepts/translation-method", "concepts/emptiness-teaching", "concep
 
 **Kumārajīva championed sense-for-sense translation over word-for-word rendering. His goal was to convey the essence of Buddhist teachings in elegant, natural Chinese rather than preserve the grammatical structure of Sanskrit.**
 
-详见 [翻译方法](concepts/translation-method.md)。
+详见 [翻译方法](概念/翻译方法 Translation Method: 鸠摩罗什的意译哲学与译场制度.md)。
 
 ### 2. 中观思想的汉传化 / Sinification of Madhyamaka
 
@@ -51,7 +63,7 @@ children: ["concepts/translation-method", "concepts/emptiness-teaching", "concep
 
 **He was the first to systematically translate the core Madhyamaka treatises into Chinese, laying the foundation for the Sanlun (Three Treatises) school and introducing Nāgārjuna's 哲学 to East Asia.**
 
-详见 [汉传中观](concepts/madhyamaka-chinese.md)。
+详见 [汉传中观](../僧肇/README.md)。
 
 ### 3. 般若与方便的统一 / Unity of Prajñā and Upāya
 
@@ -59,7 +71,7 @@ children: ["concepts/translation-method", "concepts/emptiness-teaching", "concep
 
 **Through his translation of the Vimalakīrti Sūtra, Kumārajīva demonstrated the Mahāyāna ideal that wisdom and skillful means are inseparable — samsara and nirvana are not two.**
 
-详见 [空义传授](concepts/emptiness-teaching.md)。
+详见 [空义传授](概念/空义传授 Emptiness Teaching: 鸠摩罗什对般若空观的汉传化.md)。
 
 ### 4. 经典翻译的文化奠基 / Cultural Foundation through Sutra Translation
 
@@ -67,7 +79,7 @@ children: ["concepts/translation-method", "concepts/emptiness-teaching", "concep
 
 **His translations constituted a civilization-level cultural project, creating a Buddhist Chinese lexicon that became the foundational code of East Asian Buddhist civilization.**
 
-详见 [经典翻译](concepts/sutra-translation.md) 和 [大乘弘传](concepts/mahayana-propagation.md)。
+详见 [经典翻译](../../经典/README.md) 和 [大乘弘传](README.md)。
 
 ---
 
@@ -269,11 +281,11 @@ children: ["concepts/translation-method", "concepts/emptiness-teaching", "concep
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [翻译方法 Translation Method](concepts/translation-method.md) — 意译原则与译场制度
-- [空义传授 Emptiness Teaching](concepts/emptiness-teaching.md) — 般若思想的汉传化
-- [大乘弘传 Mahāyāna Propagation](concepts/mahayana-propagation.md) — 大乘经典的东传
-- [汉传中观 Chinese Madhyamaka](concepts/madhyamaka-chinese.md) — 龙树中观的中国化传播
-- [经典翻译 Sūtra Translation](concepts/sutra-translation.md) — 从翻译实践到文化创造
+- [翻译方法 Translation Method](概念/翻译方法 Translation Method: 鸠摩罗什的意译哲学与译场制度.md) — 意译原则与译场制度
+- [空义传授 Emptiness Teaching](概念/空义传授 Emptiness Teaching: 鸠摩罗什对般若空观的汉传化.md) — 般若思想的汉传化
+- [大乘弘传 Mahāyāna Propagation](README.md) — 大乘经典的东传
+- [汉传中观 Chinese Madhyamaka](../僧肇/README.md) — 龙树中观的中国化传播
+- [经典翻译 Sūtra Translation](../../经典/README.md) — 从翻译实践到文化创造
 - [著作目录](著作.md) — 完整译作列表与考证
 - [年表](时间线.md) — 生平与历史语境
 - [进阶阅读](阅读.md) — 分类书单

@@ -7,7 +7,24 @@ school: libertarianism
 era: contemporary
 birth: 1938
 death: 2002
-tags: [自由至上主义, 最小国家, 分配正义, 权利理论, 经验机, 资格理论, 自我所有权, 政治哲学, 自由意志, libertarianism, minimal-state, entitlement-theory, self-ownership, experience-machine, rights-theory, political-philosophy, anarchy, utopia]
+tags:
+  - 自由至上主义
+  - 最小国家
+  - 分配正义
+  - 权利理论
+  - 经验机
+  - 资格理论
+  - 自我所有权
+  - political-philosophy
+  - 自由意志
+  - libertarianism
+  - minimal-state
+  - entitlement-theory
+  - self-ownership
+  - experience-machine
+  - rights-theory
+  - anarchy
+  - utopia
 aliases: ["Robert Nozick", "罗伯特·诺齐克", "诺齐克", "Nozick"]
 sources: ["Anarchy, State, and Utopia (1974)", "Philosophical Explanations (1981)", "The Examined Life (1989)", "The Nature of Rationality (1993)", "Invariances (2001)"]
 cross-refs: [rawls, locke, hayek, kant, mill]
@@ -117,19 +134,19 @@ Nozick's late-period works reveal an increasingly reflective thinker engaged in 
 
 ## 重要概念 / Key Concepts
 
-1. **[资格理论 / Entitlement Theory](concepts/entitlement-theory.md)** — 以历史过程而非最终结果来定义分配正义的理论框架。正义取决于持有物获取和转让的过程是否合乎正义。
+1. **[资格理论 / Entitlement Theory](概念/资格理论.md)** — 以历史过程而非最终结果来定义分配正义的理论框架。正义取决于持有物获取和转让的过程是否合乎正义。
    A framework defining distributive justice through historical process rather than final outcomes. Justice depends on whether the process of acquiring and transferring holdings is just.
 
-2. **[经验机 / Experience Machine](concepts/experience-machine.md)** — 诺齐克提出的著名思想实验，论证人类所珍视的不仅是主观快乐，还包括真实的行动和存在方式。
+2. **[经验机 / Experience Machine](概念/经验机.md)** — 诺齐克提出的著名思想实验，论证人类所珍视的不仅是主观快乐，还包括真实的行动和存在方式。
    Nozick's famous thought experiment demonstrating that humans value not merely subjective pleasure but real action and modes of being.
 
-3. **[最小国家 / Minimal State](concepts/minimal-state.md)** — 国家功能应严格限于保护个人权利（防止暴力、盗窃、欺诈和执行合同），超越此范围的国家行为即为不正当。
+3. **[最小国家 / Minimal State](概念/最小国家.md)** — 国家功能应严格限于保护个人权利（防止暴力、盗窃、欺诈和执行合同），超越此范围的国家行为即为不正当。
    State functions should be strictly limited to protecting individual rights (preventing violence, theft, fraud, and enforcing contracts); any state action beyond this is illegitimate.
 
-4. **[无政府、国家与乌托邦 / Anarchy, State, and Utopia](concepts/anarchy-state-utopia.md)** — 诺齐克最具影响力的著作及其核心论证结构：从自然状态推导最小国家的正当性，同时驳斥无政府主义和乌托邦主义。
+4. **[无政府、国家与乌托邦 / Anarchy, State, and Utopia](概念/无政府、国家与乌托邦.md)** — 诺齐克最具影响力的著作及其核心论证结构：从自然状态推导最小国家的正当性，同时驳斥无政府主义和乌托邦主义。
    Nozick's most influential work and its core argumentative structure: deriving the legitimacy of the minimal state from the state of nature, while refuting both anarchism and utopianism.
 
-5. **[自我所有权 / Self-Ownership](concepts/self-ownership.md)** — 每个人对自己的身体、才能和劳动拥有完整权利的原则，是诺齐克整个政治哲学的基石。
+5. **[自我所有权 / Self-Ownership](概念/自我所有权.md)** — 每个人对自己的身体、才能和劳动拥有完整权利的原则，是诺齐克整个政治哲学的基石。
    The principle that each person has full rights over their own body, talents, and labor — the cornerstone of Nozick's entire political 哲学.
 
 6. **权利作为边际约束 / Rights as Side Constraints** — 个人权利是对行为的绝对限制，而非可以为了更大利益而被权衡或牺牲的目标。
@@ -298,11 +315,11 @@ Buddhism's doctrine of *anatta* (no-self) fundamentally challenges the metaphysi
 
 ## 子条目索引 / Sub-entry Index
 
-- [资格理论 / Entitlement Theory](concepts/entitlement-theory.md)
-- [经验机 / Experience Machine](concepts/experience-machine.md)
-- [最小国家 / Minimal State](concepts/minimal-state.md)
-- [无政府、国家与乌托邦 / Anarchy, State, and Utopia](concepts/anarchy-state-utopia.md)
-- [自我所有权 / Self-Ownership](concepts/self-ownership.md)
+- [资格理论 / Entitlement Theory](概念/资格理论.md)
+- [经验机 / Experience Machine](概念/经验机.md)
+- [最小国家 / Minimal State](概念/最小国家.md)
+- [无政府、国家与乌托邦 / Anarchy, State, and Utopia](概念/无政府、国家与乌托邦.md)
+- [自我所有权 / Self-Ownership](概念/自我所有权.md)
 - [著作年表 / Works Bibliography](著作.md)
 - [生平大事记 / Biographical Timeline](时间线.md)
 - [阅读指南 / Reading Guide](阅读.md)

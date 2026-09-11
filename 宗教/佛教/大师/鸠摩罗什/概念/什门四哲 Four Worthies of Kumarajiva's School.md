@@ -4,7 +4,10 @@ title: "什门四哲 Four Worthies of Kumarajiva's School"
 type: concept
 parent: kumarajiva
 domain: 宗教
-tags: [four-disciples, Sengzhao, Kumarajiva]
+tags:
+  - four-disciples
+  - sengzhao
+  - kumarajiva
 ---
 # 什门四哲 / Four Worthies
 

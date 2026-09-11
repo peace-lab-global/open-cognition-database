@@ -7,7 +7,7 @@ linked_concepts:
   - ../../concepts/联合认知系统.md
   - ../../concepts/安全范式.md
 tags:
-  - STPA
+  - stpa
   - accident-analysis
   - safety-analysis
   - control-theory

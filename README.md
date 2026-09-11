@@ -8,7 +8,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-v0.9%20buddhist--academy--deep-blue.svg)](#)
 [![Domains](https://img.shields.io/badge/domains-9-orange.svg)](#内容总览)
-[![Entries](https://img.shields.io/badge/entries-1075%20thinkers%20%7C%201112%20concepts%20%7C%20137%20skills-brightgreen.svg)](#内容总览)
+[![Entries](https://img.shields.io/badge/entries-1027%20thinkers%20%7C%201392%20concepts%20%7C%20137%20skills-brightgreen.svg)](#内容总览)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ```
 10 个领域 × N 思想家/条目 + 概念条目 + Skills + 专题深化
-= 1075 思想家条目 · 1112 概念条目 · 137 Skills · 共 2438 条被索引条目（含专题子条目，以 index.json 为准）
+= 1027 思想家条目 · 1392 概念条目 · 137 Skills · 共 2670 条被索引条目（以 index.json 为准）
 ```
 
 ### 九大领域
@@ -37,17 +37,17 @@
 
 | 领域 | 思想家 | 概念 | Skills | 入口 |
 |---|:---:|:---:|:---:|---|
-| **哲学** Philosophy | 289 | 251 | 19 | [哲学 (Philosophy)](哲学/README.md) |
-| **宗教** Religion | 66 | 378 | 50 | [宗教 (Religion)](宗教/README.md) · [佛教认知专题 ↓](#佛教认知理论体系旗舰专题) |
-| **社会学** Sociology | 104 | 25 | 15 | [社会学 (Sociology)](社会学/README.md) |
-| **心理学** Psychology | 167 | 208 | 16 | [心理学 (Psychology)](心理学/README.md) |
-| **伦理与政治哲学** Ethics & Politics | 69 | 104 | 10 | [伦理政治 (Ethics & Political Philosophy)](伦理政治/README.md) |
-| **美学** Aesthetics | 116 | 34 | 3 | [美学 (Aesthetics)](美学/README.md) |
-| **文学** Literature | 70 | 8 | 5 | [文学 (Literature)](文学/README.md) |
-| **艺术** Arts | 48 | 63 | 3 | [艺术 (Arts)](艺术/README.md) |
+| **哲学** Philosophy | 280 | 251 | 19 | [哲学 (Philosophy)](哲学/README.md) |
+| **宗教** Religion | 66 | 377 | 50 | [宗教 (Religion)](宗教/README.md) · [佛教认知专题 ↓](#佛教认知理论体系旗舰专题) |
+| **社会学** Sociology | 92 | 94 | 15 | [社会学 (Sociology)](社会学/README.md) |
+| **心理学** Psychology | 166 | 208 | 16 | [心理学 (Psychology)](心理学/README.md) |
+| **伦理与政治哲学** Ethics & Politics | 68 | 103 | 10 | [伦理政治 (Ethics & Political Philosophy)](伦理政治/README.md) |
+| **美学** Aesthetics | 104 | 105 | 3 | [美学 (Aesthetics)](美学/README.md) |
+| **文学** Literature | 57 | 79 | 5 | [文学 (Literature)](文学/README.md) |
+| **艺术** Arts | 48 | 134 | 3 | [艺术 (Arts)](艺术/README.md) |
 | **认知系统工程** Cognitive Systems Engineering | 146 | 41 | 16 | [认知系统 (Cognitive Systems Engineering)](认知系统/README.md) |
 
-> **宗教领域 378 概念**含佛教认知理论专章与经典独立深度条目（详见下文专题）。**50 个 Skill** 含 15 个佛教认知专项 Skill + 3 个佛教冥想实践 Skill + 7 个佛学院方法论 Skill。另有「清单」领域 99 张跨人物素材清单、「TECH」板块（[科技与社会议题](TECH/README.md)，AI 复活已故名人等公共争议的正反观点分析）未计入上表。
+> **宗教领域 377 概念**含佛教认知理论专章与经典独立深度条目（详见下文专题）。**50 个 Skill** 含 15 个佛教认知专项 Skill + 3 个佛教冥想实践 Skill + 7 个佛学院方法论 Skill。另有「清单」领域 99 张跨人物素材清单、「TECH」板块（[科技与社会议题](TECH/README.md)，AI 复活已故名人等公共争议的正反观点分析）未计入上表。
 
 完整索引见 [INDEX.md](INDEX.md) ｜ 标签词典见 [TAGS.md](TAGS.md)。
 

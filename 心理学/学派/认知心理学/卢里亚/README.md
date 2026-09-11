@@ -82,7 +82,7 @@ children:
 
 ### 1. 功能系统论 (The Functional System)
 
-任何心理功能——语言、记忆、思维、运动——都不是单一脑区的产物，而是多个脑区组成的"功能系统"(functional system) 协同运作的结果。同一脑区可参与多个功能系统，同一功能系统可涉及多个脑区。这彻底超越了"一个功能对应一个脑区"的经典定位主义。详见 [concepts/functional-systems.md](concepts/functional-systems.md)。
+任何心理功能——语言、记忆、思维、运动——都不是单一脑区的产物，而是多个脑区组成的"功能系统"(functional system) 协同运作的结果。同一脑区可参与多个功能系统，同一功能系统可涉及多个脑区。这彻底超越了"一个功能对应一个脑区"的经典定位主义。详见 [concepts/functional-systems.md](../../../../社会学/学派/功能主义/帕森斯/README.md)。
 
 ### 2. 三功能单元模型 (Three Functional Units of the Brain)
 
@@ -90,19 +90,19 @@ children:
 
 ### 3. 高级皮质功能的动态定位 (Dynamic Localization of Higher Cortical Functions)
 
-高级心理功能的脑区定位不是静态的——随着个体发展、学习、文化环境变化和脑损伤后的恢复，功能的脑区分布可以发生重组 (reorganization)。"动态定位"(dynamic localization) 是卢里亚对传统定位论与反定位论之争的辩证超越。详见 [concepts/higher-cortical-functions.md](concepts/higher-cortical-functions.md)。
+高级心理功能的脑区定位不是静态的——随着个体发展、学习、文化环境变化和脑损伤后的恢复，功能的脑区分布可以发生重组 (reorganization)。"动态定位"(dynamic localization) 是卢里亚对传统定位论与反定位论之争的辩证超越。详见 [concepts/higher-cortical-functions.md](概念/高级皮质功能.md)。
 
 ### 4. 心理功能重组与康复 (Functional Reorganization and Recovery)
 
-脑损伤后的康复不是"修复受损区域"，而是通过系统训练让其他脑区接管受损功能——功能系统可以动态重组。这一发现直接奠定了当代脑卒中康复、创伤后认知重建的科学基础。详见 [concepts/recovery.md](concepts/recovery.md)。
+脑损伤后的康复不是"修复受损区域"，而是通过系统训练让其他脑区接管受损功能——功能系统可以动态重组。这一发现直接奠定了当代脑卒中康复、创伤后认知重建的科学基础。详见 [concepts/recovery.md](概念/功能重组与康复.md)。
 
 ### 5. 文化-历史的神经心理学 (Cultural-Historical Neuropsychology)
 
-高级心理功能不是大脑固有的"自然"产物，而是在社会文化活动中内化形成的。不同文化背景下的个体可能以不同方式组织同一心理功能。卢里亚在中亚的民族心理学考察 (1931-1932) 为这一命题提供了实证支持。详见 [concepts/cultural-historical-neuro.md](concepts/cultural-historical-neuro.md)。
+高级心理功能不是大脑固有的"自然"产物，而是在社会文化活动中内化形成的。不同文化背景下的个体可能以不同方式组织同一心理功能。卢里亚在中亚的民族心理学考察 (1931-1932) 为这一命题提供了实证支持。详见 [concepts/cultural-historical-neuro.md](概念/文化-历史神经心理学.md)。
 
 ### 6. 浪漫科学 (Romantic Science)
 
-卢里亚提倡一种"浪漫科学"的研究风格——用深度的个案叙事 (rich case narrative)、丰富的临床观察来揭示心智的本质，补充而非取代统计分析。这一方法论直接影响了 Oliver Sacks 的叙事医学传统。详见 [concepts/neuropsychology.md](concepts/neuropsychology.md)。
+卢里亚提倡一种"浪漫科学"的研究风格——用深度的个案叙事 (rich case narrative)、丰富的临床观察来揭示心智的本质，补充而非取代统计分析。这一方法论直接影响了 Oliver Sacks 的叙事医学传统。详见 [concepts/neuropsychology.md](概念/神经心理学.md)。
 
 ## 思想脉络
 
@@ -137,11 +137,11 @@ children:
 
 | 概念 | 英文 | 核心含义 | 子条目 |
 |---|---|---|---|
-| **神经心理学** | Neuropsychology | 以脑损伤为自然实验理解心智结构的学科 | [neuropsychology.md](concepts/neuropsychology.md) |
-| **功能系统** | Functional System | 心理功能由跨脑区协作网络完成 | [functional-systems.md](concepts/functional-systems.md) |
-| **高级皮质功能** | Higher Cortical Functions | 语言、记忆、思维等高级心理活动的脑机制 | [higher-cortical-functions.md](concepts/higher-cortical-functions.md) |
-| **功能重组与康复** | Recovery | 脑损伤后通过训练实现功能系统的动态重组 | [recovery.md](concepts/recovery.md) |
-| **文化-历史神经心理学** | Cultural-Historical Neuro | 高级心理功能的文化-历史起源与内化 | [cultural-historical-neuro.md](concepts/cultural-historical-neuro.md) |
+| **神经心理学** | Neuropsychology | 以脑损伤为自然实验理解心智结构的学科 | [neuropsychology.md](概念/神经心理学.md) |
+| **功能系统** | Functional System | 心理功能由跨脑区协作网络完成 | [functional-systems.md](../../../../社会学/学派/功能主义/帕森斯/README.md) |
+| **高级皮质功能** | Higher Cortical Functions | 语言、记忆、思维等高级心理活动的脑机制 | [higher-cortical-functions.md](概念/高级皮质功能.md) |
+| **功能重组与康复** | Recovery | 脑损伤后通过训练实现功能系统的动态重组 | [recovery.md](概念/功能重组与康复.md) |
+| **文化-历史神经心理学** | Cultural-Historical Neuro | 高级心理功能的文化-历史起源与内化 | [cultural-historical-neuro.md](概念/文化-历史神经心理学.md) |
 | **三功能单元** | Three Functional Units | 大脑三大功能分工：觉醒/加工/执行 | -- |
 | **动态定位** | Dynamic Localization | 功能定位随发展与康复而变化的性质 | -- |
 | **浪漫科学** | Romantic Science | 以个案叙事补充统计方法的研究方法论 | -- |
@@ -218,12 +218,12 @@ children:
 
 - [维果茨基 · Vygotsky](../../发展心理学/列夫.md) `[同源]` 文化-历史心理学的共同创始人
 - [皮亚杰 · Piaget](../皮亚杰.md) `[平行]` 同为研究认知发展的系统性理论家
-- [巴尔斯 · Baars](../cognitive/baars.md) `[后继]` 全局工作空间理论 (Global Workspace Theory) 继承了功能系统的思想
+- [巴尔斯 · Baars](../巴尔斯/README.md) `[后继]` 全局工作空间理论 (Global Workspace Theory) 继承了功能系统的思想
 
 ### 神经科学
 
-- [达马西奥 · Damasio](../cognitive/damasio.md) `[后继]` 躯体标记假说 (somatic marker hypothesis) 继承了"情绪-认知整合"的传统
-- [弗里斯顿 · Friston](../cognitive/friston.md) `[对照]` 自由能原理 (free energy principle) 从计算角度发展了"大脑作为预测系统"的理论
+- [达马西奥 · Damasio](../达玛西奥/README.md) `[后继]` 躯体标记假说 (somatic marker hypothesis) 继承了"情绪-认知整合"的传统
+- [弗里斯顿 · Friston](../弗里斯顿/README.md) `[对照]` 自由能原理 (free energy principle) 从计算角度发展了"大脑作为预测系统"的理论
 
 ### 东方思想
 
@@ -258,11 +258,11 @@ children:
 
 | 子条目 | 内容 |
 |---|---|
-| [concepts/neuropsychology.md](concepts/neuropsychology.md) | 神经心理学 -- 以脑损伤为自然实验理解心智 |
-| [concepts/functional-systems.md](concepts/functional-systems.md) | 功能系统 -- 跨脑区协作的动态网络 |
-| [concepts/higher-cortical-functions.md](concepts/higher-cortical-functions.md) | 高级皮质功能 -- 语言、记忆、思维的脑机制 |
-| [concepts/recovery.md](concepts/recovery.md) | 功能重组与康复 -- 脑损伤后的功能恢复机制 |
-| [concepts/cultural-historical-neuro.md](concepts/cultural-historical-neuro.md) | 文化-历史神经心理学 -- 高级功能的社会文化起源 |
+| [concepts/neuropsychology.md](概念/神经心理学.md) | 神经心理学 -- 以脑损伤为自然实验理解心智 |
+| [concepts/functional-systems.md](../../../../社会学/学派/功能主义/帕森斯/README.md) | 功能系统 -- 跨脑区协作的动态网络 |
+| [concepts/higher-cortical-functions.md](概念/高级皮质功能.md) | 高级皮质功能 -- 语言、记忆、思维的脑机制 |
+| [concepts/recovery.md](概念/功能重组与康复.md) | 功能重组与康复 -- 脑损伤后的功能恢复机制 |
+| [concepts/cultural-historical-neuro.md](概念/文化-历史神经心理学.md) | 文化-历史神经心理学 -- 高级功能的社会文化起源 |
 | [著作.md](著作.md) | 作品总览 |
 | [时间线.md](时间线.md) | 思想年表 |
 | [阅读.md](阅读.md) | 进阶阅读指南 |

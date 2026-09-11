@@ -4,7 +4,14 @@ title: 只管打坐 Shikantaza
 type: concept
 domain: 宗教
 parent: ../README.md
-tags: [道元, Dogen, 只管打坐, shikantaza, 坐禅, zazen, 修行]
+tags:
+  - 道元
+  - dogen
+  - 只管打坐
+  - shikantaza
+  - 坐禅
+  - zazen
+  - 修行
 ---
 
 # 只管打坐 Shikantaza (Just Sitting)

@@ -7,7 +7,11 @@ school: ecological
 era: contemporary
 birth: 1957
 death: null
-tags: [extended-mind, predictive-processing, embodied-cognition, 4E-cognition]
+tags:
+  - extended-mind
+  - predictive-processing
+  - embodied-cognition
+  - 4e-cognition
 aliases: [Andy Clark, 安迪·克拉克]
 sources: [《延展心智》(Supersizing the Mind), 《冲浪不确定性》(Surfing Uncertainty), 《自然天生的赛博格》(Natural-Born Cyborgs)]
 ---
@@ -81,7 +85,7 @@ sources: [《延展心智》(Supersizing the Mind), 《冲浪不确定性》(Sur
 - [维果茨基](../../../心理学/学派/发展心理学/列夫.md) `[继承]` 文化工具中介认知——语言和符号是认知延展的早期形式
 - [吉布森](gibson.md) `[继承]` 环境不是被表征而是被直接利用
 - [哈钦斯](../分布式认知/哈钦斯.md) `[互补]` 延展心智（个体层）与分布式认知（系统层）互为补充
-- [梅洛-庞蒂](../../../哲学/学派/现象学/merleau-ponty.md) `[同源]` 身体作为认知界面的哲学基础
+- [梅洛-庞蒂](../../../哲学/学派/现象学/梅洛庞蒂.md) `[同源]` 身体作为认知界面的哲学基础
 
 ## 进阶阅读
 

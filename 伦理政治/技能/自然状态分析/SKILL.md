@@ -9,7 +9,7 @@ linked_concepts:
 tags:
   - 自然状态
   - 利维坦
-  - 社会契约
+  - social-contract
   - 政治理论
 ---
 

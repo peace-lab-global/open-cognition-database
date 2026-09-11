@@ -140,11 +140,11 @@ The central achievement of this phase was Capital (Volume I published in 1867; V
 
 ## 重要概念 / Key Concepts
 
-1. **历史唯物主义** / Historical Materialism → [详细条目 / See detailed entry](concepts/historical-materialism.md)
-2. **阶级斗争** / Class Struggle → [详细条目 / See detailed entry](concepts/class-struggle.md)
+1. **历史唯物主义** / Historical Materialism → [详细条目 / See detailed entry](概念/历史唯物主义.md)
+2. **阶级斗争** / Class Struggle → [详细条目 / See detailed entry](../涂尔干/README.md)
 3. **异化** / Alienation (Entfremdung) → [详细条目 / See detailed entry](概念/异化.md)
-4. **剩余价值** / Surplus Value (Mehrwert) → [详细条目 / See detailed entry](concepts/surplus-value.md)
-5. **经济基础与上层建筑** / Base and Superstructure → [详细条目 / See detailed entry](concepts/base-superstructure.md)
+4. **剩余价值** / Surplus Value (Mehrwert) → [详细条目 / See detailed entry](概念/剩余价值.md)
+5. **经济基础与上层建筑** / Base and Superstructure → [详细条目 / See detailed entry](../../../../伦理政治/README.md)
 6. **商品拜物教** / Commodity Fetishism — 商品关系掩盖了人与人之间的社会关系 / Commodity relations obscure the social relations between people
 7. **意识形态** / Ideology — 作为"虚假意识"的观念体系，服务于统治阶级利益 / A system of ideas serving as "false consciousness" in the service of ruling-class interests
 8. **原始积累** / Primitive Accumulation — 资本主义生产方式确立之前的暴力剥夺过程 / The process of violent expropriation preceding the establishment of the capitalist mode of production
@@ -289,11 +289,11 @@ Japan was one of the earliest Asian countries to systematically engage with Marx
 
 | 条目 / Entry | 说明 / Description |
 |---|---|
-| [历史唯物主义](concepts/historical-materialism.md) | 社会存在决定社会意识的历史观 / Historical theory of social being determining consciousness |
-| [阶级斗争](concepts/class-struggle.md) | 历史发展的直接动力 / The direct motor of historical development |
+| [历史唯物主义](概念/历史唯物主义.md) | 社会存在决定社会意识的历史观 / Historical theory of social being determining consciousness |
+| [阶级斗争](../涂尔干/README.md) | 历史发展的直接动力 / The direct motor of historical development |
 | [异化](概念/异化.md) | 资本主义条件下人的本质异化 / Alienation of human essence under capitalism |
-| [剩余价值](concepts/surplus-value.md) | 资本主义剥削的核心机制 / The core mechanism of capitalist exploitation |
-| [经济基础与上层建筑](concepts/base-superstructure.md) | 社会结构的两个层次及其辩证关系 / Two levels of social structure and their dialectical relation |
+| [剩余价值](概念/剩余价值.md) | 资本主义剥削的核心机制 / The core mechanism of capitalist exploitation |
+| [经济基础与上层建筑](../../../../伦理政治/README.md) | 社会结构的两个层次及其辩证关系 / Two levels of social structure and their dialectical relation |
 | [著作年表](著作.md) | 马克思主要著作详述 / Detailed survey of Marx's major works |
 | [生平年谱](时间线.md) | 马克思生平与思想大事年表 / Chronology of Marx's life and intellectual milestones |
 | [进阶书单](阅读.md) | 系统阅读指南 / Systematic reading guide |

@@ -10,7 +10,7 @@ tags:
   - community
   - meaning
   - power
-  - 社会学
+  - sociology
 ---
 
 # 神圣-世俗辨析 · Sacred / Profane Analysis

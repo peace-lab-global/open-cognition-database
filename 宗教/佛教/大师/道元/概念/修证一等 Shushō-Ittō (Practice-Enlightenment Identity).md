@@ -4,7 +4,15 @@ title: 修证一等 Shushō-Ittō (Practice-Enlightenment Identity)
 type: concept
 domain: 宗教
 parent: ../README.md
-tags: [道元, Dogen, 修证一等, shushō-ittō, 修行, practice, 证悟, enlightenment]
+tags:
+  - 道元
+  - dogen
+  - 修证一等
+  - shushō-ittō
+  - 修行
+  - practice
+  - 证悟
+  - enlightenment
 ---
 
 # 修证一等 Shushō-Ittō (Practice-Enlightenment Identity)

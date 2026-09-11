@@ -4,7 +4,10 @@ title: "三谛圆融 Three Truths in Perfect Harmony"
 type: concept
 parent: zhiyi
 domain: 宗教
-tags: [three-truths, empty-provisional-middle, Tiantai]
+tags:
+  - three-truths
+  - empty-provisional-middle
+  - tiantai
 ---
 
 # 三谛圆融 / Three Truths in Perfect Harmony

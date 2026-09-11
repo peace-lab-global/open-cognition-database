@@ -3,7 +3,11 @@ id: 美学.arts-thought.eisenstein.concepts.inner-monologue
 title: 内心独白 Inner Monologue
 type: concept
 parent: 美学.arts-thought.eisenstein
-tags: [inner-monologue, psychology, stream-of-consciousness, Joyce]
+tags:
+  - inner-monologue
+  - psychology
+  - stream-of-consciousness
+  - joyce
 ---
 
 # 内心独白 / Inner Monologue

@@ -7,7 +7,12 @@ school: analytic
 era: contemporary
 birth: 1935
 death: 2017
-tags: [language-of-thought, modularity, mental-representation, computationalism, LOT]
+tags:
+  - language-of-thought
+  - modularity
+  - mental-representation
+  - computationalism
+  - lot
 aliases: [Jerry Fodor, 福多, 杰里·福多]
 sources:
   - Fodor, *The Language of Thought* (1975)
@@ -130,6 +135,6 @@ Jerry Fodor (1935–2017) was one of the most important philosophers of mind in 
 
 ## 十、关联条目
 
-- [丹尼特 Dennett](../dennett/README.md) `[论敌]` 取消主义 vs 表征主义
-- [乔姆斯基 Chomsky](../chomsky/README.md) `[思想亲和]` 语言天赋论与形式语法
-- [克拉克 Clark](../clark/README.md) `[论敌]` 延展心智 vs 内部主义
+- [丹尼特 Dennett](../丹尼特/README.md) `[论敌]` 取消主义 vs 表征主义
+- [乔姆斯基 Chomsky](../../../../心理学/学派/认知心理学/乔姆斯基.md) `[思想亲和]` 语言天赋论与形式语法
+- [克拉克 Clark](../克拉克/README.md) `[论敌]` 延展心智 vs 内部主义

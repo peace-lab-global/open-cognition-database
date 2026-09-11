@@ -5,7 +5,15 @@ type: concept
 domain: 宗教
 school: buddhism-rinzai
 parent: ../README.md
-tags: [坐禅和赞, Zazen Wasan, 众生本来佛, 白隐, Hakuin, 坐禅, zazen, 临济宗]
+tags:
+  - 坐禅和赞
+  - zazen-wasan
+  - 众生本来佛
+  - 白隐
+  - hakuin
+  - 坐禅
+  - zazen
+  - 临济宗
 ---
 
 # 坐禅和赞 Zazen Wasan (Hymn to Zazen)

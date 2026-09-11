@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[涂尔干](../../学派/古典社会学/durkheim.md)
+- 来源思想家：[涂尔干](../../学派/古典社会学/涂尔干.md)
 - 来源概念：[社会事实](../../concepts/social-fact.md)、[集体意识](../../concepts/collective-consciousness.md)
 - 关键文献：《社会学方法的准则》、《自杀论》、《社会分工论》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[涂尔干](../../学派/古典社会学/durkheim.md)
+- 思想家：[涂尔干](../../学派/古典社会学/涂尔干.md)
 - 概念：[社会事实](../../concepts/social-fact.md)、[集体意识](../../concepts/collective-consciousness.md)
 - 相关 Skill：[class-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[foucault-power-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

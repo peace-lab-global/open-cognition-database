@@ -5,7 +5,13 @@ type: concept
 domain: 宗教
 school: buddhism-pure-land
 parent: 宗教.buddhism.master.shandao.readme
-tags: [念佛, Nianfo, Nembutsu, 称名念佛, Pure Land, Amitābha]
+tags:
+  - 念佛
+  - nianfo
+  - nembutsu
+  - 称名念佛
+  - pure-land
+  - Amitābha
 ---
 
 # 念佛 Niànfó

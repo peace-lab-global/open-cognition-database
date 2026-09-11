@@ -161,13 +161,13 @@ Bainbridge's influence extends beyond academia. Her analytical framework has bee
 2. **操作者技能退化**（[Operator Skills Decline](concepts/operator-skills-decline.md)）：自动化运行期间，操作者的手动操作技能因缺乏练习而系统性退化。
    *Systematic degradation of operators' manual skills during automated operation due to lack of practice.*
 
-3. **自动化悖论**（[Automation Paradox](concepts/automation-paradox.md)）：自动化程度越高，对人类操作者的依赖越关键，但其能力却越退化。
+3. **自动化悖论**（[Automation Paradox](README.md)）：自动化程度越高，对人类操作者的依赖越关键，但其能力却越退化。
    *The higher the automation level, the more critical the dependence on human operators, yet the more their capabilities degrade.*
 
-4. **人类监控困境**（[Human Monitoring](concepts/human-monitoring.md)）：人类不擅长被动监控低概率事件——认知要求高但行为单调。
+4. **人类监控困境**（[Human Monitoring](../../../../心理学/学派/人本主义/卡尔/README.md)）：人类不擅长被动监控低概率事件——认知要求高但行为单调。
    *Humans are poor at passively monitoring low-probability events — high cognitive demands but behavioral monotony.*
 
-5. **系统可靠性悖论**（[System Reliability](concepts/system-reliability.md)）：高度自动化系统的崩溃往往比低自动化系统更加灾难性。
+5. **系统可靠性悖论**（[System Reliability](../../../../心理学/技能/双系统思维分析/SKILL.md)）：高度自动化系统的崩溃往往比低自动化系统更加灾难性。
    *Failures in highly automated systems tend to be more catastrophic than in less automated ones.*
 
 6. **知识层困境**：Rasmussen SRK框架在自动化语境下的推论——自动化将人推入认知最脆弱的知识层。
@@ -313,9 +313,9 @@ The Buddhist concept of "avidya" refers to ignorance of the true state of affair
 
 - [自动化讽刺](concepts/ironies-of-automation.md) · Ironies of Automation
 - [操作者技能退化](concepts/operator-skills-decline.md) · Operator Skills Decline
-- [自动化悖论](concepts/automation-paradox.md) · Automation Paradox
-- [人类监控困境](concepts/human-monitoring.md) · Human Monitoring
-- [系统可靠性悖论](concepts/system-reliability.md) · System Reliability
+- [自动化悖论](README.md) · Automation Paradox
+- [人类监控困境](../../../../心理学/学派/人本主义/卡尔/README.md) · Human Monitoring
+- [系统可靠性悖论](../../../../心理学/技能/双系统思维分析/SKILL.md) · System Reliability
 - [著作年表](著作.md) · Works Bibliography
 - [生平大事记](时间线.md) · Biographical Timeline
 - [阅读指南](阅读.md) · Reading Guide

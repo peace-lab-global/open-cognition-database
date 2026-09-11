@@ -4,7 +4,10 @@ title: "观经四帖疏 Commentary on the Contemplation Sutra"
 type: concept
 parent: shandao
 domain: 宗教
-tags: [contemplation-sutra, commentary, Pure-Land]
+tags:
+  - contemplation-sutra
+  - commentary
+  - pure-land
 ---
 # 观经四帖疏 / Commentary on the Contemplation Sutra in Four Fascicles
 

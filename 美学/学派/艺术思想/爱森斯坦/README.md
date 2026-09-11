@@ -230,11 +230,11 @@ Eisenstein deeply studied Noh theater's "tension in stillness"; Chinese landscap
 
 | 条目 | 类型 | 简述 |
 |------|------|------|
-| [蒙太奇](concepts/montage.md) | 概念 | 镜头碰撞产生新意义的核心理论 |
-| [吸引力蒙太奇](concepts/attraction-montage.md) | 概念 | 强烈视觉刺激冲击观众感官 |
-| [理性蒙太奇](concepts/intellectual-montage.md) | 概念 | 镜头冲突表达抽象概念与思想 |
-| [冲突原则](concepts/conflict-not-linkage.md) | 概念 | 蒙太奇的基本单位是冲突而非镜头 |
-| [内心独白](concepts/inner-monologue.md) | 概念 | 电影表达心理过程的方式 |
+| [蒙太奇](../../../../艺术/概念/蒙太奇.md) | 概念 | 镜头碰撞产生新意义的核心理论 |
+| [吸引力蒙太奇](概念/吸引力蒙太奇 Attraction Montage.md) | 概念 | 强烈视觉刺激冲击观众感官 |
+| [理性蒙太奇](概念/理性蒙太奇 Intellectual Montage.md) | 概念 | 镜头冲突表达抽象概念与思想 |
+| [冲突原则](概念/冲突原则 Conflict Not Linkage.md) | 概念 | 蒙太奇的基本单位是冲突而非镜头 |
+| [内心独白](../../../../心理学/学派/行为主义/斯金纳/README.md) | 概念 | 电影表达心理过程的方式 |
 | [著作列表](著作.md) | 著作 | 爱森斯坦主要著作 |
 | [年表](时间线.md) | 年表 | 爱森斯坦生平时间线 |
 | [推荐阅读](阅读.md) | 书单 | 爱森斯坦研究阅读指南 |

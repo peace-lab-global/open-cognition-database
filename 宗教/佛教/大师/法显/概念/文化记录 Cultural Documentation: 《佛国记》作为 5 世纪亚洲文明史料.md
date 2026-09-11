@@ -4,7 +4,14 @@ title: "文化记录 Cultural Documentation: 《佛国记》作为 5 世纪亚�
 type: concept
 parent: faxian
 domain: 宗教
-tags: [cultural-documentation, 佛国记, historical-source, Gupta-dynasty, Sri-Lanka, travel-literature, archaeology]
+tags:
+  - cultural-documentation
+  - 佛国记
+  - historical-source
+  - gupta-dynasty
+  - sri-lanka
+  - travel-literature
+  - archaeology
 ---
 
 # 文化记录 Cultural Documentation

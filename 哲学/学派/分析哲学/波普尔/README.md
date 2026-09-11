@@ -76,10 +76,10 @@ sub-entries:
 ## 重要概念 / Key Concepts
 
 1. **证伪主义 / Falsificationism** → [falsificationism](概念/证伪主义.md)
-2. **开放社会 / Open Society** → [open-society](concepts/open-society.md)
-3. **三个世界 / Three Worlds** → [three-worlds](concepts/three-worlds.md)
-4. **确认度 / Corroboration** → [corroboration](concepts/corroboration.md)
-5. **历史决定论批判 / Historicism Critique** → [historicism-critique](concepts/historicism-critique.md)
+2. **开放社会 / Open Society** → [open-society](../../../../社会学/学派/网络社会/卡斯特/README.md)
+3. **三个世界 / Three Worlds** → [three-worlds](概念/三个世界.md)
+4. **确认度 / Corroboration** → [corroboration](概念/确认度.md)
+5. **历史决定论批判 / Historicism Critique** → [historicism-critique](概念/历史决定论批判.md)
 6. **渐进社会工程 / Piecemeal Social Engineering** — 小步改革而非大革命
 7. **可证伪性 / Falsifiability** — 科学划界标准
 8. **世界3 / World 3** — 客观知识的自主性
@@ -129,8 +129,8 @@ Nagarjuna's Madhyamaka school adopts "refutation without establishment" — not 
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [卡尔纳普 Carnap](../carnap/README.md) `[张力/tension]` 可确认性 vs 证伪主义
-- [维特根斯坦 Wittgenstein](../wittgenstein/README.md) `[对照/contrast]` 语言批判 vs 方法论批判
+- [卡尔纳普 Carnap](../卡尔纳普.md) `[张力/tension]` 可确认性 vs 证伪主义
+- [维特根斯坦 Wittgenstein](../维特根斯坦/README.md) `[对照/contrast]` 语言批判 vs 方法论批判
 - [量论 · Pramana](../../../../宗教/佛教/概念/cognitive-theory/量论.md) `[对照/contrast]` 有效认知的判准
 - [二谛 · Satyadvaya](../../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` 方法论划分
 
@@ -156,10 +156,10 @@ Nagarjuna's Madhyamaka school adopts "refutation without establishment" — not 
 | 条目 / Entry | 主题 / Topic |
 |---|---|
 | [falsificationism](概念/证伪主义.md) | 证伪主义 / Falsificationism |
-| [open-society](concepts/open-society.md) | 开放社会 / Open Society |
-| [three-worlds](concepts/three-worlds.md) | 三个世界 / Three Worlds |
-| [corroboration](concepts/corroboration.md) | 确认度 / Corroboration |
-| [historicism-critique](concepts/historicism-critique.md) | 历史决定论批判 / Historicism Critique |
+| [open-society](../../../../社会学/学派/网络社会/卡斯特/README.md) | 开放社会 / Open Society |
+| [three-worlds](概念/三个世界.md) | 三个世界 / Three Worlds |
+| [corroboration](概念/确认度.md) | 确认度 / Corroboration |
+| [historicism-critique](概念/历史决定论批判.md) | 历史决定论批判 / Historicism Critique |
 | [works](著作.md) | 著作导读 / Works guide |
 | [timeline](时间线.md) | 年表 / Timeline |
 | [reading-list](阅读.md) | 进阶阅读 / Reading list |

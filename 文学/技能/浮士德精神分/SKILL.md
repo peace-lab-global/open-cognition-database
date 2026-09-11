@@ -34,7 +34,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[约翰·沃尔夫冈·冯·歌德](../../学派/诗人/goethe.md)
+- 来源思想家：[约翰·沃尔夫冈·冯·歌德](../../学派/诗人/约翰.md)
 - 来源概念：[浮士德精神](../../concepts/faustian-spirit.md)
 - 关键文献：《浮士德》
 
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[约翰·沃尔夫冈·冯·歌德](../../学派/诗人/goethe.md)
+- 思想家：[约翰·沃尔夫冈·冯·歌德](../../学派/诗人/约翰.md)
 - 概念：[浮士德精神](../../concepts/faustian-spirit.md)
 - 相关 Skill：[will-to-power-analysis](../../../哲学/技能/权力意志分析/SKILL.md)、[existentialism-analysis](../../../哲学/技能/存在主义分析/SKILL.md)

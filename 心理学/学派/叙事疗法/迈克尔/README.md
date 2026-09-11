@@ -7,7 +7,18 @@ school: narrative-therapy
 era: contemporary
 birth: 1948
 death: 2008
-tags: [叙事疗法, 外化, 重写, 后结构主义, 定义式仪式, 家庭治疗, narrative-therapy, externalization, re-authoring, post-structuralism, definitional-ceremony, family-therapy]
+tags:
+  - 叙事疗法
+  - 外化
+  - 重写
+  - post-structuralism
+  - 定义式仪式
+  - 家庭治疗
+  - narrative-therapy
+  - externalization
+  - re-authoring
+  - definitional-ceremony
+  - family-therapy
 aliases: [怀特, Michael White, 迈克尔·怀特, 麦克·怀特]
 sources: [Maps of Narrative Practice, Narrative Means to Therapeutic Ends, Experience Contradiction and Paradox, Reflections on Narrative Practice]
 cross-refs: [epston, foucault, goffman, rogers, bruner, myerhoff]
@@ -120,15 +131,15 @@ In the 21st century, White devoted himself to refining and systematizing the the
 
 ## 重要概念 / Key Concepts
 
-1. **叙事疗法 / Narrative Therapy**：以叙事隐喻为核心的后结构主义心理治疗方法，认为人通过故事建构身份，治疗是帮助人重写被问题主导的生活叙事。→ [详见子条目](concepts/narrative-therapy.md) / A post-structuralist psychotherapeutic approach centered on the narrative metaphor, holding that people construct identity through stories, and therapy helps people re-author problem-dominated life narratives.
+1. **叙事疗法 / Narrative Therapy**：以叙事隐喻为核心的后结构主义心理治疗方法，认为人通过故事建构身份，治疗是帮助人重写被问题主导的生活叙事。→ [详见子条目](README.md) / A post-structuralist psychotherapeutic approach centered on the narrative metaphor, holding that people construct identity through stories, and therapy helps people re-author problem-dominated life narratives.
 
-2. **外化 / Externalization**：将问题从人的身份中分离出来的核心治疗技术，使"问题是问题，人不是问题"成为可能。→ [详见子条目](concepts/externalization.md) / The core therapeutic technique of separating the problem from the person's identity, making possible "the problem is the problem, the person is not the problem."
+2. **外化 / Externalization**：将问题从人的身份中分离出来的核心治疗技术，使"问题是问题，人不是问题"成为可能。→ [详见子条目](概念/外化.md) / The core therapeutic technique of separating the problem from the person's identity, making possible "the problem is the problem, the person is not the problem."
 
-3. **重写 / Re-authoring**：通过发现"独特结果"并将其编织为替代叙事来丰富来访者身份认同的治疗过程。→ [详见子条目](concepts/re-authoring.md) / The therapeutic process of enriching the client's identity by discovering "unique outcomes" and weaving them into alternative narratives.
+3. **重写 / Re-authoring**：通过发现"独特结果"并将其编织为替代叙事来丰富来访者身份认同的治疗过程。→ [详见子条目](../../../../伦理政治/README.md) / The therapeutic process of enriching the client's identity by discovering "unique outcomes" and weaving them into alternative narratives.
 
-4. **后结构主义在叙事实践中的运用 / Post-structuralism in Narrative Practice**：福柯的权力/知识理论如何从根本上塑造了叙事实践对治疗关系、诊断和"正常化"的批判性理解。→ [详见子条目](concepts/post-structuralism.md) / How Foucault's power/knowledge theory fundamentally shaped narrative practice's critical understanding of therapeutic relationships, diagnosis, and "normalization."
+4. **后结构主义在叙事实践中的运用 / Post-structuralism in Narrative Practice**：福柯的权力/知识理论如何从根本上塑造了叙事实践对治疗关系、诊断和"正常化"的批判性理解。→ [详见子条目](../../../../哲学/学派/后结构主义/雅克/README.md) / How Foucault's power/knowledge theory fundamentally shaped narrative practice's critical understanding of therapeutic relationships, diagnosis, and "normalization."
 
-5. **定义式仪式 / Definitional Ceremony**：通过外部见证者的参与，仪式性地确认和强化个人身份转变的社群治疗实践。→ [详见子条目](concepts/definitional-ceremony.md) / A community therapeutic practice that ritually confirms and strengthens personal identity transitions through the participation of outsider witnesses.
+5. **定义式仪式 / Definitional Ceremony**：通过外部见证者的参与，仪式性地确认和强化个人身份转变的社群治疗实践。→ [详见子条目](概念/定义式仪式.md) / A community therapeutic practice that ritually confirms and strengthens personal identity transitions through the participation of outsider witnesses.
 
 6. **独特结果 / Unique Outcomes**：不符合问题主导叙事的例外时刻和经验片段，是发展替代故事的入口 / Moments of exception and fragments of experience that do not fit the problem-dominated narrative; entry points for developing alternative stories.
 
@@ -220,15 +231,15 @@ Zhuangzi's *Qi Wu Lun* ("Equalization of Things") deconstructs all fixed judgmen
 
 | 关联方向 / Connection | 思想家/领域 / Thinker/Field | 关系 / Relationship |
 |:---|:---|:---|
-| 叙事疗法联合创始人 / Co-founder of Narrative Therapy | [艾普斯顿 David Epston](../epston/README.md) | 跨塔斯曼海的三十年合作 / Trans-Tasman collaboration spanning three decades |
-| 权力/知识分析 / Power/Knowledge Analysis | [福柯 Michel Foucault](../../../哲学/学派/后结构主义/foucault/README.md) | 叙事实践的核心理论资源 / Core theoretical resource for narrative practice |
-| 叙事心理学 / Narrative Psychology | [布鲁纳 Jerome Bruner](../../developmental/bruner/README.md) | 叙事隐喻的心理学基础 / Psychological foundation for the narrative metaphor |
-| 叙事人类学 / Narrative Anthropology | [迈尔霍夫 Barbara Myerhoff](../../anthropology/myerhoff/README.md) | 定义式仪式和"说知"概念的人类学来源 / Anthropological source for definitional ceremony and "re-membering" |
-| 合作对话实践 / Collaborative Dialogic Practice | [安德森 Harlene Anderson](../collaborative-therapy/anderson/README.md) | "不知"治疗立场的共同发展 / Co-development of the "not-knowing" therapeutic position |
-| 社会建构论 / Social Constructionism | [格尔根 Kenneth Gergen](../../social-psychology/gergen/README.md) | 叙事实践的建构主义哲学根基 / Constructionist philosophical foundation for narrative practice |
-| 焦点解决短期治疗 / Solution-Focused Brief Therapy | [德·夏泽 Steve de Shazer](../solution-focused/de-shazer/README.md) | 后现代治疗运动的平行发展 / Parallel development within the postmodern therapy movement |
-| 框架分析 / Frame Analysis | [戈夫曼 Erving Goffman](../../social-psychology/goffman/README.md) | 叙事框架与社会互动的分析 / Analysis of narrative frames and social interaction |
-| 人本主义治疗 / Humanistic Therapy | [罗杰斯 Carl Rogers](../humanistic/rogers/README.md) | 非专家立场的人本主义传承 / Humanistic lineage of the not-knowing position |
+| 叙事疗法联合创始人 / Co-founder of Narrative Therapy | [艾普斯顿 David Epston](../../../../README.md) | 跨塔斯曼海的三十年合作 / Trans-Tasman collaboration spanning three decades |
+| 权力/知识分析 / Power/Knowledge Analysis | [福柯 Michel Foucault](../../../../README.md) | 叙事实践的核心理论资源 / Core theoretical resource for narrative practice |
+| 叙事心理学 / Narrative Psychology | [布鲁纳 Jerome Bruner](../../../../README.md) | 叙事隐喻的心理学基础 / Psychological foundation for the narrative metaphor |
+| 叙事人类学 / Narrative Anthropology | [迈尔霍夫 Barbara Myerhoff](../../../../README.md) | 定义式仪式和"说知"概念的人类学来源 / Anthropological source for definitional ceremony and "re-membering" |
+| 合作对话实践 / Collaborative Dialogic Practice | [安德森 Harlene Anderson](../../../../README.md) | "不知"治疗立场的共同发展 / Co-development of the "not-knowing" therapeutic position |
+| 社会建构论 / Social Constructionism | [格尔根 Kenneth Gergen](../../../../README.md) | 叙事实践的建构主义哲学根基 / Constructionist philosophical foundation for narrative practice |
+| 焦点解决短期治疗 / Solution-Focused Brief Therapy | [德·夏泽 Steve de Shazer](../../../../README.md) | 后现代治疗运动的平行发展 / Parallel development within the postmodern therapy movement |
+| 框架分析 / Frame Analysis | [戈夫曼 Erving Goffman](../../../../README.md) | 叙事框架与社会互动的分析 / Analysis of narrative frames and social interaction |
+| 人本主义治疗 / Humanistic Therapy | [罗杰斯 Carl Rogers](../../人本主义/卡尔/README.md) | 非专家立场的人本主义传承 / Humanistic lineage of the not-knowing position |
 | 叙事医学 / Narrative Medicine | 丽塔·卡伦 Rita Charon | 共享对患者故事和意义的关注 / Shared attention to patients' stories and meanings |
 
 ## 进阶阅读 / Further Reading
@@ -259,11 +270,11 @@ Zhuangzi's *Qi Wu Lun* ("Equalization of Things") deconstructs all fixed judgmen
 
 | 子条目 / Sub-entry | 主题 / Topic | 路径 / Path |
 |:---|:---|:---|
-| 叙事疗法 / Narrative Therapy | 叙事隐喻与治疗框架 / The narrative metaphor and therapeutic framework | [concepts/narrative-therapy.md](concepts/narrative-therapy.md) |
-| 外化 / Externalization | 将问题与人分离的核心技术 / The core technique of separating the problem from the person | [concepts/externalization.md](concepts/externalization.md) |
-| 重写 / Re-authoring | 发展替代叙事的治疗过程 / The therapeutic process of developing alternative narratives | [concepts/re-authoring.md](concepts/re-authoring.md) |
-| 后结构主义 / Post-structuralism | 福柯权力分析与叙事实践的哲学根基 / Foucault's power analysis and the philosophical foundations of narrative practice | [concepts/post-structuralism.md](concepts/post-structuralism.md) |
-| 定义式仪式 / Definitional Ceremony | 社群见证与身份确认 / Community witnessing and identity confirmation | [concepts/definitional-ceremony.md](concepts/definitional-ceremony.md) |
+| 叙事疗法 / Narrative Therapy | 叙事隐喻与治疗框架 / The narrative metaphor and therapeutic framework | [concepts/narrative-therapy.md](README.md) |
+| 外化 / Externalization | 将问题与人分离的核心技术 / The core technique of separating the problem from the person | [concepts/externalization.md](概念/外化.md) |
+| 重写 / Re-authoring | 发展替代叙事的治疗过程 / The therapeutic process of developing alternative narratives | [concepts/re-authoring.md](../../../../伦理政治/README.md) |
+| 后结构主义 / Post-structuralism | 福柯权力分析与叙事实践的哲学根基 / Foucault's power analysis and the philosophical foundations of narrative practice | [concepts/post-structuralism.md](../../../../哲学/学派/后结构主义/雅克/README.md) |
+| 定义式仪式 / Definitional Ceremony | 社群见证与身份确认 / Community witnessing and identity confirmation | [concepts/definitional-ceremony.md](概念/定义式仪式.md) |
 
 ### 附属文件 / Supplementary Files
 - [著作年表 / Works Chronology](著作.md)

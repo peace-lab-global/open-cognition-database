@@ -11,7 +11,7 @@ tags:
   - 非暴力
   - 艺术感染力
   - 历史合力论
-  - 现实主义
+  - realism
   - 道德哲学
 aliases:
   - 列夫·托尔斯泰
@@ -93,7 +93,7 @@ Tolstoy (1828–1910) proposed that true art must sincerely communicate moral fe
 
 ## 六、思想坐标
 
-- **同代**：与[陀思妥耶夫斯基](dostoevsky/README.md)的双峰对峙
+- **同代**：与[陀思妥耶夫斯基](../../../../文学/学派/小说家/费奥多尔/README.md)的双峰对峙
 - **下游**：甘地（非暴力运动）→ 马丁·路德·金
 
 ## 七、当代影响

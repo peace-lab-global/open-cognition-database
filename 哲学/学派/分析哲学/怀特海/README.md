@@ -123,6 +123,6 @@ Alfred North Whitehead (1861–1947) was a British mathematician, logician, and 
 
 ## 十、关联条目
 
-- [罗素 Russell](../russell/README.md) `[合作]` 《数学原理》
-- [柏格森 Bergson](../continental/bergson/README.md) `[批判/吸收]` 过程与绵延
-- [莱布尼茨 Leibniz](../../early-modern/rationalism/leibniz/README.md) `[远承]` 单子论
+- [罗素 Russell](../伯特兰/README.md) `[合作]` 《数学原理》
+- [柏格森 Bergson](../../../../README.md) `[批判/吸收]` 过程与绵延
+- [莱布尼茨 Leibniz](../../理性论/戈特弗里德/README.md) `[远承]` 单子论

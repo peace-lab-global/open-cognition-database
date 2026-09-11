@@ -8,16 +8,16 @@ era: ancient
 birth: 601 BCE
 death: 531 BCE
 tags:
-  - 道家
+  - daoist
   - 道教
   - 无为
   - 自然
   - 道德经
-  - Dao
+  - dao
   - wu-wei
   - ziran
-  - De
-  - Taoism
+  - de
+  - taoism
 aliases:
   - 老聃
   - 李耳
@@ -75,9 +75,9 @@ Laozi is **the first Chinese thinker to systematically interrogate the relations
 
 ### 1. 道为万物本源（Dao as the Origin of All Things）
 
-"道可道，非常道；名可名，非常名。"（第1章）——道是超越言说的宇宙本体和运行规律。道不是一个"东西"（entity），而是使一切东西成为可能的那个"无名"。"有物混成，先天地生"（第25章），道先于天地而存在，是万物之所从出的终极根源。详见 [道 / Dao](concepts/dao-the-way.md)。
+"道可道，非常道；名可名，非常名。"（第1章）——道是超越言说的宇宙本体和运行规律。道不是一个"东西"（entity），而是使一切东西成为可能的那个"无名"。"有物混成，先天地生"（第25章），道先于天地而存在，是万物之所从出的终极根源。详见 [道 / Dao](../../../../佛教/大师/善导/README.md)。
 
-"The Dao that can be told is not the eternal Dao" (Ch. 1) — Dao transcends language and conceptual grasp. It is not an entity but the nameless ground that makes all entities possible. "There was something formless yet complete, that existed before heaven and earth" (Ch. 25). See [Dao / The Way](concepts/dao-the-way.md).
+"The Dao that can be told is not the eternal Dao" (Ch. 1) — Dao transcends language and conceptual grasp. It is not an entity but the nameless ground that makes all entities possible. "There was something formless yet complete, that existed before heaven and earth" (Ch. 25). See [Dao / The Way](../../../../佛教/大师/善导/README.md).
 
 ### 2. 无为而无不为（Wu-wei: Non-action yet Nothing is Left Undone）
 
@@ -87,9 +87,9 @@ Laozi is **the first Chinese thinker to systematically interrogate the relations
 
 ### 3. 反者道之动（Reversal is the Movement of Dao）
 
-"反者道之动，弱者道之用。"（第40章）——道的运动方式是反向的：物极必反，刚强走向毁灭，柔弱走向生机。"天下之至柔，驰骋天下之至坚"（第43章）。这是老子辩证法的核心。详见 [反者道之动 / Reversal](concepts/reversal.md)。
+"反者道之动，弱者道之用。"（第40章）——道的运动方式是反向的：物极必反，刚强走向毁灭，柔弱走向生机。"天下之至柔，驰骋天下之至坚"（第43章）。这是老子辩证法的核心。详见 [反者道之动 / Reversal](../../../../../哲学/学派/东方哲学/老子/概念/反.md)。
 
-"Reversal is the movement of the Dao; weakness is the function of the Dao" (Ch. 40) — Things turn into their opposites at their extremes. The softest thing in the world rides roughshod over the hardest (Ch. 43). This is the core of Laozi's dialectics. See [Reversal](concepts/reversal.md).
+"Reversal is the movement of the Dao; weakness is the function of the Dao" (Ch. 40) — Things turn into their opposites at their extremes. The softest thing in the world rides roughshod over the hardest (Ch. 43). This is the core of Laozi's dialectics. See [Reversal](../../../../../哲学/学派/东方哲学/老子/概念/反.md).
 
 ### 4. 道法自然（Dao Follows Its Own Nature）
 
@@ -142,11 +142,11 @@ The De Jing applies the principles of Dao to human order. The central concept is
 
 | 概念 / Concept | 拼音 / Pinyin | 核心含义 / Core Meaning | 子条目 / Sub-entry |
 |---|---|---|---|
-| **道** | Dào | 万物本源与法则；不可名状、先天地生 | [dao-the-way.md](concepts/dao-the-way.md) |
+| **道** | Dào | 万物本源与法则；不可名状、先天地生 | [dao-the-way.md](../../../../佛教/大师/善导/README.md) |
 | **德** | Dé | 道在万物中的具体显现；万物的本性和能力 | [de-德性.md](concepts/de-德性.md) |
 | **无为** | Wú-wéi | 不强为、不妄为；顺势而行的最高行动哲学 | [无为.md](概念/无为.md) |
 | **自然** | Zìrán | 自己如此；事物的本然状态、最高价值 | [自然.md](概念/自然.md) |
-| **反** | Fǎn | 道的运动方式：物极必反、反向相生 | [reversal.md](concepts/reversal.md) |
+| **反** | Fǎn | 道的运动方式：物极必反、反向相生 | [reversal.md](../../../../../哲学/学派/东方哲学/老子/概念/反.md) |
 
 ## 思想坐标 / Position in Intellectual History
 
@@ -181,10 +181,10 @@ Laozi directly influenced Zhuangzi, who radicalized the tradition into a 哲学 
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [庄子 · Zhuāngzǐ](../../../../../哲学/学派/东方哲学/zhuangzi.md) `[继承/发展]` 将老子之道激进化为逍遥与齐物
+- [庄子 · Zhuāngzǐ](../../../../../哲学/学派/东方哲学/庄子.md) `[继承/发展]` 将老子之道激进化为逍遥与齐物
 - [孔子 · Confucius](../../../../../哲学/学派/东方哲学/孔子.md) `[对立/对话]` 自然与礼乐、无为与有为的永恒张力
-- [海德格尔 · Heidegger](../../../../哲学/学派/存在主义/海德格尔/) `[平行]` 存在追问与技术批判；"让存在"（Gelassenheit）与无为
-- [赫拉克利特 · Heraclitus](../../../../哲学/学派/古希腊/) `[平行]` "万物皆流"与老子辩证法；"逻各斯"与"道"的比较
+- [海德格尔 · Heidegger](../../../../../哲学/学派/存在主义/海德格尔) `[平行]` 存在追问与技术批判；"让存在"（Gelassenheit）与无为
+- [赫拉克利特 · Heraclitus](../../../../../哲学/学派/古希腊) `[平行]` "万物皆流"与老子辩证法；"逻各斯"与"道"的比较
 - [释迦牟尼 · Buddha](../../../buddhism/) `[平行]` 轴心时代的东西方精神突破；缘起与道生万物的比较
 
 ## 东西方对话 / East-West Dialogue
@@ -228,11 +228,11 @@ Laozi directly influenced Zhuangzi, who radicalized the tradition into a 哲学 
 
 | 子条目 / Sub-entry | 内容 / Content |
 |---|---|
-| [道 / Dao](concepts/dao-the-way.md) | 万物本源与法则——不可名状、先天地生 |
+| [道 / Dao](../../../../佛教/大师/善导/README.md) | 万物本源与法则——不可名状、先天地生 |
 | [无为 / Wu-wei](概念/无为.md) | 不强为、不妄为——最高效的行动哲学 |
 | [自然 / Ziran](概念/自然.md) | 自己如此——事物的本然状态与最高价值 |
 | [德 / De-Virtue](concepts/de-德性.md) | 道在万物中的具体显现——万物的本性与能力 |
-| [反 / Reversal](concepts/reversal.md) | 反者道之动——道的运动方式与辩证法核心 |
+| [反 / Reversal](../../../../../哲学/学派/东方哲学/老子/概念/反.md) | 反者道之动——道的运动方式与辩证法核心 |
 | [著作与版本](著作.md) | 《道德经》版本流变与重要注疏 |
 | [年表](时间线.md) | 老子其人其书的思想年表 |
 | [进阶阅读](阅读.md) | 系统阅读指南 |

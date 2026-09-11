@@ -4,7 +4,17 @@ title: "法华至上 Lotus Supremacy: 智顗的《法华经》至上论与开权
 type: concept
 parent: 宗教.buddhism.master.zhiyi
 domain: 宗教
-tags: [法华经, Lotus Sutra, 开权显实, 会三归一, One Vehicle, 一佛乘, 方便, 法华至上, Saddharmapundarika, Tiantai]
+tags:
+  - 法华经
+  - lotus-sutra
+  - 开权显实
+  - 会三归一
+  - one-vehicle
+  - 一佛乘
+  - 方便
+  - 法华至上
+  - saddharmapundarika
+  - tiantai
 ---
 
 # 法华至上 Lotus Supremacy / Supremacy of the Lotus Sutra

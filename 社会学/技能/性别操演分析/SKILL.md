@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[朱迪斯·巴特勒](../../学派/性别研究/butler.md)
+- 来源思想家：[朱迪斯·巴特勒](../../学派/性别研究/巴特勒.md)
 - 来源概念：[性别操演](../../concepts/gender-performativity.md)、[表演性](../../concepts/performativity.md)
 - 关键文献：《性别麻烦》、《身体之重》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[朱迪斯·巴特勒](../../学派/性别研究/butler.md)
+- 思想家：[朱迪斯·巴特勒](../../学派/性别研究/巴特勒.md)
 - 概念：[性别操演](../../concepts/gender-performativity.md)、[表演性](../../concepts/performativity.md)
 - 相关 Skill：[discipline-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[social-fact-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)
