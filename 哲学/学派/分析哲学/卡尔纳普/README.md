@@ -158,8 +158,8 @@ Yogacara's "dependent nature" (paratantra-svabhava) describes the causal network
 
 - [维特根斯坦 Wittgenstein](../维特根斯坦/README.md) `[同源/kindred]` 语言批判的两种路线
 - [波普尔 Popper](../波普尔/README.md) `[张力/tension]` 可确认性 vs 证伪主义
-- [量论 · Pramana](../../../../宗教/佛教/概念/cognitive-theory/量论.md) `[对照/contrast]` 有效认知的判准
-- [二谛 · Satyadvaya](../../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` 框架内外的双层
+- [量论 · Pramana](../../../../宗教/佛教/概念/认知理论/量论.md) `[对照/contrast]` 有效认知的判准
+- [二谛 · Satyadvaya](../../../../宗教/佛教/概念/认知理论/二谛.md) `[平行/parallel]` 框架内外的双层
 
 ## 进阶阅读 / Further Reading
 

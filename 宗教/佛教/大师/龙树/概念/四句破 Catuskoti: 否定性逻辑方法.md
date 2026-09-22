@@ -128,9 +128,9 @@ The tetralemma had precedents before Nagarjuna. In the Digha Nikaya, the Buddha 
 ## 相关概念 / Related Concepts
 
 - [空性 Sunyata](sunyata-emptiness.md) — 四句破论证的核心结论 / The core conclusion demonstrated by the tetralemma
-- [中道 Madhyamaka](../../../概念/foundational/中道 Middle Way.md) — 四句破的方法论目标 / The methodological goal of the tetralemma
-- [二谛 Dve Satye](../../../概念/cognitive-theory/二谛.md) — 四句破运作的认识论框架 / The epistemological framework in which the tetralemma operates
-- [缘起 Pratityasamutpada](../../../概念/foundational/缘起 Dependent Origination.md) — 四句破之后的正面表达 / The positive expression after the tetralemma
+- [中道 Madhyamaka](../../../概念/基础概念/中道 Middle Way.md) — 四句破的方法论目标 / The methodological goal of the tetralemma
+- [二谛 Dve Satye](../../../概念/认知理论/二谛.md) — 四句破运作的认识论框架 / The epistemological framework in which the tetralemma operates
+- [缘起 Pratityasamutpada](../../../概念/基础概念/缘起 Dependent Origination.md) — 四句破之后的正面表达 / The positive expression after the tetralemma
 - [龙树 Nagarjuna](../README.md) — 返回思想家 / Return to thinker
 
 ---

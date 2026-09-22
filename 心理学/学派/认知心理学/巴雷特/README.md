@@ -252,7 +252,7 @@ children:
 - [达马西奥 · Damasio](../达玛西奥/README.md) — **[对话与分歧]** 躯体标记假说 (Somatic Marker Hypothesis) 与身体预算的对话; Damasio 更接近基本情绪论
 - [詹姆斯 · William James](../../功能主义/威廉-william-james/README.md) — **[继承与批判]** "情绪是对身体变化的感知"是先驱, 但 James 仍预设了固定的情绪类型
 - [Ekman](../ekman.md) — **[对立]** 基本情绪论 (Basic Emotions) vs 构造情绪论 (Constructed Emotion) 的核心对手
-- [阿毗达磨心识论 · Abhidharma Mind](../../../../宗教/佛教/概念/cognitive-theory/阿毗达磨心识论.md) — **[平行]** 心所组合 = 情绪的构造论
+- [阿毗达磨心识论 · Abhidharma Mind](../../../../宗教/佛教/概念/认知理论/阿毗达磨心识论.md) — **[平行]** 心所组合 = 情绪的构造论
 - [梅洛-庞蒂 · Merleau-Ponty](../../../../哲学/学派/现象学/梅洛庞蒂/README.md) — **[哲学呼应]** 身体主体性 (bodily subjectivity) 与具身建构主义
 
 ## 进阶阅读 / Further Reading

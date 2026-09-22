@@ -2,7 +2,7 @@
 name: qiwu-analysis
 description: Triggers on requests to 齐物论、相对主义、超越对立，如哲学争论、价值判断、认知偏差等。Apply this skill to help users transcend binary thinking and see the equality of opposites.
 domain: 哲学
-linked_thinker: ../../../宗教/传统/道教/masters/庄子.md
+linked_thinker: ../../../宗教/传统/道教/大师/庄子.md
 linked_concepts:
   - ../../宗教/传统/道教/齐物.md
 tags:
@@ -34,7 +34,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[庄子](../../../宗教/传统/道教/masters/庄子.md)
+- 来源思想家：[庄子](../../../宗教/传统/道教/大师/庄子.md)
 - 来源概念：[齐物论](../../学派/东方哲学/庄子/概念/齐物.md)
 - 关键文献：《庄子·齐物论》
 
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[庄子](../../../宗教/传统/道教/masters/庄子.md)
+- 思想家：[庄子](../../../宗教/传统/道教/大师/庄子.md)
 - 概念：[齐物论](../../学派/东方哲学/庄子/概念/齐物.md)
 - 相关 Skill：[dialectical-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[socratic-questioning](../../../宗教/佛教/技能/从前五识/SKILL.md)

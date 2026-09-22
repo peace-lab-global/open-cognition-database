@@ -43,7 +43,7 @@ sources: [世亲《阿毗达磨俱舍论》（玄奘译）, 《俱舍论颂》�
 | **无为法** | 不生灭 | 3 | 虚空无为、择灭无为、非择灭无为 |
 | **合计** | | **75** | |
 
-> 此体系后来被唯识学派扩展为**百法明门**（→ [百法明门](../concepts/foundational/hundred-dharmas.md)）。
+> 此体系后来被唯识学派扩展为**百法明门**（→ [百法明门](../concepts/基础概念/hundred-dharmas.md)）。
 
 ### 2. 三世实有 vs 现在有体
 
@@ -101,13 +101,13 @@ sources: [世亲《阿毗达磨俱舍论》（玄奘译）, 《俱舍论颂》�
 ## 与相关概念的关系
 
 - [五位七十五法](../schools/kosa.md) — [同源] 俱舍宗核心法相体系
-- [百法明门](../concepts/foundational/hundred-dharmas.md) — [发展] 唯识扩展版（75→100）
-- [无著·世亲](../masters/asanga-vasubandhu.md) — [同源] 作者传记
-- [缘起](../概念/foundational/缘起 Dependent Origination.md) — [同源] 四缘六因是缘起的精密化
-- [五蕴](../概念/foundational/五蕴 Five Aggregates.md) — [同源] 五位法是五蕴的扩展分类
-- [如来藏](../概念/foundational/如来藏 Tathāgatagarbha.md) — [张力] 俱舍无我 vs 如来藏真我
+- [百法明门](../concepts/基础概念/hundred-dharmas.md) — [发展] 唯识扩展版（75→100）
+- [无著·世亲](../大师/asanga-vasubandhu.md) — [同源] 作者传记
+- [缘起](../概念/基础概念/缘起 Dependent Origination.md) — [同源] 四缘六因是缘起的精密化
+- [五蕴](../概念/基础概念/五蕴 Five Aggregates.md) — [同源] 五位法是五蕴的扩展分类
+- [如来藏](../概念/基础概念/如来藏 Tathāgatagarbha.md) — [张力] 俱舍无我 vs 如来藏真我
 - [大乘起信论](awakening-of-faith.md) — [对立] 俱舍分析性 vs 起信论综合性
-- [唯识学派](../概念/foundational/唯识 Vijñaptimātratā.md) — [继承] 唯识直接继承俱舍方法论
+- [唯识学派](../概念/基础概念/唯识 Vijñaptimātratā.md) — [继承] 唯识直接继承俱舍方法论
 - [解深密经](sandhinirmocana.md) — [互补] 唯识经典与阿毗达磨方法论
 
 ## 应用场景
@@ -150,8 +150,8 @@ sources: [世亲《阿毗达磨俱舍论》（玄奘译）, 《俱舍论颂》�
 
 ## 关联 Skills
 
-- [论典结构分析](../../智慧大师/skills/临济棒喝当下/SKILL.md)
-- [圣典诠释学](../../智慧大师/skills/临济棒喝当下/SKILL.md)
+- [论典结构分析](../../智慧大师/技能/临济棒喝当下/SKILL.md)
+- [圣典诠释学](../../智慧大师/技能/临济棒喝当下/SKILL.md)
 
 ## 文化回响
 

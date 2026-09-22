@@ -41,8 +41,8 @@ children: [concepts/being-time-uji, concepts/shikantaza, concepts/buddha-nature-
 
 ## 核心命题 / Core Propositions
 
-1. **只管打坐 Shikantaza**：坐禅本身就是佛行，不是成佛手段。这是道元最具革命性的主张——彻底否定了修行的工具性逻辑。详见 [只管打坐](../../../智慧大师/skills/道元只管打坐/SKILL.md)。
-   Sitting itself is Buddha-activity, not a means to becoming Buddha. This is Dōgen's most revolutionary claim — a thorough rejection of instrumentalist logic in spiritual practice. See [Shikantaza](../../../智慧大师/skills/道元只管打坐/SKILL.md).
+1. **只管打坐 Shikantaza**：坐禅本身就是佛行，不是成佛手段。这是道元最具革命性的主张——彻底否定了修行的工具性逻辑。详见 [只管打坐](../../../智慧大师/技能/道元只管打坐/SKILL.md)。
+   Sitting itself is Buddha-activity, not a means to becoming Buddha. This is Dōgen's most revolutionary claim — a thorough rejection of instrumentalist logic in spiritual practice. See [Shikantaza](../../../智慧大师/技能/道元只管打坐/SKILL.md).
 
 2. **修证一等 Practice-Enlightenment Identity**：修行与证悟是一件事，不是两件事。不存在"先修后证"的时间结构，因为每一刻的修行本身就是证悟的完整表现。详见 [修证一等](../../../技能/公案参究法/SKILL.md)。
    Practice and realization are one thing, not two. There is no temporal structure of "first practice, then realization," because each moment of practice is itself the complete expression of realization. See [Practice-Enlightenment](../../../技能/公案参究法/SKILL.md).
@@ -104,7 +104,7 @@ The decade at Eihei-ji was Dōgen's most philosophically productive period. He c
 
 ## 重要概念 / Key Concepts
 
-- **只管打坐 Shikantaza** — 坐禅即佛行，不以求悟为目的。详见 [只管打坐](../../../智慧大师/skills/道元只管打坐/SKILL.md)。
+- **只管打坐 Shikantaza** — 坐禅即佛行，不以求悟为目的。详见 [只管打坐](../../../智慧大师/技能/道元只管打坐/SKILL.md)。
   Sitting itself is Buddha-activity, with no goal of attaining enlightenment.
 
 - **修证一等 Practice-Enlightenment Identity** — 修行与证悟不可分割。详见 [修证一等](../../../技能/公案参究法/SKILL.md)。
@@ -244,7 +244,7 @@ Quite the opposite — Dōgen is one of the most linguistically creative thinker
 | 条目 / Entry | 路径 / Path |
 |---|---|
 | 有时 Uji | [concepts/being-time-uji](概念/有时 Uji (Being-Time).md).md).md).md) |
-| 只管打坐 Shikantaza | [concepts/shikantaza](../../../智慧大师/skills/道元只管打坐/SKILL.md) |
+| 只管打坐 Shikantaza | [concepts/shikantaza](../../../智慧大师/技能/道元只管打坐/SKILL.md) |
 | 佛性 Busho (Dōgen) | [concepts/buddha-nature-dogen](../乔达摩/README.md) |
 | 无常佛性 | [concepts/impermanence-buddha-nature](概念/无常佛性 Mujō-Bushō (Impermanence-Buddha-Nature).md).md).md).md) |
 | 修证一等 | [concepts/practice-enlightenment](../../../技能/公案参究法/SKILL.md) |

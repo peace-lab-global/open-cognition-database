@@ -64,8 +64,8 @@ sources: [昙无谶译《大般涅槃经》40 卷（北本）, 慧观等改治�
 
 ## 与相关概念的关系
 
-- [佛性](../概念/foundational/佛性 Buddha Nature.md) — [同源] 核心主题
-- [如来藏](../概念/foundational/如来藏 Tathāgatagarbha.md) — [同源] 如来藏系统
+- [佛性](../概念/基础概念/佛性 Buddha Nature.md) — [同源] 核心主题
+- [如来藏](../概念/基础概念/如来藏 Tathāgatagarbha.md) — [同源] 如来藏系统
 - [涅槃](../大师/乔达摩/概念/涅槃.md) — [发展] 从灰身灭智到常乐我净
 - [涅槃宗](../schools/niepan.md) — [同源] 以此经立宗
 - [法华经](lotus.md) — [互补] 一乘思想与佛性论

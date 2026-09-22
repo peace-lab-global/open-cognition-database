@@ -21,7 +21,7 @@ git clone https://github.com/peace-lab-global/open-cognition.git
 cd open-cognition
 
 # 安装 git hooks（一次性）
-./scripts/setup-hooks.sh
+./_meta/scripts/setup-hooks.sh
 # 效果：
 #   - 每次 commit 自动重建并暂存 index.json
 #   - 拒绝提交过期的 index.json
@@ -34,11 +34,11 @@ pip install pyyaml
 
 | 命令 | 用途 |
 |------|------|
-| `python3 scripts/lint.py` | 全库条目质量检查 |
-| `python3 scripts/lint.py path/to/file.md` | 单文件检查 |
-| `python3 scripts/lint.py --json` | CI 友好 JSON 输出 |
-| `python3 scripts/build-index.py` | 重建 index.json |
-| `python3 scripts/build-index.py --check` | 检查 index.json 新鲜度（CI 用） |
+| `python3 _meta/scripts/lint.py` | 全库条目质量检查 |
+| `python3 _meta/scripts/lint.py path/to/file.md` | 单文件检查 |
+| `python3 _meta/scripts/lint.py --json` | CI 友好 JSON 输出 |
+| `python3 _meta/scripts/build-index.py` | 重建 index.json |
+| `python3 _meta/scripts/build-index.py --check` | 检查 index.json 新鲜度（CI 用） |
 
 ---
 
@@ -66,7 +66,7 @@ pip install pyyaml
 6. 在 [INDEX.md](INDEX.md) 对应位置增加链接（如 INDEX.md 仍手工维护）
 7. **本地自检**：
    ```bash
-   python3 scripts/lint.py --strict path/to/your/file.md
+   python3 _meta/scripts/lint.py --strict path/to/your/file.md
    ```
 8. 提交 PR（使用 [.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md)）
 
@@ -117,7 +117,7 @@ tags: [<标签>]
 ---
 ```
 
-校验脚本：`python3 scripts/lint.py path/to/file.md`
+校验脚本：`python3 _meta/scripts/lint.py path/to/file.md`
 
 ---
 
@@ -128,7 +128,7 @@ tags: [<标签>]
 - **概念**：`concepts/<概念英文小写连字符>.md`
   - 例：`辩证法.md` `cultural-capital.md` `五蕴的认知读法.md`
 - **Skill**：`<领域>-frameworks/<skill-id>/SKILL.md`
-  - 例：`psychology/skills/cbt-cognitive-distortion/SKILL.md`
+  - 例：`psychology/技能/cbt-cognitive-distortion/SKILL.md`
 
 ---
 

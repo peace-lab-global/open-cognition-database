@@ -190,7 +190,7 @@ Contemporary Buddhist scholars offer balanced and pluralistic assessments:
 ## 相关概念 / Related Concepts
 
 - [真谛](../README.md) — 真谛系唯识的创立者 / Founder of the Paramārtha Yogācāra lineage
-- [九识说](../../../概念/standalone/八识体系.md) — 两系最显著的教义分歧 / The most conspicuous doctrinal divergence
+- [九识说](../../../概念/独立概念/八识体系.md) — 两系最显著的教义分歧 / The most conspicuous doctrinal divergence
 - [阿黎耶识](alaya-paramartha.md) — 阿黎耶 vs 阿赖耶 / Ālīyé vs. Ālàyé
 - [解性黎耶](觉性.md) — 一性皆成的理论基础 / Theoretical basis for universal Buddhahood
 - [摄论宗](shelun-school.md) — 真谛系的历史传承 / Historical lineage of the Paramārtha system

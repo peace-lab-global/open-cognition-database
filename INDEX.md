@@ -33,13 +33,13 @@
 - 基督教：[恩典与救赎 (Grace and Redemption)](宗教/传统/基督教/恩典与救赎.md) · [基督教神秘主义 (Christian Mysticism)](宗教/传统/基督教/基督教神秘主义.md)
 - 伊斯兰：[五功 (Five Pillars of Islam)](宗教/传统/伊斯兰教/五功.md) · [苏菲主义 (Sufism / Taṣawwuf)](宗教/传统/伊斯兰教/苏菲主义.md)
 - 犹太教：[律法与盟约 (Torah and Covenant)](宗教/传统/犹太教/律法与盟约.md) · [卡巴拉 (Jewish Kabbalah Mysticism)](宗教/传统/犹太教/犹太教卡巴拉神秘主义.md)
-- 道教：[无为 (Wu-wei)](宗教/传统/道教/无为.md) · [老子 (Laozi)](宗教/传统/道教/masters/老子.md) · [庄子 (Zhuangzi)](宗教/传统/道教/masters/庄子.md)
+- 道教：[无为 (Wu-wei)](宗教/传统/道教/无为.md) · [老子 (Laozi)](宗教/传统/道教/大师/老子.md) · [庄子 (Zhuangzi)](宗教/传统/道教/大师/庄子.md)
 - 印度教：[业与轮回 (Karma & Saṃsāra)](宗教/传统/印度教/业与轮回.md)
 - 儒教：[儒教宗教维度 (The Religious Dimension of Confucianism)](宗教/传统/儒教/儒教的宗教维度.md)
 - 神道教：[神道核心教义 (Core Teachings of Shinto)](宗教/传统/神道教/神道教核心教义.md)
 - 锡克教：[锡克教核心教义 (Core Teachings of Sikhism)](宗教/传统/锡克教/锡克教核心教义.md)
 - 跨传统概念：[救赎 (Salvation（跨传统）)](宗教/概念/救赎.md) · [神圣性 (The Sacred（跨传统）)](宗教/概念/神圣性.md) · [仪式 (Ritual)](宗教/概念/仪式.md) · [冥想 (Meditation)](宗教/概念/冥想与默观.md)
-- 佛教认知理论体系：[导览 (Buddhist Cognitive Theory)](宗教/佛教/概念/cognitive-theory/README.md) · [八识体系 (Eight-Consciousness System)](宗教/佛教/概念/cognitive-theory/八识体系.md) · [心物一元 (Mind-World Identity)](宗教/佛教/概念/cognitive-theory/心物一元.md) · [六根六尘六识 (Six Sense Constituents)](宗教/佛教/概念/cognitive-theory/六根六尘六识.md) · [转识成智 (Transformation of Consciousness)](宗教/佛教/概念/cognitive-theory/转识成智.md) · [中观·空](宗教/佛教/概念/cognitive-theory/中观.md) · [七处征心 (Seven Investigations of the Heart-Mind)](宗教/佛教/概念/cognitive-theory/七处征心.md) · [八还辨见 (Eight Returnings to Discern Seeing)](宗教/佛教/概念/cognitive-theory/八还辨见.md) · [金刚经·无相](宗教/佛教/概念/cognitive-theory/金刚经.md)
+- 佛教认知理论体系：[导览 (Buddhist Cognitive Theory)](宗教/佛教/概念/认知理论/README.md) · [八识体系 (Eight-Consciousness System)](宗教/佛教/概念/认知理论/八识体系.md) · [心物一元 (Mind-World Identity)](宗教/佛教/概念/认知理论/心物一元.md) · [六根六尘六识 (Six Sense Constituents)](宗教/佛教/概念/认知理论/六根六尘六识.md) · [转识成智 (Transformation of Consciousness)](宗教/佛教/概念/认知理论/转识成智.md) · [中观·空](宗教/佛教/概念/认知理论/中观.md) · [七处征心 (Seven Investigations of the Heart-Mind)](宗教/佛教/概念/认知理论/七处征心.md) · [八还辨见 (Eight Returnings to Discern Seeing)](宗教/佛教/概念/认知理论/八还辨见.md) · [金刚经·无相](宗教/佛教/概念/认知理论/金刚经.md)
 - 佛教认知理论 Skills：[八识认知诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md) · [心物辨析 (mind-world-analysis)](宗教/佛教/技能/通过四分结构/SKILL.md) · [六根诊断 (six-constituents-diagnosis)](宗教/佛教/技能/认知卡点在根/SKILL.md) · [转识诊断 (consciousness-transformation-diagnosis)](宗教/佛教/技能/转识成智诊断/SKILL.md) · [中观四句破 (madhyamaka-four-fallacies)](宗教/佛教/技能/中观四句破/SKILL.md) · [七处征心解构 (qichu-zhengxin-deconstruction)](宗教/佛教/技能/七处征心/SKILL.md) · [八还辨见 (Eight Returnings to Discern Seeing)](宗教/佛教/技能/八还辨见/SKILL.md) · [金刚经无住 (diamond-sutra-no-dwelling)](宗教/佛教/技能/金刚经/SKILL.md)
 
 ### 社会学 Sociology
@@ -140,10 +140,10 @@
 
 ### 智慧导师 Wisdom Masters
 - [智慧导师领域导览 (Wisdom Masters)](./宗教/智慧大师/README.md)
-- 中国禅：[慧能 · 无住](./宗教/智慧大师/masters/中国/慧能.md) · [临济义玄 · 无事](./宗教/智慧大师/masters/中国/临济义玄.md)
-- 藏传佛教：[米拉日巴 · 觉性](./宗教/智慧大师/masters/西藏/米拉日巴.md)
-- 日本禅：[道元 · 当下圆满](./宗教/智慧大师/masters/日本/道元.md)
-- 入世佛教：[一行禅师 · 正念](./宗教/智慧大师/masters/西方/一行禅师.md)
+- 中国禅：[慧能 · 无住](./宗教/智慧大师/大师/中国/慧能.md) · [临济义玄 · 无事](./宗教/智慧大师/大师/中国/临济义玄.md)
+- 藏传佛教：[米拉日巴 · 觉性](./宗教/智慧大师/大师/西藏/米拉日巴.md)
+- 日本禅：[道元 · 当下圆满](./宗教/智慧大师/大师/日本/道元.md)
+- 入世佛教：[一行禅师 · 正念](./宗教/智慧大师/大师/西方/一行禅师.md)
 
 ### TECH 科技与社会议题
 - [TECH 板块导览 (Tech & Society)](TECH/README.md) — 当下技术变革引发的公共议题研究区，正反观点双向整理并与库内理论条目互链
@@ -330,12 +330,12 @@
 ### 认识与知识 Epistemology
 - 哲学：[康德 · 先验综合](哲学/学派/德国唯心论/康德.md) · [维特根斯坦 · 语言游戏](哲学/学派/分析哲学/维特根斯坦.md)
 - 心理学：[皮亚杰 · 图式](心理学/学派/认知心理学/皮亚杰.md) · [卡尼曼 · 双系统](心理学/学派/行为经济学/丹尼尔.md) · [达玛西奥 · 躯体标记](心理学/学派/认知心理学/达玛西奥.md)
-- 宗教：[佛教认知理论体系 · 八识/心物一元/转识成智](宗教/佛教/概念/cognitive-theory/README.md)
+- 宗教：[佛教认知理论体系 · 八识/心物一元/转识成智](宗教/佛教/概念/认知理论/README.md)
 
 ### 直接认知 Direct Cognition
 - 专题研究：[02-直接认知（心灵能否直抵世界） (Direct Cognition)](研究/02-直接认知/README.md)
 - 哲学：[里德 · 直接实在论](哲学/学派/苏格兰常识学派/托马斯.md) · [邓斯·司各脱 · 直觉认知](哲学/学派/中世纪经院/邓斯.md) · [罗素 · 亲知](哲学/学派/分析哲学/伯特兰.md) · [胡塞尔 · 直接给予](哲学/学派/现象学/胡塞尔.md) · [梅洛-庞蒂 · 身体主体](哲学/学派/现象学/梅洛庞蒂.md)
-- 宗教：[量论 · 现量(直接感知/离分别)](宗教/佛教/概念/cognitive-theory/量论.md)
+- 宗教：[量论 · 现量(直接感知/离分别)](宗教/佛教/概念/认知理论/量论.md)
 - 认知系统：[吉布森 · 直接知觉](认知系统/学派/生态认知/吉布森.md) · [可供性 (Affordance)](认知系统/概念/可供性.md) · [生成认知 (Enaction)](认知系统/概念/生成认知.md) · [预测加工（直接性新争论） (Predictive Processing)](认知系统/概念/预测加工.md)
 
 ### 伦理与德性 Ethics
@@ -403,11 +403,11 @@
 - 宗教：[佛教 · 身念处](宗教/传统/佛教/四圣谛与八正道.md)
 
 ### 觉醒与修行 Awakening & Practice
-- [慧能 · 无住](./宗教/智慧大师/masters/中国/慧能.md) — 中国禅·顿悟
-- [临济义玄 · 无事](./宗教/智慧大师/masters/中国/临济义玄.md) — 中国禅·棒喝
-- [米拉日巴 · 裸见觉性](./宗教/智慧大师/masters/西藏/米拉日巴.md) — 藏传·噶举
-- [道元 · 当下圆满](./宗教/智慧大师/masters/日本/道元.md) — 日本曹洞
-- [一行禅师 · 正念](./宗教/智慧大师/masters/西方/一行禅师.md) — 入世佛教
+- [慧能 · 无住](./宗教/智慧大师/大师/中国/慧能.md) — 中国禅·顿悟
+- [临济义玄 · 无事](./宗教/智慧大师/大师/中国/临济义玄.md) — 中国禅·棒喝
+- [米拉日巴 · 裸见觉性](./宗教/智慧大师/大师/西藏/米拉日巴.md) — 藏传·噶举
+- [道元 · 当下圆满](./宗教/智慧大师/大师/日本/道元.md) — 日本曹洞
+- [一行禅师 · 正念](./宗教/智慧大师/大师/西方/一行禅师.md) — 入世佛教
 
 ### 审美与创造 Aesthetics & Creation
 - 名言：[艺术与真理隔着三层 (Plato)](名言/艺术真实/柏拉图-艺术与真理隔着三层.md) · [生活模仿艺术 (Wilde)](名言/艺术真实/王尔德-生活模仿艺术.md) · [灵韵消逝 (Benjamin)](名言/艺术真实/本雅明-灵韵消逝.md)
@@ -460,7 +460,7 @@
 - 认知系统：[有限理性 (Bounded Rationality)](认知系统/概念/有限理性.md) · [分布式认知 (Distributed Cognition)](认知系统/概念/分布式认知.md) · [预测加工 (Predictive Processing)](认知系统/概念/预测加工.md)
 - 心理学：[卡尼曼 · 双系统](心理学/学派/行为经济学/丹尼尔.md) · [皮亚杰 · 建构主义](心理学/学派/认知心理学/皮亚杰.md)
 - 哲学：[维特根斯坦 · 语言游戏](哲学/学派/分析哲学/维特根斯坦.md)
-- 宗教：[佛教八识体系 (Eight Consciousnesses)](宗教/佛教/概念/cognitive-theory/八识体系.md)
+- 宗教：[佛教八识体系 (Eight Consciousnesses)](宗教/佛教/概念/认知理论/八识体系.md)
 
 ### 人-技术耦合 Human-Technology Coupling
 - 认知系统：[延展认知](认知系统/学派/生态认知/克拉克.md) · [联合认知系统 (Joint Cognitive System)](认知系统/概念/联合认知系统.md) · [可供性 (Affordance)](认知系统/概念/可供性.md)
@@ -471,7 +471,7 @@
 - 认知系统：[韧性工程 (Resilience Engineering)](认知系统/概念/韧性工程.md) · [人为错误](认知系统/学派/认知工程/拉斯穆森.md) · [意义建构 (Sensemaking)](认知系统/概念/意义建构.md)
 - 社会学：[贝克 · 风险社会](社会学/学派/现代性/贝克.md) · [鲍曼 · 流动现代性](社会学/学派/现代性/鲍曼.md)
 - 心理学：[创伤 (Trauma)](心理学/概念/创伤.md) · [范德科尔克 · 身体从未忘记](心理学/学派/创伤心理学/贝塞尔.md)
-- 宗教：[佛教转识成智 (Six Sense Constituents)](宗教/佛教/概念/cognitive-theory/六根六尘六识.md)
+- 宗教：[佛教转识成智 (Six Sense Constituents)](宗教/佛教/概念/认知理论/六根六尘六识.md)
 
 ### 安全与风险管理 Safety & Risk Management
 - 认知系统：[安全范式 (Safety-I vs Safety-II Paradigm)](认知系统/概念/安全范式.md) · [漂移失败 (Drift into Failure)](认知系统/概念/漂移失败.md) · [韧性工程 (Resilience Engineering)](认知系统/概念/韧性工程.md) · [安全文化 (Safety Culture & Just Culture)](认知系统/概念/安全文化与公正文化.md)
@@ -607,17 +607,17 @@
 - [人因可靠性分析 (Human Reliability Analysis (HRA))](./认知系统/技能/人因可靠性分析/SKILL.md) — THERP/CREAM/SPAR-H 人误概率评估
 
 ### 智慧导师框架 Wisdom Masters Frameworks
-- [慧能无住心法 (hui-neng-no-dwelling)](./宗教/智慧大师/skills/慧能无住心法/SKILL.md) — 执念辨别与无住引导
-- [慧能顿悟检验 (hui-neng-sudden-awakening)](./宗教/智慧大师/skills/慧能顿悟检验/SKILL.md) — 打破"必须先修才能悟"
-- [慧能平常心引导 (hui-neng-ordinary-mind)](./宗教/智慧大师/skills/慧能平常心引/SKILL.md) — 放下特殊化，回归日常
-- [临济无事贵人 (linji-no-thing)](./宗教/智慧大师/skills/寻求外部确认/SKILL.md) — 当头棒喝"莫觅"
-- [临济棒喝当下 (linji-pointer-blow)](./宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 打破思维，直指体验
-- [米拉日巴裸见觉性 (milarepa-naked-awareness)](./宗教/智慧大师/skills/米拉日巴裸见/SKILL.md) — 情绪当下认出觉性
-- [米拉日巴苦行炼金 (milarepa-alchemy)](./宗教/智慧大师/skills/米拉日巴苦行/SKILL.md) — 苦难转化为道用
-- [道元只管打坐 (dogen-shikantaza)](./宗教/智慧大师/skills/道元只管打坐/SKILL.md) — 从追求切换到存在
-- [道元当下圆满 (dogen-presence)](./宗教/智慧大师/skills/道元当下圆满/SKILL.md) — 此时此地已完整
-- [一行正念呼吸 (thich-nhat-hanh-mindful-breathing)](./宗教/智慧大师/skills/一行正念呼吸/SKILL.md) — 呼吸锚定回到当下
-- [一行慈悲拥抱 (thich-nhat-hanh-compassion)](./宗教/智慧大师/skills/一行慈悲拥抱/SKILL.md) — 转化愤怒为慈悲
+- [慧能无住心法 (hui-neng-no-dwelling)](./宗教/智慧大师/技能/慧能无住心法/SKILL.md) — 执念辨别与无住引导
+- [慧能顿悟检验 (hui-neng-sudden-awakening)](./宗教/智慧大师/技能/慧能顿悟检验/SKILL.md) — 打破"必须先修才能悟"
+- [慧能平常心引导 (hui-neng-ordinary-mind)](./宗教/智慧大师/技能/慧能平常心引/SKILL.md) — 放下特殊化，回归日常
+- [临济无事贵人 (linji-no-thing)](./宗教/智慧大师/技能/寻求外部确认/SKILL.md) — 当头棒喝"莫觅"
+- [临济棒喝当下 (linji-pointer-blow)](./宗教/智慧大师/技能/临济棒喝当下/SKILL.md) — 打破思维，直指体验
+- [米拉日巴裸见觉性 (milarepa-naked-awareness)](./宗教/智慧大师/技能/米拉日巴裸见/SKILL.md) — 情绪当下认出觉性
+- [米拉日巴苦行炼金 (milarepa-alchemy)](./宗教/智慧大师/技能/米拉日巴苦行/SKILL.md) — 苦难转化为道用
+- [道元只管打坐 (dogen-shikantaza)](./宗教/智慧大师/技能/道元只管打坐/SKILL.md) — 从追求切换到存在
+- [道元当下圆满 (dogen-presence)](./宗教/智慧大师/技能/道元当下圆满/SKILL.md) — 此时此地已完整
+- [一行正念呼吸 (thich-nhat-hanh-mindful-breathing)](./宗教/智慧大师/技能/一行正念呼吸/SKILL.md) — 呼吸锚定回到当下
+- [一行慈悲拥抱 (thich-nhat-hanh-compassion)](./宗教/智慧大师/技能/一行慈悲拥抱/SKILL.md) — 转化愤怒为慈悲
 
 更多说明见 [宗教/智慧大师/README.md (Wisdom Masters)](./宗教/智慧大师/README.md)。
 

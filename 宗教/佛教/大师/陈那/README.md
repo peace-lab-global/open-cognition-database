@@ -72,7 +72,7 @@ children: ["concepts/only-two-pramanas", "concepts/trairupya", "concepts/apoha-e
 
 **Perception grasps particulars (svalaksana) — unique, unrepeatable, non-conceptual features. Inference grasps universals (samanyalaksana) — constructed, repeatable, conceptual categories. There is a fundamental discontinuity between these two cognitive modes.**
 
-详见 [自相与共相](../../概念/foundational/判教 Doctrinal Classification.md)。
+详见 [自相与共相](../../概念/基础概念/判教 Doctrinal Classification.md)。
 
 ### 5. 集量论体系 Pramanasamuccaya System
 
@@ -260,7 +260,7 @@ children: ["concepts/only-two-pramanas", "concepts/trairupya", "concepts/apoha-e
 - [唯二量 Only Two Pramanas](概念/唯二量.md) — 认识来源的简化与重构
 - [因三相 Trairupya](概念/因三相.md) — 有效推理的三个条件
 - [遮诠论 Apoha](概念/遮诠论.md) — 排除性意义理论
-- [自相与共相 Svalaksana & Samanyalaksana](../../概念/foundational/判教 Doctrinal Classification.md) — 认知对象的根本分野
+- [自相与共相 Svalaksana & Samanyalaksana](../../概念/基础概念/判教 Doctrinal Classification.md) — 认知对象的根本分野
 - [集量论 Pramanasamuccaya](概念/集量论.md) — 佛教认识论的奠基之作
 - [著作目录](著作.md) — 完整著作列表与考证
 - [年表](时间线.md) — 生平与历史语境

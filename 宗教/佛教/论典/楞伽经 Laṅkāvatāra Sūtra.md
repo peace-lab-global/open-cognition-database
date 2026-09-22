@@ -73,10 +73,10 @@ sources: [求那跋陀罗译《楞伽阿跋多罗宝经》4 卷, 菩提流支译
 
 ## 与相关概念的关系
 
-- [如来藏](../概念/foundational/如来藏 Tathāgatagarbha.md) — [同源] 核心主题之一
-- [唯识](../概念/foundational/唯识 Vijñaptimātratā.md) — [同源] 八识/三自性
+- [如来藏](../概念/基础概念/如来藏 Tathāgatagarbha.md) — [同源] 核心主题之一
+- [唯识](../概念/基础概念/唯识 Vijñaptimātratā.md) — [同源] 八识/三自性
 - [禅宗](../schools/chan.md) — [同源] 印心经典
-- [菩提达摩](../masters/bodhidharma.md) — [同源] 传法依据
+- [菩提达摩](../大师/bodhidharma.md) — [同源] 传法依据
 - [起信论](awakening-of-faith.md) — [互补] 如来藏与唯识融合的另一路径
 - [成唯识论](cheng-weishi-lun.md) — [互补] 唯识系统的另一表达
 

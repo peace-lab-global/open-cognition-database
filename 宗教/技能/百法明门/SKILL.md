@@ -3,10 +3,10 @@ name: hundred-dharmas-analysis
 description: Triggers when a user needs to classify and analyze any mental, cognitive, or psychological phenomenon using the Yogācāra Hundred Dharmas (百法明门) framework. Guides a six-step process of sorting a phenomenon into the five categories (心法/心所法/色法/心不相应行法/无为法) and performing a diagnostic mapping of its psychological structure.
 domain: 宗教
 linked_concepts:
-  - ../../buddhism/concepts/foundational/hundred-dharmas.md
-  - ../../buddhism/concepts/foundational/五蕴 Five Aggregates.md
-  - ../../buddhism/concepts/foundational/eighteen-dhatu.md
-  - ../../buddhism/concepts/foundational/two-obstacles.md
+  - ../../buddhism/concepts/基础概念/hundred-dharmas.md
+  - ../../buddhism/concepts/基础概念/五蕴 Five Aggregates.md
+  - ../../buddhism/concepts/基础概念/eighteen-dhatu.md
+  - ../../buddhism/concepts/基础概念/two-obstacles.md
   - ../../buddhism/treatises/cheng-weishi-lun.md
   - ../../buddhism/唯识 Vijñaptimātratā.md
 tags:
@@ -40,10 +40,10 @@ tags:
 
 ## 理论基础
 
-- **百法五位**：天亲（世亲）《百法明门论》将一切法分为五大类 100 种 → [百法明门](../../buddhism/concepts/foundational/hundred-dharmas.md)
+- **百法五位**：天亲（世亲）《百法明门论》将一切法分为五大类 100 种 → [百法明门](../../buddhism/concepts/基础概念/hundred-dharmas.md)
 - **八识体系**：前五识 + 第六意识 + 第七末那识 + 第八阿赖耶识 → [成唯识论](../../buddhism/treatises/cheng-weishi-lun.md)
 - **三性**：遍计所执 / 依他起 / 圆成实——判断现象的认知层次
-- **二障**：烦恼障（人我执）/ 所知障（法我执）→ [二障](../../buddhism/concepts/foundational/two-obstacles.md)
+- **二障**：烦恼障（人我执）/ 所知障（法我执）→ [二障](../../buddhism/concepts/基础概念/two-obstacles.md)
 - **心所与心相应**：51 心所与八识的相应关系是诊断的关键
 
 ## 操作流程
@@ -176,8 +176,8 @@ tags:
 
 ## 关联条目
 
-- 概念：[百法明门](../../buddhism/concepts/foundational/hundred-dharmas.md)、[五蕴](../../佛教/概念/foundational/五蕴 Five Aggregates.md)、[十八界](../../buddhism/concepts/foundational/eighteen-dhatu.md)、[二障](../../buddhism/concepts/foundational/two-obstacles.md)
+- 概念：[百法明门](../../buddhism/concepts/基础概念/hundred-dharmas.md)、[五蕴](../../佛教/概念/基础概念/五蕴 Five Aggregates.md)、[十八界](../../buddhism/concepts/基础概念/eighteen-dhatu.md)、[二障](../../buddhism/concepts/基础概念/two-obstacles.md)
 - 论典：[成唯识论](../../buddhism/treatises/cheng-weishi-lun.md)
-- 宗派：[法相唯识宗](../../佛教/概念/foundational/唯识 Vijñaptimātratā.md)
-- 高僧：[世亲](../../buddhism/masters/vasubandhu.md)、[窥基](../../佛教/大师/窥基.md)
+- 宗派：[法相唯识宗](../../佛教/概念/基础概念/唯识 Vijñaptimātratā.md)
+- 高僧：[世亲](../../buddhism/大师/vasubandhu.md)、[窥基](../../佛教/大师/窥基.md)
 - 相关 Skill：[论典结构分析](../../佛教/技能/从前五识/SKILL.md)

@@ -71,7 +71,7 @@ sources: [道元《正法眼藏》, 《永平清规》, 《普劝坐禅仪》, �
 - [禅宗](禅宗.md) — [下位] 曹洞宗是禅宗的分支
 - [临济宗](rinzai.md) — [互补] 禅宗两大传统
 - [道元](../大师/道元.md) — [同源] 日本曹洞宗创立者
-- [止观](../concepts/foundational/samatha-vipasyana.md) — [同源] 默照禅的止观结构
+- [止观](../concepts/基础概念/samatha-vipasyana.md) — [同源] 默照禅的止观结构
 
 ## 常见误读
 

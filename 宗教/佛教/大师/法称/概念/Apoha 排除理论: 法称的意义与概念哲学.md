@@ -103,7 +103,7 @@ Apoha 理论揭示了概念认识的建构性本质——我们以为在直接�
 
 ## 参见 / See Also
 
-- [自相与共相](../../../概念/foundational/判教 Doctrinal Classification.md)
+- [自相与共相](../../../概念/基础概念/判教 Doctrinal Classification.md)
 - [二量](two-valid-cognitions.md)
 - [因三相](triple-character-reason.md)
 - [法称](../README.md)

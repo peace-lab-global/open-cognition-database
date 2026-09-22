@@ -3,8 +3,8 @@ name: buddhism-taoism-dialogue
 description: Triggers on requests to 佛教-道教对话、宗教比较、东方哲学，如跨宗教理解、灵性探索、哲学思考等。Apply this skill to facilitate dialogue between Buddhism and Taoism, finding common ground and differences.
 domain: 宗教
 linked_thinker: 
-  - ../../wisdom-masters/masters/thailand/buddhadasa.md
-  - ../../传统/道教/masters/老子.md
+  - ../../智慧大师/大师/thailand/buddhadasa.md
+  - ../../传统/道教/大师/老子.md
 linked_concepts:
   - ../../宗教/概念/dependent-origination.md
   - ../../traditions/taoism/无为.md
@@ -37,7 +37,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[佛使比丘](../../wisdom-masters/masters/thailand/buddhadasa.md)、[老子](../../传统/道教/masters/老子.md)
+- 来源思想家：[佛使比丘](../../智慧大师/大师/thailand/buddhadasa.md)、[老子](../../传统/道教/大师/老子.md)
 - 来源概念：[缘起法](../../concepts/dependent-origination.md)、[无为](../../传统/道教/无为.md)
 - 关键文献：《缘起法》、《道德经》
 
@@ -101,6 +101,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[佛使比丘](../../wisdom-masters/masters/thailand/buddhadasa.md)、[老子](../../传统/道教/masters/老子.md)
+- 思想家：[佛使比丘](../../智慧大师/大师/thailand/buddhadasa.md)、[老子](../../传统/道教/大师/老子.md)
 - 概念：[缘起法](../../concepts/dependent-origination.md)、[无为](../../传统/道教/无为.md)
 - 相关 Skill：[dependent-origination-analysis](../../佛教/技能/从前五识/SKILL.md)、[wuwei-guidance](../../佛教/技能/从前五识/SKILL.md)

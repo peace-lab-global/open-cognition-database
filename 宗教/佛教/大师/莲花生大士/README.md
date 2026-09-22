@@ -338,7 +338,7 @@ Padmasambhava (c. 720-800 CE) was an 8th-century master from Uddiyana (modern Sw
 
 - **上师瑜伽 (Guru Yoga) 的认知传承**: 通过弟子与上师的直接认知连接，将非二元觉知的体验"传递"而非"教授"——这是一种体验性认知传承 (experiential transmission)，不同于概念性知识传递。
 
-**认知遗产 / Cognitive Legacy**: 莲花生的非二元觉知训练是当代意识研究中"非二元意识" (non-dual consciousness) 讨论的重要历史来源。其对 rigpa/sem 的区分可与 [荣格](../../../../心理学/学派/分析心理学/卡尔.md) 对超越功能 (transcendent function) 的探讨对话，也可与当代神经科学中"默认模式网络" (Default Mode Network) 的去激活研究相互印证。详见 [八识体系](../../概念/cognitive-theory/八识体系.md)、[转识成智](../../概念/cognitive-theory/转识成智.md)。
+**认知遗产 / Cognitive Legacy**: 莲花生的非二元觉知训练是当代意识研究中"非二元意识" (non-dual consciousness) 讨论的重要历史来源。其对 rigpa/sem 的区分可与 [荣格](../../../../心理学/学派/分析心理学/卡尔.md) 对超越功能 (transcendent function) 的探讨对话，也可与当代神经科学中"默认模式网络" (Default Mode Network) 的去激活研究相互印证。详见 [八识体系](../../概念/认知理论/八识体系.md)、[转识成智](../../概念/认知理论/转识成智.md)。
 
 ---
 

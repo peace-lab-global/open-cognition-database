@@ -3,9 +3,9 @@ name: twelve-links-contemplation
 description: Triggers when a user reports feeling trapped in recurring life patterns, fatalistic thinking, or wants to meditate on the chain of causation. Apply this skill to guide the user through a contemplative reverse-visualization of the twelve links of dependent origination, turning abstract 哲学 into an experiential practice of finding freedom within the chain.
 domain: 宗教
 linked_concepts:
-  - ../../buddhism/concepts/foundational/缘起 Dependent Origination.md
-  - ../../buddhism/concepts/foundational/karma-rebirth.md
-  - ../../buddhism/concepts/foundational/noble-eightfold-path.md
+  - ../../buddhism/concepts/基础概念/缘起 Dependent Origination.md
+  - ../../buddhism/concepts/基础概念/karma-rebirth.md
+  - ../../buddhism/concepts/基础概念/noble-eightfold-path.md
 tags:
   - pratītyasamutpāda
   - causation
@@ -37,7 +37,7 @@ tags:
 
 ## 理论基础
 
-- **来源概念**：[缘起](../../佛教/概念/foundational/缘起 Dependent Origination.md)、[业与轮回](../../buddhism/concepts/foundational/karma-rebirth.md)
+- **来源概念**：[缘起](../../佛教/概念/基础概念/缘起 Dependent Origination.md)、[业与轮回](../../buddhism/concepts/基础概念/karma-rebirth.md)
 - **关键文献**：《阿含经·缘起经》；觉音《清净道论·说缘起品》；Buddhadasa《Dependent Origination》
 - **现代心理等价**：强迫性重复（弗洛伊德）、CBT 的认知-情绪-行为链条、家庭系统理论
 
@@ -164,9 +164,9 @@ Step 6 日常锚定
 
 ## 关联条目
 
-- [缘起](../../佛教/概念/foundational/缘起 Dependent Origination.md)
-- [业与轮回](../../buddhism/concepts/foundational/karma-rebirth.md)
-- [八正道](../../buddhism/concepts/foundational/noble-eightfold-path.md)
+- [缘起](../../佛教/概念/基础概念/缘起 Dependent Origination.md)
+- [业与轮回](../../buddhism/concepts/基础概念/karma-rebirth.md)
+- [八正道](../../buddhism/concepts/基础概念/noble-eightfold-path.md)
 - [慈心冥想](../../佛教/技能/从前五识/SKILL.md)（用于软化触发）
 - [四圣谛框架](../../佛教/技能/从前五识/SKILL.md)（处理苦的结构）
 - [缘起分析](../../佛教/技能/从前五识/SKILL.md)（哲学版）

@@ -80,8 +80,8 @@ sources: [《立正安国论》, 《开目钞》, 《观心本尊钞》, 《法�
 
 - [法华经](../treatises/lotus.md) — [同源] 日莲宗的唯一正法经典
 - [天台宗](天台.md) — [继承] 日莲宗继承天台法华思想但更加激进
-- [判教](../concepts/foundational/doctrinal-classification.md) — [同源] 五纲判教是日莲版的判教体系
-- [佛性](../概念/foundational/佛性 Buddha Nature.md) — [同源] 法华经"一切众生皆可成佛"
+- [判教](../concepts/基础概念/doctrinal-classification.md) — [同源] 五纲判教是日莲版的判教体系
+- [佛性](../概念/基础概念/佛性 Buddha Nature.md) — [同源] 法华经"一切众生皆可成佛"
 
 ## 常见误读
 

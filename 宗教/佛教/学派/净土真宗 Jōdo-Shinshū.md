@@ -73,9 +73,9 @@ sources: [亲鸾《教行信证》, 《叹异抄》, 觉如《改邪钞》]
 ## 与相关概念的关系
 
 - [净土宗](pure-land.md) — [发展] 净土真宗是净土宗的极端发展
-- [善导](../masters/shandao.md) — [继承] 中国净土宗→法然→亲鸾
-- [佛性](../概念/foundational/佛性 Buddha Nature.md) — [互补] 恶人正机与一切众生悉有佛性
-- [菩萨道](../概念/foundational/菩萨道 Bodhisattva Path.md) — [张力] 他力与菩萨自力修行的张力
+- [善导](../大师/shandao.md) — [继承] 中国净土宗→法然→亲鸾
+- [佛性](../概念/基础概念/佛性 Buddha Nature.md) — [互补] 恶人正机与一切众生悉有佛性
+- [菩萨道](../概念/基础概念/菩萨道 Bodhisattva Path.md) — [张力] 他力与菩萨自力修行的张力
 
 ## 常见误读
 

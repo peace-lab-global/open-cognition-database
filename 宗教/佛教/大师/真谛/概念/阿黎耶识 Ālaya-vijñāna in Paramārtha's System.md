@@ -144,7 +144,7 @@ Contemporary scholars offer varied assessments:
 
 ## 相关概念 / Related Concepts
 
-- [九识说](../../../概念/standalone/八识体系.md) — 阿黎耶识净化后成为阿摩罗识 / Ālaya purified becomes amala-vijñāna
+- [九识说](../../../概念/独立概念/八识体系.md) — 阿黎耶识净化后成为阿摩罗识 / Ālaya purified becomes amala-vijñāna
 - [解性黎耶](觉性.md) — 阿黎耶识中的觉悟之性 / Awakening-nature within the ālaya
 - [真谛vs玄奘系唯识](paramartha-vs-xuanzang.md) — 阿黎耶 vs 阿赖耶的完整比较 / Full comparison of ālaya interpretations
 - [如来藏](../../concepts/tathagata-garbha.md) — 与阿黎耶识"不一不异" / "Neither identical nor different" from ālaya

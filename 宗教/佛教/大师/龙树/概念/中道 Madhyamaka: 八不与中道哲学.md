@@ -117,9 +117,9 @@ Aristotle's golden mean (mesotes) is the "appropriate point" between two extreme
 ## 相关概念 / Related Concepts
 
 - [空性 Sunyata](sunyata-emptiness.md) — 中道的理论基础 / Theoretical basis of the Middle Way
-- [二谛 Dve Satye](../../../概念/cognitive-theory/二谛.md) — 中道的认识论框架 / Epistemological framework of the Middle Way
+- [二谛 Dve Satye](../../../概念/认知理论/二谛.md) — 中道的认识论框架 / Epistemological framework of the Middle Way
 - [四句破 Catuskoti](catuskoti-tetralemma.md) — 中道的逻辑方法 / Logical method of the Middle Way
-- [缘起 Pratityasamutpada](../../../概念/foundational/缘起 Dependent Origination.md) — 中道的正面表达 / Positive expression of the Middle Way
+- [缘起 Pratityasamutpada](../../../概念/基础概念/缘起 Dependent Origination.md) — 中道的正面表达 / Positive expression of the Middle Way
 - [龙树 Nagarjuna](../README.md) — 返回思想家 / Return to thinker
 
 ---

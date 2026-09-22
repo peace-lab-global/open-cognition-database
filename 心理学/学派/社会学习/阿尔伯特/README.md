@@ -14,7 +14,7 @@ concepts:
   - modeling
   - reciprocal-determinism
 tags:
-  - social-cognitive-theory
+  - social-认知理论
   - 社会认知理论
   - 自我效能感
   - 观察学习

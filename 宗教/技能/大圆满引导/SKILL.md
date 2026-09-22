@@ -2,7 +2,7 @@
 name: dzogchen-guidance
 description: Triggers on requests to 大圆满、心性认识、直接解脱，如禅修指导、心灵成长、宗教实践等。Apply this skill to guide users in the practice of Dzogchen, recognizing the innate purity and perfection of mind.
 domain: 宗教
-linked_thinker: ../../wisdom-masters/masters/tibet/padmasambhava.md
+linked_thinker: ../../智慧大师/大师/tibet/padmasambhava.md
 linked_concepts:
   - ../../宗教/概念/dzogchen.md
 tags:
@@ -34,7 +34,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[莲花生大士](../../wisdom-masters/masters/tibet/padmasambhava.md)
+- 来源思想家：[莲花生大士](../../智慧大师/大师/tibet/padmasambhava.md)
 - 来源概念：[大圆满](../../concepts/dzogchen.md)
 - 关键文献：《大圆满前行引导文》、《莲花生大士传》
 
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[莲花生大士](../../wisdom-masters/masters/tibet/padmasambhava.md)
+- 思想家：[莲花生大士](../../智慧大师/大师/tibet/padmasambhava.md)
 - 概念：[大圆满](../../concepts/dzogchen.md)
 - 相关 Skill：[lamrim-stages](../../佛教/技能/从前五识/SKILL.md)、[forest-meditation-guidance](../../佛教/技能/从前五识/SKILL.md)

@@ -30,19 +30,6 @@ except ImportError:
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 
-# Legacy skill directories (kept for backwards compatibility; current skills live
-# under each domain's 技能/ folder and are picked up by scan_entries).
-SKILLS_DIR = REPO_ROOT / "skills"
-BUDDHISM_SKILLS_DIR = (
-    REPO_ROOT
-    / "domains"
-    / "religion"
-    / "buddhism"
-    / "concepts"
-    / "cognitive-theory"
-    / "skills"
-)
-
 SKIP_FILENAMES = {"README.md", "INDEX.md", "QUICKSTART.md", "SKILLS.md", "AGENT.md"}
 
 _DOMAIN_DIR_NAMES = [
@@ -83,7 +70,7 @@ def classify_entry(path: Path) -> str | None:
     """Determine entry type: thinker / concept / skill / list / None."""
     rel = path.relative_to(REPO_ROOT).as_posix()
     # Reports/audit files are not entries — skip them.
-    if "/reports/" in rel or "/审计/" in rel or "/内容审计/" in rel:
+    if "/reports/" in rel or "/研究报告/" in rel or "/审计/" in rel or "/内容审计/" in rel:
         return None
 
     # Prefer explicit type declared in frontmatter.
@@ -170,10 +157,10 @@ def namespace_duplicate_ids(entries: list[dict]) -> list[dict]:
 
 
 def scan_skills() -> list[dict]:
-    """Extract Skills from each domain's 技能/ tree (plus legacy roots)."""
+    """Extract Skills from each domain's 技能/ tree."""
     skills = []
     seen: set[str] = set()
-    base_dirs = [d for d in _DOMAIN_DIRS] + [SKILLS_DIR, BUDDHISM_SKILLS_DIR]
+    base_dirs = list(_DOMAIN_DIRS)
     for base_dir in base_dirs:
         if not base_dir.exists():
             continue

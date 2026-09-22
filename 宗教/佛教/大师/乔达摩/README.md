@@ -220,9 +220,9 @@ Gautama's analysis of mental processes — especially the five-aggregate model, 
 
 ### 认知科学 / Cognitive Science
 
-五蕴分析——将"自我"解构为五个动态的心理-物理过程——与当代认知科学中"自我不是实体而是过程"的共识高度一致。安东尼奥·达马西奥（Antonio Damasio）的"自传性自我"（autobiographical self）理论、托马斯·梅青格尔（Thomas Metzinger）的"自我模型"（self-model）理论、安迪·克拉克（Andy Clark）的预测加工（predictive processing）框架都可以与五蕴分析形成富有成效的对话。佛教认知理论（[cognitive-theory](../../概念/cognitive-theory/README.md)）专题对此有深入探讨。
+五蕴分析——将"自我"解构为五个动态的心理-物理过程——与当代认知科学中"自我不是实体而是过程"的共识高度一致。安东尼奥·达马西奥（Antonio Damasio）的"自传性自我"（autobiographical self）理论、托马斯·梅青格尔（Thomas Metzinger）的"自我模型"（self-model）理论、安迪·克拉克（Andy Clark）的预测加工（predictive processing）框架都可以与五蕴分析形成富有成效的对话。佛教认知理论（[认知理论](../../概念/认知理论/README.md)）专题对此有深入探讨。
 
-The five-aggregate analysis — deconstructing the "self" into five dynamic psycho-physical processes — aligns closely with the contemporary cognitive-scientific consensus that "the self is not an entity but a process." Antonio Damasio's "autobiographical self" theory, Thomas Metzinger's "self-model" theory, and Andy Clark's predictive processing framework can all engage in productive dialogue with the five-aggregate analysis. The Buddhist cognitive theory ([cognitive-theory](../../概念/cognitive-theory/README.md)) project explores these connections in depth.
+The five-aggregate analysis — deconstructing the "self" into five dynamic psycho-physical processes — aligns closely with the contemporary cognitive-scientific consensus that "the self is not an entity but a process." Antonio Damasio's "autobiographical self" theory, Thomas Metzinger's "self-model" theory, and Andy Clark's predictive processing framework can all engage in productive dialogue with the five-aggregate analysis. The Buddhist cognitive theory ([认知理论](../../概念/认知理论/README.md)) project explores these connections in depth.
 
 ### 伦理学与社会哲学 / Ethics and Social Philosophy
 
@@ -331,7 +331,7 @@ Gautama's four foundations of mindfulness (satipaṭṭhāna) — systematic awa
 | 现象学 | [胡塞尔 · Edmund Husserl](../../../../哲学/学派/现象学/胡塞尔/README.md) | 平行 | 四念处↔现象学还原 |
 | 心理学 | [弗洛伊德 · Sigmund Freud](../../../../心理学/学派/精神分析/西格蒙德/README.md) | 平行 | 无意识驱力↔渴爱（taṇhā）分析 |
 | 认知科学 | [达马西奥 · Antonio Damasio] | 呼应 | 躯体自我↔五蕴分析 |
-| 佛教认知理论 | [cognitive-theory](../../概念/cognitive-theory/README.md) | 互补 | 心识分析与认知理论 |
+| 佛教认知理论 | [认知理论](../../概念/认知理论/README.md) | 互补 | 心识分析与认知理论 |
 
 ---
 

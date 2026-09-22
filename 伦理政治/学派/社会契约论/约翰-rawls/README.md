@@ -265,7 +265,7 @@ Meaningful dialogue exists between Rawls's political liberalism and East Asian i
 ### 哲学 / Philosophy
 - [康德 Kant](../../道义论/康德/README.md) `[继承/inherits]` — 自律、人是目的、定言命令的正义论转化
 - [洛克 Locke](../约翰/README.md) `[对话/dialogue]` — 社会契约论传统的现代重构
-- [诺齐克 Nozick](../../自由至上主义/nozick/README.md) `[对立/opposes]` — 持有正义 vs 分配正义的根本分歧
+- [诺齐克 Nozick](../../自由至上主义/罗伯特/README.md) `[对立/opposes]` — 持有正义 vs 分配正义的根本分歧
 - [哈贝马斯 Habermas] `[对话/dialogue]` — 审议民主与公共理性
 
 ### 经济学 / Economics

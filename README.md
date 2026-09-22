@@ -8,7 +8,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-v0.9%20buddhist--academy--deep-blue.svg)](#)
 [![Domains](https://img.shields.io/badge/domains-9-orange.svg)](#内容总览)
-[![Entries](https://img.shields.io/badge/entries-1027%20thinkers%20%7C%201392%20concepts%20%7C%20137%20skills-brightgreen.svg)](#内容总览)
+[![Entries](https://img.shields.io/badge/entries-989%20thinkers%20%7C%201392%20concepts%20%7C%20149%20skills-brightgreen.svg)](#内容总览)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ```
 10 个领域 × N 思想家/条目 + 概念条目 + Skills + 专题深化
-= 1027 思想家条目 · 1392 概念条目 · 137 Skills · 共 2670 条被索引条目（以 index.json 为准）
+= 989 思想家条目 · 1392 概念条目 · 149 Skills · 共 2650 条被索引条目（以 index.json 为准）
 ```
 
 ### 九大领域
@@ -37,15 +37,15 @@
 
 | 领域 | 思想家 | 概念 | Skills | 入口 |
 |---|:---:|:---:|:---:|---|
-| **哲学** Philosophy | 280 | 251 | 19 | [哲学 (Philosophy)](哲学/README.md) |
-| **宗教** Religion | 66 | 377 | 50 | [宗教 (Religion)](宗教/README.md) · [佛教认知专题 ↓](#佛教认知理论体系旗舰专题) |
-| **社会学** Sociology | 92 | 94 | 15 | [社会学 (Sociology)](社会学/README.md) |
+| **哲学** Philosophy | 276 | 251 | 19 | [哲学 (Philosophy)](哲学/README.md) |
+| **宗教** Religion | 60 | 377 | 50 | [宗教 (Religion)](宗教/README.md) · [佛教认知专题 ↓](#佛教认知理论体系旗舰专题) |
+| **社会学** Sociology | 89 | 94 | 15 | [社会学 (Sociology)](社会学/README.md) |
 | **心理学** Psychology | 166 | 208 | 16 | [心理学 (Psychology)](心理学/README.md) |
 | **伦理与政治哲学** Ethics & Politics | 68 | 103 | 10 | [伦理政治 (Ethics & Political Philosophy)](伦理政治/README.md) |
-| **美学** Aesthetics | 104 | 105 | 3 | [美学 (Aesthetics)](美学/README.md) |
+| **美学** Aesthetics | 100 | 105 | 8 | [美学 (Aesthetics)](美学/README.md) |
 | **文学** Literature | 57 | 79 | 5 | [文学 (Literature)](文学/README.md) |
-| **艺术** Arts | 48 | 134 | 3 | [艺术 (Arts)](艺术/README.md) |
-| **认知系统工程** Cognitive Systems Engineering | 146 | 41 | 16 | [认知系统 (Cognitive Systems Engineering)](认知系统/README.md) |
+| **艺术** Arts | 48 | 134 | 8 | [艺术 (Arts)](艺术/README.md) |
+| **认知系统工程** Cognitive Systems Engineering | 125 | 41 | 16 | [认知系统 (Cognitive Systems Engineering)](认知系统/README.md) |
 
 > **宗教领域 377 概念**含佛教认知理论专章与经典独立深度条目（详见下文专题）。**50 个 Skill** 含 15 个佛教认知专项 Skill + 3 个佛教冥想实践 Skill + 7 个佛学院方法论 Skill。另有「清单」领域 99 张跨人物素材清单、「TECH」板块（[科技与社会议题](TECH/README.md)，AI 复活已故名人等公共争议的正反观点分析）未计入上表。
 
@@ -55,7 +55,7 @@
 
 ## 🌟 佛教认知理论体系（旗舰专题）
 
-在 `religion/buddhism/concepts/cognitive-theory/` 下，本仓库对**佛教的认知科学与认识论资源**做了目前全库最深的专题化整理：
+在 `宗教/佛教/概念/认知理论/` 下，本仓库对**佛教的认知科学与认识论资源**做了目前全库最深的专题化整理：
 
 ### 内容结构
 
@@ -83,9 +83,9 @@
 
 ### 入口导航
 
-- **总入口**：[`religion/buddhism/INDEX.md`](宗教/佛教/INDEX.md) 第 5 层
-- **认知理论目录**：[`concepts/cognitive-theory/README.md`](宗教/佛教/概念/cognitive-theory/README.md)（含 9 主题认知地图表）
-- **代表概念**：[量论 (Pramāṇa (Buddhist Epistemology))](宗教/佛教/概念/cognitive-theory/量论.md) · [三性 (Trisvabhāva (Three Natures))](宗教/佛教/概念/cognitive-theory/三性.md) · [转识成智 (Transformation of Consciousness)](宗教/佛教/概念/cognitive-theory/转识成智.md) · [公案机制 (Kōan and Huàtóu Cognitive Mechanics)](宗教/佛教/概念/cognitive-theory/公案与话头的认知机制.md)
+- **总入口**：[`宗教/佛教/INDEX.md`](宗教/佛教/INDEX.md) 第 5 层
+- **认知理论目录**：[`概念/认知理论/README.md`](宗教/佛教/概念/认知理论/README.md)（含 9 主题认知地图表）
+- **代表概念**：[量论 (Pramāṇa (Buddhist Epistemology))](宗教/佛教/概念/认知理论/量论.md) · [三性 (Trisvabhāva (Three Natures))](宗教/佛教/概念/认知理论/三性.md) · [转识成智 (Transformation of Consciousness)](宗教/佛教/概念/认知理论/转识成智.md) · [公案机制 (Kōan and Huàtóu Cognitive Mechanics)](宗教/佛教/概念/认知理论/公案与话头的认知机制.md)
 - **代表 Skill**：[八识诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md) · [三性诊断 (three-natures-diagnosis)](宗教/佛教/技能/以唯识三性/SKILL.md) · [缘起链追溯 (dependent-origination-tracing)](宗教/佛教/技能/定位关键断点/SKILL.md) · [五蕴解构 (five-aggregates-deconstruction)](宗教/佛教/技能/以五蕴/SKILL.md)
 
 ### 与当代对话的接口
@@ -111,7 +111,9 @@ open-cognition/
 ├── INDEX.md                    # 全库双视角索引（领域 + 主题 + Skills）
 ├── TAGS.md                     # 统一标签词典与关联类型
 ├── CONTRIBUTING.md             # 贡献指南
-├── index.json                  # 机器可读索引
+├── index.json                  # 机器可读索引（_meta/scripts/build-index.py 生成）
+├── _config.yml · _includes/    # GitHub Pages（Jekyll）配置与主题片段
+├── 404.html                    # Pages 404 页
 │
 ├── 哲学/                 # 哲学（学派/ · 概念/ · 技能/）
 │   ├── README.md
@@ -126,7 +128,7 @@ open-cognition/
 │   ├── 智慧大师/              # 高僧心法（操作化蒸馏）
 │   └── 佛教/                  # 佛教认知理论专题（旗舰）
 │       ├── INDEX.md · README.md
-│       ├── 概念/（cognitive-theory/ 等）
+│       ├── 概念/（认知理论/ 等）
 │       ├── 学派/ · 大师/ · 经典/ · 论典/
 │       └── 技能/（15 佛教认知专项 Skill）
 ├── 社会学/                  # 社会学
@@ -137,18 +139,28 @@ open-cognition/
 ├── 艺术/                       # 艺术
 ├── 认知系统/          # 认知系统工程
 │
-├── 清单/                  # 没用的清单 · 跨人物冷知识素材库（94 张 · 1225 条）
+├── 清单/                  # 没用的清单 · 跨人物冷知识素材库（99 张）
+├── 研究/                       # 研究课题
+├── TECH/                       # 科技与社会议题（公共争议正反观点分析）
+├── 名言/                       # 名言库（61 主题）
+├── 索引/                       # 深度索引（build-deep-index.py 生成）
+│
+├── mcp/                        # MCP server（只读查询层）
+├── eval/                       # 检索与调用质量评测
+├── GTM/                        # Pages 在线页
 │
 ├── _meta/                      # 元数据与配套
 │   ├── quality-criteria.md     # 质量标准
 │   ├── taxonomy.md             # 分类法
 │   ├── sources.md              # 引用源
 │   ├── templates/              # 思想家/概念/学派/Skill 模板
+│   ├── scripts/                # 索引构建 / lint / 导航检查工具
+│   ├── archive/                # 一次性重命名脚本与历史产物归档
 │   ├── logo/                   # 项目 Logo 与品牌资产
 │   ├── visual/                 # 可视化与信息图
 │   └── reports/                # 阶段执行报告与审计
 │
-└── .github/                    # GitHub 配置
+└── .github/                    # GitHub 配置（CI workflow）
 ```
 
 ---
@@ -165,7 +177,7 @@ open-cognition/
 
 固定结构：一句话定义 / 历史脉络 / 核心要义 / 通俗 vs 学术 / 与相关概念关系 / 代表思想家 / 应用场景 / 常见误读 / 跨学科关联 / 进阶阅读。
 
-例：[心流 Flow](心理学/概念/心流.md) · [文化资本 (Cultural Capital)](社会学/概念/文化资本.md) · [神圣性 (The Sacred（跨传统）)](宗教/概念/神圣性.md) · [量论 (Pramāṇa (Buddhist Epistemology))](宗教/佛教/概念/cognitive-theory/量论.md)
+例：[心流 Flow](心理学/概念/心流.md) · [文化资本 (Cultural Capital)](社会学/概念/文化资本.md) · [神圣性 (The Sacred（跨传统）)](宗教/概念/神圣性.md) · [量论 (Pramāṇa (Buddhist Epistemology))](宗教/佛教/概念/认知理论/量论.md)
 
 ### 3. Skill
 
@@ -192,7 +204,7 @@ agent 可执行的操作框架，含 YAML frontmatter + 一句话功能 + 何时
 ---
 name: <skill-id>
 description: <一句话功能>
-domain: <philosophy|religion|sociology|psychology|...>
+domain: <哲学|宗教|社会学|心理学|伦理政治|美学|文学|艺术|认知系统|清单>
 linked_concepts: [相关概念相对路径...]
 tags: [...]
 ---

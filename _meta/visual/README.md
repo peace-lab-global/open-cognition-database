@@ -46,6 +46,6 @@ visual/
 | `infographic-hesse.html` | 赫尔曼·黑塞专题 |
 | `infographic-skills-matrix.html` | Skills 能力矩阵 |
 | `infographic-timeline.html` | 思想家时间线 |
-| `infographic-wisdom-masters.html` | 智慧大师专题 |
+| `infographic-智慧大师.html` | 智慧大师专题 |
 | `notion-infographic-full-project.html` | 全项目 Notion 信息图 |
 | `notion-infographic-open-cognition.html` | Open Cognition Notion 信息图 |

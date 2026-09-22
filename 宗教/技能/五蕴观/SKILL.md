@@ -3,9 +3,9 @@ name: five-aggregates-contemplation
 description: Triggers when a user reports identity crisis, self-fixation, "who am I" questioning, ego-related suffering, or asks for Buddhist insight meditation. Apply this skill to deconstruct the sense of a solid self through the five-aggregates contemplation (rūpa-vedanā-saṃjñā-saṃskāra-vijñāna), reducing self-clinging and self-related suffering.
 domain: 宗教
 linked_concepts:
-  - ../../buddhism/concepts/foundational/五蕴 Five Aggregates.md
-  - ../../buddhism/concepts/foundational/三法印 Three Marks of Existence.md
-  - ../../buddhism/concepts/foundational/noble-eightfold-path.md
+  - ../../buddhism/concepts/基础概念/五蕴 Five Aggregates.md
+  - ../../buddhism/concepts/基础概念/三法印 Three Marks of Existence.md
+  - ../../buddhism/concepts/基础概念/noble-eightfold-path.md
 tags:
   - anattā
   - self
@@ -38,7 +38,7 @@ tags:
 
 ## 理论基础
 
-- **来源概念**：[五蕴](../../佛教/概念/foundational/五蕴 Five Aggregates.md)
+- **来源概念**：[五蕴](../../佛教/概念/基础概念/五蕴 Five Aggregates.md)
 - **关键文献**：《阿含经·五蕴相应》；觉音《清净道论·蕴品》；Nyanaponika Thera《The Heart of Buddhist Meditation》
 - **现代心理等价**：正念认知疗法 MBCT 的去中心化（decentering）；ACT 的自我即背景
 
@@ -164,8 +164,8 @@ Step 7 五蕴综合
 
 ## 关联条目
 
-- [五蕴](../../佛教/概念/foundational/五蕴 Five Aggregates.md)
-- [三法印 · 无我](../../佛教/概念/foundational/三法印 Three Marks of Existence.md)
-- [八正道 · 正念](../../buddhism/concepts/foundational/noble-eightfold-path.md)
+- [五蕴](../../佛教/概念/基础概念/五蕴 Five Aggregates.md)
+- [三法印 · 无我](../../佛教/概念/基础概念/三法印 Three Marks of Existence.md)
+- [八正道 · 正念](../../buddhism/concepts/基础概念/noble-eightfold-path.md)
 - [慈心冥想](../../佛教/技能/从前五识/SKILL.md)（自我功能弱者先用慈心）
 - [四圣谛框架](../../佛教/技能/从前五识/SKILL.md)（处理苦的根源）

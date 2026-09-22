@@ -178,7 +178,7 @@ The awakening-nature concept remains philosophically and psychologically suggest
 ## 相关概念 / Related Concepts
 
 - [阿黎耶识](alaya-paramartha.md) — 解性黎耶是阿黎耶识的内在结构 / Awakening-nature as the ālaya's inner structure
-- [九识说](../../../概念/standalone/八识体系.md) — 解性黎耶是九识说的理论基础之一 / Awakening-nature as theoretical basis for the nine consciousnesses
+- [九识说](../../../概念/独立概念/八识体系.md) — 解性黎耶是九识说的理论基础之一 / Awakening-nature as theoretical basis for the nine consciousnesses
 - [摄论宗](shelun-school.md) — 解性黎耶是摄论宗的核心教义 / Awakening-nature as core Shèlùn School doctrine
 - [佛性](../../concepts/buddha-nature.md) — 解性黎耶与佛性思想的关系 / Relationship to Buddha-nature thought
 

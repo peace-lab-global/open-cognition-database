@@ -119,4 +119,4 @@ tags:
 - [大日经](../../buddhism/treatises/mahavairocana.md)
 - [宁玛派](../../buddhism/schools/nyingma.md)
 - [大圆满引导](../../README.md)
-- [隆钦巴](../../buddhism/masters/longchenpa.md)
+- [隆钦巴](../../buddhism/大师/longchenpa.md)

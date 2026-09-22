@@ -2,7 +2,7 @@
 name: xiaoyao-guidance
 description: Triggers on requests to 逍遥游、精神自由、超越束缚，如心灵成长、压力管理、人生境界等。Apply this skill to help users achieve spiritual freedom and transcend worldly constraints.
 domain: 宗教
-linked_thinker: ../../traditions/taoism/masters/zhuangzi.md
+linked_thinker: ../../traditions/taoism/大师/zhuangzi.md
 linked_concepts:
   - ../../宗教/传统/道教/逍遥.md
 tags:

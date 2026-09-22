@@ -131,8 +131,8 @@ Nagarjuna's Madhyamaka school adopts "refutation without establishment" — not 
 
 - [卡尔纳普 Carnap](../卡尔纳普.md) `[张力/tension]` 可确认性 vs 证伪主义
 - [维特根斯坦 Wittgenstein](../维特根斯坦/README.md) `[对照/contrast]` 语言批判 vs 方法论批判
-- [量论 · Pramana](../../../../宗教/佛教/概念/cognitive-theory/量论.md) `[对照/contrast]` 有效认知的判准
-- [二谛 · Satyadvaya](../../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` 方法论划分
+- [量论 · Pramana](../../../../宗教/佛教/概念/认知理论/量论.md) `[对照/contrast]` 有效认知的判准
+- [二谛 · Satyadvaya](../../../../宗教/佛教/概念/认知理论/二谛.md) `[平行/parallel]` 方法论划分
 
 ## 进阶阅读 / Further Reading
 

@@ -2,7 +2,7 @@
 name: bodhisattva-path-guidance
 description: Triggers on requests to 菩提道灯、三士道、菩萨道修行，如修行指导、心灵成长、宗教实践等。Apply this skill to guide users through the bodhisattva path as taught by Atiśa, from initial motivation to final enlightenment.
 domain: 宗教
-linked_thinker: ../../wisdom-masters/masters/tibet/atisha.md
+linked_thinker: ../../智慧大师/大师/tibet/atisha.md
 linked_concepts:
   - ../../宗教/概念/bodhicitta.md
   - ../../宗教/概念/three-scope-path.md
@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[阿底峡](../../wisdom-masters/masters/tibet/atisha.md)
+- 来源思想家：[阿底峡](../../智慧大师/大师/tibet/atisha.md)
 - 来源概念：[菩提心](../../concepts/bodhicitta.md)、[三士道](../../concepts/three-scope-path.md)
 - 关键文献：《菩提道灯论》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[阿底峡](../../wisdom-masters/masters/tibet/atisha.md)
+- 思想家：[阿底峡](../../智慧大师/大师/tibet/atisha.md)
 - 概念：[菩提心](../../concepts/bodhicitta.md)、[三士道](../../concepts/three-scope-path.md)
 - 相关 Skill：[lamrim-stages](../../佛教/技能/从前五识/SKILL.md)、[four-noble-truths-framework](../../佛教/技能/从前五识/SKILL.md)

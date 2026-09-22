@@ -67,10 +67,10 @@ sources: [善无畏/一行译《大毗卢遮那成佛神变加持经》7卷, 善
 
 ## 重要概念
 
-- [三身](../concepts/foundational/trikaya.md) [发展] — 大日经将法身佛推至说法者地位，发展了三身理论
-- [菩提心](../concepts/foundational/bodhicitta.md) [密教化] — "菩提心为因"是大日经的修行起点
-- [如来藏](../概念/foundational/如来藏 Tathāgatagarbha.md) [密教化] — 胎藏界即如来藏思想的密教表达
-- [方便](../concepts/foundational/upaya.md) [极致] — "方便为究竟"将善巧方便提升至最高原则
+- [三身](../concepts/基础概念/trikaya.md) [发展] — 大日经将法身佛推至说法者地位，发展了三身理论
+- [菩提心](../concepts/基础概念/bodhicitta.md) [密教化] — "菩提心为因"是大日经的修行起点
+- [如来藏](../概念/基础概念/如来藏 Tathāgatagarbha.md) [密教化] — 胎藏界即如来藏思想的密教表达
+- [方便](../concepts/基础概念/upaya.md) [极致] — "方便为究竟"将善巧方便提升至最高原则
 
 ## 与其他论典的关系
 

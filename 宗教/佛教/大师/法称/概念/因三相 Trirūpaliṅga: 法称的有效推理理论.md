@@ -131,5 +131,5 @@ tags: [trirupalinga, hetu, inference, logic, reason, vyapti, pervasion]
 
 - [二量](two-valid-cognitions.md)
 - [Apoha 排除理论](apoha-theory.md)
-- [自相与共相](../../../概念/foundational/判教 Doctrinal Classification.md)
+- [自相与共相](../../../概念/基础概念/判教 Doctrinal Classification.md)
 - [法称](../README.md)

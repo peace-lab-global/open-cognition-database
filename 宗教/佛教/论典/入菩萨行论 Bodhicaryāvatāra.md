@@ -57,10 +57,10 @@ sources: [寂天造《入菩萨行论》10品, 天息灾汉译, 如石法师译]
 
 ## 重要概念
 
-- [菩提心](../concepts/foundational/bodhicitta.md) [继承] — 全书以菩提心为起点与归宿
-- [空性](../concepts/foundational/emptiness.md) [应用] — 第九品以空性智慧作为菩萨行的终极指导
-- [菩萨道](../概念/foundational/菩萨道 Bodhisattva Path.md) [展开] — 十品构成菩萨道的完整修行蓝图
-- [方便](../concepts/foundational/upaya.md) [互补] — 忍辱与自他交换都是菩萨的善巧方便
+- [菩提心](../concepts/基础概念/bodhicitta.md) [继承] — 全书以菩提心为起点与归宿
+- [空性](../concepts/基础概念/emptiness.md) [应用] — 第九品以空性智慧作为菩萨行的终极指导
+- [菩萨道](../概念/基础概念/菩萨道 Bodhisattva Path.md) [展开] — 十品构成菩萨道的完整修行蓝图
+- [方便](../concepts/基础概念/upaya.md) [互补] — 忍辱与自他交换都是菩萨的善巧方便
 
 ## 与其他论典的关系
 

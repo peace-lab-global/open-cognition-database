@@ -2,9 +2,9 @@
 
 > 本文件是 AI Agent（Qoder、Claude Code、Claude Skills、Cursor、自定义 RAG 等）调用本知识库的快速入口。人类读者请从 [README.md](README.md) 进入。
 
-[![Skills](https://img.shields.io/badge/skills-137-blue.svg)](#代表-skill-示例)
+[![Skills](https://img.shields.io/badge/技能-149-blue.svg)](#代表-skill-示例)
 [![Concepts](https://img.shields.io/badge/concepts-1392-green.svg)](./INDEX.md)
-[![Thinkers](https://img.shields.io/badge/thinkers-1027-orange.svg)](./INDEX.md)
+[![Thinkers](https://img.shields.io/badge/thinkers-989-orange.svg)](./INDEX.md)
 
 > 以上计数以 `index.json`（`_meta/scripts/build-index.py` 生成）为单一数据源，含思想家专题子条目。
 
@@ -12,7 +12,7 @@
 
 ## TL;DR — 30 秒接入
 
-1. **找 Skill**：`<domain>/skills/<skill-id>/SKILL.md`
+1. **找 Skill**：`<domain>/技能/<skill-id>/SKILL.md`
 2. **读 Schema**：每个 Skill 文件以 YAML frontmatter 开头，含 `name / description / domain / tags / linked_concepts`
 3. **调用**：把 SKILL.md 全文塞给 LLM，让它按 "操作流程" 段执行
 4. **跨链**：条目之间用相对路径显式链接，带关联类型标注（`[同源]`、`[互补]`、`[对立]`…）
@@ -31,28 +31,30 @@ qodercli skill run 心理学/技能/认知扭曲识别/SKILL.md \
 
 ```
 open-cognition/
-├── index.json                          # 机器可读索引（v0.6，2670 entries + 137 skills，id 全库唯一）
+├── index.json                          # 机器可读索引（v0.6，2650 entries + 149 skills，id 全库唯一）
 ├── INDEX.md                            # 人类可读双视角索引
 ├── TAGS.md                             # 统一标签词典 + 关联类型规范
 │
 ├── <domain>/                           # 思想家 + 概念条目 + Skills
-│   ├── 哲学/    (280 thinkers / 251 concepts / 19 skills)
-│   ├── 宗教/      (66 thinkers / 377 concepts / 50 skills) ← 含佛教认知专题
-│   ├── 社会学/     (92 thinkers / 94 concepts / 15 skills)
+│   ├── 哲学/    (276 thinkers / 251 concepts / 19 skills)
+│   ├── 宗教/      (60 thinkers / 377 concepts / 50 skills) ← 含佛教认知专题
+│   ├── 社会学/     (89 thinkers / 94 concepts / 15 skills)
 │   ├── 心理学/    (166 thinkers / 208 concepts / 16 skills)
 │   ├── 伦理政治/ (68 / 103 / 10 skills)
-│   ├── 美学/    (104 / 105 / 3 skills)
+│   ├── 美学/    (100 / 105 / 8 skills)
 │   ├── 文学/    (57 / 79 / 5 skills)
-│   ├── 艺术/          (48 / 134 / 3 skills)
-│   └── 认知系统/ (146 / 41 / 16 skills)
+│   ├── 艺术/          (48 / 134 / 8 skills)
+│   └── 认知系统/ (125 / 41 / 16 skills)
 │
-├── 宗教/佛教/概念/cognitive-theory/   # 🌟 佛教认知专题
+├── 宗教/佛教/概念/认知理论/   # 🌟 佛教认知专题
 │   ├── <concept>.md                    # 19 概念
 │   └── 技能/<skill-id>/SKILL.md        # 15 专项 Skill
 │
 ├── 清单/、研究/、TECH/                  # 辅助板块（素材清单 / 研究课题 / 公共议题分析）
+├── 名言/、索引/                         # 名言库（61 主题）· 深度索引
+├── mcp/、eval/、GTM/                    # MCP server · 检索评测 · Pages 在线页
 │
-└── _meta/                              # 元数据、模板、报告、可视化
+└── _meta/                              # 元数据、模板、脚本、归档、报告、可视化
 ```
 
 ---
@@ -66,7 +68,7 @@ open-cognition/
 id: <thinker-slug>
 name: <中文名 · English Name>
 type: thinker
-domain: <philosophy|religion|sociology|psychology|ethics-politics|aesthetics|literature|arts|cognitive-systems>
+domain: <哲学|宗教|社会学|心理学|伦理政治|美学|文学|艺术|认知系统|清单>
 school: <主要学派>
 era: <时代>
 tags: [...]
@@ -188,7 +190,7 @@ Agent 解析时，把 `[类型]` 作为边的 label 即可建立知识图谱。
 
 ## 代表 Skill 示例
 
-### 通用类（在各 `<domain>/skills/` 下）
+### 通用类（在各 `<domain>/技能/` 下）
 
 | Skill | 用途 | 路径 |
 |---|---|---|
@@ -198,7 +200,7 @@ Agent 解析时，把 `[类型]` 作为边的 label 即可建立知识图谱。
 | 康德绝对命令检验 | 检验行为准则是否可普遍化 | [categorical-imperative-test](./哲学/技能/绝对命令检验/SKILL.md) |
 | STPA 事故分析 | 系统理论事故分析 | [stpa-accident-analysis](./认知系统/技能/STPA事故分析/SKILL.md) |
 
-### 佛教认知专题类（在 `religion/buddhism/skills/` 下）
+### 佛教认知专题类（在 `宗教/佛教/技能/` 下）
 
 | Skill | 用途 | 路径 |
 |---|---|---|
@@ -210,7 +212,7 @@ Agent 解析时，把 `[类型]` 作为边的 label 即可建立知识图谱。
 | 五蕴解构 | 把实体化"我"解构为过程束 | [five-aggregates-deconstruction](宗教/佛教/技能/以五蕴/SKILL.md) |
 | 缘起链追溯 | 逆向追溯困境的 12 支生成链 | [dependent-origination-tracing](宗教/佛教/技能/定位关键断点/SKILL.md) |
 
-完整列表见 [佛教认知专题 README (Buddhist Cognitive Theory)](宗教/佛教/概念/cognitive-theory/README.md) 的"认知地图"表。
+完整列表见 [佛教认知专题 README (Buddhist Cognitive Theory)](宗教/佛教/概念/认知理论/README.md) 的"认知地图"表。
 
 ---
 
@@ -226,7 +228,7 @@ qodercli skill list --repo .
 qodercli skill run <path-to-SKILL.md> --input "…"
 
 # 在对话中调用
-qodercli chat --skills-dir <domain>/skills/
+qodercli chat --skills-dir <domain>/技能/
 ```
 
 ### 2. Claude Code / Claude Skills
@@ -261,11 +263,11 @@ find . -name "*.md" -not -name "README.md" -not -name "INDEX.md" -not -path "./_
 
 ```json
 {
-  "path": "religion/buddhism/concepts/cognitive-theory/量论.md",
+  "path": "宗教/佛教/概念/认知理论/量论.md",
   "id": "pramana",
   "title": "量论 · Pramāṇa",
   "type": "concept",
-  "domain": "religion",
+  "domain": "宗教",
   "school": "buddhism-pramana",
   "tags": ["量论", "因明", "陈那", "法称", "认识论"],
   "section": "核心要义"

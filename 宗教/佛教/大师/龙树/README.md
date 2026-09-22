@@ -76,7 +76,7 @@ The tetralemma systematically negates all four logical positions regarding any m
 
 Neither arising nor ceasing, neither permanent nor annihilated, neither identical nor different, neither coming nor going — these eight double negations constitute the negative expression of the Middle Way. Not compromise but systematic deconstruction of all conceptual fixation.
 
-详见 [中道](../../概念/foundational/中道 Middle Way.md) | See [Middle Way](../../概念/foundational/中道 Middle Way.md)
+详见 [中道](../../概念/基础概念/中道 Middle Way.md) | See [Middle Way](../../概念/基础概念/中道 Middle Way.md)
 
 ### 5. 戏论寂灭 / Cessation of Conceptual Proliferation (Prapanca-upasama)
 
@@ -244,7 +244,7 @@ Nagarjuna denies causation-with-svabhava (causal relations between independently
 
 - **哲学 Philosophy**: [维特根斯坦](../../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言批判 / Language critique；[海德格尔](../../../../哲学/学派/存在主义/海德格尔.md) — 存在解构 / Deconstruction of Being；[康德](../../../../哲学/学派/德国唯心论/康德.md) — 物自体 vs 无自性 / Thing-in-itself vs. no-svabhava
 - **佛教内部 Buddhist tradition**: [阿耶提婆](../提婆.md) — 首席弟子 / Chief disciple；[月称](../月称.md) — 应成派继承者 / Prasangika heir；[宗喀巴](../宗喀巴.md) — 藏传中观复兴 / Tibetan Madhyamaka revival
-- **学派 School**: [中观学派](../../概念/cognitive-theory/中观.md) — 创始人 / Founder
+- **学派 School**: [中观学派](../../概念/认知理论/中观.md) — 创始人 / Founder
 - **认知科学 Cognitive science**: 反物化认知 / Anti-reification cognition、认知灵活性 / Cognitive flexibility
 - **物理学 Physics**: 量子力学中的关系性解释与缘起论的结构性平行 / Relational interpretations of quantum mechanics structurally parallel to dependent origination
 
@@ -276,7 +276,7 @@ Nagarjuna denies causation-with-svabhava (causal relations between independently
 
 - [空性 Sunyata](../../../传统/佛教/大乘空性.md) — 无自性的哲学分析 / Philosophical analysis of no-svabhava
 - [二谛 Dve Satye](../../../../社会学/学派/网络社会/卡斯特/README.md) — 世俗与胜义的不可分割 / Inseparability of conventional and ultimate
-- [中道 Madhyamaka](../../概念/foundational/中道 Middle Way.md) — 八不与中道哲学 / Eight negations and Middle Way 哲学
+- [中道 Madhyamaka](../../概念/基础概念/中道 Middle Way.md) — 八不与中道哲学 / Eight negations and Middle Way 哲学
 - [四句破 Catuskoti](概念/四句破 Catuskoti: 否定性逻辑方法.md) — 否定性逻辑方法 / Negative logical method
 - [缘起 Pratityasamutpada](../../../技能/缘起法分析/SKILL.md) — 相依缘起与空性 / Dependent co-arising and emptiness
 - [著作目录](著作.md) — 完整著作列表与考证 / Complete works listing with authentication

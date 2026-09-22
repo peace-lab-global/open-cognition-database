@@ -243,8 +243,8 @@ The Confucian ideal of "restraining oneself and returning to the rites" (克己�
 | 结构主义精神分析 / Structuralist Psychoanalysis | [拉康 Lacan](../雅克.md) | "回归弗洛伊德"——以语言学重读潜意识 / "Return to Freud" — rereading the unconscious through linguistics |
 | 存在主义哲学 / Existentialist Philosophy | [尼采 Nietzsche](../../../../哲学/学派/存在主义/尼采/README.md) | 权力意志与潜意识驱动力的哲学先驱 / Philosophical precursor of will to power and unconscious drives |
 | 创伤神经科学 / Trauma Neuroscience | [范德科尔克 Van der Kolk](../../创伤心理学/贝塞尔/README.md) | 从精神分析创伤理论到身体导向的神经科学 / From psychoanalytic trauma theory to body-oriented neuroscience |
-| 佛教认知理论 / Buddhist Cognitive Theory | [种子与熏习 Bīja and Vāsanā](../../../../宗教/佛教/概念/cognitive-theory/种子与熏习.md) | 早期经验的持久影响——平行比较 / Enduring influence of early experience — parallel comparison |
-| 佛教认知理论 / Buddhist Cognitive Theory | [八识体系 Eight Consciousnesses](../../../../宗教/佛教/概念/cognitive-theory/八识体系.md) | 阿赖耶识与潜意识的储存功能 / The storage function of ālaya-vijñāna and the unconscious |
+| 佛教认知理论 / Buddhist Cognitive Theory | [种子与熏习 Bīja and Vāsanā](../../../../宗教/佛教/概念/认知理论/种子与熏习.md) | 早期经验的持久影响——平行比较 / Enduring influence of early experience — parallel comparison |
+| 佛教认知理论 / Buddhist Cognitive Theory | [八识体系 Eight Consciousnesses](../../../../宗教/佛教/概念/认知理论/八识体系.md) | 阿赖耶识与潜意识的储存功能 / The storage function of ālaya-vijñāna and the unconscious |
 | 功能主义心理学 / Functionalist Psychology | [詹姆斯 William James](../../功能主义/威廉-william-james/README.md) | 同时代开创者——潜意识与意识流的不同切入 / Contemporary founders — unconscious vs. stream of consciousness |
 | 批判理论 / Critical Theory | 法兰克福学派 Frankfurt School | 精神分析与马克思主义的综合 / Synthesis of psychoanalysis and Marxism |
 | 文学批评 / Literary Criticism | [精神分析批评 Psychoanalytic Criticism](../../../../文学/概念/精神分析文论.md) | 精神分析视角在文学与文化研究中的应用 / Application of psychoanalytic perspective in literary and cultural studies |

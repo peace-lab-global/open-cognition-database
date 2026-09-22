@@ -2,7 +2,7 @@
 name: uselessness-paradox
 description: Triggers on requests to 无用之用、价值重估、非功利视角，如创新思维、人生意义、资源分配等。Apply this skill to help users discover hidden value in seemingly useless things.
 domain: 哲学
-linked_thinker: ../../../宗教/传统/道教/masters/庄子.md
+linked_thinker: ../../../宗教/传统/道教/大师/庄子.md
 linked_concepts:
   - ../../宗教/传统/道教/wuyong.md
 tags:
@@ -34,7 +34,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[庄子](../../../宗教/传统/道教/masters/庄子.md)
+- 来源思想家：[庄子](../../../宗教/传统/道教/大师/庄子.md)
 - 来源概念：[无用之用](../../宗教/概念/wuyong.md)
 - 关键文献：《庄子·逍遥游》、《庄子·人间世》
 
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[庄子](../../../宗教/传统/道教/masters/庄子.md)
+- 思想家：[庄子](../../../宗教/传统/道教/大师/庄子.md)
 - 概念：[无用之用](../../宗教/概念/wuyong.md)
 - 相关 Skill：[qiwu-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[reverse-thinking](../../../宗教/佛教/技能/从前五识/SKILL.md)

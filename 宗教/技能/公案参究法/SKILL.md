@@ -4,8 +4,8 @@ description: Triggers when a user engages with Zen/Chan Buddhist koans (公案) 
 domain: 宗教
 linked_concepts:
   - ../../../宗教/佛教/学派/chan.md
-  - ../../buddhism/masters/bodhidharma.md
-  - ../../../宗教/佛教/概念/foundational/zhi-guan.md
+  - ../../buddhism/大师/bodhidharma.md
+  - ../../../宗教/佛教/概念/基础概念/zhi-guan.md
   - ../../buddhism/treatises/lankavatara.md
 tags:
   - chan
@@ -43,8 +43,8 @@ tags:
 - **看话禅**（kanhwa sŏn）：大慧宗杲（1089–1163）提倡——不参整个公案，只抓住其中的**话头**（核心词/句）反复参究 → [禅宗](../../buddhism/schools/chan.md)
 - **疑情**（great doubt / 大疑）：参究的关键引擎——不是怀疑论的"不信"，而是全身心投入的"不明白"
 - **公案的本质**：不是谜语或哲学命题，而是**截断概念思维的装置**——迫使心从"思量"跳入"不思量"
-- **禅宗"不立文字"**：不立文字不是否定文字，而是指出文字指向的体验在文字之外 → [菩提达摩](../../buddhism/masters/bodhidharma.md)
-- **壁观**：达摩的"外息诸缘，内心无喘"——参究的定力基础 → [止观](../../buddhism/concepts/foundational/zhi-guan.md)
+- **禅宗"不立文字"**：不立文字不是否定文字，而是指出文字指向的体验在文字之外 → [菩提达摩](../../buddhism/大师/bodhidharma.md)
+- **壁观**：达摩的"外息诸缘，内心无喘"——参究的定力基础 → [止观](../../buddhism/concepts/基础概念/zhi-guan.md)
 
 ## 操作流程
 
@@ -179,7 +179,7 @@ tags:
 ## 关联条目
 
 - 宗派：[禅宗](../../buddhism/schools/chan.md)
-- 高僧：[菩提达摩](../../buddhism/masters/bodhidharma.md)、[慧能](../../buddhism/masters/huineng.md)
-- 概念：[止观](../../buddhism/concepts/foundational/zhi-guan.md)
+- 高僧：[菩提达摩](../../buddhism/大师/bodhidharma.md)、[慧能](../../buddhism/大师/huineng.md)
+- 概念：[止观](../../buddhism/concepts/基础概念/zhi-guan.md)
 - 论典：[楞伽经](../../buddhism/treatises/lankavatara.md)
 - 相关 Skill：[默照禅修](../../佛教/技能/从前五识/SKILL.md)、[平常心是道](../../佛教/技能/从前五识/SKILL.md)

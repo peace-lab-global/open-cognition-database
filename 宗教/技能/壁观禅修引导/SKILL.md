@@ -2,7 +2,7 @@
 name: biguan-meditation
 description: Triggers on requests to 壁观、禅修、心如墙壁，如禅修指导、心灵成长、压力管理等。Apply this skill to guide users in the practice of wall-gazing meditation, cultivating a mind like a wall that does not arise deluded thoughts.
 domain: 宗教
-linked_thinker: ../../wisdom-masters/masters/china/bodhidharma.md
+linked_thinker: ../../智慧大师/大师/china/bodhidharma.md
 linked_concepts:
   - ../../宗教/概念/biguan.md
 tags:
@@ -34,7 +34,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[菩提达摩](../../wisdom-masters/masters/china/bodhidharma.md)
+- 来源思想家：[菩提达摩](../../智慧大师/大师/china/bodhidharma.md)
 - 来源概念：[壁观](../../concepts/biguan.md)
 - 关键文献：《二入四行论》、《景德传灯录》
 
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[菩提达摩](../../wisdom-masters/masters/china/bodhidharma.md)
+- 思想家：[菩提达摩](../../智慧大师/大师/china/bodhidharma.md)
 - 概念：[壁观](../../concepts/biguan.md)
 - 相关 Skill：[hui-neng-no-dwelling](../../佛教/技能/从前五识/SKILL.md)、[forest-meditation-guidance](../../佛教/技能/从前五识/SKILL.md)

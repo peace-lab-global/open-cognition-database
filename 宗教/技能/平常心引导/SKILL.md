@@ -2,7 +2,7 @@
 name: ordinary-mind-guidance
 description: Triggers on requests to 平常心是道、日常修行、自然生活，如生活禅、压力管理、心灵成长等。Apply this skill to guide users in cultivating ordinary mind, finding the way in everyday life.
 domain: 宗教
-linked_thinker: ../../wisdom-masters/masters/china/mazu-daoyi.md
+linked_thinker: ../../智慧大师/大师/china/mazu-daoyi.md
 linked_concepts:
   - ../../宗教/概念/ping-chang-xin-shi-dao.md
 tags:
@@ -34,7 +34,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[马祖道一](../../wisdom-masters/masters/china/mazu-daoyi.md)
+- 来源思想家：[马祖道一](../../智慧大师/大师/china/mazu-daoyi.md)
 - 来源概念：[平常心是道](../../concepts/ping-chang-xin-shi-dao.md)
 - 关键文献：《马祖道一禅师语录》、《景德传灯录》
 
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[马祖道一](../../wisdom-masters/masters/china/mazu-daoyi.md)
+- 思想家：[马祖道一](../../智慧大师/大师/china/mazu-daoyi.md)
 - 概念：[平常心是道](../../concepts/ping-chang-xin-shi-dao.md)
 - 相关 Skill：[hui-neng-ordinary-mind](../../佛教/技能/从前五识/SKILL.md)、[wuwei-guidance](../../佛教/技能/从前五识/SKILL.md)

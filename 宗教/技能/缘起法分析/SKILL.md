@@ -2,7 +2,7 @@
 name: dependent-origination-analysis
 description: Triggers on requests to 缘起法、因缘和合、无我，如哲学思考、心理分析、因果关系分析等。Apply this skill to analyze phenomena through the lens of dependent origination, understanding how everything arises from conditions.
 domain: 宗教
-linked_thinker: ../../wisdom-masters/masters/thailand/buddhadasa.md
+linked_thinker: ../../智慧大师/大师/thailand/buddhadasa.md
 linked_concepts:
   - ../../宗教/概念/dependent-origination.md
   - ../../宗教/概念/anatta.md
@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[佛使比丘](../../wisdom-masters/masters/thailand/buddhadasa.md)
+- 来源思想家：[佛使比丘](../../智慧大师/大师/thailand/buddhadasa.md)
 - 来源概念：[缘起法](../../concepts/dependent-origination.md)、[无我](../../concepts/anatta.md)
 - 关键文献：《缘起法》、《自然观察》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[佛使比丘](../../wisdom-masters/masters/thailand/buddhadasa.md)
+- 思想家：[佛使比丘](../../智慧大师/大师/thailand/buddhadasa.md)
 - 概念：[缘起法](../../concepts/dependent-origination.md)、[无我](../../concepts/anatta.md)
 - 相关 Skill：[natural-observation-practice](../../佛教/技能/从前五识/SKILL.md)、[eight-consciousness-diagnosis](../../佛教/技能/从前五识/SKILL.md)

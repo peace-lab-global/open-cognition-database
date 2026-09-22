@@ -3,9 +3,9 @@ name: metta-meditation
 description: Triggers when a user reports anger, resentment, interpersonal conflict, self-hatred, or asks for a meditation to cultivate compassion and love. Apply this skill to guide the user through the four-stage Buddhist loving-kindness (mettā) practice as an operational intervention, not just a spiritual idea.
 domain: 宗教
 linked_concepts:
-  - ../../buddhism/concepts/foundational/four-immeasurables.md
-  - ../../buddhism/concepts/foundational/菩萨道 Bodhisattva Path.md
-  - ../../buddhism/concepts/foundational/six-paramitas.md
+  - ../../buddhism/concepts/基础概念/four-immeasurables.md
+  - ../../buddhism/concepts/基础概念/菩萨道 Bodhisattva Path.md
+  - ../../buddhism/concepts/基础概念/six-paramitas.md
 tags:
   - mettā
   - loving-kindness
@@ -38,7 +38,7 @@ tags:
 
 ## 理论基础
 
-- **来源概念**：[四无量心 · 慈](../../buddhism/concepts/foundational/four-immeasurables.md)
+- **来源概念**：[四无量心 · 慈](../../buddhism/concepts/基础概念/four-immeasurables.md)
 - **关键文献**：《清净道论·梵住品》；Sharon Salzberg《Lovingkindness》；Kristin Neff 自我慈悲研究
 - **现代心理等价**：慈悲聚焦疗法 CFT（Paul Gilbert）、LKM（Fredrickson）
 
@@ -136,8 +136,8 @@ Step 5 一切众生
 
 ## 关联条目
 
-- [四无量心](../../buddhism/concepts/foundational/four-immeasurables.md)
-- [菩萨道](../../佛教/概念/foundational/菩萨道 Bodhisattva Path.md)
-- [六度 · 忍辱](../../buddhism/concepts/foundational/six-paramitas.md)
+- [四无量心](../../buddhism/concepts/基础概念/four-immeasurables.md)
+- [菩萨道](../../佛教/概念/基础概念/菩萨道 Bodhisattva Path.md)
+- [六度 · 忍辱](../../buddhism/concepts/基础概念/six-paramitas.md)
 - [罗杰斯 · 无条件积极关注](../../../心理学/学派/人本主义/卡尔.md)
 - [四圣谛框架](../../佛教/技能/从前五识/SKILL.md)（后续处理嗔恨的根源）

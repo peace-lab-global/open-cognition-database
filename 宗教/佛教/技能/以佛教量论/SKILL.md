@@ -4,7 +4,7 @@ description: 以佛教量论（陈那、法称）为框架，评估一个陈述�
 domain: 宗教
 school: buddhism-pramana
 linked_concepts:
-  - ../../concepts/cognitive-theory/量论.md
+  - ../../concepts/认知理论/量论.md
 tags:
   - 量论
   - 因明
@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源概念：[量论 · Pramāṇa](../../概念/cognitive-theory/量论.md)
+- 来源概念：[量论 · Pramāṇa](../../概念/认知理论/量论.md)
 - 核心原则：
   - 只有现量（pratyakṣa）与比量（anumāna）是有效认知来源
   - 圣教量（āptavacana）可还原为比量
@@ -178,7 +178,7 @@ tags:
 
 ## 关联条目
 
-- 概念：[量论](../../概念/cognitive-theory/量论.md)
+- 概念：[量论](../../概念/认知理论/量论.md)
 - 相关 Skill：[二谛重构](../从前五识/SKILL.md)
 - 跨传统：[卡尔纳普 · 科学方法论](../../../../哲学/学派/分析哲学/卡尔纳普.md)（平行）——内部问题与外部问题的区分
 - 跨传统：[波普尔 · 证伪主义](../../../../哲学/学派/分析哲学/波普尔.md)（对照）——比量的可证伪性

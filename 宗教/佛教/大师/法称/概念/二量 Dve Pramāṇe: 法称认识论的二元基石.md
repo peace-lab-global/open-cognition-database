@@ -94,6 +94,6 @@ tags: [pramana, pratyaksa, anumana, perception, inference, epistemology]
 
 ## 参见 / See Also
 
-- [自相与共相](../../../概念/foundational/判教 Doctrinal Classification.md)
+- [自相与共相](../../../概念/基础概念/判教 Doctrinal Classification.md)
 - [因三相](triple-character-reason.md)
 - [法称](../README.md)

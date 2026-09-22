@@ -3,9 +3,9 @@ name: doctrinal-classification
 description: Triggers when a user asks where a Buddhist text belongs in a doctrinal classification (判教) system, how to reconcile seemingly contradictory sutras, or which "teaching period" a concept represents. Guides a five-step hermeneutic process rooted in East Asian Buddhist panjiao traditions.
 domain: 宗教
 linked_concepts:
-  - ../../buddhism/concepts/foundational/doctrinal-classification.md
-  - ../../buddhism/concepts/foundational/four-reliances.md
-  - ../../buddhism/concepts/foundational/二谛 Two Truths.md
+  - ../../buddhism/concepts/基础概念/doctrinal-classification.md
+  - ../../buddhism/concepts/基础概念/four-reliances.md
+  - ../../buddhism/concepts/基础概念/二谛 Two Truths.md
   - ../../buddhism/schools/天台.md
   - ../../buddhism/schools/faxiang.md
 tags:
@@ -42,8 +42,8 @@ tags:
 - **天台判教**：智顗的五时（华严时→阿含时→方等时→般若时→法华涅槃时）× 八教（化仪四教 + 化法四教）→ [天台宗](../../buddhism/schools/天台.md)
 - **唯识三时教**：窥基承世亲说——初时有教（阿含）、二时空教（般若）、三时中道教（唯识）→ [法相唯识宗](../../buddhism/schools/faxiang.md)
 - **华严五教十宗**：法藏的小乘教→大乘始教→终教→顿教→圆教 → [华严宗](../../buddhism/华严.md)
-- **四依四不依**：判教的元方法论——依法不依人、依义不依语、依智不依识、依了义不依不了义 → [四依](../../buddhism/concepts/foundational/four-reliances.md)
-- **二谛框架**：世俗谛与胜义谛的分层，是判教的认识论基础 → [二谛](../../佛教/概念/foundational/二谛 Two Truths.md)
+- **四依四不依**：判教的元方法论——依法不依人、依义不依语、依智不依识、依了义不依不了义 → [四依](../../buddhism/concepts/基础概念/four-reliances.md)
+- **二谛框架**：世俗谛与胜义谛的分层，是判教的认识论基础 → [二谛](../../佛教/概念/基础概念/二谛 Two Truths.md)
 
 ## 操作流程
 
@@ -145,6 +145,6 @@ tags:
 
 ## 关联条目
 
-- 概念：[判教](../../buddhism/concepts/foundational/doctrinal-classification.md)、[四依四不依](../../buddhism/concepts/foundational/four-reliances.md)、[二谛](../../佛教/概念/foundational/二谛 Two Truths.md)
+- 概念：[判教](../../buddhism/concepts/基础概念/doctrinal-classification.md)、[四依四不依](../../buddhism/concepts/基础概念/four-reliances.md)、[二谛](../../佛教/概念/基础概念/二谛 Two Truths.md)
 - 宗派：[天台宗](../../buddhism/schools/天台.md)、[法相唯识宗](../../buddhism/schools/faxiang.md)、[华严宗](../../buddhism/华严.md)
 - 相关 Skill：[圣典诠释学](../../佛教/技能/从前五识/SKILL.md)、[论典结构分析](../../佛教/技能/从前五识/SKILL.md)

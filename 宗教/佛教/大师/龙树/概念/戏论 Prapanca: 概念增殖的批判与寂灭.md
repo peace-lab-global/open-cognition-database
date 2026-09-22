@@ -98,7 +98,7 @@ tags:
 
 ## 参见 / See Also
 
-- [空性 Sunyata](../../../概念/foundational/空性 Śūnyatā.md)
-- [二谛 Dve Satye](../../../概念/cognitive-theory/二谛.md)
+- [空性 Sunyata](../../../概念/基础概念/空性 Śūnyatā.md)
+- [二谛 Dve Satye](../../../概念/认知理论/二谛.md)
 - [四句破 Catuskoti](catuskoti.md)
 - [龙树 Nagarjuna](../README.md)

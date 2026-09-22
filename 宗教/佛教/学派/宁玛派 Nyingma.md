@@ -86,10 +86,10 @@ sources: [《大圆满心髓》, 隆钦巴《七宝藏》, 吉美林巴《大圆
 
 ## 与相关概念的关系
 
-- [莲花生大士](../masters/padmasambhava.md) — [同源] 传承祖师
-- [隆钦巴](../masters/longchenpa.md) — [同源] 大圆满集大成者
+- [莲花生大士](../大师/padmasambhava.md) — [同源] 传承祖师
+- [隆钦巴](../大师/longchenpa.md) — [同源] 大圆满集大成者
 - [密乘](vajrayana.md) — [下位] 宁玛派是密乘的一个传承
-- [佛性](../概念/foundational/佛性 Buddha Nature.md) — [同源] 大圆满即佛性的直接开显
+- [佛性](../概念/基础概念/佛性 Buddha Nature.md) — [同源] 大圆满即佛性的直接开显
 
 ## 常见误读
 

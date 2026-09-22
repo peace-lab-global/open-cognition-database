@@ -91,4 +91,4 @@ sources: [《活动·意识·人格》(Activity, Consciousness, and Personality)
 
 ## 关联 Skills
 
-- [活动系统分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+- [活动系统分析](../../../宗教/智慧大师/技能/临济棒喝当下/SKILL.md)

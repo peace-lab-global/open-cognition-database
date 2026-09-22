@@ -238,8 +238,8 @@ Goleman's "EQ is learnable" proposition resonates deeply with the Confucian trad
 
 ### 佛教 Buddhism
 
-- [四念处 Satipaṭṭhāna](../../../../宗教/佛教/概念/cognitive-theory/四念处作为元认知训练.md) `[应用]` — 正念作为情绪调节的基础训练
-- [阿毗达磨心识论 Abhidharma](../../../../宗教/佛教/概念/cognitive-theory/阿毗达磨心识论.md) `[平行]` — 心所分类 = 情绪粒度的古典资源
+- [四念处 Satipaṭṭhāna](../../../../宗教/佛教/概念/认知理论/四念处作为元认知训练.md) `[应用]` — 正念作为情绪调节的基础训练
+- [阿毗达磨心识论 Abhidharma](../../../../宗教/佛教/概念/认知理论/阿毗达磨心识论.md) `[平行]` — 心所分类 = 情绪粒度的古典资源
 
 ### 教育 Education
 

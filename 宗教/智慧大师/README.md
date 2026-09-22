@@ -29,18 +29,18 @@
 
 | 人物 | 传统 | 产出 Skills |
 |------|------|------------|
-| [慧能](masters/中国/慧能.md) | 中国禅 | [无住心法](../佛教/大师/慧能/README.md) · [顿悟检验](../佛教/大师/慧能/README.md) · [平常心引导](../佛教/大师/慧能/README.md) |
-| [临济义玄](masters/中国/临济义玄.md) | 中国禅·临济宗 | [无事贵人](skills/寻求外部确认/SKILL.md) · [棒喝当下](skills/临济棒喝当下/SKILL.md) |
-| [米拉日巴](masters/tibet/milarepa.md) | 藏传·噶举派 | [裸见觉性](../佛教/大师/密勒日巴/README.md) · [苦行炼金](../佛教/大师/密勒日巴/README.md) |
+| [慧能](大师/中国/慧能.md) | 中国禅 | [无住心法](../佛教/大师/慧能/README.md) · [顿悟检验](../佛教/大师/慧能/README.md) · [平常心引导](../佛教/大师/慧能/README.md) |
+| [临济义玄](大师/中国/临济义玄.md) | 中国禅·临济宗 | [无事贵人](技能/寻求外部确认/SKILL.md) · [棒喝当下](技能/临济棒喝当下/SKILL.md) |
+| [米拉日巴](大师/tibet/milarepa.md) | 藏传·噶举派 | [裸见觉性](../佛教/大师/密勒日巴/README.md) · [苦行炼金](../佛教/大师/密勒日巴/README.md) |
 | [道元](../../美学/概念/日本美学.md) | 日本·曹洞宗 | [只管打坐](../佛教/大师/道元/README.md) · [当下圆满](../佛教/大师/道元/README.md) |
-| [一行禅师](masters/西方/一行禅师.md) | 入世佛教 | [正念呼吸](skills/一行正念呼吸/SKILL.md) · [慈悲拥抱](skills/一行慈悲拥抱/SKILL.md) |
-| [宗喀巴](masters/tibet/tsongkhapa.md) | 藏传·格鲁派 | [菩提道次第修行阶段指导](../技能/菩提道次第修/SKILL.md) |
-| [阿底峡](masters/tibet/atisha.md) | 藏传·噶当派 | [菩提道灯引导](../佛教/大师/马鸣/README.md) |
-| [莲花生大士](masters/tibet/padmasambhava.md) | 藏传·宁玛派 | [大圆满引导](../技能/大圆满引导/SKILL.md) |
-| [阿姜查](masters/泰国/阿姜查/README.md) | 南传·森林传统 | [森林禅修引导](../技能/森林禅修引导/SKILL.md) |
-| [佛使比丘](masters/thailand/buddhadasa.md) | 南传佛教 | [缘起法分析](../技能/缘起法分析/SKILL.md) |
-| [达摩](masters/china/bodhidharma.md) | 中国禅宗初祖 | [壁观禅修引导](../技能/壁观禅修引导/SKILL.md) |
-| [马祖道一](masters/中国/马祖道一/README.md) | 中国禅宗·洪州宗 | [平常心引导](../技能/平常心引导/SKILL.md) |
+| [一行禅师](大师/西方/一行禅师.md) | 入世佛教 | [正念呼吸](技能/一行正念呼吸/SKILL.md) · [慈悲拥抱](技能/一行慈悲拥抱/SKILL.md) |
+| [宗喀巴](大师/tibet/tsongkhapa.md) | 藏传·格鲁派 | [菩提道次第修行阶段指导](../技能/菩提道次第修/SKILL.md) |
+| [阿底峡](大师/tibet/atisha.md) | 藏传·噶当派 | [菩提道灯引导](../佛教/大师/马鸣/README.md) |
+| [莲花生大士](大师/tibet/padmasambhava.md) | 藏传·宁玛派 | [大圆满引导](../技能/大圆满引导/SKILL.md) |
+| [阿姜查](大师/泰国/阿姜查/README.md) | 南传·森林传统 | [森林禅修引导](../技能/森林禅修引导/SKILL.md) |
+| [佛使比丘](大师/thailand/buddhadasa.md) | 南传佛教 | [缘起法分析](../技能/缘起法分析/SKILL.md) |
+| [达摩](大师/china/bodhidharma.md) | 中国禅宗初祖 | [壁观禅修引导](../技能/壁观禅修引导/SKILL.md) |
+| [马祖道一](大师/中国/马祖道一/README.md) | 中国禅宗·洪州宗 | [平常心引导](../技能/平常心引导/SKILL.md) |
 
 ## 设计原则
 

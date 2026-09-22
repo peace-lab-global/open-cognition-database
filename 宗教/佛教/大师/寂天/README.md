@@ -74,7 +74,7 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 
 **The ninth chapter presents the philosophical summit: ethical practice (means/upaya) without wisdom (prajna) remains contaminated by self-grasping, while wisdom without compassionate practice degenerates into intellectual exercise. Their union is the heart of the bodhisattva path.**
 
-详见 [智慧与方便统一](../../../智慧大师/masters/中国/马祖道一/README.md)。
+详见 [智慧与方便统一](../../../智慧大师/大师/中国/马祖道一/README.md)。
 
 ### 5. 菩提心修 Bodhicitta-bhavana / Cultivation of the Awakening Mind
 
@@ -223,8 +223,8 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 
 - **哲学**: [龙树](../龙树.md) — [继承] 中观空性的伦理应用；[彼得·辛格](../../../哲学/学派/分析哲学/singer.md) — [平行] 有效利他主义与自他平等
 - **佛教内部**: [宗喀巴](../宗喀巴.md) — [影响] 菩提道次第核心文本；[阿底峡](../阿底峡.md) — [传播] 将寂天思想带入西藏；[月称](../月称.md) — [哲学] 中观应成派立场
-- **学派**: [中观学派](../../概念/cognitive-theory/中观.md) — 晚期重要代表
-- **概念**: [菩萨道](../../概念/foundational/菩萨道 Bodhisattva Path.md) — [同源] 菩萨行的系统阐述
+- **学派**: [中观学派](../../概念/认知理论/中观.md) — 晚期重要代表
+- **概念**: [菩萨道](../../概念/基础概念/菩萨道 Bodhisattva Path.md) — [同源] 菩萨行的系统阐述
 - **心理学**: 认知行为疗法、共情研究、情绪调节理论
 - **伦理学**: 功利主义、关怀伦理学、美德伦理学
 
@@ -256,7 +256,7 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 - [自他平等](概念/自他平等 Paratmasamata: 寂天的伦理论证.md) — 打破自我中心的伦理论证
 - [忍辱哲学](概念/忍辱哲学 Ksanti-paramita: 寂天对嗔恨的逻辑分析.md) — 嗔恨的逻辑分析与对治
 - [自他交换](概念/自他交换 Paratmaparivartana: 寂天的修心法.md) — 修心法的核心修行
-- [智慧与方便统一](../../../智慧大师/masters/中国/马祖道一/README.md) — 第九品中观空性与伦理实践
+- [智慧与方便统一](../../../智慧大师/大师/中国/马祖道一/README.md) — 第九品中观空性与伦理实践
 - [菩提心修](概念/菩提心修 Bodhicitta-bhavana: 寂天的觉悟之心修习体系.md) — 菩提心的生起与圆满
 - [著作目录](著作.md) — 完整著作列表与考证
 - [年表](时间线.md) — 生平与历史语境

@@ -2,7 +2,7 @@
 name: forest-meditation-guidance
 description: Triggers on requests to 森林禅修、自然观察、当下觉察，如禅修指导、压力管理、心灵成长等。Apply this skill to guide users in forest meditation practice as taught by Ajahn Chah, emphasizing natural observation and present-moment awareness.
 domain: 宗教
-linked_thinker: ../../wisdom-masters/masters/thailand/ajahn-chah.md
+linked_thinker: ../../智慧大师/大师/thailand/ajahn-chah.md
 linked_concepts:
   - ../../宗教/概念/自然观察.md
   - ../../宗教/概念/森林禅修.md
@@ -35,8 +35,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[阿姜查](../../wisdom-masters/masters/thailand/ajahn-chah.md)
-- 来源概念：[自然观察](../../智慧大师/masters/泰国/阿姜查/概念/自然观察.md)、[森林禅修](../../智慧大师/masters/泰国/阿姜查/概念/森林禅修.md)
+- 来源思想家：[阿姜查](../../智慧大师/大师/thailand/ajahn-chah.md)
+- 来源概念：[自然观察](../../智慧大师/大师/泰国/阿姜查/概念/自然观察.md)、[森林禅修](../../智慧大师/大师/泰国/阿姜查/概念/森林禅修.md)
 - 关键文献：《关于这颗心》、《宁静的森林水池》
 
 ## 操作流程
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[阿姜查](../../wisdom-masters/masters/thailand/ajahn-chah.md)
-- 概念：[自然观察](../../智慧大师/masters/泰国/阿姜查/概念/自然观察.md)、[森林禅修](../../智慧大师/masters/泰国/阿姜查/概念/森林禅修.md)
+- 思想家：[阿姜查](../../智慧大师/大师/thailand/ajahn-chah.md)
+- 概念：[自然观察](../../智慧大师/大师/泰国/阿姜查/概念/自然观察.md)、[森林禅修](../../智慧大师/大师/泰国/阿姜查/概念/森林禅修.md)
 - 相关 Skill：[natural-observation-practice](../../佛教/技能/从前五识/SKILL.md)、[thich-nhat-hanh-mindful-breathing](../../佛教/技能/从前五识/SKILL.md)

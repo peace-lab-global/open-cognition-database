@@ -91,7 +91,7 @@ The Shèlùn School's interpretation differs subtly from the later Fǎxiàng Sch
 
 The school's most distinctive doctrine. The ninth amala-vijñāna (immaculate consciousness) provides a positive ontological ground for consciousness-transformation.
 
-→ 详见 [九识说](../../../概念/standalone/八识体系.md) / See [Nine Consciousnesses](../../../概念/standalone/八识体系.md)
+→ 详见 [九识说](../../../概念/独立概念/八识体系.md) / See [Nine Consciousnesses](../../../概念/独立概念/八识体系.md)
 
 ### 四、一性皆成 / Universal Buddhahood
 
@@ -191,7 +191,7 @@ Modern Buddhist scholars have reassessed the school's standing:
 ## 相关概念 / Related Concepts
 
 - [真谛](../README.md) — 摄论宗创立者 / Founder of the Shèlùn School
-- [九识说](../../../概念/standalone/八识体系.md) — 摄论宗标志性教义 / Signature doctrine of the school
+- [九识说](../../../概念/独立概念/八识体系.md) — 摄论宗标志性教义 / Signature doctrine of the school
 - [解性黎耶](觉性.md) — 摄论宗核心理论 / Core theoretical contribution
 - [真谛vs玄奘系唯识](paramartha-vs-xuanzang.md) — 摄论宗与法相宗的比较 / Comparison with the Fǎxiàng School
 - [阿黎耶识](alaya-paramartha.md) — 摄论宗对阿黎耶识的独特诠释 / Distinctive interpretation of ālaya

@@ -242,8 +242,8 @@ The difference lies in the fact that Buddhist awakening is an ultimate transform
 | 意识图谱 / Consciousness Cartography | [格罗夫 Grof](../../humanistic/grof.md) | 平行 / Parallel | LSD 研究与非普通意识状态的系统描述 / LSD 研究 and systematic description of non-ordinary states |
 | 全局工作空间 / Global Workspace | [巴尔斯 Baars](../巴尔斯/README.md) | 平行/互补 / Parallel/Complementary | 意识的认知架构研究 / Cognitive architecture of consciousness |
 | 宗教经验 / Religious Experience | [詹姆斯 James](../../功能主义/威廉-william-james/README.md) | 继承 / Inheritance | 意识多元性与宗教经验的心理学研究 / Psychological study of consciousness plurality and religious experience |
-| 佛教心理学 / Buddhist Psychology | [四念处 Satipaṭṭhāna](../../../../宗教/佛教/概念/cognitive-theory/四念处作为元认知训练.md) | 平行 / Parallel | 正念训练作为从共识恍惚中觉醒的方法 / Mindfulness training as method of awakening from consensus trance |
-| 止观研究 / Śamatha-Vipaśyanā | [止观的认知分工](../../../../宗教/佛教/概念/cognitive-theory/止观的认知分工.md) | 平行 / Parallel | 冥想定境作为独立的意识状态 / Meditative absorption as an independent state of consciousness |
+| 佛教心理学 / Buddhist Psychology | [四念处 Satipaṭṭhāna](../../../../宗教/佛教/概念/认知理论/四念处作为元认知训练.md) | 平行 / Parallel | 正念训练作为从共识恍惚中觉醒的方法 / Mindfulness training as method of awakening from consensus trance |
+| 止观研究 / Śamatha-Vipaśyanā | [止观的认知分工](../../../../宗教/佛教/概念/认知理论/止观的认知分工.md) | 平行 / Parallel | 冥想定境作为独立的意识状态 / Meditative absorption as an independent state of consciousness |
 
 ---
 

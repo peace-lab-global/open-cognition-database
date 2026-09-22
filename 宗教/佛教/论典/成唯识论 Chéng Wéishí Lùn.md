@@ -60,7 +60,7 @@ sources: [玄奘编译《成唯识论》10 卷, 世亲《唯识三十颂》]
 ## 与相关概念的关系
 
 - [法相唯识宗](../schools/faxiang.md) — [同源] 根本论典
-- [百法明门](../concepts/foundational/hundred-dharmas.md) — [同源] 法相分类
+- [百法明门](../concepts/基础概念/hundred-dharmas.md) — [同源] 法相分类
 - [窥基](../大师/窥基.md) — [同源] 注释者
 - [俱舍论](abhidharmakosa.md) — [继承] 唯识继承俱舍方法论
 - [解深密经](sandhinirmocana.md) — [互补] 唯识经典

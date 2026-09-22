@@ -131,10 +131,10 @@ Emptiness is not merely a philosophical concept but a central tool of Buddhist p
 
 ## 相关概念 / Related Concepts
 
-- [二谛 Dve Satye](../../../概念/cognitive-theory/二谛.md) — 空性与世俗假名的关系 / Emptiness and conventional designation
+- [二谛 Dve Satye](../../../概念/认知理论/二谛.md) — 空性与世俗假名的关系 / Emptiness and conventional designation
 - [四句破 Catuskoti](catuskoti-tetralemma.md) — 论证空性的逻辑方法 / Logical method for demonstrating emptiness
-- [缘起 Pratityasamutpada](../../../概念/foundational/缘起 Dependent Origination.md) — 空性的正面表达 / The positive expression of emptiness
-- [中道 Madhyamaka](../../../概念/foundational/中道 Middle Way.md) — 空性即中道 / Emptiness as the Middle Way
+- [缘起 Pratityasamutpada](../../../概念/基础概念/缘起 Dependent Origination.md) — 空性的正面表达 / The positive expression of emptiness
+- [中道 Madhyamaka](../../../概念/基础概念/中道 Middle Way.md) — 空性即中道 / Emptiness as the Middle Way
 - [龙树 Nagarjuna](../README.md) — 返回思想家 / Return to thinker
 
 ---

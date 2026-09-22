@@ -151,11 +151,11 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [金刚经·无相 · Diamond Sutra: Non-Attachment](../../../../宗教/佛教/概念/cognitive-theory/金刚经.md) `[平行/parallel]` 意义在于使用中，不住于固定的"意义"
-- [公案与话头的认知机制 · Koan Mechanics](../../../../宗教/佛教/概念/cognitive-theory/公案与话头的认知机制.md) `[平行/parallel]` "不可说"的呈现方式
-- [量论 · Pramana](../../../../宗教/佛教/概念/cognitive-theory/量论.md) `[张力/tension]` 自证的"不可说性"与私人语言论证
-- [七处征心 · Seven Places of Mind-Seeking](../../../../宗教/佛教/概念/cognitive-theory/七处征心.md) `[平行/parallel]` 语言不能表达的，可以通过行动指向
-- [二谛 · Satyadvaya](../../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` "用完即弃"与"不执二谛"
+- [金刚经·无相 · Diamond Sutra: Non-Attachment](../../../../宗教/佛教/概念/认知理论/金刚经.md) `[平行/parallel]` 意义在于使用中，不住于固定的"意义"
+- [公案与话头的认知机制 · Koan Mechanics](../../../../宗教/佛教/概念/认知理论/公案与话头的认知机制.md) `[平行/parallel]` "不可说"的呈现方式
+- [量论 · Pramana](../../../../宗教/佛教/概念/认知理论/量论.md) `[张力/tension]` 自证的"不可说性"与私人语言论证
+- [七处征心 · Seven Places of Mind-Seeking](../../../../宗教/佛教/概念/认知理论/七处征心.md) `[平行/parallel]` 语言不能表达的，可以通过行动指向
+- [二谛 · Satyadvaya](../../../../宗教/佛教/概念/认知理论/二谛.md) `[平行/parallel]` "用完即弃"与"不执二谛"
 - [罗素 Russell](../伯特兰/README.md) `[同源/kindred]` 逻辑原子主义的分歧
 - [卡尔纳普 Carnap](../卡尔纳普.md) `[影响/influence]` 语言批判的两种路线
 

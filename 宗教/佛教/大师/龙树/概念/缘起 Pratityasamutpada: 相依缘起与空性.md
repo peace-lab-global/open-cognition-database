@@ -125,8 +125,8 @@ The Sarvastivada analyzed dependent origination into six causes (hetu) and four 
 ## 相关概念 / Related Concepts
 
 - [空性 Sunyata](sunyata-emptiness.md) — 缘起的本质特征 / The essential character of dependent origination
-- [中道 Madhyamaka](../../../概念/foundational/中道 Middle Way.md) — 缘起即中道 / Dependent origination is the Middle Way
-- [二谛 Dve Satye](../../../概念/cognitive-theory/二谛.md) — 缘起在二谛框架中的地位 / The place of dependent origination in the two-truths framework
+- [中道 Madhyamaka](../../../概念/基础概念/中道 Middle Way.md) — 缘起即中道 / Dependent origination is the Middle Way
+- [二谛 Dve Satye](../../../概念/认知理论/二谛.md) — 缘起在二谛框架中的地位 / The place of dependent origination in the two-truths framework
 - [四句破 Catuskoti](catuskoti-tetralemma.md) — 分析缘起因果的逻辑方法 / Logical method for analyzing dependent origination and causation
 - [龙树 Nagarjuna](../README.md) — 返回思想家 / Return to thinker
 

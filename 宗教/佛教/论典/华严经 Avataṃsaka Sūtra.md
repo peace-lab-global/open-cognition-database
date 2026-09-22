@@ -105,11 +105,11 @@ sources: [《大方广佛华严经》（实叉难陀八十卷译本）, 梵文�
 ## 与相关概念的关系
 
 - [华严宗](../华严.md) — [继承] 法藏以华严经创立华严宗
-- [菩萨道](../概念/foundational/菩萨道 Bodhisattva Path.md) — [同源] 十地品是菩萨道的核心阶位
-- [六度](../concepts/foundational/six-paramitas.md) — [同源] 十地对应十波罗蜜
-- [缘起](../概念/foundational/缘起 Dependent Origination.md) — [发展] 法界缘起是缘起观的最高形态
-- [中道](../概念/foundational/中道 Middle Way.md) — [同源] 理事无碍是中道的宇宙论表达
-- [佛性](../概念/foundational/佛性 Buddha Nature.md) — [同源] 一切众生皆有佛性的宇宙论证明
+- [菩萨道](../概念/基础概念/菩萨道 Bodhisattva Path.md) — [同源] 十地品是菩萨道的核心阶位
+- [六度](../concepts/基础概念/six-paramitas.md) — [同源] 十地对应十波罗蜜
+- [缘起](../概念/基础概念/缘起 Dependent Origination.md) — [发展] 法界缘起是缘起观的最高形态
+- [中道](../概念/基础概念/中道 Middle Way.md) — [同源] 理事无碍是中道的宇宙论表达
+- [佛性](../概念/基础概念/佛性 Buddha Nature.md) — [同源] 一切众生皆有佛性的宇宙论证明
 - [十三经版](../sutras/华严经.md) — [同源] 同一经典的图谱版
 
 ## 代表思想家
@@ -161,8 +161,8 @@ sources: [《大方广佛华严经》（实叉难陀八十卷译本）, 梵文�
 
 ## 关联 Skills
 
-- [圣典诠释学](../../智慧大师/skills/临济棒喝当下/SKILL.md)
-- [八识认知诊断](../../智慧大师/skills/临济棒喝当下/SKILL.md)（十地与识的关系）
+- [圣典诠释学](../../智慧大师/技能/临济棒喝当下/SKILL.md)
+- [八识认知诊断](../../智慧大师/技能/临济棒喝当下/SKILL.md)（十地与识的关系）
 
 ## 文化回响
 

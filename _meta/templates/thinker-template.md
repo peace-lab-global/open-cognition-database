@@ -82,4 +82,4 @@ sources:
 
 ## 关联 Skills
 
-- [<skill-id>](../../../../skills/<frameworks>/<skill-id>/SKILL.md)
+- [<skill-id>](../../../../技能/<frameworks>/<skill-id>/SKILL.md)

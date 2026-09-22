@@ -157,7 +157,7 @@ def extract_frontmatter(text: str) -> tuple[dict, int]:
 def classify(path: Path) -> str | None:
     rel = path.relative_to(REPO_ROOT).as_posix()
     # Reports/audit files are not entries — skip them.
-    if "/reports/" in rel or "/审计/" in rel or "/内容审计/" in rel:
+    if "/reports/" in rel or "/研究报告/" in rel or "/审计/" in rel or "/内容审计/" in rel:
         return None
 
     # Supplementary child pages are held to lighter rules, even if they

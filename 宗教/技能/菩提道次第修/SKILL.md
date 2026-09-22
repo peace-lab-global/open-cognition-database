@@ -2,7 +2,7 @@
 name: lamrim-stages
 description: Triggers on requests to 修行次第、菩提道次第、成佛道路，如修行指导、心灵成长、宗教实践等。Apply this skill to guide users through the gradual path to enlightenment, from initial motivation to final realization.
 domain: 宗教
-linked_thinker: ../../wisdom-masters/masters/tibet/tsongkhapa.md
+linked_thinker: ../../智慧大师/大师/tibet/tsongkhapa.md
 linked_concepts:
   - ../../宗教/概念/lamrim.md
 tags:
@@ -34,7 +34,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[宗喀巴](../../wisdom-masters/masters/tibet/tsongkhapa.md)
+- 来源思想家：[宗喀巴](../../智慧大师/大师/tibet/tsongkhapa.md)
 - 来源概念：[菩提道次第](../../concepts/lamrim.md)
 - 关键文献：《菩提道次第广论》、《菩提道灯论》
 
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[宗喀巴](../../wisdom-masters/masters/tibet/tsongkhapa.md)
+- 思想家：[宗喀巴](../../智慧大师/大师/tibet/tsongkhapa.md)
 - 概念：[菩提道次第](../../concepts/lamrim.md)
 - 相关 Skill：[four-noble-truths-framework](../../佛教/技能/从前五识/SKILL.md)、[eight-consciousness-diagnosis](../../佛教/技能/从前五识/SKILL.md)

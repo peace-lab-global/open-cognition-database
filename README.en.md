@@ -6,7 +6,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-v0.9%20buddhist--academy--deep-blue.svg)](#)
 [![Domains](https://img.shields.io/badge/domains-9-orange.svg)](#domains)
-[![Entries](https://img.shields.io/badge/entries-1027%20thinkers%20%7C%201392%20concepts%20%7C%20137%20skills-brightgreen.svg)](#content-overview)
+[![Entries](https://img.shields.io/badge/entries-989%20thinkers%20%7C%201392%20concepts%20%7C%20149%20skills-brightgreen.svg)](#content-overview)
 
 **Chinese version**: see [README.md](README.md)
 
@@ -28,7 +28,7 @@ Insights across disciplines are scattered across hard-to-read primary texts and 
 
 ```
 9 domains x N thinker/concept entries + Skills + thematic deep-dives
-= 1027 thinkers | 1392 concepts | 137 Skills | 2670 indexed entries (see index.json)
+= 989 thinkers | 1392 concepts | 149 Skills | 2650 indexed entries (see index.json)
 ```
 
 ### Domains
@@ -51,9 +51,9 @@ Full index: [INDEX.md](INDEX.md) | Tag taxonomy: [TAGS.md](TAGS.md)
 
 ## Flagship: Buddhist Cognitive Theory
 
-Under `religion/buddhism/concepts/cognitive-theory/`, this repository contains the deepest thematic treatment in the entire knowledge base -- a systematic treatment of Buddhism's cognitive science and epistemology resources.
+Under `宗教/佛教/概念/认知理论/`, this repository contains the deepest thematic treatment in the entire knowledge base -- a systematic treatment of Buddhism's cognitive science and epistemology resources.
 
-Quick start guide: [QUICKSTART.md](宗教/佛教/概念/cognitive-theory/QUICKSTART.md)
+Quick start guide: [QUICKSTART.md](宗教/佛教/概念/认知理论/QUICKSTART.md)
 
 ### Scope
 
@@ -67,9 +67,9 @@ Quick start guide: [QUICKSTART.md](宗教/佛教/概念/cognitive-theory/QUICKST
 
 ### Entry Points
 
-- **Main index**: [`religion/buddhism/INDEX.md`](宗教/佛教/INDEX.md)
-- **Cognitive theory catalog**: [`concepts/cognitive-theory/README.md`](宗教/佛教/概念/cognitive-theory/README.md)
-- **Representative concepts**: [Pramana](宗教/佛教/概念/cognitive-theory/量论.md) | [Three Natures](宗教/佛教/概念/cognitive-theory/三性.md) | [Consciousness Transformation](宗教/佛教/概念/cognitive-theory/六根六尘六识.md) | [Koan Mechanics](宗教/佛教/概念/cognitive-theory/公案与话头的认知机制.md)
+- **Main index**: [`宗教/佛教/INDEX.md`](宗教/佛教/INDEX.md)
+- **Cognitive theory catalog**: [`概念/认知理论/README.md`](宗教/佛教/概念/认知理论/README.md)
+- **Representative concepts**: [Pramana](宗教/佛教/概念/认知理论/量论.md) | [Three Natures](宗教/佛教/概念/认知理论/三性.md) | [Consciousness Transformation](宗教/佛教/概念/认知理论/六根六尘六识.md) | [Koan Mechanics](宗教/佛教/概念/认知理论/公案与话头的认知机制.md)
 - **Representative Skills**: [Eight Consciousness Diagnosis](宗教/佛教/技能/从前五识/SKILL.md) | [Three Natures Diagnosis](宗教/佛教/技能/以唯识三性/SKILL.md) | [Dependent Origination Tracing](宗教/佛教/技能/定位关键断点/SKILL.md) | [Five Aggregates Deconstruction](宗教/佛教/技能/以五蕴/SKILL.md)
 
 ### Dialogue with Contemporary Thought
@@ -124,7 +124,7 @@ Examples: [Freud](心理学/学派/精神分析/西格蒙德.md) | [Weber](社�
 
 Fixed structure: one-line definition, historical context, core content, colloquial vs. scholarly framing, related concepts, representative thinkers, application scenarios, common misreadings, cross-disciplinary links, further reading.
 
-Examples: [Flow](心理学/概念/心流.md) | [Cultural Capital](社会学/概念/文化资本.md) | [Sacred](宗教/概念/神圣性.md) | [Pramana](宗教/佛教/概念/cognitive-theory/量论.md)
+Examples: [Flow](心理学/概念/心流.md) | [Cultural Capital](社会学/概念/文化资本.md) | [Sacred](宗教/概念/神圣性.md) | [Pramana](宗教/佛教/概念/认知理论/量论.md)
 
 ### Skill
 
@@ -142,7 +142,7 @@ All Skill files follow a unified frontmatter format:
 ---
 name: <skill-id>
 description: <one-line function>
-domain: <philosophy|religion|sociology|psychology|...>
+domain: <哲学|宗教|社会学|心理学|伦理政治|美学|文学|艺术|认知系统|清单>
 linked_concepts: [relative paths to related concepts...]
 tags: [...]
 ---

@@ -60,7 +60,7 @@ children: ["concepts/two-valid-cognitions", "concepts/particular-universal", "co
 
 **Reality has a dual structure: unique particulars (svalakṣaṇa) alone are real and are the objects of perception; universals (sāmānyalakṣaṇa) are conceptual constructions and are the objects of inference.**
 
-详见 [自相与共相](../../概念/foundational/判教 Doctrinal Classification.md)。
+详见 [自相与共相](../../概念/基础概念/判教 Doctrinal Classification.md)。
 
 ### 3. Apoha 排除理论 Apoha-vāda
 
@@ -238,7 +238,7 @@ children: ["concepts/two-valid-cognitions", "concepts/particular-universal", "co
 
 - **佛教内部**: [陈那](../陈那/README.md) — 量论创始人；[寂护](santarakshita.md) — 将量论引入西藏；[宗喀巴](../宗喀巴.md) — 藏传量论教育体系
 - **哲学**: [弗雷格](../../../哲学/学派/分析哲学/frege.md) — 指称理论；[维特根斯坦](../../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言与意义；[塞拉斯](../../../哲学/学派/分析哲学/sellars.md) — 所予神话
-- **学派**: [瑜伽行派](../../概念/foundational/唯识 Vijñaptimātratā.md) — 哲学基础；[经量部](../schools/sautrantika.md) — 方法论来源
+- **学派**: [瑜伽行派](../../概念/基础概念/唯识 Vijñaptimātratā.md) — 哲学基础；[经量部](../schools/sautrantika.md) — 方法论来源
 - **认知科学**: 概念形成、感知与概念化分离、预测编码
 - **AI**: 归纳推理、语义网络、知识表示
 
@@ -266,7 +266,7 @@ children: ["concepts/two-valid-cognitions", "concepts/particular-universal", "co
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
 - [二量 Dve Pramāṇe](../../../../社会学/学派/网络社会/卡斯特/README.md) — 现量与比量的认识论基础
-- [自相与共相](../../概念/foundational/判教 Doctrinal Classification.md) — 实在的二重结构
+- [自相与共相](../../概念/基础概念/判教 Doctrinal Classification.md) — 实在的二重结构
 - [Apoha 排除理论](概念/Apoha 排除理论: 法称的意义与概念哲学.md) — 语义学的佛教路径
 - [刹那灭 Kṣaṇikavāda](概念/刹那灭 Kṣaṇikavāda: 法称的刹那本体论.md) — 实在的刹那生灭性
 - [因三相 Trirūpaliṅga](概念/因三相 Trirūpaliṅga: 法称的有效推理理论.md) — 有效推理的三重条件

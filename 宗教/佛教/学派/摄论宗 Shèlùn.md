@@ -51,8 +51,8 @@ sources: [《摄大乘论》（无著造，真谛译）, 《摄大乘论释》�
 
 - [法相唯识宗](faxiang.md) — [发展] 摄论宗被法相宗吸收
 - [地论宗](dilun.md) — [同源] 同属中国早期唯识学
-- [如来藏](../概念/foundational/如来藏 Tathāgatagarbha.md) — [互补] 真谛的"解性黎耶"接近如来藏思想
-- [百法明门](../concepts/foundational/hundred-dharmas.md) — [发展] 法相宗的完整法相体系
+- [如来藏](../概念/基础概念/如来藏 Tathāgatagarbha.md) — [互补] 真谛的"解性黎耶"接近如来藏思想
+- [百法明门](../concepts/基础概念/hundred-dharmas.md) — [发展] 法相宗的完整法相体系
 - [窥基](../大师/窥基.md) — [取代] 法相唯识宗创立者
 
 ## 常见误读

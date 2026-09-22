@@ -54,9 +54,9 @@ sources: [月称造《入中论》, 宗喀巴《入中论善显密意疏》]
 
 ## 重要概念
 
-- [应成法](../concepts/foundational/emptiness.md) [发展] — 月称将佛护的应成方法系统化为完整的中观体系
-- [唯识](../concepts/foundational/vijnaptimatrata.md) [批判] — 入中论对唯识八识说与三性说做了最详尽的破斥
-- [二谛](../概念/foundational/二谛 Two Truths.md) [继承] — 继承龙树二谛说并精确化"名言有"与"自性有"的区分
+- [应成法](../concepts/基础概念/emptiness.md) [发展] — 月称将佛护的应成方法系统化为完整的中观体系
+- [唯识](../concepts/基础概念/vijnaptimatrata.md) [批判] — 入中论对唯识八识说与三性说做了最详尽的破斥
+- [二谛](../概念/基础概念/二谛 Two Truths.md) [继承] — 继承龙树二谛说并精确化"名言有"与"自性有"的区分
 
 ## 与其他论典的关系
 

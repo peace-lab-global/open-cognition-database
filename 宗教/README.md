@@ -32,12 +32,12 @@
 │   │     + 律宗 / 三论 / 俱舍 / 法相唯识 / 地论
 │   │     + 成实 / 摄论 / 涅槃 / 日莲
 │   │     + 临济 / 曹洞 / 净土真宗 / 宁玛）
-│   ├── 高僧 buddhism/masters/（龙树 / 世亲 / 智顗 / 法藏 / 慧能 / 莲花生 / 宗喀巴 / 道元
+│   ├── 高僧 buddhism/大师/（龙树 / 世亲 / 智顗 / 法藏 / 慧能 / 莲花生 / 宗喀巴 / 道元
 │   │     + 阿底峡 / 密勒日巴 / 马鸣 / 法称 / 空海 / 荣西
 │   │     + 僧肇 / 道宣 / 吉藏 / 窥基 / 善导 / 印光
 │   │     + 鸠摩罗什 / 菩提达摩 / 慧远 / 法显
 │   │     + 提婆 / 陈那 / 月称 / 寂天 / 真谛 / 隆钦巴 / 白隐 / 太虚）
-│   ├── 基础概念 buddhism/concepts/foundational/（三宝 / 三法印 / 缘起 / 中道 / 四无量心 / 三学 / 五蕴 / 业与轮回
+│   ├── 基础概念 buddhism/concepts/基础概念/（三宝 / 三法印 / 缘起 / 中道 / 四无量心 / 三学 / 五蕴 / 业与轮回
 │   │     + 菩萨道 / 六度 / 八正道 / 佛性 / 涅槃
 │   │     + 戒律学 / 五明 / 百法 / 四依 / 二谛 / 判教 / 止观 / 如来藏
 │   │     + 三十七道品 / 十八界 / 空性 / 无我 / 三解脱门 / 三身 / 二障 / 四法印
@@ -46,7 +46,7 @@
 │   │     + treatises/（维摩/楞严/法华/华严/圆觉/解深密/起信论/俱舍论
 │   │         + 成唯识论/涅槃经/中论/楞伽经
 │   │         + 入中论/入菩萨行论/大智度论/大日经）
-│   └── 认知理论 buddhism/concepts/cognitive-theory/（八识 / 心物一元 / 中观 / 七处征心 / 八还辨见…）
+│   └── 认知理论 buddhism/concepts/认知理论/（八识 / 心物一元 / 中观 / 七处征心 / 八还辨见…）
 ├── 基督教 (christianity)
 │   ├── 恩典与救赎（保罗-奥古斯丁-路德-加尔文）
 │   └── 基督教神秘主义（艾克哈特、十字若望）
@@ -82,8 +82,8 @@
 
 **宗派 Schools**（buddhism/schools/）
 - [上座部 Theravāda](佛教/学派/上座部 Theravāda.md)
-- [中观 Madhyamaka](佛教/概念/cognitive-theory/中观.md)
-- [唯识 Yogācāra](佛教/概念/foundational/唯识 Vijñaptimātratā.md)
+- [中观 Madhyamaka](佛教/概念/认知理论/中观.md)
+- [唯识 Yogācāra](佛教/概念/基础概念/唯识 Vijñaptimātratā.md)
 - [天台 Tiantai](佛教/学派/天台 Tiantai.md)
 - [华严 Huayan](佛教/学派/华严 Huayan.md)
 - [禅宗 Chan/Zen](佛教/学派/禅宗.md)
@@ -94,7 +94,7 @@
 - [成实宗 Chengshi](佛教/学派/成实宗 Chéngshí.md) · [摄论宗 Shelun](佛教/学派/摄论宗 Shèlùn.md) · [涅槃宗 Niepan](佛教/学派/涅槃宗 Nièpán.md) · [日莲宗 Nichiren](佛教/学派/日莲宗 Nichiren.md)
 - [临济宗 Rinzai](佛教/学派/临济宗 Rinzai.md) · [曹洞宗 Sōtō](佛教/学派/曹洞宗 Sōtō.md) · [净土真宗 Jōdo-Shinshū](佛教/学派/净土真宗 Jōdo-Shinshū.md) · [宁玛派 Nyingma](佛教/学派/宁玛派 Nyingma.md)
 
-**高僧 Masters**（buddhism/masters/）
+**高僧 Masters**（buddhism/大师/）
 
 > 每位高僧已展开为独立专题文件夹（README + 5 概念子页 + works/timeline/reading-list）。
 
@@ -115,16 +115,16 @@
 - [真谛 Paramārtha](佛教/大师/真谛.md) · [隆钦巴 Longchenpa](佛教/大师/隆钦巴.md)
 - [白隐慧鹤 Hakuin](佛教/大师/白隐慧鹤.md) · [太虚 Tàixū](佛教/大师/太虚.md)
 
-**基础概念 Core Concepts**（buddhism/concepts/foundational/）
-- [三宝](佛教/概念/foundational/三宝 Three Jewels.md) · [三法印](佛教/概念/foundational/三法印 Three Marks of Existence.md) · [缘起](佛教/概念/foundational/缘起 Dependent Origination.md) · [中道](佛教/概念/foundational/中道 Middle Way.md)
-- [四无量心](佛教/概念/foundational/四无量心 Four Immeasurables.md) · [三学](佛教/概念/foundational/三学 Three Trainings.md) · [五蕴](佛教/概念/foundational/五蕴 Five Aggregates.md) · [业与轮回](佛教/概念/foundational/业与轮回 Karma & Rebirth.md)
-- [菩萨道](佛教/概念/foundational/菩萨道 Bodhisattva Path.md) · [六度](佛教/概念/foundational/六度 Six Pāramitās.md) · [八正道](佛教/概念/foundational/八正道 Noble Eightfold Path.md) · [佛性](佛教/概念/foundational/佛性 Buddha Nature.md) · [涅槃](佛教/大师/乔达摩/概念/涅槃.md)
-- [戒律学](佛教/概念/foundational/戒律学 Vinaya Studies.md) · [五明](佛教/概念/foundational/五明 Pañcavidyā.md) · [百法明门](佛教/概念/foundational/百法明门 Hundred Dharmas.md) · [四依四不依](佛教/概念/foundational/四依四不依 Four Reliances.md)
-- [二谛](佛教/概念/foundational/二谛 Two Truths.md) · [判教](佛教/概念/foundational/判教 Doctrinal Classification.md) · [止观](佛教/概念/foundational/止观 Śamatha-Vipaśyanā.md) · [如来藏](佛教/概念/foundational/如来藏 Tathāgatagarbha.md)
-- [三十七道品](佛教/概念/foundational/三十七道品 Bodhipakkhiyā-dhammā.md) · [十八界](佛教/概念/foundational/十八界 Aṣṭādaśa Dhātu.md) · [空性](佛教/概念/foundational/空性 Śūnyatā.md) · [无我](佛教/概念/foundational/无我 Anātman.md)
-- [三解脱门](佛教/概念/foundational/三解脱门 Trīṇi Vimokṣa-mukhāni.md) · [三身](佛教/概念/foundational/三身 Trikāya.md) · [二障](佛教/概念/foundational/二障 Dve Āvaraṇe.md) · [四法印](佛教/概念/foundational/四法印 Catvāri Dharma-mudrāni.md)
-- [贪嗔痴](佛教/概念/foundational/贪嗔痴 Three Poisons.md) · [十二处](佛教/概念/foundational/十二处 Dvādaśa Āyatana.md) · [唯识](佛教/概念/foundational/唯识 Vijñaptimātratā.md) · [方便](佛教/概念/foundational/方便 Upāya.md)
-- [九住心](佛教/概念/foundational/九住心 Navākārā Cit sthitiḥ.md) · [三乘](佛教/概念/foundational/三乘 Trini Yānāni.md) · [十二头陀行](佛教/概念/foundational/十二头陀行.md) · [四无所畏](佛教/概念/foundational/四无所畏.md)
+**基础概念 Core Concepts**（buddhism/concepts/基础概念/）
+- [三宝](佛教/概念/基础概念/三宝 Three Jewels.md) · [三法印](佛教/概念/基础概念/三法印 Three Marks of Existence.md) · [缘起](佛教/概念/基础概念/缘起 Dependent Origination.md) · [中道](佛教/概念/基础概念/中道 Middle Way.md)
+- [四无量心](佛教/概念/基础概念/四无量心 Four Immeasurables.md) · [三学](佛教/概念/基础概念/三学 Three Trainings.md) · [五蕴](佛教/概念/基础概念/五蕴 Five Aggregates.md) · [业与轮回](佛教/概念/基础概念/业与轮回 Karma & Rebirth.md)
+- [菩萨道](佛教/概念/基础概念/菩萨道 Bodhisattva Path.md) · [六度](佛教/概念/基础概念/六度 Six Pāramitās.md) · [八正道](佛教/概念/基础概念/八正道 Noble Eightfold Path.md) · [佛性](佛教/概念/基础概念/佛性 Buddha Nature.md) · [涅槃](佛教/大师/乔达摩/概念/涅槃.md)
+- [戒律学](佛教/概念/基础概念/戒律学 Vinaya Studies.md) · [五明](佛教/概念/基础概念/五明 Pañcavidyā.md) · [百法明门](佛教/概念/基础概念/百法明门 Hundred Dharmas.md) · [四依四不依](佛教/概念/基础概念/四依四不依 Four Reliances.md)
+- [二谛](佛教/概念/基础概念/二谛 Two Truths.md) · [判教](佛教/概念/基础概念/判教 Doctrinal Classification.md) · [止观](佛教/概念/基础概念/止观 Śamatha-Vipaśyanā.md) · [如来藏](佛教/概念/基础概念/如来藏 Tathāgatagarbha.md)
+- [三十七道品](佛教/概念/基础概念/三十七道品 Bodhipakkhiyā-dhammā.md) · [十八界](佛教/概念/基础概念/十八界 Aṣṭādaśa Dhātu.md) · [空性](佛教/概念/基础概念/空性 Śūnyatā.md) · [无我](佛教/概念/基础概念/无我 Anātman.md)
+- [三解脱门](佛教/概念/基础概念/三解脱门 Trīṇi Vimokṣa-mukhāni.md) · [三身](佛教/概念/基础概念/三身 Trikāya.md) · [二障](佛教/概念/基础概念/二障 Dve Āvaraṇe.md) · [四法印](佛教/概念/基础概念/四法印 Catvāri Dharma-mudrāni.md)
+- [贪嗔痴](佛教/概念/基础概念/贪嗔痴 Three Poisons.md) · [十二处](佛教/概念/基础概念/十二处 Dvādaśa Āyatana.md) · [唯识](佛教/概念/基础概念/唯识 Vijñaptimātratā.md) · [方便](佛教/概念/基础概念/方便 Upāya.md)
+- [九住心](佛教/概念/基础概念/九住心 Navākārā Cit sthitiḥ.md) · [三乘](佛教/概念/基础概念/三乘 Trini Yānāni.md) · [十二头陀行](佛教/概念/基础概念/十二头陀行.md) · [四无所畏](佛教/概念/基础概念/四无所畏.md)
 
 **经典与认知理论**
 - [佛教十三经 · 全然理解图谱集](佛教/经典/README.md)
@@ -133,7 +133,7 @@
   - [大乘起信论](佛教/论典/大乘起信论 Awakening of Faith in Mahāyāna.md) · [俱舍论](佛教/论典/俱舍论 Abhidharmakośa.md)
   - [成唯识论](佛教/论典/成唯识论 Chéng Wéishí Lùn.md) · [大般涅槃经](佛教/论典/大般涅槃经 Mahāparinirvāṇa Sūtra.md) · [中论](佛教/论典/中论 Mūlamadhyamakakārikā.md) · [楞伽经](佛教/论典/楞伽经 Laṅkāvatāra Sūtra.md)
   - [入中论](佛教/论典/入中论 Madhyamakāvatāra.md) · [入菩萨行论](佛教/论典/入菩萨行论 Bodhicaryāvatāra.md) · [大智度论](佛教/论典/大智度论 Mahāprajñāpāramitā-śāstra.md) · [大日经](佛教/论典/大日经 Mahāvairocana Sūtra.md)
-- [佛教认知理论体系](佛教/概念/cognitive-theory/README.md)（八识、心物一元、中观、七处征心、八还辨见等）
+- [佛教认知理论体系](佛教/概念/认知理论/README.md)（八识、心物一元、中观、七处征心、八还辨见等）
 - [专题概念导航](佛教/概念/INDEX.md)
 
 ### 基督教 christianity
@@ -149,13 +149,13 @@
 
 ### 道教 taoism
 - [无为 Wu-wei](传统/道教/无为.md)
-- [老子 Laozi](传统/道教/masters/老子.md)
-- [庄子 Zhuangzi](传统/道教/masters/庄子.md)
+- [老子 Laozi](传统/道教/大师/老子.md)
+- [庄子 Zhuangzi](传统/道教/大师/庄子.md)
 
-### 智慧大师 wisdom-masters
-- [佛使比丘 Buddhadasa](智慧大师/masters/泰国/佛使比丘.md)
-- [阿姜查 Ajahn Chah](智慧大师/masters/泰国/阿姜查.md)
-- [马祖道一 Mazu Daoyi](智慧大师/masters/中国/马祖道一.md)
+### 智慧大师 智慧大师
+- [佛使比丘 Buddhadasa](智慧大师/大师/泰国/佛使比丘.md)
+- [阿姜查 Ajahn Chah](智慧大师/大师/泰国/阿姜查.md)
+- [马祖道一 Mazu Daoyi](智慧大师/大师/中国/马祖道一.md)
 
 ### 印度教 hinduism
 - [业与轮回 Karma & Saṃsāra](传统/印度教/业与轮回.md)

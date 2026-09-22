@@ -6,8 +6,8 @@ linked_concepts:
   - ../../buddhism/treatises/abhidharmakosa.md
   - ../../buddhism/treatises/awakening-of-faith.md
   - ../../buddhism/schools/sanlun.md
-  - ../../buddhism/concepts/foundational/four-reliances.md
-  - ../../buddhism/concepts/foundational/pancavidya.md
+  - ../../buddhism/concepts/基础概念/four-reliances.md
+  - ../../buddhism/concepts/基础概念/pancavidya.md
 tags:
   - sastra
   - argumentation
@@ -39,10 +39,10 @@ tags:
 
 ## 理论基础
 
-- **因明五支**：宗（pratijñā）、因（hetu）、喻（dṛṣṭānta）、合（upanaya）、结（nigamana）——印度逻辑论证的标准结构 → [五明](../../buddhism/concepts/foundational/pancavidya.md)
+- **因明五支**：宗（pratijñā）、因（hetu）、喻（dṛṣṭānta）、合（upanaya）、结（nigamana）——印度逻辑论证的标准结构 → [五明](../../buddhism/concepts/基础概念/pancavidya.md)
 - **破邪显正**：三论宗吉藏的方法论——不立自宗，只破他执 → [三论宗](../../buddhism/schools/sanlun.md)
 - **经-论-疏**三层：经是佛说，论是菩萨/论师释经，疏是后人释论
-- **四依四不依**：论典阅读的元方法论 → [四依](../../buddhism/concepts/foundational/four-reliances.md)
+- **四依四不依**：论典阅读的元方法论 → [四依](../../buddhism/concepts/基础概念/four-reliances.md)
 - **世亲的论证风格**：《俱舍论》的"以释破颂"——在注释中暗暗批判被注释文本 → [俱舍论](../../buddhism/treatises/abhidharmakosa.md)
 
 ## 操作流程
@@ -188,7 +188,7 @@ tags:
 ## 关联条目
 
 - 论典：[俱舍论](../../buddhism/treatises/abhidharmakosa.md)、[大乘起信论](../../buddhism/treatises/awakening-of-faith.md)
-- 概念：[五明](../../buddhism/concepts/foundational/pancavidya.md)、[四依四不依](../../buddhism/concepts/foundational/four-reliances.md)
+- 概念：[五明](../../buddhism/concepts/基础概念/pancavidya.md)、[四依四不依](../../buddhism/concepts/基础概念/four-reliances.md)
 - 宗派：[三论宗](../../buddhism/schools/sanlun.md)、[法相唯识宗](../../buddhism/schools/faxiang.md)
-- 高僧：[吉藏](../../buddhism/masters/jizang.md)、[窥基](../../佛教/大师/窥基.md)
+- 高僧：[吉藏](../../buddhism/大师/jizang.md)、[窥基](../../佛教/大师/窥基.md)
 - 相关 Skill：[经论判释](../../佛教/技能/从前五识/SKILL.md)、[圣典诠释学](../../佛教/技能/从前五识/SKILL.md)

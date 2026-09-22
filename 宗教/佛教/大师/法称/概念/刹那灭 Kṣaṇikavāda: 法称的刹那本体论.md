@@ -106,6 +106,6 @@ tags: [ksanika, momentariness, impermanence, ontology, time, causality]
 
 ## 参见 / See Also
 
-- [自相与共相](../../../概念/foundational/判教 Doctrinal Classification.md)
+- [自相与共相](../../../概念/基础概念/判教 Doctrinal Classification.md)
 - [二量](two-valid-cognitions.md)
 - [法称](../README.md)

@@ -79,6 +79,6 @@ The **two truths** doctrine holds that reality can be understood at two levels �
 
 ## 参见 / See Also
 
-- [空性 Sunyata](../../../概念/foundational/空性 Śūnyatā.md)
+- [空性 Sunyata](../../../概念/基础概念/空性 Śūnyatā.md)
 - [戏论 Prapanca](prapanca.md)
 - [龙树 Nagarjuna](../README.md)

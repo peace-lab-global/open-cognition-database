@@ -1,0 +1,24 @@
+title: Open Cognition
+description: Cross-domain cognitive knowledge base
+markdown: GFM
+theme: jekyll-theme-cayman
+
+exclude:
+  - node_modules
+  - .qoder
+  - .claude
+  - AGENT.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .github
+  - mcp
+  - eval
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-sitemap
+
+relative_links:
+  enabled: true
+  collections: false

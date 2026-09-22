@@ -1,10 +1,10 @@
 {
   "version": "v0.6",
-  "generated": "2026-09-05",
+  "generated": "2026-09-23",
   "stats": {
-    "entries": 2641,
-    "skills": 139,
-    "total": 2780,
+    "entries": 2650,
+    "skills": 149,
+    "total": 2799,
     "domains": [
       "伦理政治",
       "哲学",
@@ -7493,14 +7493,14 @@
       ]
     },
     {
-      "path": "宗教/传统/道教/masters/庄子/时间线.md",
-      "id": "宗教.传统.道教.masters.庄子.庄子-时间线",
+      "path": "宗教/传统/道教/大师/庄子/时间线.md",
+      "id": "宗教.传统.道教.大师.庄子.庄子-时间线",
       "title": "庄子年表 / Timeline of Zhuangzi",
-      "type": "thinker",
+      "type": "tradition",
       "domain": "宗教"
     },
     {
-      "path": "宗教/传统/道教/masters/庄子/概念/庄周梦蝶.md",
+      "path": "宗教/传统/道教/大师/庄子/概念/庄周梦蝶.md",
       "id": "butterfly-dream",
       "title": "庄周梦蝶 / Zhuangzi's Butterfly Dream (Wuhua)",
       "type": "concept",
@@ -7517,7 +7517,7 @@
       ]
     },
     {
-      "path": "宗教/传统/道教/masters/庄子/概念/心斋.md",
+      "path": "宗教/传统/道教/大师/庄子/概念/心斋.md",
       "id": "xinzhai",
       "title": "心斋 / Fasting of the Mind (Xinzhai)",
       "type": "concept",
@@ -7533,7 +7533,7 @@
       ]
     },
     {
-      "path": "宗教/传统/道教/masters/庄子/概念/无用之用.md",
+      "path": "宗教/传统/道教/大师/庄子/概念/无用之用.md",
       "id": "usefulness-uselessness",
       "title": "无用之用 / Usefulness of Uselessness (Wuyong zhi Yong)",
       "type": "concept",
@@ -7549,8 +7549,8 @@
       ]
     },
     {
-      "path": "宗教/传统/道教/masters/庄子/概念/逍遥游.md",
-      "id": "宗教.传统.道教.masters.庄子.概念.xiaoyao",
+      "path": "宗教/传统/道教/大师/庄子/概念/逍遥游.md",
+      "id": "宗教.传统.道教.大师.庄子.概念.xiaoyao",
       "title": "逍遥游 / Free and Easy Wandering (Xiaoyao You)",
       "type": "concept",
       "domain": "宗教",
@@ -7565,8 +7565,8 @@
       ]
     },
     {
-      "path": "宗教/传统/道教/masters/庄子/概念/齐物论.md",
-      "id": "宗教.传统.道教.masters.庄子.概念.qiwu",
+      "path": "宗教/传统/道教/大师/庄子/概念/齐物论.md",
+      "id": "宗教.传统.道教.大师.庄子.概念.qiwu",
       "title": "齐物论 / On the Equality of Things (Qiwu Lun)",
       "type": "concept",
       "domain": "宗教",
@@ -7581,36 +7581,36 @@
       ]
     },
     {
-      "path": "宗教/传统/道教/masters/庄子/著作.md",
-      "id": "宗教.传统.道教.masters.庄子.庄子-著作",
+      "path": "宗教/传统/道教/大师/庄子/著作.md",
+      "id": "宗教.传统.道教.大师.庄子.庄子-著作",
       "title": "庄子作品总览 / Works of Zhuangzi",
-      "type": "thinker",
+      "type": "tradition",
       "domain": "宗教"
     },
     {
-      "path": "宗教/传统/道教/masters/庄子/阅读.md",
-      "id": "宗教.传统.道教.masters.庄子.庄子-阅读",
+      "path": "宗教/传统/道教/大师/庄子/阅读.md",
+      "id": "宗教.传统.道教.大师.庄子.庄子-阅读",
       "title": "庄子进阶阅读 / Reading Guide for Zhuangzi",
-      "type": "thinker",
+      "type": "tradition",
       "domain": "宗教"
     },
     {
-      "path": "宗教/传统/道教/masters/庄子.md",
+      "path": "宗教/传统/道教/大师/庄子.md",
       "id": "zhuangzi-religion",
       "title": "庄子 Zhuangzi",
       "type": "thinker",
       "domain": "宗教"
     },
     {
-      "path": "宗教/传统/道教/masters/老子/时间线.md",
-      "id": "宗教.传统.道教.masters.老子.老子-时间线",
+      "path": "宗教/传统/道教/大师/老子/时间线.md",
+      "id": "宗教.传统.道教.大师.老子.老子-时间线",
       "title": "老子年表 / Timeline of Laozi",
-      "type": "thinker",
+      "type": "tradition",
       "domain": "宗教"
     },
     {
-      "path": "宗教/传统/道教/masters/老子/概念/反者道之动.md",
-      "id": "宗教.传统.道教.masters.老子.概念.reversal",
+      "path": "宗教/传统/道教/大师/老子/概念/反者道之动.md",
+      "id": "宗教.传统.道教.大师.老子.概念.reversal",
       "title": "反者道之动 / Reversal as the Movement of Dao",
       "type": "concept",
       "domain": "宗教",
@@ -7625,7 +7625,7 @@
       ]
     },
     {
-      "path": "宗教/传统/道教/masters/老子/概念/德.md",
+      "path": "宗教/传统/道教/大师/老子/概念/德.md",
       "id": "de-virtue",
       "title": "德 / De (Virtue / Power)",
       "type": "concept",
@@ -7642,8 +7642,8 @@
       ]
     },
     {
-      "path": "宗教/传统/道教/masters/老子/概念/无为.md",
-      "id": "宗教.传统.道教.masters.老子.概念.wuwei",
+      "path": "宗教/传统/道教/大师/老子/概念/无为.md",
+      "id": "宗教.传统.道教.大师.老子.概念.wuwei",
       "title": "无为 / Wu-wei (Non-action)",
       "type": "concept",
       "domain": "宗教",
@@ -7658,8 +7658,8 @@
       ]
     },
     {
-      "path": "宗教/传统/道教/masters/老子/概念/自然.md",
-      "id": "宗教.传统.道教.masters.老子.概念.ziran",
+      "path": "宗教/传统/道教/大师/老子/概念/自然.md",
+      "id": "宗教.传统.道教.大师.老子.概念.ziran",
       "title": "自然 / Ziran (Self-so / Spontaneity)",
       "type": "concept",
       "domain": "宗教",
@@ -7675,7 +7675,7 @@
       ]
     },
     {
-      "path": "宗教/传统/道教/masters/老子/概念/道.md",
+      "path": "宗教/传统/道教/大师/老子/概念/道.md",
       "id": "dao-the-way",
       "title": "道 / Dao (The Way)",
       "type": "concept",
@@ -7693,21 +7693,21 @@
       ]
     },
     {
-      "path": "宗教/传统/道教/masters/老子/著作.md",
-      "id": "宗教.传统.道教.masters.老子.老子-著作",
+      "path": "宗教/传统/道教/大师/老子/著作.md",
+      "id": "宗教.传统.道教.大师.老子.老子-著作",
       "title": "老子著作与版本 / Works and Editions of Laozi",
-      "type": "thinker",
+      "type": "tradition",
       "domain": "宗教"
     },
     {
-      "path": "宗教/传统/道教/masters/老子/阅读.md",
-      "id": "宗教.传统.道教.masters.老子.老子-阅读",
+      "path": "宗教/传统/道教/大师/老子/阅读.md",
+      "id": "宗教.传统.道教.大师.老子.老子-阅读",
       "title": "老子进阶阅读 / Reading Guide for Laozi",
-      "type": "thinker",
+      "type": "tradition",
       "domain": "宗教"
     },
     {
-      "path": "宗教/传统/道教/masters/老子.md",
+      "path": "宗教/传统/道教/大师/老子.md",
       "id": "laozi-religion",
       "title": "老子 Laozi",
       "type": "thinker",
@@ -11871,283 +11871,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/cognitive-theory/七处征心.md",
-      "id": "qichu-zhengxin",
-      "title": "七处征心 · Seven Places of Mind-Seeking",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-yogacara",
-      "tags": [
-        "认知",
-        "心",
-        "楞严经",
-        "觉知"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/三性.md",
-      "id": "three-natures",
-      "title": "三性 · Trisvabhāva (Three Natures)",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-yogacara",
-      "tags": [
-        "唯识",
-        "三性",
-        "三自性",
-        "认知结构"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/中观.md",
-      "id": "madhyamaka",
-      "title": "中观·空 · Madhyamaka: Emptiness",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-prajna",
-      "tags": [
-        "中观",
-        "空性",
-        "龙树",
-        "二谛",
-        "不二"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/二谛.md",
-      "id": "two-truths",
-      "title": "二谛 · Satyadvaya (Two Truths)",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-madhyamaka",
-      "tags": [
-        "二谛",
-        "中观",
-        "世俗谛",
-        "胜义谛",
-        "认识论"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/五蕴的认知读法.md",
-      "id": "five-aggregates-cognitive",
-      "title": "五蕴的认知读法 · Pañcaskandha as Cognitive Bundle",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-early",
-      "tags": [
-        "五蕴",
-        "无我",
-        "认知束",
-        "绑定问题"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/八识体系.md",
-      "id": "eight-consciousness",
-      "title": "八识体系 · Eight Consciousnesses",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-yogacara",
-      "tags": [
-        "唯识",
-        "八识",
-        "认知",
-        "意识"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/八还辨见.md",
-      "id": "baihuan-bianjian",
-      "title": "八还辨见 · Eight Returns to Distinguish Seeing",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-yogacara",
-      "tags": [
-        "认知",
-        "觉性",
-        "楞严经",
-        "见性"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/公案与话头的认知机制.md",
-      "id": "koan-mechanics",
-      "title": "公案与话头的认知机制 · Kōan and Huàtóu Cognitive Mechanics",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-chan-zen",
-      "tags": [
-        "禅宗",
-        "公案",
-        "话头",
-        "顿悟",
-        "认知饱和"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/六根六尘六识.md",
-      "id": "six-constituents",
-      "title": "六根六尘六识 · Six Sense Constituents",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-yogacara",
-      "tags": [
-        "唯识",
-        "感知",
-        "根尘识",
-        "十八界"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/十二因缘的认知读法.md",
-      "id": "dependent-origination-cognitive",
-      "title": "十二因缘的认知读法 · Pratītyasamutpāda as Cognitive Chain",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-early",
-      "tags": [
-        "缘起",
-        "十二因缘",
-        "认知链",
-        "刹那缘起",
-        "无明"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/四念处作为元认知训练.md",
-      "id": "satipatthana-cognitive",
-      "title": "四念处作为元认知训练 · Satipaṭṭhāna as Meta-Cognitive Training",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-theravada",
-      "tags": [
-        "四念处",
-        "正念",
-        "元认知",
-        "内观"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/心物一元.md",
-      "id": "mind-world-one",
-      "title": "心物一元 · Mind-World Identity",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-yogacara",
-      "tags": [
-        "唯识",
-        "心物",
-        "境随心转",
-        "藏识",
-        "境"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/止观的认知分工.md",
-      "id": "samadhi-vipasyana",
-      "title": "止观的认知分工 · Śamatha and Vipaśyanā as Cognitive Partnership",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-meditation",
-      "tags": [
-        "止观",
-        "禅修",
-        "定慧",
-        "认知双轨"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/种子与熏习.md",
-      "id": "bija-vasana",
-      "title": "种子与熏习 · Bīja and Vāsanā",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-yogacara",
-      "tags": [
-        "唯识",
-        "种子",
-        "熏习",
-        "阿赖耶",
-        "习气"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/转识成智.md",
-      "id": "consciousness-transformation",
-      "title": "转识成智 · Transformation of Consciousness",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-yogacara",
-      "tags": [
-        "转识成智",
-        "四智",
-        "修道",
-        "五种姓",
-        "瑜伽行"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/量论.md",
-      "id": "pramana",
-      "title": "量论 · Pramāṇa (Buddhist Epistemology)",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-yogacara-pramana",
-      "tags": [
-        "量论",
-        "因明",
-        "陈那",
-        "法称",
-        "认识论"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/金刚经.md",
-      "id": "diamond-sutra-non-attachment",
-      "title": "金刚经·无相 · Diamond Sūtra: Non-Attachment",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-prajna",
-      "tags": [
-        "空性",
-        "无住",
-        "般若",
-        "金刚经"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/阿毗达磨心识论.md",
-      "id": "abhidharma-mind",
-      "title": "阿毗达磨心识论 · Abhidharma Psychology of Mind",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-abhidharma",
-      "tags": [
-        "阿毗达磨",
-        "心所",
-        "心路",
-        "上座部",
-        "佛教心理学"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/cognitive-theory/默照的认知结构.md",
-      "id": "silent-illumination",
-      "title": "默照的认知结构 · Silent Illumination as Non-Selective Awareness",
-      "type": "concept",
-      "domain": "宗教",
-      "school": "buddhism-chan-zen",
-      "tags": [
-        "禅宗",
-        "默照",
-        "曹洞",
-        "无拣择",
-        "非对象化"
-      ]
-    },
-    {
-      "path": "宗教/佛教/概念/foundational/三乘 Trini Yānāni.md",
+      "path": "宗教/佛教/概念/基础概念/三乘 Trini Yānāni.md",
       "id": "宗教.buddhism.concept.three-vehicles",
       "title": "三乘 Trini Yānāni",
       "type": "concept",
@@ -12163,7 +11887,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/三十七道品 Bodhipakkhiyā-dhammā.md",
+      "path": "宗教/佛教/概念/基础概念/三十七道品 Bodhipakkhiyā-dhammā.md",
       "id": "宗教.buddhism.concept.thirty-seven-factors",
       "title": "三十七道品 Bodhipakkhiyā-dhammā",
       "type": "concept",
@@ -12178,7 +11902,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/三学 Three Trainings.md",
+      "path": "宗教/佛教/概念/基础概念/三学 Three Trainings.md",
       "id": "宗教.buddhism.core.three-trainings",
       "title": "三学 Three Trainings",
       "type": "concept",
@@ -12191,7 +11915,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/三宝 Three Jewels.md",
+      "path": "宗教/佛教/概念/基础概念/三宝 Three Jewels.md",
       "id": "宗教.buddhism.core.three-jewels",
       "title": "三宝 Three Jewels",
       "type": "concept",
@@ -12205,7 +11929,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/三法印 Three Marks of Existence.md",
+      "path": "宗教/佛教/概念/基础概念/三法印 Three Marks of Existence.md",
       "id": "宗教.buddhism.core.three-marks",
       "title": "三法印 Three Marks of Existence",
       "type": "concept",
@@ -12220,7 +11944,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/三解脱门 Trīṇi Vimokṣa-mukhāni.md",
+      "path": "宗教/佛教/概念/基础概念/三解脱门 Trīṇi Vimokṣa-mukhāni.md",
       "id": "宗教.buddhism.concept.three-liberations",
       "title": "三解脱门 Trīṇi Vimokṣa-mukhāni",
       "type": "concept",
@@ -12235,7 +11959,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/三身 Trikāya.md",
+      "path": "宗教/佛教/概念/基础概念/三身 Trikāya.md",
       "id": "宗教.buddhism.concept.trikaya",
       "title": "三身 Trikāya",
       "type": "concept",
@@ -12250,7 +11974,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/业与轮回 Karma & Rebirth.md",
+      "path": "宗教/佛教/概念/基础概念/业与轮回 Karma & Rebirth.md",
       "id": "宗教.buddhism.core.karma-rebirth",
       "title": "业与轮回 Karma & Rebirth",
       "type": "concept",
@@ -12264,7 +11988,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/中道 Middle Way.md",
+      "path": "宗教/佛教/概念/基础概念/中道 Middle Way.md",
       "id": "宗教.buddhism.core.middle-way",
       "title": "中道 Middle Way",
       "type": "concept",
@@ -12277,7 +12001,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/九住心 Navākārā Cit sthitiḥ.md",
+      "path": "宗教/佛教/概念/基础概念/九住心 Navākārā Cit sthitiḥ.md",
       "id": "宗教.buddhism.concept.nine-abidings",
       "title": "九住心 Navākārā Cit sthitiḥ",
       "type": "concept",
@@ -12292,7 +12016,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/二谛 Two Truths.md",
+      "path": "宗教/佛教/概念/基础概念/二谛 Two Truths.md",
       "id": "宗教.buddhism.core.two-truths",
       "title": "二谛 Two Truths",
       "type": "concept",
@@ -12307,7 +12031,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/二障 Dve Āvaraṇe.md",
+      "path": "宗教/佛教/概念/基础概念/二障 Dve Āvaraṇe.md",
       "id": "宗教.buddhism.concept.two-obstacles",
       "title": "二障 Dve Āvaraṇe",
       "type": "concept",
@@ -12322,7 +12046,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/五明 Pañcavidyā.md",
+      "path": "宗教/佛教/概念/基础概念/五明 Pañcavidyā.md",
       "id": "宗教.buddhism.core.pancavidya",
       "title": "五明 Pañcavidyā",
       "type": "concept",
@@ -12338,7 +12062,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/五蕴 Five Aggregates.md",
+      "path": "宗教/佛教/概念/基础概念/五蕴 Five Aggregates.md",
       "id": "宗教.buddhism.core.five-aggregates",
       "title": "五蕴 Five Aggregates",
       "type": "concept",
@@ -12352,7 +12076,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/佛性 Buddha Nature.md",
+      "path": "宗教/佛教/概念/基础概念/佛性 Buddha Nature.md",
       "id": "宗教.buddhism.core.buddha-nature",
       "title": "佛性 Buddha Nature",
       "type": "concept",
@@ -12366,7 +12090,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/八正道 Noble Eightfold Path.md",
+      "path": "宗教/佛教/概念/基础概念/八正道 Noble Eightfold Path.md",
       "id": "宗教.buddhism.core.noble-eightfold-path",
       "title": "八正道 Noble Eightfold Path",
       "type": "concept",
@@ -12380,7 +12104,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/六度 Six Pāramitās.md",
+      "path": "宗教/佛教/概念/基础概念/六度 Six Pāramitās.md",
       "id": "宗教.buddhism.core.six-paramitas",
       "title": "六度 Six Pāramitās",
       "type": "concept",
@@ -12398,7 +12122,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/判教 Doctrinal Classification.md",
+      "path": "宗教/佛教/概念/基础概念/判教 Doctrinal Classification.md",
       "id": "宗教.buddhism.core.doctrinal-classification",
       "title": "判教 Doctrinal Classification",
       "type": "concept",
@@ -12412,7 +12136,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/十二处 Dvādaśa Āyatana.md",
+      "path": "宗教/佛教/概念/基础概念/十二处 Dvādaśa Āyatana.md",
       "id": "宗教.buddhism.concept.twelve-ayatana",
       "title": "十二处 Dvādaśa Āyatana",
       "type": "concept",
@@ -12427,7 +12151,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/十二头陀行.md",
+      "path": "宗教/佛教/概念/基础概念/十二头陀行.md",
       "id": "dhutanga",
       "title": "十二头陀行",
       "type": "concept",
@@ -12442,7 +12166,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/十八界 Aṣṭādaśa Dhātu.md",
+      "path": "宗教/佛教/概念/基础概念/十八界 Aṣṭādaśa Dhātu.md",
       "id": "宗教.buddhism.concept.eighteen-dhatu",
       "title": "十八界 Aṣṭādaśa Dhātu",
       "type": "concept",
@@ -12456,7 +12180,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/唯识 Vijñaptimātratā.md",
+      "path": "宗教/佛教/概念/基础概念/唯识 Vijñaptimātratā.md",
       "id": "宗教.buddhism.concept.vijnaptimatrata",
       "title": "唯识 Vijñaptimātratā",
       "type": "concept",
@@ -12471,7 +12195,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/四依四不依 Four Reliances.md",
+      "path": "宗教/佛教/概念/基础概念/四依四不依 Four Reliances.md",
       "id": "宗教.buddhism.core.four-reliances",
       "title": "四依四不依 Four Reliances",
       "type": "concept",
@@ -12486,7 +12210,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/四无所畏.md",
+      "path": "宗教/佛教/概念/基础概念/四无所畏.md",
       "id": "four-fearlessnesses",
       "title": "四无所畏",
       "type": "concept",
@@ -12501,7 +12225,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/四无量心 Four Immeasurables.md",
+      "path": "宗教/佛教/概念/基础概念/四无量心 Four Immeasurables.md",
       "id": "宗教.buddhism.core.four-immeasurables",
       "title": "四无量心 Four Immeasurables",
       "type": "concept",
@@ -12514,7 +12238,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/四法印 Catvāri Dharma-mudrāni.md",
+      "path": "宗教/佛教/概念/基础概念/四法印 Catvāri Dharma-mudrāni.md",
       "id": "宗教.buddhism.concept.four-seals",
       "title": "四法印 Catvāri Dharma-mudrāni",
       "type": "concept",
@@ -12530,7 +12254,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/如来藏 Tathāgatagarbha.md",
+      "path": "宗教/佛教/概念/基础概念/如来藏 Tathāgatagarbha.md",
       "id": "宗教.buddhism.core.tathagatagarbha",
       "title": "如来藏 Tathāgatagarbha",
       "type": "concept",
@@ -12545,7 +12269,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/戒律学 Vinaya Studies.md",
+      "path": "宗教/佛教/概念/基础概念/戒律学 Vinaya Studies.md",
       "id": "宗教.buddhism.core.vinaya-studies",
       "title": "戒律学 Vinaya Studies",
       "type": "concept",
@@ -12561,7 +12285,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/方便 Upāya.md",
+      "path": "宗教/佛教/概念/基础概念/方便 Upāya.md",
       "id": "宗教.buddhism.concept.upaya",
       "title": "方便 Upāya",
       "type": "concept",
@@ -12576,7 +12300,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/无我 Anātman.md",
+      "path": "宗教/佛教/概念/基础概念/无我 Anātman.md",
       "id": "宗教.buddhism.concept.anatman",
       "title": "无我 Anātman",
       "type": "concept",
@@ -12591,7 +12315,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/止观 Śamatha-Vipaśyanā.md",
+      "path": "宗教/佛教/概念/基础概念/止观 Śamatha-Vipaśyanā.md",
       "id": "宗教.buddhism.core.samatha-vipasyana",
       "title": "止观 Śamatha-Vipaśyanā",
       "type": "concept",
@@ -12606,7 +12330,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/涅槃 Nirvāṇa.md",
+      "path": "宗教/佛教/概念/基础概念/涅槃 Nirvāṇa.md",
       "id": "宗教.buddhism.core.nirvana",
       "title": "涅槃 Nirvāṇa",
       "type": "concept",
@@ -12619,7 +12343,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/百法明门 Hundred Dharmas.md",
+      "path": "宗教/佛教/概念/基础概念/百法明门 Hundred Dharmas.md",
       "id": "宗教.buddhism.core.hundred-dharmas",
       "title": "百法明门 Hundred Dharmas",
       "type": "concept",
@@ -12634,7 +12358,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/空性 Śūnyatā.md",
+      "path": "宗教/佛教/概念/基础概念/空性 Śūnyatā.md",
       "id": "宗教.buddhism.concept.sunyata",
       "title": "空性 Śūnyatā",
       "type": "concept",
@@ -12649,7 +12373,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/缘起 Dependent Origination.md",
+      "path": "宗教/佛教/概念/基础概念/缘起 Dependent Origination.md",
       "id": "宗教.buddhism.core.dependent-origination",
       "title": "缘起 Dependent Origination",
       "type": "concept",
@@ -12662,7 +12386,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/菩萨道 Bodhisattva Path.md",
+      "path": "宗教/佛教/概念/基础概念/菩萨道 Bodhisattva Path.md",
       "id": "宗教.buddhism.core.bodhisattva-path",
       "title": "菩萨道 Bodhisattva Path",
       "type": "concept",
@@ -12676,7 +12400,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/foundational/贪嗔痴 Three Poisons.md",
+      "path": "宗教/佛教/概念/基础概念/贪嗔痴 Three Poisons.md",
       "id": "宗教.buddhism.concept.three-poisons",
       "title": "贪嗔痴 Three Poisons",
       "type": "concept",
@@ -12691,7 +12415,22 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/standalone/七处征心.md",
+      "path": "宗教/佛教/概念/注意与觉知.md",
+      "id": "宗教.buddhism.concepts.attention-awareness",
+      "title": "注意与觉知 · Attention and Awareness (Sati-Sampajañña)",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-认知理论",
+      "tags": [
+        "念",
+        "觉知",
+        "正知",
+        "四念处",
+        "注意力训练"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/独立概念/七处征心.md",
       "id": "qichu-zhengxin-legacy",
       "title": "七处征心 · Seven Investigations of the Heart-Mind",
       "type": "concept",
@@ -12705,7 +12444,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/standalone/八识体系.md",
+      "path": "宗教/佛教/概念/独立概念/八识体系.md",
       "id": "eight-consciousness-legacy",
       "title": "八识体系 · Eight-Consciousness System",
       "type": "concept",
@@ -12719,7 +12458,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/standalone/八还辨见.md",
+      "path": "宗教/佛教/概念/独立概念/八还辨见.md",
       "id": "baihuan-bianjian-legacy",
       "title": "八还辨见 · Eight Returnings to Discern Seeing",
       "type": "concept",
@@ -12733,7 +12472,7 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/standalone/金刚经.md",
+      "path": "宗教/佛教/概念/独立概念/金刚经.md",
       "id": "diamond-sutra-non-attachment-legacy",
       "title": "金刚经·无相 · Diamond Sutra: Non-Attachment to Form",
       "type": "concept",
@@ -12748,18 +12487,279 @@
       ]
     },
     {
-      "path": "宗教/佛教/概念/注意与觉知.md",
-      "id": "宗教.buddhism.concepts.attention-awareness",
-      "title": "注意与觉知 · Attention and Awareness (Sati-Sampajañña)",
+      "path": "宗教/佛教/概念/认知理论/七处征心.md",
+      "id": "qichu-zhengxin",
+      "title": "七处征心 · Seven Places of Mind-Seeking",
       "type": "concept",
       "domain": "宗教",
-      "school": "buddhism-cognitive-theory",
+      "school": "buddhism-yogacara",
       "tags": [
-        "念",
-        "觉知",
-        "正知",
+        "认知",
+        "心",
+        "楞严经",
+        "觉知"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/三性.md",
+      "id": "three-natures",
+      "title": "三性 · Trisvabhāva (Three Natures)",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-yogacara",
+      "tags": [
+        "唯识",
+        "三性",
+        "三自性",
+        "认知结构"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/中观.md",
+      "id": "madhyamaka",
+      "title": "中观·空 · Madhyamaka: Emptiness",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-prajna",
+      "tags": [
+        "中观",
+        "空性",
+        "龙树",
+        "二谛",
+        "不二"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/二谛.md",
+      "id": "two-truths",
+      "title": "二谛 · Satyadvaya (Two Truths)",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-madhyamaka",
+      "tags": [
+        "二谛",
+        "中观",
+        "世俗谛",
+        "胜义谛",
+        "认识论"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/五蕴的认知读法.md",
+      "id": "five-aggregates-cognitive",
+      "title": "五蕴的认知读法 · Pañcaskandha as Cognitive Bundle",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-early",
+      "tags": [
+        "五蕴",
+        "无我",
+        "认知束",
+        "绑定问题"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/八识体系.md",
+      "id": "eight-consciousness",
+      "title": "八识体系 · Eight Consciousnesses",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-yogacara",
+      "tags": [
+        "唯识",
+        "八识",
+        "认知",
+        "意识"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/八还辨见.md",
+      "id": "baihuan-bianjian",
+      "title": "八还辨见 · Eight Returns to Distinguish Seeing",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-yogacara",
+      "tags": [
+        "认知",
+        "觉性",
+        "楞严经",
+        "见性"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/公案与话头的认知机制.md",
+      "id": "koan-mechanics",
+      "title": "公案与话头的认知机制 · Kōan and Huàtóu Cognitive Mechanics",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-chan-zen",
+      "tags": [
+        "禅宗",
+        "公案",
+        "话头",
+        "顿悟",
+        "认知饱和"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/六根六尘六识.md",
+      "id": "six-constituents",
+      "title": "六根六尘六识 · Six Sense Constituents",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-yogacara",
+      "tags": [
+        "唯识",
+        "感知",
+        "根尘识",
+        "十八界"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/十二因缘的认知读法.md",
+      "id": "dependent-origination-cognitive",
+      "title": "十二因缘的认知读法 · Pratītyasamutpāda as Cognitive Chain",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-early",
+      "tags": [
+        "缘起",
+        "十二因缘",
+        "认知链",
+        "刹那缘起",
+        "无明"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/四念处作为元认知训练.md",
+      "id": "satipatthana-cognitive",
+      "title": "四念处作为元认知训练 · Satipaṭṭhāna as Meta-Cognitive Training",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-theravada",
+      "tags": [
         "四念处",
-        "注意力训练"
+        "正念",
+        "元认知",
+        "内观"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/心物一元.md",
+      "id": "mind-world-one",
+      "title": "心物一元 · Mind-World Identity",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-yogacara",
+      "tags": [
+        "唯识",
+        "心物",
+        "境随心转",
+        "藏识",
+        "境"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/止观的认知分工.md",
+      "id": "samadhi-vipasyana",
+      "title": "止观的认知分工 · Śamatha and Vipaśyanā as Cognitive Partnership",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-meditation",
+      "tags": [
+        "止观",
+        "禅修",
+        "定慧",
+        "认知双轨"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/种子与熏习.md",
+      "id": "bija-vasana",
+      "title": "种子与熏习 · Bīja and Vāsanā",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-yogacara",
+      "tags": [
+        "唯识",
+        "种子",
+        "熏习",
+        "阿赖耶",
+        "习气"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/转识成智.md",
+      "id": "consciousness-transformation",
+      "title": "转识成智 · Transformation of Consciousness",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-yogacara",
+      "tags": [
+        "转识成智",
+        "四智",
+        "修道",
+        "五种姓",
+        "瑜伽行"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/量论.md",
+      "id": "pramana",
+      "title": "量论 · Pramāṇa (Buddhist Epistemology)",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-yogacara-pramana",
+      "tags": [
+        "量论",
+        "因明",
+        "陈那",
+        "法称",
+        "认识论"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/金刚经.md",
+      "id": "diamond-sutra-non-attachment",
+      "title": "金刚经·无相 · Diamond Sūtra: Non-Attachment",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-prajna",
+      "tags": [
+        "空性",
+        "无住",
+        "般若",
+        "金刚经"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/阿毗达磨心识论.md",
+      "id": "abhidharma-mind",
+      "title": "阿毗达磨心识论 · Abhidharma Psychology of Mind",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-abhidharma",
+      "tags": [
+        "阿毗达磨",
+        "心所",
+        "心路",
+        "上座部",
+        "佛教心理学"
+      ]
+    },
+    {
+      "path": "宗教/佛教/概念/认知理论/默照的认知结构.md",
+      "id": "silent-illumination",
+      "title": "默照的认知结构 · Silent Illumination as Non-Selective Awareness",
+      "type": "concept",
+      "domain": "宗教",
+      "school": "buddhism-chan-zen",
+      "tags": [
+        "禅宗",
+        "默照",
+        "曹洞",
+        "无拣择",
+        "非对象化"
       ]
     },
     {
@@ -13600,7 +13600,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/中国/临济义玄.md",
+      "path": "宗教/智慧大师/大师/中国/临济义玄.md",
       "id": "linji-yixuan",
       "title": "临济义玄 · Linji Yixuan",
       "type": "thinker",
@@ -13616,7 +13616,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/中国/慧能.md",
+      "path": "宗教/智慧大师/大师/中国/慧能.md",
       "id": "hui-neng",
       "title": "慧能 · 第六祖 · The Sixth Patriarch",
       "type": "thinker",
@@ -13630,7 +13630,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/中国/菩提达摩 Bodhidharma.md",
+      "path": "宗教/智慧大师/大师/中国/菩提达摩 Bodhidharma.md",
       "id": "bodhidharma",
       "title": "菩提达摩 Bodhidharma",
       "type": "thinker",
@@ -13638,7 +13638,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/中国/马祖道一/时间线.md",
+      "path": "宗教/智慧大师/大师/中国/马祖道一/时间线.md",
       "id": "马祖道一-时间线",
       "title": "马祖道一年表 / Timeline of Mazu Daoyi",
       "type": "thinker",
@@ -13646,8 +13646,8 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/中国/马祖道一/概念/即心是佛 Jí Xīn Shì Fó.md",
-      "id": "wisdom-masters.china.mazu-daoyi.mind-is-buddha",
+      "path": "宗教/智慧大师/大师/中国/马祖道一/概念/即心是佛 Jí Xīn Shì Fó.md",
+      "id": "智慧大师.china.mazu-daoyi.mind-is-buddha",
       "title": "即心是佛 Jí Xīn Shì Fó",
       "type": "concept",
       "domain": "宗教",
@@ -13659,8 +13659,8 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/中国/马祖道一/概念/平常心是道 Píngcháng Xīn Shì Dào.md",
-      "id": "wisdom-masters.china.mazu-daoyi.ordinary-mind-way",
+      "path": "宗教/智慧大师/大师/中国/马祖道一/概念/平常心是道 Píngcháng Xīn Shì Dào.md",
+      "id": "智慧大师.china.mazu-daoyi.ordinary-mind-way",
       "title": "平常心是道 Píngcháng Xīn Shì Dào",
       "type": "concept",
       "domain": "宗教",
@@ -13672,8 +13672,8 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/中国/马祖道一/概念/洪州宗 Hóngzhōu Zōng.md",
-      "id": "wisdom-masters.china.mazu-daoyi.hongzhou-school",
+      "path": "宗教/智慧大师/大师/中国/马祖道一/概念/洪州宗 Hóngzhōu Zōng.md",
+      "id": "智慧大师.china.mazu-daoyi.hongzhou-school",
       "title": "洪州宗 Hóngzhōu Zōng",
       "type": "concept",
       "domain": "宗教",
@@ -13685,8 +13685,8 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/中国/马祖道一/概念/随处任真 Suíchù Rènzhēn.md",
-      "id": "wisdom-masters.china.mazu-daoyi.natural-authenticity",
+      "path": "宗教/智慧大师/大师/中国/马祖道一/概念/随处任真 Suíchù Rènzhēn.md",
+      "id": "智慧大师.china.mazu-daoyi.natural-authenticity",
       "title": "随处任真 Suíchù Rènzhēn",
       "type": "concept",
       "domain": "宗教",
@@ -13698,8 +13698,8 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/中国/马祖道一/概念/非心非佛 Fēi Xīn Fēi Fó.md",
-      "id": "wisdom-masters.china.mazu-daoyi.neither-mind-nor-buddha",
+      "path": "宗教/智慧大师/大师/中国/马祖道一/概念/非心非佛 Fēi Xīn Fēi Fó.md",
+      "id": "智慧大师.china.mazu-daoyi.neither-mind-nor-buddha",
       "title": "非心非佛 Fēi Xīn Fēi Fó",
       "type": "concept",
       "domain": "宗教",
@@ -13711,7 +13711,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/中国/马祖道一/著作.md",
+      "path": "宗教/智慧大师/大师/中国/马祖道一/著作.md",
       "id": "马祖道一-著作",
       "title": "马祖道一著作目录 / Works of Mazu Daoyi",
       "type": "thinker",
@@ -13719,7 +13719,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/中国/马祖道一/阅读.md",
+      "path": "宗教/智慧大师/大师/中国/马祖道一/阅读.md",
       "id": "马祖道一-阅读",
       "title": "马祖道一进阶阅读 / Reading List for Mazu Daoyi",
       "type": "thinker",
@@ -13727,7 +13727,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/中国/马祖道一.md",
+      "path": "宗教/智慧大师/大师/中国/马祖道一.md",
       "id": "mazu-daoyi",
       "title": "马祖道一 · Mazu Daoyi",
       "type": "thinker",
@@ -13741,7 +13741,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/日本/道元.md",
+      "path": "宗教/智慧大师/大师/日本/道元.md",
       "id": "dogen",
       "title": "道元 · Dōgen",
       "type": "thinker",
@@ -13756,7 +13756,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/佛使比丘/时间线.md",
+      "path": "宗教/智慧大师/大师/泰国/佛使比丘/时间线.md",
       "id": "佛使比丘-时间线",
       "title": "Timeline of Buddhadasa Bhikkhu · 佛使比丘年表",
       "type": "thinker",
@@ -13764,7 +13764,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/佛使比丘/概念/宗教对话.md",
+      "path": "宗教/智慧大师/大师/泰国/佛使比丘/概念/宗教对话.md",
       "id": "interreligious-dialogue",
       "title": "Interreligious Dialogue · 宗教对话",
       "type": "concept",
@@ -13780,7 +13780,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/佛使比丘/概念/无我实践.md",
+      "path": "宗教/智慧大师/大师/泰国/佛使比丘/概念/无我实践.md",
       "id": "anatta-practice",
       "title": "Anattā as Practice · 无我实践",
       "type": "concept",
@@ -13797,7 +13797,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/佛使比丘/概念/缘起法实践.md",
+      "path": "宗教/智慧大师/大师/泰国/佛使比丘/概念/缘起法实践.md",
       "id": "dependent-origination-practice",
       "title": "Dependent Origination as Practice · 缘起法实践",
       "type": "concept",
@@ -13813,7 +13813,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/佛使比丘/概念/自然观察.md",
+      "path": "宗教/智慧大师/大师/泰国/佛使比丘/概念/自然观察.md",
       "id": "nature-contemplation",
       "title": "Nature Contemplation · 自然观察",
       "type": "concept",
@@ -13830,7 +13830,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/佛使比丘/概念/解脱园.md",
+      "path": "宗教/智慧大师/大师/泰国/佛使比丘/概念/解脱园.md",
       "id": "suan-mokkh",
       "title": "Suan Mokkh · 解脱园",
       "type": "concept",
@@ -13846,7 +13846,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/佛使比丘/著作.md",
+      "path": "宗教/智慧大师/大师/泰国/佛使比丘/著作.md",
       "id": "佛使比丘-著作",
       "title": "Works of Buddhadasa Bhikkhu · 佛使比丘著作",
       "type": "thinker",
@@ -13854,7 +13854,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/佛使比丘/阅读.md",
+      "path": "宗教/智慧大师/大师/泰国/佛使比丘/阅读.md",
       "id": "佛使比丘-阅读",
       "title": "Reading List: Buddhadasa Bhikkhu · 佛使比丘推荐阅读",
       "type": "thinker",
@@ -13862,7 +13862,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/佛使比丘.md",
+      "path": "宗教/智慧大师/大师/泰国/佛使比丘.md",
       "id": "buddhadasa",
       "title": "佛使比丘 · Buddhadasa",
       "type": "thinker",
@@ -13876,7 +13876,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/阿姜查/时间线.md",
+      "path": "宗教/智慧大师/大师/泰国/阿姜查/时间线.md",
       "id": "阿姜查-时间线",
       "title": "阿姜查年表 / Timeline of Ajahn Chah",
       "type": "thinker",
@@ -13884,7 +13884,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/阿姜查/概念/当下觉察.md",
+      "path": "宗教/智慧大师/大师/泰国/阿姜查/概念/当下觉察.md",
       "id": "ajahn-chah-present-moment",
       "title": "当下觉察 · Present-Moment Awareness",
       "type": "concept",
@@ -13898,7 +13898,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/阿姜查/概念/森林禅修.md",
+      "path": "宗教/智慧大师/大师/泰国/阿姜查/概念/森林禅修.md",
       "id": "ajahn-chah-forest-meditation",
       "title": "森林禅修 · Forest Meditation",
       "type": "concept",
@@ -13912,7 +13912,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/阿姜查/概念/简单生活.md",
+      "path": "宗教/智慧大师/大师/泰国/阿姜查/概念/简单生活.md",
       "id": "ajahn-chah-simple-living",
       "title": "简单生活 · Simple Living",
       "type": "concept",
@@ -13926,7 +13926,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/阿姜查/概念/自然观察.md",
+      "path": "宗教/智慧大师/大师/泰国/阿姜查/概念/自然观察.md",
       "id": "ajahn-chah-natural-observation",
       "title": "自然观察 · Natural Observation",
       "type": "concept",
@@ -13940,7 +13940,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/阿姜查/概念/西方弘法.md",
+      "path": "宗教/智慧大师/大师/泰国/阿姜查/概念/西方弘法.md",
       "id": "ajahn-chah-teaching-westerners",
       "title": "西方弘法 · Teaching Westerners",
       "type": "concept",
@@ -13954,7 +13954,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/阿姜查/著作.md",
+      "path": "宗教/智慧大师/大师/泰国/阿姜查/著作.md",
       "id": "阿姜查-著作",
       "title": "阿姜查著作 / Works of Ajahn Chah",
       "type": "thinker",
@@ -13962,7 +13962,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/阿姜查/阅读.md",
+      "path": "宗教/智慧大师/大师/泰国/阿姜查/阅读.md",
       "id": "阿姜查-阅读",
       "title": "阿姜查阅读清单 / Reading List for Ajahn Chah",
       "type": "thinker",
@@ -13970,7 +13970,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/泰国/阿姜查.md",
+      "path": "宗教/智慧大师/大师/泰国/阿姜查.md",
       "id": "ajahn-chah",
       "title": "阿姜查 · Ajahn Chah",
       "type": "thinker",
@@ -13984,7 +13984,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/西方/一行禅师.md",
+      "path": "宗教/智慧大师/大师/西方/一行禅师.md",
       "id": "thich-nhat-hanh",
       "title": "一行禅师 · Thich Nhat Hanh",
       "type": "thinker",
@@ -13999,7 +13999,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/西藏/宗喀巴 Tsongkhapa.md",
+      "path": "宗教/智慧大师/大师/西藏/宗喀巴 Tsongkhapa.md",
       "id": "tsongkhapa",
       "title": "宗喀巴 Tsongkhapa",
       "type": "thinker",
@@ -14007,7 +14007,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/西藏/米拉日巴.md",
+      "path": "宗教/智慧大师/大师/西藏/米拉日巴.md",
       "id": "milarepa",
       "title": "米拉日巴 · Milarepa",
       "type": "thinker",
@@ -14022,7 +14022,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/masters/西藏/莲花生大士 Padmasambhava.md",
+      "path": "宗教/智慧大师/大师/西藏/莲花生大士 Padmasambhava.md",
       "id": "padmasambhava",
       "title": "莲花生大士 Padmasambhava",
       "type": "thinker",
@@ -14030,7 +14030,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/masters/西藏/阿底峡 Atisa.md",
+      "path": "宗教/智慧大师/大师/西藏/阿底峡 Atisa.md",
       "id": "atisha",
       "title": "阿底峡 Atisa",
       "type": "thinker",
@@ -14038,7 +14038,7 @@
       "school": "buddhism-mahayana"
     },
     {
-      "path": "宗教/智慧大师/skills/一行慈悲拥抱/SKILL.md",
+      "path": "宗教/智慧大师/技能/一行慈悲拥抱/SKILL.md",
       "id": "thich-nhat-hanh-compassion",
       "title": "thich-nhat-hanh-compassion",
       "type": "skill",
@@ -14054,7 +14054,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/一行正念呼吸/SKILL.md",
+      "path": "宗教/智慧大师/技能/一行正念呼吸/SKILL.md",
       "id": "thich-nhat-hanh-mindful-breathing",
       "title": "thich-nhat-hanh-mindful-breathing",
       "type": "skill",
@@ -14069,7 +14069,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/临济棒喝当下/SKILL.md",
+      "path": "宗教/智慧大师/技能/临济棒喝当下/SKILL.md",
       "id": "linji-pointer-blow",
       "title": "linji-pointer-blow",
       "type": "skill",
@@ -14083,7 +14083,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/寻求外部确认/SKILL.md",
+      "path": "宗教/智慧大师/技能/寻求外部确认/SKILL.md",
       "id": "linji-no-thing",
       "title": "linji-no-thing",
       "type": "skill",
@@ -14097,7 +14097,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/慧能平常心引/SKILL.md",
+      "path": "宗教/智慧大师/技能/慧能平常心引/SKILL.md",
       "id": "hui-neng-ordinary-mind",
       "title": "hui-neng-ordinary-mind",
       "type": "skill",
@@ -14112,7 +14112,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/慧能无住心法/SKILL.md",
+      "path": "宗教/智慧大师/技能/慧能无住心法/SKILL.md",
       "id": "hui-neng-no-dwelling",
       "title": "hui-neng-no-dwelling",
       "type": "skill",
@@ -14125,7 +14125,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/慧能顿悟检验/SKILL.md",
+      "path": "宗教/智慧大师/技能/慧能顿悟检验/SKILL.md",
       "id": "hui-neng-sudden-awakening",
       "title": "hui-neng-sudden-awakening",
       "type": "skill",
@@ -14139,7 +14139,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/米拉日巴苦行/SKILL.md",
+      "path": "宗教/智慧大师/技能/米拉日巴苦行/SKILL.md",
       "id": "milarepa-alchemy",
       "title": "milarepa-alchemy",
       "type": "skill",
@@ -14154,7 +14154,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/米拉日巴裸见/SKILL.md",
+      "path": "宗教/智慧大师/技能/米拉日巴裸见/SKILL.md",
       "id": "milarepa-naked-awareness",
       "title": "milarepa-naked-awareness",
       "type": "skill",
@@ -14169,7 +14169,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/道元只管打坐/SKILL.md",
+      "path": "宗教/智慧大师/技能/道元只管打坐/SKILL.md",
       "id": "dogen-shikantaza",
       "title": "dogen-shikantaza",
       "type": "skill",
@@ -14184,7 +14184,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/道元当下圆满/SKILL.md",
+      "path": "宗教/智慧大师/技能/道元当下圆满/SKILL.md",
       "id": "dogen-presence",
       "title": "dogen-presence",
       "type": "skill",
@@ -15826,21 +15826,8 @@
       ]
     },
     {
-      "path": "伦理政治/学派/能力方法/森/概念/身份与暴力 2.md",
-      "id": "伦理政治.学派.能力方法.森.概念.sen-identity-violence",
-      "title": "身份与暴力 · Identity and Violence · Sen",
-      "type": "concept",
-      "domain": "伦理政治",
-      "school": "capability-approach",
-      "tags": [
-        "identity",
-        "violence",
-        "pluralism"
-      ]
-    },
-    {
       "path": "伦理政治/学派/能力方法/森/概念/身份与暴力.md",
-      "id": "伦理政治.学派.能力方法.森.概念.sen-identity-violence",
+      "id": "sen-identity-violence",
       "title": "身份与暴力 · Identity and Violence",
       "type": "concept",
       "domain": "伦理政治",
@@ -18543,7 +18530,7 @@
         "social-learning",
         "社会学习",
         "vicarious-learning",
-        "social-cognitive-theory"
+        "social-认知理论"
       ]
     },
     {
@@ -20651,12 +20638,12 @@
     {
       "path": "心理学/学派/认知心理学/贝克/时间线.md",
       "id": "心理学.学派.认知心理学.贝克.贝克-时间线",
-      "title": "贝克思想年表 \\u00b7 Timeline of Aaron T. Beck",
+      "title": "贝克思想年表 · Timeline of Aaron T. Beck",
       "type": "thinker",
       "domain": "心理学"
     },
     {
-      "path": "心理学/学派/认知心理学/贝克/概念/图式与核心信念 \\u00b7 Schemas & Core Beliefs \\u00b7 Beck.md",
+      "path": "心理学/学派/认知心理学/贝克/概念/图式与核心信念 · Schemas & Core Beliefs · Beck.md",
       "id": "心理学.cognitive.beck.schemas",
       "title": "图式与核心信念 · Schemas & Core Beliefs · Beck",
       "type": "concept",
@@ -20672,7 +20659,7 @@
       ]
     },
     {
-      "path": "心理学/学派/认知心理学/贝克/概念/自动思维 \\u00b7 Automatic Thoughts \\u00b7 Beck.md",
+      "path": "心理学/学派/认知心理学/贝克/概念/自动思维 · Automatic Thoughts · Beck.md",
       "id": "心理学.cognitive.beck.automatic-thoughts",
       "title": "自动思维 · Automatic Thoughts · Beck",
       "type": "concept",
@@ -20687,7 +20674,7 @@
       ]
     },
     {
-      "path": "心理学/学派/认知心理学/贝克/概念/认知三联征 \\u00b7 Cognitive Triad \\u00b7 Beck.md",
+      "path": "心理学/学派/认知心理学/贝克/概念/认知三联征 · Cognitive Triad · Beck.md",
       "id": "心理学.cognitive.beck.cognitive-triad",
       "title": "认知三联征 · Cognitive Triad · Beck",
       "type": "concept",
@@ -20703,7 +20690,7 @@
       ]
     },
     {
-      "path": "心理学/学派/认知心理学/贝克/概念/认知扭曲 \\u00b7 Cognitive Distortions \\u00b7 Beck.md",
+      "path": "心理学/学派/认知心理学/贝克/概念/认知扭曲 · Cognitive Distortions · Beck.md",
       "id": "心理学.cognitive.beck.cognitive-distortions",
       "title": "认知扭曲 · Cognitive Distortions · Beck",
       "type": "concept",
@@ -20721,7 +20708,7 @@
       ]
     },
     {
-      "path": "心理学/学派/认知心理学/贝克/概念/认知疗法 \\u00b7 Cognitive Therapy \\u00b7 Beck.md",
+      "path": "心理学/学派/认知心理学/贝克/概念/认知疗法 · Cognitive Therapy · Beck.md",
       "id": "心理学.cognitive.beck.cognitive-therapy",
       "title": "认知疗法 · Cognitive Therapy · Beck",
       "type": "concept",
@@ -20739,14 +20726,14 @@
     {
       "path": "心理学/学派/认知心理学/贝克/著作.md",
       "id": "心理学.学派.认知心理学.贝克.贝克-著作",
-      "title": "贝克作品总览 \\u00b7 Works of Aaron T. Beck",
+      "title": "贝克作品总览 · Works of Aaron T. Beck",
       "type": "thinker",
       "domain": "心理学"
     },
     {
       "path": "心理学/学派/认知心理学/贝克/阅读.md",
       "id": "心理学.学派.认知心理学.贝克.贝克-阅读",
-      "title": "贝克进阶阅读指南 \\u00b7 Reading Guide for Aaron T. Beck",
+      "title": "贝克进阶阅读指南 · Reading Guide for Aaron T. Beck",
       "type": "thinker",
       "domain": "心理学"
     },
@@ -20875,7 +20862,7 @@
     {
       "path": "心理学/学派/认知心理学/达玛西奥/概念/具身认知达玛西奥版本.md",
       "id": "embodied-cognition-damasio",
-      "title": "具身认知（达玛西奥版本） / Embodied Cognition (Dam\\u00e1sio's Version)",
+      "title": "具身认知（达玛西奥版本） / Embodied Cognition (Damásio's Version)",
       "type": "concept",
       "domain": "心理学",
       "school": "cognitive",
@@ -20921,7 +20908,7 @@
     {
       "path": "心理学/学派/认知心理学/达玛西奥/概念/意识达玛西奥理论.md",
       "id": "consciousness-damasio",
-      "title": "意识（达玛西奥理论） / Consciousness (Dam\\u00e1sio's Theory)",
+      "title": "意识（达玛西奥理论） / Consciousness (Damásio's Theory)",
       "type": "concept",
       "domain": "心理学",
       "school": "cognitive",
@@ -25178,6 +25165,20 @@
       ]
     },
     {
+      "path": "美学/技能/媚俗识别/SKILL.md",
+      "id": "kitsch-detection",
+      "title": "kitsch-detection",
+      "type": "skill",
+      "domain": "美学",
+      "tags": [
+        "kitsch",
+        "kundera",
+        "greenberg",
+        "sentimentality",
+        "aesthetic-judgment"
+      ]
+    },
+    {
       "path": "美学/技能/审美判断分析/SKILL.md",
       "id": "aesthetic-judgment-analysis",
       "title": "aesthetic-judgment-analysis",
@@ -25188,6 +25189,20 @@
         "aesthetic-judgment",
         "four-moments",
         "critique-of-judgment"
+      ]
+    },
+    {
+      "path": "美学/技能/怪诞分析/SKILL.md",
+      "id": "grotesque-analysis",
+      "title": "grotesque-analysis",
+      "type": "skill",
+      "domain": "美学",
+      "tags": [
+        "grotesque",
+        "bakhtin",
+        "carnival",
+        "uncanny",
+        "transgression"
       ]
     },
     {
@@ -25205,6 +25220,34 @@
       ]
     },
     {
+      "path": "美学/技能/接受美学读者反应分析/SKILL.md",
+      "id": "reader-reception-analysis",
+      "title": "reader-reception-analysis",
+      "type": "skill",
+      "domain": "美学",
+      "tags": [
+        "reception-aesthetics",
+        "jauss",
+        "iser",
+        "horizon-of-expectations",
+        "reader-response"
+      ]
+    },
+    {
+      "path": "美学/技能/日常生活审美审计/SKILL.md",
+      "id": "everyday-aesthetics-audit",
+      "title": "everyday-aesthetics-audit",
+      "type": "skill",
+      "domain": "美学",
+      "tags": [
+        "everyday-aesthetics",
+        "dewey",
+        "shusterman",
+        "somaesthetics",
+        "environment-design"
+      ]
+    },
+    {
       "path": "美学/技能/艺术批评框架/SKILL.md",
       "id": "art-criticism-framework",
       "title": "art-criticism-framework",
@@ -25218,6 +25261,20 @@
         "expressive",
         "contextual",
         "pragmatic"
+      ]
+    },
+    {
+      "path": "美学/技能/陌生化分析/SKILL.md",
+      "id": "defamiliarization-analysis",
+      "title": "defamiliarization-analysis",
+      "type": "skill",
+      "domain": "美学",
+      "tags": [
+        "defamiliarization",
+        "formalism",
+        "shklovsky",
+        "perception",
+        "literariness"
       ]
     },
     {
@@ -29634,6 +29691,35 @@
       "domain": "艺术"
     },
     {
+      "path": "艺术/技能/关系艺术实践设计/SKILL.md",
+      "id": "relational-art-design",
+      "title": "relational-art-design",
+      "type": "skill",
+      "domain": "艺术",
+      "tags": [
+        "relational-aesthetics",
+        "bourriaud",
+        "participatory-art",
+        "social-practice",
+        "conviviality"
+      ]
+    },
+    {
+      "path": "艺术/技能/现成品挪用判断/SKILL.md",
+      "id": "readymade-judgment",
+      "title": "readymade-judgment",
+      "type": "skill",
+      "domain": "艺术",
+      "tags": [
+        "readymade",
+        "duchamp",
+        "artworld",
+        "danto",
+        "dickie",
+        "appropriation"
+      ]
+    },
+    {
       "path": "艺术/技能/色彩与情感分/SKILL.md",
       "id": "color-emotion-analysis",
       "title": "color-emotion-analysis",
@@ -29670,6 +29756,48 @@
         "创造力",
         "艺术表达",
         "韧性"
+      ]
+    },
+    {
+      "path": "艺术/技能/蒙太奇并置策略/SKILL.md",
+      "id": "montage-strategy-design",
+      "title": "montage-strategy-design",
+      "type": "skill",
+      "domain": "艺术",
+      "tags": [
+        "montage",
+        "eisenstein",
+        "kuleshov-effect",
+        "editing",
+        "juxtaposition"
+      ]
+    },
+    {
+      "path": "艺术/技能/街头艺术语境分析/SKILL.md",
+      "id": "street-art-context-analysis",
+      "title": "street-art-context-analysis",
+      "type": "skill",
+      "domain": "艺术",
+      "tags": [
+        "street-art",
+        "graffiti",
+        "urban-studies",
+        "legality",
+        "place-making"
+      ]
+    },
+    {
+      "path": "艺术/技能/装置艺术解读/SKILL.md",
+      "id": "installation-art-reading",
+      "title": "installation-art-reading",
+      "type": "skill",
+      "domain": "艺术",
+      "tags": [
+        "installation",
+        "spatial-art",
+        "embodiment",
+        "site-specificity",
+        "contemporary-art"
       ]
     },
     {
@@ -36243,7 +36371,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/一行慈悲拥抱/SKILL.md",
+      "path": "宗教/智慧大师/技能/一行慈悲拥抱/SKILL.md",
       "name": "thich-nhat-hanh-compassion",
       "description": "一行禅师\"慈悲拥抱\"法，用于在当事人陷入愤怒、怨恨、需要与困难情绪和解的场景。Triggers on 当事人对某人生气、无法原谅、被怨恨压垮、或者需要与\"困难的人\"和解的场景。",
       "domain": "宗教",
@@ -36258,7 +36386,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/一行正念呼吸/SKILL.md",
+      "path": "宗教/智慧大师/技能/一行正念呼吸/SKILL.md",
       "name": "thich-nhat-hanh-mindful-breathing",
       "description": "一行禅师\"正念呼吸\"法，用于帮助当事人回到当下、安顿身心。Triggers on 当事人焦虑、担心未来、或被过去困住、无法安静与自己相处的场景。",
       "domain": "宗教",
@@ -36272,7 +36400,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/临济棒喝当下/SKILL.md",
+      "path": "宗教/智慧大师/技能/临济棒喝当下/SKILL.md",
       "name": "linji-pointer-blow",
       "description": "临济\"棒喝当下\"法，用于在当事人过度思考、头脑分析过度、需要从思维切换到直接体验的时刻。Triggers on 当事人反复在\"想\"中打转、无法行动、需要打破思维循环的场景。",
       "domain": "宗教",
@@ -36285,7 +36413,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/寻求外部确认/SKILL.md",
+      "path": "宗教/智慧大师/技能/寻求外部确认/SKILL.md",
       "name": "linji-no-thing",
       "description": "临济\"无事是贵人\"法，用于在当事人内心充满杂念焦虑、不断在\"求\"什么的时候，当头棒喝\"莫觅\"。Triggers on 当事人陷入无尽的焦虑、担忧、追求，或者反复寻求外部确认（求佛、求法、求师）的场景。",
       "domain": "宗教",
@@ -36298,7 +36426,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/慧能平常心引/SKILL.md",
+      "path": "宗教/智慧大师/技能/慧能平常心引/SKILL.md",
       "name": "hui-neng-ordinary-mind",
       "description": "慧能\"平常心是道\"心法，用于引导当事人放下\"特殊化\"心态，回归当下日常。Triggers on 当事人觉得自己\"不够好\"、\"不够格\"、需要\"达到某种状态\"才能做某事，或陷入表演型人格、在意他人眼光的场景。",
       "domain": "宗教",
@@ -36312,7 +36440,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/慧能无住心法/SKILL.md",
+      "path": "宗教/智慧大师/技能/慧能无住心法/SKILL.md",
       "name": "hui-neng-no-dwelling",
       "description": "慧能\"无住\"心法，用于辨别执念的\"心住何处\"，引导回到不执不弃的当下。Triggers on 当事人陷入执念、反复纠结、无法放下某事某相的场景。",
       "domain": "宗教",
@@ -36324,7 +36452,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/慧能顿悟检验/SKILL.md",
+      "path": "宗教/智慧大师/技能/慧能顿悟检验/SKILL.md",
       "name": "hui-neng-sudden-awakening",
       "description": "慧能\"顿悟\"心法，用于辨别来访者是否落入渐修迷执，或是否有当下开悟的端倪。Triggers on 来访者执着于\"修行进度\"、觉得自己\"还没准备好\"、或需要打破\"我必须先XXX才能开悟\"的信念束缚的场景。",
       "domain": "宗教",
@@ -36337,7 +36465,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/米拉日巴苦行/SKILL.md",
+      "path": "宗教/智慧大师/技能/米拉日巴苦行/SKILL.md",
       "name": "milarepa-alchemy",
       "description": "米拉日巴\"苦行炼金\"法，用于将痛苦转化为修行道用。Triggers on 当事人正在经历重大挫折、损失、疾病或苦难，需要将苦难转化为成长燃料而非被其压垮的场景。",
       "domain": "宗教",
@@ -36351,7 +36479,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/米拉日巴裸见/SKILL.md",
+      "path": "宗教/智慧大师/技能/米拉日巴裸见/SKILL.md",
       "name": "milarepa-naked-awareness",
       "description": "米拉日巴\"裸见觉性\"法，用于在情绪或念头升起的刹那，直接认出觉性，不经次第。Triggers on 当事人陷入情绪漩涡、需要\"看见\"而非\"分析\"情绪、无法区分\"念头\"与\"觉性\"的场景。",
       "domain": "宗教",
@@ -36365,7 +36493,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/道元只管打坐/SKILL.md",
+      "path": "宗教/智慧大师/技能/道元只管打坐/SKILL.md",
       "name": "dogen-shikantaza",
       "description": "道元\"只管打坐\"法，用于帮助当事人从\"追求\"切换到\"存在\"，从\"做什么\"切换到\"只是在这里\"。Triggers on 当事人陷入无尽的目标追求、需要停下来、当事人把\"活着\"当作\"要达到某个状态\"的场景。",
       "domain": "宗教",
@@ -36379,7 +36507,7 @@
       ]
     },
     {
-      "path": "宗教/智慧大师/skills/道元当下圆满/SKILL.md",
+      "path": "宗教/智慧大师/技能/道元当下圆满/SKILL.md",
       "name": "dogen-presence",
       "description": "道元\"当下圆满\"法，用于帮助当事人看到\"此时此地的存在本身已经是完整的\"。Triggers on 当事人无法接受当下的自己、觉得\"现在的我不配\"、需要\"成为更好的自己\"才能幸福的场景。",
       "domain": "宗教",
@@ -36889,6 +37017,19 @@
       ]
     },
     {
+      "path": "美学/技能/媚俗识别/SKILL.md",
+      "name": "kitsch-detection",
+      "description": "用昆德拉/格林伯格的媚俗框架识别情感自欺与审美操纵",
+      "domain": "美学",
+      "tags": [
+        "kitsch",
+        "kundera",
+        "greenberg",
+        "sentimentality",
+        "aesthetic-judgment"
+      ]
+    },
+    {
       "path": "美学/技能/审美判断分析/SKILL.md",
       "name": "aesthetic-judgment-analysis",
       "description": "基于康德审美判断四契机的审美判断分析框架",
@@ -36898,6 +37039,19 @@
         "aesthetic-judgment",
         "four-moments",
         "critique-of-judgment"
+      ]
+    },
+    {
+      "path": "美学/技能/怪诞分析/SKILL.md",
+      "name": "grotesque-analysis",
+      "description": "用怪诞（巴赫金狂欢化/汤姆森混合论）分析不协调、变形与越界的美学功能",
+      "domain": "美学",
+      "tags": [
+        "grotesque",
+        "bakhtin",
+        "carnival",
+        "uncanny",
+        "transgression"
       ]
     },
     {
@@ -36914,6 +37068,32 @@
       ]
     },
     {
+      "path": "美学/技能/接受美学读者反应分析/SKILL.md",
+      "name": "reader-reception-analysis",
+      "description": "用接受美学（姚斯期待视野/伊瑟尔隐含读者）分析一部作品如何被接受位置决定意义",
+      "domain": "美学",
+      "tags": [
+        "reception-aesthetics",
+        "jauss",
+        "iser",
+        "horizon-of-expectations",
+        "reader-response"
+      ]
+    },
+    {
+      "path": "美学/技能/日常生活审美审计/SKILL.md",
+      "name": "everyday-aesthetics-audit",
+      "description": "用日常生活美学（杜威经验论/舒斯特曼身体美学）审计并重设计一个人的日常审美环境",
+      "domain": "美学",
+      "tags": [
+        "everyday-aesthetics",
+        "dewey",
+        "shusterman",
+        "somaesthetics",
+        "environment-design"
+      ]
+    },
+    {
       "path": "美学/技能/艺术批评框架/SKILL.md",
       "name": "art-criticism-framework",
       "description": "基于杜威经验美学的四层艺术批评框架",
@@ -36926,6 +37106,19 @@
         "expressive",
         "contextual",
         "pragmatic"
+      ]
+    },
+    {
+      "path": "美学/技能/陌生化分析/SKILL.md",
+      "name": "defamiliarization-analysis",
+      "description": "用什克洛夫斯基\"陌生化\"框架分析文本如何延宕、更新自动化感知",
+      "domain": "美学",
+      "tags": [
+        "defamiliarization",
+        "formalism",
+        "shklovsky",
+        "perception",
+        "literariness"
       ]
     },
     {
@@ -36989,6 +37182,33 @@
       ]
     },
     {
+      "path": "艺术/技能/关系艺术实践设计/SKILL.md",
+      "name": "relational-art-design",
+      "description": "用波斯坦的关系美学设计一次以\"人际相遇\"为材料的艺术实践",
+      "domain": "艺术",
+      "tags": [
+        "relational-aesthetics",
+        "bourriaud",
+        "participatory-art",
+        "social-practice",
+        "conviviality"
+      ]
+    },
+    {
+      "path": "艺术/技能/现成品挪用判断/SKILL.md",
+      "name": "readymade-judgment",
+      "description": "用杜尚现成品与艺术界理论（丹托/迪基）分析挪用品的艺术资格问题",
+      "domain": "艺术",
+      "tags": [
+        "readymade",
+        "duchamp",
+        "artworld",
+        "danto",
+        "dickie",
+        "appropriation"
+      ]
+    },
+    {
       "path": "艺术/技能/色彩与情感分/SKILL.md",
       "name": "color-emotion-analysis",
       "description": "Triggers on requests to 色彩与情感、艺术表达、视觉心理，如艺术创作、设计、心理分析等。Apply this skill to analyze the relationship between color and emotion using Van Gogh's approach, understanding how color can express inner states.",
@@ -37022,6 +37242,45 @@
         "创造力",
         "艺术表达",
         "韧性"
+      ]
+    },
+    {
+      "path": "艺术/技能/蒙太奇并置策略/SKILL.md",
+      "name": "montage-strategy-design",
+      "description": "用爱森斯坦杂耍蒙太奇与库里肖夫效应设计并诊断镜头/图像并置策略",
+      "domain": "艺术",
+      "tags": [
+        "montage",
+        "eisenstein",
+        "kuleshov-effect",
+        "editing",
+        "juxtaposition"
+      ]
+    },
+    {
+      "path": "艺术/技能/街头艺术语境分析/SKILL.md",
+      "name": "street-art-context-analysis",
+      "description": "分析街头艺术/涂鸦在合法性、场所与城市治理语境中的意义生产",
+      "domain": "艺术",
+      "tags": [
+        "street-art",
+        "graffiti",
+        "urban-studies",
+        "legality",
+        "place-making"
+      ]
+    },
+    {
+      "path": "艺术/技能/装置艺术解读/SKILL.md",
+      "name": "installation-art-reading",
+      "description": "用装置艺术的空间性/临时性/身体在场三轴系统解读一件装置作品",
+      "domain": "艺术",
+      "tags": [
+        "installation",
+        "spatial-art",
+        "embodiment",
+        "site-specificity",
+        "contemporary-art"
       ]
     },
     {
