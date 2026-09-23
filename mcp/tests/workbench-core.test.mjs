@@ -1,6 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
+import { execFileSync } from 'node:child_process';
 import vm from 'node:vm';
 
 export const REPO_ROOT = new URL('../../', import.meta.url).pathname;
@@ -115,4 +116,28 @@ test('注册台 matrix/facets/select 与登记册一致（真 index.json）', ()
   assert.equal(plain(OCW.selectEntries(index, { domain: '不存在' })).length, 0);
   assert.equal(OCW.redirectCount(index),
     index.entries.filter((e) => e.type === 'redirect').length);
+});
+
+/* --------------------------------- Task 4: 检索台 -------------------------------- */
+
+/** Python 真值：直接调 MCP 的 queries.search()。 */
+function pySearch(query, domain, type, limit) {
+  const py = [
+    'import json,sys;sys.path.insert(0,"mcp")',
+    'from open_cognition_mcp import queries',
+    'print(json.dumps(queries.search(sys.argv[1],' +
+    (domain ? JSON.stringify(domain) : 'None') + ',' + (type ? JSON.stringify(type) : 'None') +
+    ',' + (limit || 20) + '), ensure_ascii=False))',
+  ].join(';');
+  return JSON.parse(execFileSync('python3', ['-c', py, query], { cwd: REPO_ROOT }).toString());
+}
+
+test('search 结果与 queries.search() 逐条一致（含大小写与 limit 边界）', () => {
+  const OCW = loadCore();
+  const index = JSON.parse(readFileSync(REPO_ROOT + 'index.json', 'utf8'));
+  for (const q of ['异化', 'ALIENATION', 'wuwei', '场域', 'zzz-不存在']) {
+    assert.deepEqual(plain(OCW.search(index, q)), pySearch(q), q);
+  }
+  assert.deepEqual(plain(OCW.search(index, '概念', '哲学', 'concept', 5)), pySearch('概念', '哲学', 'concept', 5));
+  assert.equal(OCW.search(index, '异化', '哲学', null, 3).length, pySearch('异化', '哲学', null, 3).length);
 });

@@ -157,6 +157,28 @@ globalThis.OCW = (function () {
     return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ',');
   }
 
+  /* ---- 检索台：与 MCP queries.search() 同谓词 ---- */
+  /* 对应 queries.py:73-90 —— id/title/school + tags 上的大小写不敏感子串匹配。
+     默认顺序 = 登记册索引序，前端不做任何隐式加权（要加权必须在此处显式实现并标注）。 */
+  function search(index, query, domain, type, limit) {
+    const q = String(query == null ? '' : query).toLowerCase();
+    const cap = limit == null ? 20 : limit;
+    const hits = [];
+    for (const e of index.entries) {
+      if (domain && e.domain !== domain) continue;
+      if (type && e.type !== type) continue;
+      let hay = ['id', 'title', 'school'].map(function (k) {
+        return String(e[k] == null ? '' : e[k]);
+      }).join(' ');
+      hay += ' ' + (e.tags || []).map(String).join(' ');
+      if (hay.toLowerCase().indexOf(q) >= 0) {
+        hits.push({ path: e.path, id: e.id, title: e.title, type: e.type, domain: e.domain });
+      }
+      if (hits.length >= cap) break;
+    }
+    return hits;
+  }
+
   /* ---- 注册台：一切读数由登记册现算 ---- */
   const LIST_ONLY_FIELDS = ['category', 'channel', 'angle'];
 
@@ -216,7 +238,7 @@ globalThis.OCW = (function () {
   }
 
   /* OCW:CONTRACT-FUNCS */
-  return { PANES, PANE_LABELS, parseHash, writeHash, needsServer, loadIndex, fmt, enc, dec,
+  return { PANES, PANE_LABELS, parseHash, writeHash, needsServer, loadIndex, fmt, enc, dec, search,
            matrix, facets, selectEntries, redirectCount, LIST_ONLY_FIELDS };
 })();
 </script>
@@ -388,6 +410,81 @@ globalThis.OCW = (function () {
     if (rows.length > 300) host.appendChild(el('div', { class: 'note', text: '仅渲染前 300 行；用 facet 或检索台缩小范围。' }));
   }
 
+  /* 检索台：查询词只重绘结果区（renderHits），避免整面板重建导致输入框丢焦点、光标跳回行首 */
+  function renderRetrieval() {
+    const host = document.getElementById('pane-retrieval');
+    host.textContent = '';
+    host.appendChild(el('h2', { text: '检索台 · search(query, domain?, type?, limit)' }));
+    const box = el('div', { class: 'chips' });
+    box.appendChild(el('input', {
+      type: 'search', id: 'ocw-q', placeholder: '/ 聚焦后输入子串，如 异化',
+      'aria-label': '查询词', value: App.state.q || '',
+      oninput: function () { setQuery(this.value); },
+    }));
+    const fx = OCW.facets(App.index);
+    [['domain', '域'], ['type', '类型']].forEach(function (kv) {
+      const sel = el('select', { 'aria-label': kv[1], onchange: function () { go({ [kv[0]]: this.value }); } });
+      sel.appendChild(el('option', { value: '', text: kv[1] + '：全部' }));
+      fx[kv[0]].forEach(function (f) {
+        sel.appendChild(el('option', { value: f.value, text: f.value, selected: App.state[kv[0]] === f.value }));
+      });
+      box.appendChild(sel);
+    });
+    box.appendChild(el('label', { class: 'dim' }, [
+      'limit ', el('input', { type: 'search', id: 'ocw-limit', value: App.state.limit || '20',
+        style: 'width:56px', onchange: function () { go({ limit: this.value }); } }),
+    ]));
+    host.appendChild(box);
+    host.appendChild(el('div', { id: 'ocw-hits' }));
+    renderHits();
+  }
+
+  /* limit 是用户输入，属系统边界：非整数一律回到 MCP 的默认值，绝不把 NaN 传进谓词 */
+  function limitArg() {
+    const s = App.state.limit;
+    if (s == null || s === '') return 20;
+    const n = Number(s);
+    return Number.isInteger(n) && n >= 0 ? n : 20;
+  }
+
+  function renderHits() {
+    const host = document.getElementById('ocw-hits');
+    if (!host) return;
+    host.textContent = '';
+    if (!App.state.q) {
+      App.rows = [];
+      host.appendChild(el('div', { class: 'empty', text: '尚未输入查询词。' }));
+      return;
+    }
+    const hits = OCW.search(App.index, App.state.q, App.state.domain || null, App.state.type || null, limitArg());
+    App.rows = hits;
+    host.appendChild(el('div', { class: 'note', text:
+      '谓词与 mcp/open_cognition_mcp/queries.py 的 search() 严格一致：id / title / school / tags 上的大小写不敏感子串匹配，' +
+      '顺序为登记册索引序（前端无加权、无模糊匹配）。命中 ' + OCW.fmt(hits.length) + ' 条（limit 截断，非总数）。' }));
+    if (!hits.length) {
+      host.appendChild(el('div', { class: 'empty', text: '该查询无命中。' }));
+      return;
+    }
+    const t = el('table');
+    t.appendChild(el('tr', {}, ['path', 'id', '标题', '类型', '域'].map((h) => el('th', { text: h }))));
+    hits.forEach(function (h, i) {
+      const tr = el('tr', { onclick: function () { App.cursor = i; openDrawer(h); } }, [
+        el('td', { text: h.path }), el('td', { text: h.id }), el('td', { text: h.title }),
+        el('td', { text: h.type }), el('td', { text: h.domain }),
+      ]);
+      if (i === App.cursor) tr.setAttribute('cursor', '');
+      t.appendChild(tr);
+    });
+    host.appendChild(t);
+  }
+
+  function setQuery(v) {
+    App.state.q = v;
+    App.cursor = 0;
+    globalThis.history.replaceState(null, '', OCW.writeHash(App.state));
+    renderHits();
+  }
+
   function renderPanes() {
     OCW.PANES.forEach(function (p) { show('pane-' + p, p === App.state.pane && !App.error && App.index); });
     show('pane-boot', App.error ? App.rows.length === 0 : !App.index);
@@ -403,6 +500,7 @@ globalThis.OCW = (function () {
     }
     if (App.index && !App.error) {
       if (App.state.pane === 'registry') renderRegistry();
+      if (App.state.pane === 'retrieval') renderRetrieval();
     }
   }
 
@@ -419,6 +517,34 @@ globalThis.OCW = (function () {
     App.state = OCW.parseHash(globalThis.location.hash);
     App.cursor = 0;
     render();
+  });
+
+  /* 键盘流：/ 聚焦检索 · 1..4 切面板 · j/k 移游标 · Enter 溯源 · Esc 关抽屉 */
+  function moveCursor(delta) {
+    if (!App.rows.length) return;
+    App.cursor = Math.min(Math.max(App.cursor + delta, 0), App.rows.length - 1);
+    render();
+    const row = document.querySelector('tr[cursor]');
+    if (row) row.scrollIntoView({ block: 'nearest' });
+  }
+  document.addEventListener('keydown', function (ev) {
+    const typing = /^(INPUT|TEXTAREA|SELECT)$/.test(ev.target.tagName);
+    if (ev.key === 'Escape') { closeDrawer(); return; }
+    if (ev.key === '/' && !typing) {
+      ev.preventDefault();
+      if (App.state.pane !== 'retrieval') go({ pane: 'retrieval' });
+      const q = document.getElementById('ocw-q');
+      if (q) q.focus();
+      return;
+    }
+    if (typing) return;
+    if (ev.key >= '1' && ev.key <= '4') { go({ pane: OCW.PANES[Number(ev.key) - 1] }); return; }
+    if (ev.key === 'j') { ev.preventDefault(); moveCursor(1); return; }
+    if (ev.key === 'k') { ev.preventDefault(); moveCursor(-1); return; }
+    if (ev.key === 'Enter' && App.rows[App.cursor]) {
+      ev.preventDefault();
+      openDrawer(App.rows[App.cursor]);
+    }
   });
 
   OCW.loadIndex().then(function (index) { App.index = index; render(); })

@@ -860,9 +860,10 @@ git commit -m "feat(workbench): P1 注册台（领域×类型交叉表 + facet �
 
 **Interfaces:**
 - Consumes: `App.index`
-- Produces: `OCW.search(index, query, domain, type, limit) -> [{path,id,title,type,domain}]`（谓词逐字对齐 Python）；`OCW.searchFacets(index, hits) -> {domain:[{value,count}], type:[...]}`。
+- Produces: `OCW.search(index, query, domain, type, limit) -> [{path,id,title,type,domain}]`（谓词逐字对齐 Python）。
+  （本计划原文另列 `OCW.searchFacets(index, hits)`，但没有任何 Step 或后续 Task 消费它——按 YAGNI 不实现；检索结果的域/类型分布由 facet 下拉与命中表本身承载。执行时确认：全计划仅此处出现该名字。）
 
-- [ ] **Step 1: 写失败测试**
+- [x] **Step 1: 写失败测试**
 
 ```js
 import { execFileSync } from 'node:child_process';
@@ -889,11 +890,13 @@ test('search 结果与 queries.search() 逐条一致（含大小写与 limit 边
 });
 ```
 
-- [ ] **Step 2: 跑测试确认失败**
+- [x] **Step 2: 跑测试确认失败**
 
 Run: `node --test mcp/tests/*.test.mjs` → Expected: FAIL —— `OCW.search is not a function`
 
-- [ ] **Step 3: 实现 `search`（core，插在 `matrix` 之前并加入 `return`）**
+实测：新测试 FAIL 于 `OCW.search is not a function`，既有测试仍 PASS，符合预期。
+
+- [x] **Step 3: 实现 `search`（core，插在 `matrix` 之前并加入 `return`）**
 
 ```js
   /* 对应 queries.py:73-90 —— 谓词是 id/title/school + tags 上的大小写不敏感子串匹配。
@@ -918,7 +921,12 @@ Run: `node --test mcp/tests/*.test.mjs` → Expected: FAIL —— `OCW.search is
 
 Python 的 `hay = " ".join(...)` + `hay += " " + tags` 拼接顺序与空格必须一致——上面两行即是该结构的直译。
 
-- [ ] **Step 4: app 渲染检索台 + 键盘流**
+- [x] **Step 4: app 渲染检索台 + 键盘流**
+
+（本 Step 下方代码里的 `oninput: go({ q: this.value })` 在执行时被替换为 `setQuery()`：
+`go()` 走 `pushState + render()`，会重建整个面板 DOM，每敲一个字符输入框节点就被换掉——
+焦点丢失、光标跳回行首。改为只重绘结果区（`renderHits()`）+ `history.replaceState` 同步 hash，
+键盘输入不再打断。详见 Step 5 的实测记录。）
 
 ```js
   function renderRetrieval() {
@@ -1019,17 +1027,34 @@ Python 的 `hay = " ".join(...)` + `hay += " " + tags` 拼接顺序与空格必�
   }
 ```
 
-- [ ] **Step 5: 跑测试 + 实机验证**
+- [x] **Step 5: 跑测试 + 实机验证**
 
-Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（9 tests，含 Python 对照 6 组查询）
-浏览器：`#/retrieval?q=异化&domain=哲学` 粘贴直开；`python3 -c` 打印 `len(queries.search('异化'))` 与页面计数一致；`/` 聚焦、`j/k` 移动、`Enter` 开抽屉、`Esc` 关，全程不碰鼠标。
+Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（计划写 9，实测 8：P0 的 6 个 + 注册台对照 1 个 + 本任务的 search Python 对照 1 个；对照查询实为 7 组——5 条裸查询 + 深度对照 + limit 边界）
 
-- [ ] **Step 6: 提交**
+实测偏离四处（已按实况落地）：
+① 查询输入不再走 `go({q})`（会重建面板、抢焦点），改 `setQuery()` → `renderHits()` + `replaceState`；
+   CDP 检里断言了敲入 `场域` 后 `activeElement.id === 'ocw-q'` 且 `selectionStart === 2`。
+② `limit` 是用户输入，属系统边界：新增 `limitArg()`，非整数/空一律回到 MCP 默认 20
+   （JS 里 `Number('abc') = NaN`，`hits.length >= NaN` 永假 → 会退化成全表扫描；Python 侧则直接 TypeError）。
+③ `OCW.searchFacets` 不实现（见 Interfaces 的 YAGNI 说明）。
+④ 本 Step 原拟的浏览器用例 `#/retrieval?q=异化&domain=哲学` 实际命中 0 条
+   （`异化` 的两条条目都在 社会学），改用六组 Python 实测计数校准：
+   `异化`→2、`自由`→20（limit 截断）、`alienation`（大小写不敏感）→8、`zzz-不存在`→0、
+   `概念`+`哲学`+`concept`+`limit=5`→5、`场域`→5。
+
+浏览器（headless Chrome + 自建 CDP 驱动，17 项断言全通过，`/tmp/ocw-task4-check.mjs`，一次性脚本不入库）：
+深链 `#/retrieval?q=异化` 粘贴直出 2 行、首行 `社会学/学派/古典社会学/马克思/概念/异化.md`；`&limit=abc` 不抛异常且回落 20 行；
+`/` 从注册台跳到检索台并聚焦输入框；`j j` 游标 2、`k` 回 1 且 `tr[cursor]` 随游标移动；`Enter` 开溯源抽屉（含源文件链接）；
+`Esc` 关抽屉（`body[data-drawer=closed]`）；`1` 回注册台且 hash 保留 `q`；全程无 `Runtime.exceptionThrown`。
+
+- [x] **Step 6: 提交**
 
 ```bash
 git add 工作台/index.html mcp/tests/workbench-core.test.mjs
 git commit -m "feat(workbench): P1 检索台（search 与 queries.py 同谓词 + 溯源抽屉 + 键盘流）"
 ```
+
+（提交同时带上本计划文件的 Task 4 勾选与实测记录，与 Task 3 一致。）
 
 ---
 
