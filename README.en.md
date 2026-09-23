@@ -110,6 +110,8 @@ open-cognition/
 
 See the [Chinese README](README.md) for the full directory tree.
 
+**Open Cognition Workbench** (read-only, single-file, no build): serve the repo root with `python3 -m http.server 8000` and open `http://localhost:8000/工作台/`. It puts the registry, the MCP query layer, the prompt templates and the CI gates on one surface — see [`工作台/README.md`](./工作台/README.md).
+
 ---
 
 ## Entry Types

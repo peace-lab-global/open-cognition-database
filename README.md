@@ -195,6 +195,8 @@ agent 可执行的操作框架，含 YAML frontmatter + 一句话功能 + 何时
 - **纵向阅读**：从领域 README 进入流派，深度走完一个学派。
 - **专题阅读**：进入 [佛教认知专题](宗教/佛教/INDEX.md) 或 [CSE 专题 (Cognitive Systems Engineering)](认知系统/README.md)，系统性掌握一条轴线。
 - **诊断式阅读**：遇到具体困境时，使用对应 Skill（例如个人迷茫 → [马斯洛需求诊断 (maslow-needs-diagnosis)](心理学/技能/马斯洛需求诊断/SKILL.md)；认知卡点 → [八识诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md)；叙事困住 → [三性诊断 (three-natures-diagnosis)](宗教/佛教/技能/以唯识三性/SKILL.md)）。
+- **开放认知工作台**（只读、单文件、无构建）：`python3 -m http.server 8000` → `http://localhost:8000/工作台/`。
+  把登记册、MCP 查询层、Prompt 模板与 CI 质控收敛到一个台面：[`工作台/README.md`](./工作台/README.md)。
 
 ### 给 AI Agent
 

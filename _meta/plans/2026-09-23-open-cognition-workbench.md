@@ -1883,7 +1883,7 @@ git commit -m "feat(workbench): P3 审计台（门禁同源 + 投影覆盖率 + 
 - Consumes: `queries.search/apply_skill/list_skills/stats/cross_links`
 - Produces: `python3 mcp/test_workbench.py [--check]`（exit 0/1）；夹具结构 `{version, stats, search:{q:[hits]}, apply_skill:[{skill_id,path,task,prompt}], list_skills:{domain:count}, cross_links:[{entry_path, md_excerpt, edges}]}`
 
-- [ ] **Step 1: 写夹具生成器（Python 侧真值来源）** — `mcp/test_workbench.py`
+- [x] **Step 1: 写夹具生成器（Python 侧真值来源）** — `mcp/test_workbench.py`（含 run_node 显式展开 *.test.mjs，见偏差 1）
 
 ```python
 #!/usr/bin/env python3
@@ -2005,7 +2005,7 @@ if __name__ == "__main__":
     raise SystemExit(main())
 ```
 
-- [ ] **Step 2: 写前端重放测试** — `mcp/tests/workbench-parity.test.mjs`
+- [x] **Step 2: 写前端重放测试** — `mcp/tests/workbench-parity.test.mjs`（plain() 归一化 + md_text 全文，见偏差 3/4；另加契约标记测试，见偏差 5）
 
 ```js
 import { test } from 'node:test';
@@ -2079,15 +2079,16 @@ test('list_skills 的 domain 匹配方向与 Python 一致（参数是域名子�
 });
 ```
 
-- [ ] **Step 3: 生成夹具并跑全量测试**
+- [x] **Step 3: 生成夹具并跑全量测试**
 
 ```bash
 python3 mcp/test_workbench.py
 ```
 
 Expected: 全 `ok` + node 侧全 pass（`mcp/tests/` 现共 19 项，含 parity 6 项）。
+实测：46/46 pass / 0 fail（测试 19 已随偏差 7 扩到 6 行门禁）。
 
-- [ ] **Step 4: CI 新增契约 job**（`.github/workflows/ci.yml` 末尾）
+- [x] **Step 4: CI 新增契约 job**（`.github/workflows/ci.yml` 末尾；已加，见偏差 7 的同源联动）
 
 ```yaml
   workbench-contract:
@@ -2106,7 +2107,7 @@ Expected: 全 `ok` + node 侧全 pass（`mcp/tests/` 现共 19 项，含 parity 
         run: python3 mcp/test_workbench.py --check
 ```
 
-- [ ] **Step 5: 手写常量 grep（验收 1 / 6 的机械化）**
+- [x] **Step 5: 手写常量 grep（验收 1 / 6 的机械化）**（两次 grep 均 exit 1，无命中）
 
 ```bash
 cd /Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition-database
@@ -2116,7 +2117,7 @@ grep -nE '(src|href)="https?://' 工作台/index.html; echo "external exit=$? (�
 
 Expected: 两次 grep 均无输出（exit 1）。若命中，把常量改为运行时计算或改为夹具/投影读取。
 
-- [ ] **Step 6: 四处文档入口（各 1 处 + 一句话）**
+- [x] **Step 6: 四处文档入口（各 1 处 + 一句话）**（按实况落位，见偏差 10）
 
 `README.md` 与 `README.en.md`：在"如何使用 / How to use"类小节末尾加
 
@@ -2147,7 +2148,7 @@ Expected: 两次 grep 均无输出（exit 1）。若命中，把常量改为运�
 
 `_meta/scripts/check-nav-links.py:31` 的 `SKIP_DIRS` 里删掉 `"scripts"`（该目录已归档到 `_meta/scripts/`，条目失效）。
 
-- [ ] **Step 7: 全门禁 + Pages 实机**
+- [x] **Step 7: 全门禁 + Pages 实机**（六门禁全 exit 0；三种底栏状态经 agent-browser 实机核验，含夹具过期与 file:// 降级）
 
 ```bash
 python3 _meta/scripts/lint.py --json | python3 -c "import json,sys;d=json.load(sys.stdin);print('errors',d['errors'],'warns',d['warns'])"
@@ -2163,7 +2164,7 @@ node --version && python3 _meta/scripts/check-nav-links.py | tail -3
 Expected: `errors 0`；三个 `--check` 全 exit 0；`test_queries.py` 11 项全绿；`test_workbench.py` 全绿；nav 断链总数不高于基线 203。
 Pages 实机（提交后由用户在 Actions 部署，或本地 `bundle exec jekyll build` 目视）：确认 `/open-cognition-database/工作台/` 可打开、底栏读数正确、跨链面板走 `graph.json` 而非空表。若本地无 Jekyll，则以此命令替代并把结果写进提交信息：`python3 -m http.server 8000` 下访问 `工作台/`，逐条对照验收 1–7。
 
-- [ ] **Step 8: 提交**
+- [x] **Step 8: 提交**（本地 main 提交，不 push；计划文件一并入库，见偏差 10）
 
 ```bash
 git add mcp/test_workbench.py mcp/fixtures/workbench-parity.json mcp/tests/workbench-parity.test.mjs \
@@ -2178,6 +2179,19 @@ cross_links 逐条与逐字比对）。CI 增加 workbench-contract job；四处
 EOF
 )"
 ```
+
+### Task 9 实测与偏差（执行时记录）
+
+1. `run_node()` 改为显式展开 `*.test.mjs`：目录形式 `node --test mcp/tests` 在 Node 22 上被当成模块路径解析而失败。
+2. 计划的 `listSkills` 片段子串方向写反；按 Python 规则实现（`d.indexOf(dl) >= 0`），并把脆弱的 `likePython` 期望改为重算同一条规则。
+3. 前端 core 经 `vm.runInNewContext` 求值，返回值携带沙箱 realm 原型，`deepStrictEqual` 对同结构数组/对象恒红（"not reference-equal"）；parity 断言改用 `workbench-core.test.mjs` 已有的 `plain()`（JSON 归一化）包住 OCW 结果，原语断言不受影响。
+4. 计划夹具存 `md_excerpt: text[:4000]`，而 `queries.cross_links` 解析全文——截断点之后的边在前端重放中消失。改存全文，键名 `md_excerpt` → `md_text`。
+5. 超出计划补一个机械测试：`/* OCW:CONTRACT-FUNCS */` 契约标记——解析 core 返回行上的函数名清单，逐一断言在活 `OCW` 上存在，防「改名但契约清单未同步」。
+6. 底栏契约读数定为三种诚实状态（取不到夹具 / 夹具与登记册同版·逐字比对由 CI / 夹具过期），不冒充绿灯；浏览器实机核验时发现 `vv0.6` 双 v（`fx.version` 自带 `v` 前缀），去掉硬编码前缀后复验通过。
+7. CI 追加第 5 个 run 步骤后，审计台 `gates()` 与 ci.yml 的同源承诺被打破 → 门禁清单 4→6 行（5 条 CI + 1 条离线 `--check`），core 测试 19 更名并同步断言（CI 行数 4→5、清单总长 5→6），面板注释 4→5 / 5→6。
+8. `check-nav-links.py` 的 `SKIP_DIRS` 实际在第 27 行（计划写 31 行）；移除失效的 `"scripts"` 后 nav 无回归。
+9. `工作台/README.md` 的「现状」段停留在 P0 期文本，重写为三条底栏状态的如实描述；新增「盲区记录：名言/ 未入登记册」一节（P3 投影如实暴露的登记册盲区，修复属内容侧独立议题）。
+10. 文档入口按实况落位：README.md 加在「给人类读者」清单（无 How-to-use 节）；README.en.md 无 How-to-use，放 Repository Structure 末尾；CONTRIBUTING 无 checkbox 评审清单 → 加为「十、PR 审核标准」第 8 条。计划文件本身随本任务一并提交（沿 Task 7/8 先例）。
 
 ---
 

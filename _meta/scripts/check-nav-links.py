@@ -24,7 +24,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 MD_LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")
 NAV_NAMES = {"README.md", "INDEX.md", "AGENT.md", "QUICKSTART.md"}
-SKIP_DIRS = {".git", ".github", ".qoder", ".claude", "_meta", "node_modules", "scripts"}
+SKIP_DIRS = {".git", ".github", ".qoder", ".claude", "_meta", "node_modules"}
 
 
 def nav_files() -> list[Path]:

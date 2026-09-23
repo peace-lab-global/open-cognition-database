@@ -194,6 +194,7 @@ tags: [<标签>]
 5. 是否符合"拒绝主观评价"原则
 6. **lint 通过**（无 E 级错误）
 7. **index.json 一致**（hook 会自动修复）
+8. **改了 `mcp/open_cognition_mcp/queries.py` 或 AGENT.md 的 Prompt 模板** → 同步 `工作台/index.html` 的 `ocw-core`，并跑 `python3 mcp/test_workbench.py`（CI `workbench-contract` job 会做同样校验）
 
 ### 期望的 PR 规模
 

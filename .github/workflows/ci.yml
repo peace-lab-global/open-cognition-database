@@ -60,3 +60,18 @@ jobs:
       # tracked in _meta/reports/audit/, so they stay non-blocking.
       - name: Check navigation links (mechanical errors)
         run: python3 _meta/scripts/check-nav-links.py --errors-only
+
+  workbench-contract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install deps
+        run: pip install pyyaml
+      - name: Workbench ↔ queries.py parity (fixture freshness + JS replay)
+        run: python3 mcp/test_workbench.py --check

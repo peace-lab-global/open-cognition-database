@@ -32,11 +32,25 @@ Pages 部署后同一份文件在 `/open-cognition-database/工作台/` 可用�
 
 ## 自检
 
-    node --test mcp/tests/*.test.mjs   # 前端纯函数（Node 22 不吃目录参数，需给文件通配）
-    python3 mcp/test_workbench.py      # 前端 ↔ queries.py 契约一致
+    python3 mcp/test_workbench.py           # queries.py 生成契约夹具 → 前端 ocw-core 在 node --test 中重放
+    python3 mcp/test_workbench.py --check   # CI workbench-contract job 跑的形态：夹具过期或前端漂移即 exit 1
+
+夹具 `mcp/fixtures/workbench-parity.json` 是提交进仓库的产物：Python 侧是唯一真值，
+前端重放同一份字节，两边逐字相等才算过。
 
 ## 现状
 
-当前提交到位的是 P0 骨架：hash 路由、登记册取数、空/错误态与底栏读数。
-四个面板的取数逻辑（`graph.json` 投影、`mcp/test_workbench.py` 契约自检）按计划的
-P1–P4 逐级补齐；底栏在契约自检未启用前显式标注 `未启用(P4 前)`，不以缺省冒充完成。
+P0–P4 全部落地：四个面板 + 底栏契约自检读数。底栏读数有三种诚实状态——
+
+- **取不到夹具**：`file://` 与 Pages 下读不到 `mcp/fixtures/`（`_config.yml` 排除了
+  `mcp/`），此时只声明环境限制，不亮绿。
+- **夹具与登记册同版**：浏览器只验证夹具版本与三项计数和 `index.json` 一致；
+  逐字比对由 CI `workbench-contract` job 执行，浏览器不冒充 CI。
+- **夹具过期**：提示运行 `python3 mcp/test_workbench.py` 刷新。
+
+## 盲区记录：名言/ 未入登记册
+
+审计台覆盖率与检索台都只看 `index.json`，而 `名言/` 下的主题 md 从未登记——发现过程：
+P3 接入 `graph.json` 投影时按目录树对照登记册，`名言/` 一栏恒空。这不是面板漏做，
+而是投影如实暴露的登记册盲区：**数据库登记了什么，工作台就显示什么；登记册没有的，
+台面不会假装存在。**修复（把名言条目纳入登记册）属内容侧独立议题，不在工作台范围内。

@@ -353,7 +353,7 @@ globalThis.OCW = (function () {
 
   /* 门禁 = CI 实际跑的命令，逐条被 workbench-core.test 回查 ci.yml 的 run 步骤。
      工作台不另造质量标准：这里能复制出去的每一条，都是 Actions 三色里已经存在的一条。
-     第 5 条 CI 不跑（需要密钥与网络），因此标 ci:false，不冒充门禁。 */
+     第 6 条 CI 不跑（需要密钥与网络），因此标 ci:false，不冒充门禁。 */
   function gates() {
     return [
       { name: '条目 lint', cmd: 'python3 _meta/scripts/lint.py --json', ci: true,
@@ -364,6 +364,8 @@ globalThis.OCW = (function () {
         note: '本台面的覆盖率与跨链图都读自 graph.json；投影过期即 exit 1，缺文件 exit 2' },
       { name: '导航机械断链', cmd: 'python3 _meta/scripts/check-nav-links.py --errors-only', ci: true,
         note: '只阻塞"目标在库内存在却写错路径"的链接；指向未撰写条目的链接属内容 backlog' },
+      { name: '工作台契约', cmd: 'python3 mcp/test_workbench.py --check', ci: true,
+        note: 'queries.py 生成契约夹具 → 前端 ocw-core 在 node --test 中重放逐字比对；夹具过期或前端漂移即 exit 1' },
       { name: 'eval 拼装（离线）', cmd: 'python3 eval/run_eval.py --dry', ci: false,
         note: 'CI 不跑：只校验用例格式与 prompt 拼装；真实评测需 OPENAI_BASE_URL / API_KEY / MODEL' },
     ];
@@ -406,12 +408,26 @@ globalThis.OCW = (function () {
     return Object.keys(byDomain).sort().map(function (d) { return byDomain[d]; });
   }
 
+  /* 与 queries.list_skills 同向：domain 参数是域名/标签的子串（小写），标签为精确命中。 */
+  function listSkills(index, domain) {
+    let skills = (index && index.skills) || [];
+    if (domain) {
+      const dl = String(domain).toLowerCase();
+      skills = skills.filter(function (s) {
+        const d = String(s.domain || '').toLowerCase();
+        const tags = (s.tags || []).map(String).map(function (t) { return t.toLowerCase(); });
+        return d.indexOf(dl) >= 0 || tags.indexOf(dl) >= 0;
+      });
+    }
+    return skills;
+  }
+
   /* OCW:CONTRACT-FUNCS */
   return { PANES, PANE_LABELS, parseHash, writeHash, needsServer, loadIndex, fmt, enc, dec, search,
            crossLinks, resolveEntryPath, edgesFrom, danglingSet, canReadSources,
            applySkill, findSkill, templateB, templateC, exportTriple,
            matrix, facets, selectEntries, redirectCount, LIST_ONLY_FIELDS,
-           pct, gates, coverageRows, evalMatrix };
+           pct, gates, coverageRows, evalMatrix, listSkills };
 })();
 </script>
 
@@ -445,6 +461,8 @@ globalThis.OCW = (function () {
   }
   App.el = el;
 
+  let contractNote = '读取中…';
+
   function renderBar() {
     const bar = document.getElementById('bar-read');
     if (App.error) { bar.textContent = '登记册不可读：' + App.error; return; }
@@ -452,7 +470,7 @@ globalThis.OCW = (function () {
     const s = App.index.stats;
     bar.textContent = App.index.version + ' · generated ' + App.index.generated +
       ' · 条目 ' + OCW.fmt(s.entries) + ' · 技能 ' + OCW.fmt(s.skills) +
-      ' · 合计 ' + OCW.fmt(s.total) + ' · 契约自检 未启用(P4 前)';
+      ' · 合计 ' + OCW.fmt(s.total) + ' · 契约自检 ' + contractNote;
   }
 
   function renderNav() {
@@ -937,7 +955,7 @@ globalThis.OCW = (function () {
     });
     host.appendChild(gt);
     host.appendChild(el('div', { class: 'note', text:
-      '前 4 条即 .github/workflows/ci.yml 的 run 步骤（单测逐条回查，改名即失败）；⊘ 标记的第 5 条 CI 不跑，只是本地离线校验。' +
+      '前 5 条即 .github/workflows/ci.yml 的 run 步骤（单测逐条回查，改名即失败）；⊘ 标记的第 6 条 CI 不跑，只是本地离线校验。' +
       '浏览器不能执行 Python：本表给命令与判定规则，真实三色以 Actions 或本地实跑为准。' }));
 
     if (App.graph) {
@@ -1088,6 +1106,26 @@ globalThis.OCW = (function () {
       if (App.drawerEntry) openDrawer(App.drawerEntry);
     })
     .catch(function () { /* 投影尚未生成：走降级路径 */ });
+
+  /* P4 契约自检读数：浏览器只验夹具与登记册是否同版同计数；
+     逐字比对由 CI workbench-contract job 执行，所以这里没有无依据的绿灯。 */
+  fetch('../mcp/fixtures/workbench-parity.json')
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (fx) {
+      if (!fx) {
+        contractNote = '此环境取不到夹具（站点不含 mcp/）· 逐字比对由 CI workbench-contract 把关';
+      } else if (App.index && fx.version === App.index.version && fx.stats &&
+                 fx.stats.entries === App.index.stats.entries &&
+                 fx.stats.skills === App.index.stats.skills &&
+                 fx.stats.total === App.index.stats.total) {
+        contractNote = '夹具与登记册同版（' + fx.version + '）· 逐字比对由 CI workbench-contract 执行';
+      } else {
+        contractNote = '夹具过期：夹具 ' + fx.version + ' ≠ 登记册 ' + (App.index ? App.index.version : '?') +
+          ' → python3 mcp/test_workbench.py';
+      }
+      renderBar();
+    })
+    .catch(function () { contractNote = '此环境取不到夹具 · 逐字比对由 CI workbench-contract 把关'; renderBar(); });
 
   render();
 })();

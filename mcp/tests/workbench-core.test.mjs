@@ -362,7 +362,7 @@ test('审计台覆盖率读数现算自投影，不出现手写常量', () => {
   assert.equal(fakeRows['eval 覆盖'].ratio, '25.0%');
 });
 
-test('审计台门禁与 ci.yml 同源：4 条 CI 命令逐条可回查 + 1 条离线校验标明', () => {
+test('审计台门禁与 ci.yml 同源：5 条 CI 命令逐条可回查 + 1 条离线校验标明', () => {
   const OCW = loadCore();
   const ciText = readFileSync(REPO_ROOT + '.github/workflows/ci.yml', 'utf8');
   const ciRuns = ciText.split('\n')
@@ -371,15 +371,16 @@ test('审计台门禁与 ci.yml 同源：4 条 CI 命令逐条可回查 + 1 条�
   const gates = OCW.gates();
 
   const inCI = (cmd) => ciRuns.some((line) => line === cmd || line.indexOf(cmd + ' ') === 0);
-  assert.equal(gates.filter((g) => g.ci).length, 4, 'CI 实际跑的门禁恰好 4 条');
+  assert.equal(gates.filter((g) => g.ci).length, 5, 'CI 实际跑的门禁恰好 5 条');
   for (const g of gates.filter((x) => x.ci)) {
     assert.equal(/^python3 \S+/.test(g.cmd), true, g.name + ' 命令形态异常');
     assert.equal(inCI(g.cmd), true, '审计台里的门禁命令不在 ci.yml 的 run 步骤中：' + g.cmd);
     assert.ok(g.note, g.name + ' 必须写清判定规则');
   }
   assert.ok(gates.map((g) => g.cmd).join('\n').includes('_meta/scripts/build-workbench-graph.py --check'));
+  assert.ok(gates.map((g) => g.cmd).join('\n').includes('mcp/test_workbench.py --check'));
 
-  /* 第 5 条是本地离线校验：CI 不跑它，就必须标 ci:false，否则审计台在冒充门禁 */
-  assert.equal(gates.length, 5);
+  /* 第 6 条是本地离线校验：CI 不跑它，就必须标 ci:false，否则审计台在冒充门禁 */
+  assert.equal(gates.length, 6);
   assert.equal(gates.filter((g) => !g.ci).map((g) => g.cmd).join('\n'), 'python3 eval/run_eval.py --dry');
 });
