@@ -1,14 +1,15 @@
 #!/bin/sh
 #
-# setup-hooks.sh — install git hooks from scripts/hooks/ into .git/hooks/
+# setup-hooks.sh — install git hooks from _meta/scripts/hooks/ into .git/hooks/
 #
 # Run this once after cloning the repo.
 # Creates symlinks so hooks stay in sync with the committed versions.
 
 set -e
 
-REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-HOOK_SRC="$REPO_ROOT/scripts/hooks"
+# 本脚本位于 _meta/scripts/，仓库根需上溯两级
+REPO_ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
+HOOK_SRC="$REPO_ROOT/_meta/scripts/hooks"
 HOOK_DST="$REPO_ROOT/.git/hooks"
 
 if [ ! -d "$HOOK_SRC" ]; then
@@ -36,4 +37,4 @@ for hook in "$HOOK_SRC"/*; do
 done
 
 echo ""
-echo "Hooks installed. Use 'git commit --no-verify' to bypass if needed."
+echo "Hooks installed. 紧急情况下可用 git commit --no-verify 跳过（会留下 index.json 过期风险）。"

@@ -2,46 +2,43 @@
 #
 # pre-commit hook for open-cognition
 #
-# Tasks:
-#   1. Rebuild index.json if any domains/ or skills/ files are staged.
-#      Auto-stage the regenerated index.json so the commit stays consistent.
-#   2. Reject commits that contain stale index.json.
+# 任务：任一登记域或 build-index.py 被改动时重建 index.json 并自动入暂存区，
+#       再校验暂存内容等于一次全新构建（等价于 CI 的 index-consistency job）。
 #
-# Install (one-time per clone):
-#   cp scripts/hooks/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+# 安装（每台机器一次）：
+#   sh _meta/scripts/setup-hooks.sh
+#   或手动：cp _meta/scripts/hooks/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
 #
-# Skip (only for emergencies):
-#   git commit --no-verify
+# 跳过（仅限紧急）：git commit --no-verify
 
 set -e
 
 REPO_ROOT="$(git rev-parse --show-toplevel)"
-BUILD_SCRIPT="$REPO_ROOT/scripts/build-index.py"
+BUILD_SCRIPT="$REPO_ROOT/_meta/scripts/build-index.py"
 
-# If the build script doesn't exist yet, pass silently
-if [ ! -x "$BUILD_SCRIPT" ]; then
+if [ ! -f "$BUILD_SCRIPT" ]; then
+    echo "[pre-commit] 未找到 $BUILD_SCRIPT，跳过索引校验" >&2
     exit 0
 fi
 
-# Only rebuild if domains/ or skills/ or the script itself is touched
-TOUCHED=$(git diff --cached --name-only | grep -E '^(domains/|skills/|scripts/build-index\.py)' || true)
+# 顶层登记目录 = build-index.py 的 _DOMAIN_DIR_NAMES + 技能/清单实际生长的目录
+# core.quotePath=false：本仓路径以中文为主，默认会输出 "\345\223\262/..." 八进制转义，正则永不命中
+TOUCHED=$(git -c core.quotePath=false diff --cached --name-only | grep -E \
+  '^(哲学|宗教|伦理政治|心理学|社会学|美学|文学|艺术|认知系统|清单|研究|TECH)/|^_meta/scripts/build-index\.py$' || true)
 
 if [ -z "$TOUCHED" ]; then
     exit 0
 fi
 
-# Rebuild index.json
-"$BUILD_SCRIPT" > /dev/null
+python3 "$BUILD_SCRIPT" > /dev/null
 
-# Stage the new index.json (only if it actually changed)
 if ! git diff --quiet -- index.json 2>/dev/null; then
     git add index.json
-    echo "[pre-commit] rebuilt and staged index.json"
+    echo "[pre-commit] 已重建并入暂存 index.json"
 fi
 
-# Final check: the staged index.json must match a fresh rebuild
-if ! "$BUILD_SCRIPT" --check > /dev/null 2>&1; then
-    echo "[pre-commit] ERROR: index.json is inconsistent. Re-run 'python3 scripts/build-index.py'."
+if ! python3 "$BUILD_SCRIPT" --check > /dev/null 2>&1; then
+    echo "[pre-commit] ERROR: index.json 与源文件不一致。请运行 'python3 _meta/scripts/build-index.py' 后重试。" >&2
     exit 1
 fi
 
