@@ -1,6 +1,6 @@
 # open-cognition MCP Server
 
-把本知识库的 137 个 Skill 与 2670 个条目暴露为 **MCP 工具**，任何支持 Model Context Protocol 的客户端（Claude Code / Claude Desktop / Cursor 等）都可以直接调用。
+把本知识库的 149 个 Skill 与 2650 个条目暴露为 **MCP 工具**，任何支持 Model Context Protocol 的客户端（Claude Code / Claude Desktop / Cursor 等）都可以直接调用。
 
 ## 工具一览
 
