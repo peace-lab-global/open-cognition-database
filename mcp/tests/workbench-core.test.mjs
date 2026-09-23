@@ -202,3 +202,78 @@ test('edgesFrom：只取与当前条目相关的边；无投影时返回空而�
   assert.deepEqual(plain(OCW.edgesFrom(null, 'a.md')), []);
   assert.deepEqual(plain(OCW.edgesFrom({ edges: 'oops' }, 'a.md')), []);
 });
+
+/* ---------------- Task 6 · P2 实验台：模板 A/B/C + 导出 ---------------- */
+
+/** queries.apply_skill() 的真值：Python 自己取技能正文并拼装。 */
+function pyApply(skillId, task) {
+  const py = ['import sys;sys.path.insert(0,"mcp")',
+    'from open_cognition_mcp import queries',
+    'sys.stdout.write(queries.apply_skill(sys.argv[1], sys.argv[2]))'].join(';');
+  return execFileSync('python3', ['-c', py, skillId, task], { cwd: REPO_ROOT }).toString();
+}
+
+/** 技能正文真值：与 apply_skill 内部同一次 read_entry() 调用。 */
+function pySkillText(skillId) {
+  const py = ['import json,sys;sys.path.insert(0,"mcp")',
+    'from open_cognition_mcp import queries',
+    'print(json.dumps(queries.read_entry(queries.get_skill(sys.argv[1])["path"])))'].join(';');
+  return JSON.parse(execFileSync('python3', ['-c', py, skillId], { cwd: REPO_ROOT }).toString());
+}
+
+test('applySkill 与 queries.apply_skill() 逐字相同（3 技能，含宗教/佛教/技能/ 下 1 个）', () => {
+  const OCW = loadCore();
+  const task = '我连续三周在评审会上说不出反驳意见，回家又觉得自己错了。';
+  for (const id of ['cbt-cognitive-distortion', 'qichu-zhengxin-deconstruction', 'madhyamaka-four-fallacies']) {
+    const mine = OCW.applySkill(pySkillText(id), task);
+    const theirs = pyApply(id, task);
+    assert.equal(mine, theirs, id + ' prompt 不逐字一致');
+    assert.equal(mine.length, theirs.length, id + ' 长度不一致');
+    assert.equal(mine.charCodeAt(mine.length - 1), 10, '末尾保留换行');
+  }
+  /* 模板 A 的权威是 queries.py：引号用「」（AGENT.md 的直引号 + {domain} 只是文档示意），
+     且首行无 {domain}。下面这行钉住这个差异，防止有人"照文档改齐"。 */
+  assert.ok(OCW.applySkill('S', 'T').includes('「操作流程」'), 'A 模板引号形态已偏离 queries.py');
+});
+
+test('findSkill 双寻址：英文 slug 或中文路径片段都能定位（与 queries.get_skill 同规则）', () => {
+  const OCW = loadCore();
+  const index = JSON.parse(readFileSync(REPO_ROOT + 'index.json', 'utf8'));
+  assert.equal(OCW.findSkill(index, 'cbt-cognitive-distortion').domain, '心理学');
+  assert.equal(OCW.findSkill(index, '认知扭曲识别').name, 'cbt-cognitive-distortion');
+  assert.equal(OCW.findSkill(index, '七处征心').name, 'qichu-zhengxin-deconstruction');
+  assert.equal(OCW.findSkill(index, '没有这个技能'), null);
+  assert.equal(OCW.findSkill({ skills: null }, 'x'), null);
+});
+
+/** AGENT.md 的模板正文（B/C 的唯一权威：MCP 层没有这两个函数，只能对文档）。 */
+function agentTemplate(name) {
+  const md = readFileSync(REPO_ROOT + 'AGENT.md', 'utf8');
+  const m = md.match(new RegExp('### ' + name + '[^\\n]*\\n+```\\n([\\s\\S]*?)\\n```'));
+  assert.ok(m, `AGENT.md 未找到 ${name} 的 fenced 模板（模板改了？先同步这里）`);
+  return m[1];
+}
+
+test('templateB / templateC 与 AGENT.md 的模板正文逐字一致（占位符代入后）', () => {
+  const OCW = loadCore();
+  const b = OCW.templateB('T1', 'T2', '同一情境');
+  const docB = agentTemplate('模板 B')
+    .replace('{SKILL-1 全文}', 'T1')
+    .replace('{SKILL-2 全文}', 'T2')
+    .replace('{情境}', '同一情境');
+  assert.equal(b, docB + '\n');
+  const c = OCW.templateC('哲学/学派/存在主义/克尔凯郭尔.md');
+  assert.equal(c, agentTemplate('模板 C').replace('{概念条目路径}', '哲学/学派/存在主义/克尔凯郭尔.md') + '\n');
+});
+
+test('exportTriple 含技能 path、任务、generated 日期与 prompt 全文，且不留 undefined', () => {
+  const OCW = loadCore();
+  const meta = { kind: 'A', skills: ['宗教/佛教/技能/七处征心/SKILL.md'], task: 'T',
+    version: 'v0.6', generated: '2026-09-23', at: '2026-09-23' };
+  const s = OCW.exportTriple(meta, 'PROMPT');
+  for (const frag of ['宗教/佛教/技能/七处征心/SKILL.md', 'T', '2026-09-23', 'PROMPT']) {
+    assert.ok(s.includes(frag), frag);
+  }
+  assert.ok(!s.includes('undefined'), s);
+  assert.ok(s.indexOf('PROMPT') > s.indexOf('---'), '元信息在 prompt 之前');
+});

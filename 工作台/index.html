@@ -225,6 +225,62 @@ globalThis.OCW = (function () {
     return graph.edges.filter(function (e) { return e.source === path || e.target === path; });
   }
 
+  /* ---- 实验台：模板 A/B/C 与导出（A 的权威是 queries.py，B/C 的权威是 AGENT.md） ---- */
+  /* 对应 queries.py:110-125 的 apply_skill()。模板正文以该函数为唯一权威：
+     AGENT.md 的 "{domain} 领域" + 直引号变体只是文档示意，改动本函数前先看
+     mcp/tests/workbench-core.test.mjs 对 Python 的逐字比对。 */
+  function applySkill(skillText, task) {
+    return '你是相关领域的认知助手。请严格按以下 Skill 的「操作流程」执行任务。\n\n' +
+      '<skill>\n' + skillText + '\n</skill>\n\n' +
+      '<task>\n' + task + '\n</task>\n\n' +
+      '输出要求：\n' +
+      '1. 按 Step 1 → Step N 顺序推进，每步明确写出判断依据\n' +
+      '2. 使用 Skill 中的「提问范式」生成问题\n' +
+      '3. 在「完整示例」的格式下给出输出\n' +
+      '4. 末尾附「反例（误用）」警告\n';
+  }
+
+  /* 对应 queries.py:48-53 的 get_skill()：name 精确匹配，否则按路径子串匹配 */
+  function findSkill(index, idOrPath) {
+    for (const s of index.skills || []) {
+      if (s.name === idOrPath || String(s.path || '').indexOf(idOrPath) >= 0) return s;
+    }
+    return null;
+  }
+
+  /* 模板 B / C 以 AGENT.md「模板 B / 模板 C」小节为准（含其中的直引号原样保留） */
+  function templateB(t1, t2, task) {
+    return '用两个 Skill 对同一情境做交叉分析：\n\n' +
+      '<skill-1>\n' + t1 + '\n</skill-1>\n\n' +
+      '<skill-2>\n' + t2 + '\n</skill-2>\n\n' +
+      '<task>' + task + '</task>\n\n' +
+      '输出：先独立跑两个 Skill，再写一段"两个视角的交叉洞察"。\n';
+  }
+
+  function templateC(entryPath) {
+    return '我正在读 ' + entryPath + '。请：\n' +
+      '1. 用一句话总结核心命题\n' +
+      '2. 列出其 `linked_concepts` 中最重要的 3 个，并各写 1 句关系说明\n' +
+      '3. 找出 `跨学科关联` 中最有意思的 1 条，展开比较\n' +
+      '4. 推荐 1 个最适合此概念的 Skill 来落地使用\n';
+  }
+
+  /* 导出件是给人存档的：缺字段一律写 "—"，绝不让 undefined 落到 .md 里 */
+  function dash(v) { return v == null || v === '' ? '—' : String(v); }
+
+  function exportTriple(meta, prompt) {
+    const head = [
+      '<!-- 开放认知工作台导出 · 只读产物，不写仓库 -->',
+      '模板: ' + dash(meta.kind),
+      '技能/条目: ' + (meta.skills || [meta.path]).map(dash).join(' , '),
+      '任务: ' + dash(meta.task),
+      '登记册: ' + dash(meta.version) + ' / generated ' + dash(meta.generated),
+      '时间: ' + dash(meta.at),
+      '---', '', '',
+    ].join('\n');
+    return head + prompt;
+  }
+
   /* ---- 注册台：一切读数由登记册现算 ---- */
   const LIST_ONLY_FIELDS = ['category', 'channel', 'angle'];
 
@@ -286,6 +342,7 @@ globalThis.OCW = (function () {
   /* OCW:CONTRACT-FUNCS */
   return { PANES, PANE_LABELS, parseHash, writeHash, needsServer, loadIndex, fmt, enc, dec, search,
            crossLinks, resolveEntryPath, edgesFrom, canReadSources,
+           applySkill, findSkill, templateB, templateC, exportTriple,
            matrix, facets, selectEntries, redirectCount, LIST_ONLY_FIELDS };
 })();
 </script>
@@ -299,6 +356,8 @@ globalThis.OCW = (function () {
     index: null, graph: null, error: null,
     state: OCW.parseHash(globalThis.location ? globalThis.location.hash : ''),
     rows: [], cursor: 0, drawerEntry: null,
+    /* 实验台的临时态：刻意不进 hash（任务正文可能很长且含换行，深链里没有意义） */
+    taskText: '', prompt: '', exportMeta: null,
   };
   globalThis.__OCW_APP__ = App;
 
@@ -378,6 +437,9 @@ globalThis.OCW = (function () {
     d.appendChild(el('a', { class: 'btn', href: '../' + encodeURI(entry.path), target: '_blank', rel: 'noopener', text: '打开源文件（站点/仓库）' }));
     document.body.setAttribute('data-drawer', 'open');
     App.drawerEntry = entry;
+    /* 溯源即选中：写进 hash（replaceState，不产生历史噪声）实验台模板 C 才拿得到入参，深链也能复现 */
+    App.state.path = entry.path;
+    globalThis.history.replaceState(null, '', OCW.writeHash(App.state));
     renderCrossLinkPane(entry);
   }
   function closeDrawer() {
@@ -581,6 +643,179 @@ globalThis.OCW = (function () {
     renderHits();
   }
 
+  /* ---------------- 实验台：模板 A/B/C 拼装与导出 ---------------- */
+
+  /* 技能正文与溯源抽屉同一读法。file:// 下 fetch 必被拒，先拦一道给出可操作提示，
+     而不是抛 TypeError 让人以为是模板逻辑坏了。 */
+  async function readSkillText(s) {
+    if (!OCW.canReadSources(globalThis.location.href)) {
+      throw new Error('此环境（file://）读不到技能正文：请在仓库根执行 python3 -m http.server 8000 再访问');
+    }
+    const res = await fetch('../' + encodeURI(s.path));
+    if (!res.ok) throw new Error('读不到 ' + s.path + '（HTTP ' + res.status + '）');
+    return res.text();
+  }
+
+  function prodNote(text, bad) {
+    const msg = document.getElementById('ocw-msg');
+    if (!msg) return;
+    msg.textContent = text;
+    msg.className = 'note' + (bad ? ' bad' : '');
+  }
+
+  /* 与 queries.search() 不同：技能表没有专门谓词，这里只做域 + 子串粗筛（slug/中文目录/描述均可命中） */
+  function skillRows() {
+    const q = (App.state.sk || '').toLowerCase();
+    return (App.index.skills || []).filter(function (s) {
+      if (App.state.domain && s.domain !== App.state.domain) return false;
+      if (!q) return true;
+      return (String(s.name) + ' ' + String(s.path) + ' ' + String(s.description || '')).toLowerCase().indexOf(q) >= 0;
+    });
+  }
+
+  /* 只重绘表格容器（不碰筛选框），否则输入一个字符就丢焦点 —— 与检索台同一教训 */
+  function renderSkillTable() {
+    const host = document.getElementById('ocw-skills');
+    if (!host) return;
+    host.textContent = '';
+    const list = skillRows();
+    host.appendChild(el('div', { class: 'note', text:
+      '技能名是英文 slug、目录与正文是中文 —— 筛选与 findSkill 同时支持两者（与 queries.get_skill 同规则）。' +
+      '当前 ' + OCW.fmt(list.length) + ' / ' + OCW.fmt(App.index.stats.skills) + '。' }));
+    if (!list.length) {
+      host.appendChild(el('div', { class: 'empty', text: '无匹配技能：换个关键词，或把域筛选清成"全部"。' }));
+      return;
+    }
+    const t = el('table');
+    t.appendChild(el('tr', {}, ['name', '域', 'description（含触发词）', '选用'].map((h) => el('th', { text: h }))));
+    list.slice(0, 200).forEach(function (s) {
+      const isA = App.state.skill === s.name, isB = App.state.sk2 === s.name;
+      t.appendChild(el('tr', {}, [
+        el('td', { text: s.name }),
+        el('td', { text: s.domain }),
+        el('td', { text: String(s.description || '').slice(0, 160) }),
+        el('td', {}, [
+          el('button', { class: 'btn' + (isA ? ' primary' : ''), type: 'button',
+            text: isA ? '已选主技能' : '设为主',
+            onclick: function () { go({ skill: isA ? '' : s.name }); } }),
+          el('button', { class: 'btn' + (isB ? ' primary' : ''), type: 'button', style: 'margin-left:6px',
+            text: isB ? '已选副技能' : '设为副',
+            onclick: function () { go({ sk2: isB ? '' : s.name }); } }),
+        ]),
+      ]));
+    });
+    host.appendChild(t);
+    if (list.length > 200) host.appendChild(el('div', { class: 'note', text: '仅渲染前 200 行；继续输入关键词缩小。' }));
+  }
+
+  function renderProduction() {
+    const host = document.getElementById('pane-production');
+    host.textContent = '';
+    host.appendChild(el('h2', { text: '实验台 · 模板 A / B / C' }));
+    host.appendChild(el('div', { class: 'note', text:
+      'A 单技能：正文与 queries.apply_skill() 逐字一致（权威是 mcp 层，不是 AGENT.md 的示意）。' +
+      'B 双技能并行：主 + 副两个技能做交叉分析，模板取自 AGENT.md。' +
+      'C 概念追溯：入参是溯源抽屉里最近选中的条目路径（注册台/检索台点行或按 Enter）。' +
+      '所有产物只读，导出落浏览器下载目录，仓库不受影响。' }));
+
+    const box = el('div', { class: 'chips' });
+    box.appendChild(el('input', { type: 'search', id: 'ocw-sk', 'aria-label': '技能筛选',
+      placeholder: '按中文名 / slug / 触发词筛技能', value: App.state.sk || '',
+      oninput: function () { App.state.sk = this.value;
+        globalThis.history.replaceState(null, '', OCW.writeHash(App.state)); renderSkillTable(); } }));
+    const sel = el('select', { 'aria-label': '域', onchange: function () { go({ domain: this.value }); } });
+    sel.appendChild(el('option', { value: '', text: '域：全部' }));
+    OCW.facets(App.index).domain.forEach(function (f) {
+      sel.appendChild(el('option', { value: f.value, text: f.value, selected: App.state.domain === f.value }));
+    });
+    box.appendChild(sel);
+    box.appendChild(el('span', { class: 'pill', text: '主 ' + (App.state.skill || '—') }));
+    box.appendChild(el('span', { class: 'pill', text: '副 ' + (App.state.sk2 || '—') }));
+    host.appendChild(box);
+    host.appendChild(el('div', { id: 'ocw-skills' }));
+    renderSkillTable();
+
+    host.appendChild(el('h3', { text: '任务（情境 / 问题 / 材料）' }));
+    const ta = el('textarea', { id: 'ocw-task', 'aria-label': '任务',
+      placeholder: '例：我连续三周在评审会上说不出反驳意见，回家又觉得自己错了。',
+      oninput: function () { App.taskText = this.value; } });
+    ta.value = App.taskText;
+    host.appendChild(ta);
+
+    host.appendChild(el('h3', { text: '拼装产物' }));
+    const row = el('div', { class: 'chips' });
+    [['A 单技能', 'A', true], ['B 双技能并行', 'B', false], ['C 概念追溯', 'C', false],
+     ['复制（含元信息）', 'copy', false], ['下载 .md', 'dl', false]].forEach(function (b) {
+      row.appendChild(el('button', { class: 'btn' + (b[2] ? ' primary' : ''), type: 'button', text: b[0],
+        onclick: function () {
+          if (b[1] === 'copy') return doCopy();
+          if (b[1] === 'dl') return doDownload();
+          buildPrompt(b[1]);
+        } }));
+    });
+    host.appendChild(row);
+    host.appendChild(el('div', { id: 'ocw-msg', class: 'note', text:
+      App.prompt ? '（已有拼装结果；换技能或改任务后重新点 A/B/C）' : '（尚未拼装：选技能 → 填任务 → 点模板）' }));
+    host.appendChild(el('pre', { id: 'ocw-prompt', text: App.prompt || '（Prompt 预览）' }));
+  }
+
+  async function buildPrompt(kind) {
+    const out = document.getElementById('ocw-prompt');
+    const task = App.taskText;
+    try {
+      let prompt, used;
+      if (kind === 'A') {
+        const s = OCW.findSkill(App.index, App.state.skill);
+        if (!s) throw new Error('先在技能表「设为主」选一个技能');
+        used = [s.path];
+        prompt = OCW.applySkill(await readSkillText(s), task);
+      } else if (kind === 'B') {
+        const a = OCW.findSkill(App.index, App.state.skill), b = OCW.findSkill(App.index, App.state.sk2);
+        if (!a || !b) throw new Error('模板 B 需要主、副各一个技能（同一技能不能既主又副）');
+        if (a.name === b.name) throw new Error('模板 B 需要两个不同技能：' + a.name + ' 被同时设为主副');
+        used = [a.path, b.path];
+        prompt = OCW.templateB(await readSkillText(a), await readSkillText(b), task);
+      } else {
+        const p = App.state.path || (App.drawerEntry && App.drawerEntry.path);
+        if (!p) throw new Error('模板 C 需要先溯源一个条目（注册台/检索台点行或按 Enter）');
+        used = [p];
+        prompt = OCW.templateC(p);
+      }
+      App.prompt = prompt;
+      App.exportMeta = { kind: kind, skills: used, task: task, version: App.index.version,
+        generated: App.index.generated, at: new Date().toISOString().slice(0, 10) };
+      out.textContent = prompt;
+      prodNote('已拼装模板 ' + kind + ' · ' + OCW.fmt(prompt.length) + ' 字符 · ' + used.join(' , '));
+    } catch (e) {
+      out.textContent = '（未拼装）';
+      prodNote('未拼装：' + ((e && e.message) || e), true);
+    }
+  }
+
+  function doCopy() {
+    if (!App.prompt) return prodNote('先点 A/B/C 拼出一个 Prompt，再复制或下载。', true);
+    const payload = OCW.exportTriple(App.exportMeta, App.prompt);
+    if (!navigator.clipboard) return prodNote('此环境无 clipboard API：请在预览区手动全选复制。', true);
+    navigator.clipboard.writeText(payload).then(
+      function () { prodNote('已复制到剪贴板（含导出元信息三元组）。'); },
+      function () { prodNote('浏览器拒绝剪贴板写入（需安全上下文或用户手势）：请在预览区手动复制。', true); });
+  }
+
+  function doDownload() {
+    if (!App.prompt) return prodNote('先点 A/B/C 拼出一个 Prompt，再复制或下载。', true);
+    const m = App.exportMeta;
+    const name = 'ocw-' + m.kind + '-' + m.at + '.md';
+    const blob = new Blob([OCW.exportTriple(m, App.prompt)], { type: 'text/markdown;charset=utf-8' });
+    const url = globalThis.URL.createObjectURL(blob);
+    const a = el('a', { href: url, download: name });
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    /* 立即 revoke 会让部分浏览器来不及取流 */
+    setTimeout(function () { globalThis.URL.revokeObjectURL(url); }, 1000);
+    prodNote('已触发下载 ' + name + '（落浏览器下载目录，不写仓库）。');
+  }
+
   function renderPanes() {
     OCW.PANES.forEach(function (p) { show('pane-' + p, p === App.state.pane && !App.error && App.index); });
     show('pane-boot', App.error ? App.rows.length === 0 : !App.index);
@@ -597,6 +832,7 @@ globalThis.OCW = (function () {
     if (App.index && !App.error) {
       if (App.state.pane === 'registry') renderRegistry();
       if (App.state.pane === 'retrieval') renderRetrieval();
+      if (App.state.pane === 'production') renderProduction();
     }
   }
 

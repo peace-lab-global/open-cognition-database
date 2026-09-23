@@ -1231,7 +1231,7 @@ git commit -m "feat(workbench): P1 跨链面板（对齐 CROSS_LINK_RE + 投影/
 - Consumes: `App.index.skills`（`{path,name,description,domain,tags}`）
 - Produces: `OCW.applySkill(skillText, task) -> string`（== `queries.py:116-125`）；`OCW.templateB(t1, t2, task) -> string`；`OCW.templateC(entryPath) -> string`；`OCW.exportTriple(meta, prompt) -> string`（元信息三元组 + prompt 全文）；`OCW.findSkill(index, idOrPath) -> skill|null`（== `get_skill`）。
 
-- [ ] **Step 1: 写失败测试（对照 Python 真值，覆盖一个佛教技能）**
+- [x] **Step 1: 写失败测试（对照 Python 真值，覆盖一个佛教技能）**
 
 ```js
 function pyApply(skillId, task) {
@@ -1273,9 +1273,9 @@ test('exportTriple 含技能 path、任务、generated 日期三要素', () => {
 });
 ```
 
-- [ ] **Step 2: 跑测试确认失败** → Expected: FAIL —— `OCW.applySkill is not a function`
+- [x] **Step 2: 跑测试确认失败** → Expected: FAIL —— `OCW.applySkill is not a function`
 
-- [ ] **Step 3: 实现（core）。字符串必须与 `queries.py:116-125` 字符级一致，含 `「」` 与 `→`**
+- [x] **Step 3: 实现（core）。字符串必须与 `queries.py:116-125` 字符级一致，含 `「」` 与 `→`**
 
 ```js
   /* 对应 queries.py:110-125 的 apply_skill()。模板正文以该函数为唯一权威：
@@ -1332,7 +1332,7 @@ test('exportTriple 含技能 path、任务、generated 日期三要素', () => {
 
 （`exportTriple` 的字段按 app 侧传入；测试只断言包含性，故不锁字段顺序。）`return` 增加 `applySkill, templateB, templateC, findSkill, exportTriple`。
 
-- [ ] **Step 4: app 渲染实验台（技能表 + 任务框 + prompt 预览 + 复制/下载）**
+- [x] **Step 4: app 渲染实验台（技能表 + 任务框 + prompt 预览 + 复制/下载）**
 
 ```js
   function skillTable(host) {
@@ -1440,12 +1440,24 @@ test('exportTriple 含技能 path、任务、generated 日期三要素', () => {
       'B 模板：先点第一个技能，再点第二个（第一次点击会把已选主技能挪到 sk2）。C 模板：用注册台/检索台 Enter 选中的条目路径。' }));
 ```
 
-- [ ] **Step 5: 跑测试 + 实机验证**
+- [x] **Step 5: 跑测试 + 实机验证**
 
 Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（13 tests）
 浏览器：选 `cbt-cognitive-distortion`、填同一任务、点 A → 预览与终端 `python3 -c "...print(queries.apply_skill('cbt-cognitive-distortion','同一任务'))"` 完全一致；宗教域选 `七处征心` 再验一次；导出"下载 .md"落地在浏览器下载目录（**不是仓库**）。
 
-- [ ] **Step 6: 提交**
+> 实测：`node --test` 15 pass / 0 fail（计划写 13，Task 5 落地时核心用例多了 2 条，非回归）。
+> 浏览器（headless Chrome + CDP，`node /tmp/ocw-task6-check.mjs`）13 组全绿：A 与 `queries.apply_skill()` 逐字相同（cbt 2528 字符、七处征心 2642 字符）；B 与 AGENT.md 模板 + Python 技能正文逐字相同（5393 字符）；C 由 `openDrawer` 写入 hash 的 `path` 深链直接复现；导出落 `/var/folders/…/ocw-dl-*`，`git status --porcelain` 无新增未跟踪文件；file:// 下给 `http.server` 红色提示且不产半成品；外部 `src/href` 计数 0；`Runtime.exceptionThrown` 计数 0。
+
+- [x] **Step 6: 提交**
+
+> 与计划的实现偏差（均为可用性问题，非契约变更）：
+> 1. 技能表每行给「设为主 / 设为副」两个按钮，取代计划的"先点第一个再点第二个、首次点击自动把主技能挪到 sk2"——迁移式单选在误点后不可见地改掉了已选主技能，回显成本高于两个按钮。
+> 2. 状态提示写入独立的 `#ocw-msg .note`（成功=灰、错误=红），不写进 `<pre>` 预览区，避免把提示当 Prompt 内容一起复制。
+> 3. 域 `<select>` 复用共享的 `state.domain`（与注册台/检索台同一个键），而非实验台私有键；`sk`（技能子串）为实验台私有。
+> 4. 任务正文留在 `App.taskText`，刻意不进 hash（可达数千字符且含换行，深链无意义）；技能/副技能/域/条目路径进 hash。
+> 5. `openDrawer()` 除渲染抽屉外，把选中条目 `path` 写入 hash（`replaceState`，不产生历史噪声）——模板 C 因此可从 URL 直接复现。
+> 6. 模板 B 增加"同一技能既主又副"守护并报错，不出半截交叉分析 Prompt。
+> 7. `readSkillText()` 在 file:// 下先拦一道给出 `python3 -m http.server 8000` 的可执行提示，而不是让 fetch 抛 `TypeError` 被误读为模板坏了。
 
 ```bash
 git add 工作台/index.html mcp/tests/workbench-core.test.mjs
