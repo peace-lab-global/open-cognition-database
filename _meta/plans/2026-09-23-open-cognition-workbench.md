@@ -1068,7 +1068,7 @@ git commit -m "feat(workbench): P1 检索台（search 与 queries.py 同谓词 +
 - Consumes: `App.index`；`App.graph`（Task 7 才有，缺失时走降级）
 - Produces: `OCW.crossLinks(mdText, entryPath) -> [{source,target,relation,label}]`（正则 = `queries.py:17-19`）；`OCW.resolveEntryPath(entryPath, target) -> string`；`OCW.edgesFrom(graph, path) -> edges[]`；`OCW.canReadSources(loc) -> boolean`（`file:` → false）。
 
-- [ ] **Step 1: 写失败测试**
+- [x] **Step 1: 写失败测试**（最终断言见 Step 2 的偏差说明；另加 `crossLinks('')/crossLinks(null)` 与 `edgesFrom` 空投影/坏投影两条边界）
 
 ```js
 const MD_SAMPLE = [
@@ -1090,9 +1090,16 @@ test('crossLinks 与 CROSS_LINK_RE 一致：只认带类型的互链，路径归
 });
 ```
 
-- [ ] **Step 2: 跑测试确认失败** → Expected: FAIL —— `OCW.crossLinks is not a function`
+- [x] **Step 2: 跑测试确认失败** → Expected: FAIL —— `OCW.crossLinks is not a function`
+  实测：新测试 FAIL 于 `OCW.crossLinks is not a function`，既有 8 个测试仍 PASS。
 
-- [ ] **Step 3: 实现（core）**
+  **Step 1 的两处偏差（已按实测改写测试，实现未动）：**
+  1. 计划期望 `../概念/alienation.md` 从 `哲学/学派/马克思/README.md` 归一到 `哲学/概念/alienation.md`——**少跳一层**。以 Python `(Path('哲学/学派/马克思')/'../概念/alienation.md').resolve().relative_to(REPO)` 为真值，正确结果是 `哲学/学派/概念/alienation.md`。测试断言按 Python 改正并留注释。
+  2. Step 5 建议的浏览器夹具 `宗教/佛教/概念/缘起.md` **不存在**（Python `FileNotFoundError`）。改用三个 Python 实测有边的真实条目：`宗教/传统/道教/大师/庄子/概念/庄周梦蝶.md`(4)、`认知系统/学派/分布式认知/哈钦斯.md`(6)、`哲学/学派/存在主义/加缪/概念/哲学性自杀.md`(1)，并加 `assert.ok(want.length, '样例失效…')` 让夹具腐坏时测试炸掉而不是静默通过。
+
+- [x] **Step 3: 实现（core）**（另在 `return` 导出四项，`/* OCW:CONTRACT-FUNCS */` 标记保持在 `return` 前供 Task 9 机械核对）
+
+  与计划的唯一实质差别：`resolveEntryPath` 显式处理**绝对目标**与**跳出仓库根**两种情况并原样返回目标，对齐 Python `relative_to()` 抛 `ValueError` 时 `rel = target` 的分支（`queries.py:99-104`）。先行取证：对 220 个真实条目跑 `queries.cross_links()` 得 95 条边，**无一条绝对或跳出根**，故词法归一在本语料上与 `Path.resolve()` 等价（纯字符串路径不涉及符号链接）——但分支仍写出来，因为降级面板的正确性不能依赖语料巧合。
 
 ```js
   /* 对应 queries.py:17-19 的 CROSS_LINK_RE（带类型的跨链：[标签](路径) `[类型]`，允许全角/直角引号） */
@@ -1131,7 +1138,12 @@ test('crossLinks 与 CROSS_LINK_RE 一致：只认带类型的互链，路径归
 
 （`needsServer` 已在 Task 2 定义，可直接引用。）`return` 增加 `crossLinks, resolveEntryPath, edgesFrom, canReadSources`。
 
-- [ ] **Step 4: app 内把占位换成真实三分支（读得到源 → 现读；有投影 → 用投影；都没有 → 说明原因）**
+- [x] **Step 4: app 内把占位换成真实三分支（读得到源 → 现读；有投影 → 用投影；都没有 → 说明原因）**
+
+  在计划片段之上加了三处，均为实测驱动：
+  1. `const stale = () => App.drawerEntry !== entry;` —— `renderCrossLinkPane` 是 async，本地分支 `await fetch` 回来时用户可能已点到别的条目；不加守卫就会把 A 的边追加到 B 的抽屉里（`App` 因此补 `drawerEntry: null` 初值，`openDrawer/closeDrawer` 原本已在维护它）。
+  2. 本地分支补 `.empty` 措辞「该条目正文没有带类型的互链（登记册未记录即为无，不代表概念上无关联）」——计划的本地分支只打印边数、无边时什么都不说，与"读不到"难以区分，违反规格的认识论底线。
+  3. 投影加载成功时除 `render()` 外再 `if (App.drawerEntry) openDrawer(App.drawerEntry)` —— 投影晚到（网络抖动）时抽屉还开着，不重开就停留在降级文案上。投影 404/未生成走 `.catch` 静默降级，不是错误。
 
 ```js
   async function renderCrossLinkPane(entry) {
@@ -1182,12 +1194,25 @@ test('crossLinks 与 CROSS_LINK_RE 一致：只认带类型的互链，路径归
     .catch(function () { /* 投影尚未生成：走降级路径 */ });
 ```
 
-- [ ] **Step 5: 跑测试 + 实机验证**
+- [x] **Step 5: 跑测试 + 实机验证**
 
 Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（10 tests）
+**实测 11 pass / 0 fail**（计划写 10，因 Task 4 已把检索台测试从 1 条拆成 2 条：`search` 逐条一致 + `limit` 边界）。
+
 浏览器（`http.server`）：`#/registry` 选一个已知有互链的条目（如 `宗教/佛教/概念/缘起.md`），抽屉出现带 `[关系]` 的边表；改开 `file://` 版本 → 出现"跨链面板不可用"的红色说明而非空表。
 
-- [ ] **Step 6: 提交**
+**实机改法与结果**（Chrome headless + CDP，一次性脚本，不入库）：
+- 计划给的夹具 `宗教/佛教/概念/缘起.md` 不存在（Python `FileNotFoundError`）。换成三个 Python 已 dump 的真实条目，逐格比对 DOM 表格：
+  `宗教/传统/道教/大师/庄子/概念/庄周梦蝶.md` → 4 行（发展/平行×3，目标均为同目录 `README.md`）✅ 与 `queries.cross_links()` 逐格一致
+  `哲学/学派/存在主义/加缪/概念/哲学性自杀.md` → 1 行（批判，跨域目标 `哲学/学派/宗教/传统/基督教/帕斯卡尔.md`）✅
+  `哲学/学派/分析哲学/丹尼特/概念/模因.md` → 0 行 → 渲染 `.empty`「不代表概念上无关联」而非空表 ✅
+- 竞态守卫：同一 tick 内先开 A(4 边) 再开 B(1 边)，等待后抽屉只有 1 个 `h4`、只有 B 的 `[批判]`、note 计数「1 条出边」→ A 的迟到响应确被丢弃 ✅
+- 投影分支：Task 7 才有真 `graph.json`，故注入同结构假投影 → 表头变 `方向/关系/对端`，三条假边只渲染与当前条目相关的两条且 `→/←` 方向正确，note 说明来源为 `graph.json` ✅（真投影落地后 Task 7 再复验一次）
+- `file://` 降级：**抽屉的降级路径只能在 file:// 里手工开**——file:// 下 `index.json` 取不到、四个面板全隐藏，没有可行走的清单，所以先断言启动区给出 `http.server` + CORS 的可执行提示（非白屏），再注入最小合成为 `index` 让 `openDrawer` 可达，断言出现 `.note.bad`「跨链面板不可用…这不是"无关联"」且 `table` 不存在 ✅
+- 全程 `Runtime.exceptionThrown` 计数 0 ✅
+- 踩坑记录：初版 harness 多带了 `--allow-file-access-from-files=0`，Chrome 把 `=0` 也当开关存在，于是 file:// 竟能 fetch 到 `index.json` → 启动区无提示、误判 FAIL。删掉该 flag 后复现真实浏览器行为。**这条不影响工作台代码，只影响验证脚本。**
+
+- [x] **Step 6: 提交**（提交同时带上本计划文件的 Task 5 勾选与实测记录，与 Task 3/4 一致）
 
 ```bash
 git add 工作台/index.html mcp/tests/workbench-core.test.mjs

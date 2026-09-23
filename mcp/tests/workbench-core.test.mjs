@@ -141,3 +141,64 @@ test('search 结果与 queries.search() 逐条一致（含大小写与 limit 边
   assert.deepEqual(plain(OCW.search(index, '概念', '哲学', 'concept', 5)), pySearch('概念', '哲学', 'concept', 5));
   assert.equal(OCW.search(index, '异化', '哲学', null, 3).length, pySearch('异化', '哲学', null, 3).length);
 });
+
+/* -------------------------------- Task 5: 跨链 -------------------------------- */
+
+/** Python 真值：queries.cross_links() 自己读磁盘上的源文件。 */
+function pyCrossLinks(path) {
+  const py = [
+    'import json,sys;sys.path.insert(0,"mcp")',
+    'from open_cognition_mcp import queries',
+    'print(json.dumps(queries.cross_links(sys.argv[1]), ensure_ascii=False))',
+  ].join(';');
+  return JSON.parse(execFileSync('python3', ['-c', py, path], { cwd: REPO_ROOT }).toString());
+}
+
+const MD_SAMPLE = [
+  '## 跨学科关联', '',
+  '- [异化](../概念/alienation.md) `[借用]` 马克思的劳动异化',
+  '- 无类型的普通链接 [x](./y.md) 不算边',
+  '- 全角引号式：[缘起](./p.md) 「[同构]」',
+].join('\n');
+
+test('crossLinks 与 CROSS_LINK_RE 一致：只认带类型的互链，路径归一到仓库根相对', () => {
+  const OCW = loadCore();
+  /* 基准目录 = 条目所在目录 哲学/学派/马克思，故 ../概念/ 上跳一层是 哲学/学派/概念/
+     （计划原文写成 哲学/概念/，少跳一层；此处以 Path(base/t).resolve() 的 Python 实测为准） */
+  assert.deepEqual(plain(OCW.crossLinks(MD_SAMPLE, '哲学/学派/马克思/README.md')), [
+    { source: '哲学/学派/马克思/README.md', target: '哲学/学派/概念/alienation.md', relation: '借用', label: '异化' },
+    { source: '哲学/学派/马克思/README.md', target: '哲学/学派/马克思/p.md', relation: '同构', label: '缘起' },
+  ]);
+  assert.deepEqual(plain(OCW.crossLinks('', 'x/README.md')), []);
+  assert.deepEqual(plain(OCW.crossLinks(null, 'x/README.md')), []);
+  assert.equal(OCW.canReadSources('file:///x'), false);
+  assert.equal(OCW.canReadSources('https://p.github.io/r/工作台/'), true);
+});
+
+test('crossLinks 对真实条目与 queries.cross_links() 逐条一致（含 ../ 归一）', () => {
+  const OCW = loadCore();
+  for (const p of [
+    '宗教/传统/道教/大师/庄子/概念/庄周梦蝶.md',
+    '认知系统/学派/分布式认知/哈钦斯.md',
+    '哲学/学派/存在主义/加缪/概念/哲学性自杀.md',
+  ]) {
+    const want = pyCrossLinks(p);
+    assert.ok(want.length, `样例失效：${p} 已无显式跨链`);
+    const text = readFileSync(REPO_ROOT + p, 'utf8');
+    assert.deepEqual(plain(OCW.crossLinks(text, p)), want, p);
+  }
+});
+
+test('edgesFrom：只取与当前条目相关的边；无投影时返回空而非崩', () => {
+  const OCW = loadCore();
+  const graph = { edges: [
+    { source: 'a.md', target: 'b.md', relation: '互补' },
+    { source: 'c.md', target: 'a.md', relation: '继承' },
+    { source: 'c.md', target: 'b.md', relation: '平行' },
+  ] };
+  assert.equal(OCW.edgesFrom(graph, 'a.md').length, 2);
+  assert.deepEqual(plain(OCW.edgesFrom(graph, 'a.md').map((e) => e.relation)), ['互补', '继承']);
+  assert.deepEqual(plain(OCW.edgesFrom(graph, 'z.md')), []);
+  assert.deepEqual(plain(OCW.edgesFrom(null, 'a.md')), []);
+  assert.deepEqual(plain(OCW.edgesFrom({ edges: 'oops' }, 'a.md')), []);
+});

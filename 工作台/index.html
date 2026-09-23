@@ -179,6 +179,52 @@ globalThis.OCW = (function () {
     return hits;
   }
 
+  /* ---- 跨链：与 MCP queries.cross_links() 同谓词 ---- */
+  /* 对应 queries.py:17-19 的 CROSS_LINK_RE —— 只认带关联类型的互链：
+     [标签](路径.md) `[类型]`，类型引号允许反引号或直角引号「」。 */
+  const CROSS_LINK_RE = /\[([^\]]+)\]\(([^)]+\.md)\)\s*[`「]\[([^\]]+)\][`」]/g;
+
+  /* 对应 queries.py:96-104：以条目所在目录为基准做词法归一（Python 侧是 Path.resolve()，
+     纯字符串路径不涉及符号链接，故两者等价）；归一后跳出仓库根或绝对目标 → 原样返回，
+     对齐 Python 的 ValueError 分支。 */
+  function resolveEntryPath(entryPath, target) {
+    if (target.charAt(0) === '/') return target;
+    const segs = String(entryPath).split('/').slice(0, -1);
+    for (const part of String(target).split('/')) {
+      if (part === '' || part === '.') continue;
+      if (part === '..') {
+        if (!segs.length) return target;   /* 跳出根：Python 会 relative_to 失败而退回原值 */
+        segs.pop();
+      } else segs.push(part);
+    }
+    return segs.join('/');
+  }
+
+  function crossLinks(mdText, entryPath) {
+    const re = new RegExp(CROSS_LINK_RE.source, 'g');
+    const out = [];
+    let m;
+    while ((m = re.exec(String(mdText == null ? '' : mdText))) !== null) {
+      out.push({
+        source: entryPath,
+        target: resolveEntryPath(entryPath, m[2]),
+        relation: m[3],
+        label: m[1].trim(),
+      });
+    }
+    return out;
+  }
+
+  function canReadSources(loc) {
+    return !needsServer(loc);
+  }
+
+  /* graph.json 投影（Task 7）缺失时返回空数组，由调用方决定降级措辞 */
+  function edgesFrom(graph, path) {
+    if (!graph || !Array.isArray(graph.edges)) return [];
+    return graph.edges.filter(function (e) { return e.source === path || e.target === path; });
+  }
+
   /* ---- 注册台：一切读数由登记册现算 ---- */
   const LIST_ONLY_FIELDS = ['category', 'channel', 'angle'];
 
@@ -239,6 +285,7 @@ globalThis.OCW = (function () {
 
   /* OCW:CONTRACT-FUNCS */
   return { PANES, PANE_LABELS, parseHash, writeHash, needsServer, loadIndex, fmt, enc, dec, search,
+           crossLinks, resolveEntryPath, edgesFrom, canReadSources,
            matrix, facets, selectEntries, redirectCount, LIST_ONLY_FIELDS };
 })();
 </script>
@@ -251,7 +298,7 @@ globalThis.OCW = (function () {
   const App = {
     index: null, graph: null, error: null,
     state: OCW.parseHash(globalThis.location ? globalThis.location.hash : ''),
-    rows: [], cursor: 0,
+    rows: [], cursor: 0, drawerEntry: null,
   };
   globalThis.__OCW_APP__ = App;
 
@@ -338,10 +385,59 @@ globalThis.OCW = (function () {
     document.getElementById('drawer').textContent = '';
     App.drawerEntry = null;
   }
-  function renderCrossLinkPane(entry) {
+  /* 跨链三态：有投影用投影 → 否则能读源就现读 md → 都不行就明说不可用（绝不空表冒充"无关联"） */
+  async function renderCrossLinkPane(entry) {
     const d = document.getElementById('drawer');
+    const stale = function () { return App.drawerEntry !== entry; };   /* 异步回来时抽屉可能已换条目 */
     d.appendChild(el('h4', { text: '跨链（cross_links）' }));
-    d.appendChild(el('div', { class: 'note', text: 'Task 5 起由本地图投影提供；当前未加载。' }));
+    if (App.graph) {
+      const edges = OCW.edgesFrom(App.graph, entry.path);
+      if (!edges.length) {
+        d.appendChild(el('div', { class: 'empty', text: '该条目无显式类型跨链（登记册未记录即为无，不代表概念上无关联）' }));
+        return;
+      }
+      const t = el('table');
+      t.appendChild(el('tr', {}, ['方向', '关系', '对端'].map((h) => el('th', { text: h }))));
+      edges.forEach(function (e) {
+        const outgoing = e.source === entry.path;
+        t.appendChild(el('tr', {}, [
+          el('td', { text: outgoing ? '→' : '←' }),
+          el('td', { text: '[' + e.relation + ']' }),
+          el('td', { text: outgoing ? e.target : e.source }),
+        ]));
+      });
+      d.appendChild(t);
+      d.appendChild(el('div', { class: 'note', text: '边表来自 graph.json（由 build-workbench-graph.py 复用 queries.cross_links 生成，CI --check 保鲜）。' }));
+      return;
+    }
+    if (!OCW.canReadSources(globalThis.location.href)) {
+      d.appendChild(el('div', { class: 'note bad', text:
+        '此环境（file://）无法读源 md，且尚未加载 graph.json 投影 → 跨链面板不可用。这不是"无关联"。' +
+        '请用 python3 -m http.server 8000 打开，或等 P3 的 graph.json 落地。' }));
+      return;
+    }
+    try {
+      const res = await fetch('../' + encodeURI(entry.path));
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const edges = OCW.crossLinks(await res.text(), entry.path);
+      if (stale()) return;
+      d.appendChild(el('div', { class: 'note', text: '本地模式：直接解析源 md，与 queries.cross_links() 同谓词（' + edges.length + ' 条出边）。' }));
+      if (!edges.length) {
+        d.appendChild(el('div', { class: 'empty', text: '该条目正文没有带类型的互链（登记册未记录即为无，不代表概念上无关联）' }));
+        return;
+      }
+      const t = el('table');
+      t.appendChild(el('tr', {}, ['关系', '标签', '目标'].map((h) => el('th', { text: h }))));
+      edges.forEach(function (e) {
+        t.appendChild(el('tr', {}, [
+          el('td', { text: '[' + e.relation + ']' }), el('td', { text: e.label }), el('td', { text: e.target }),
+        ]));
+      });
+      d.appendChild(t);
+    } catch (err) {
+      if (stale()) return;
+      d.appendChild(el('div', { class: 'note bad', text: '源文件读取失败：' + (err && err.message) }));
+    }
   }
   App.openDrawer = openDrawer;
   App.closeDrawer = closeDrawer;
@@ -549,6 +645,17 @@ globalThis.OCW = (function () {
 
   OCW.loadIndex().then(function (index) { App.index = index; render(); })
     .catch(function (e) { App.error = String((e && e.message) || e); render(); });
+
+  /* P3 投影可选：缺失（404 / 尚未生成）不是错误，跨链面板会自动降级。
+     晚到的投影若碰上抽屉已开，重开一次让投影分支接管。 */
+  fetch('graph.json').then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (g) {
+      if (!g) return;
+      App.graph = g;
+      render();
+      if (App.drawerEntry) openDrawer(App.drawerEntry);
+    })
+    .catch(function () { /* 投影尚未生成：走降级路径 */ });
 
   render();
 })();
