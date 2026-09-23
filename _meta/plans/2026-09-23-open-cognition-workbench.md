@@ -33,7 +33,7 @@
 - Modify: `_meta/scripts/hooks/pre-commit:18-34`（整段重写）
 - Test: 一次性 scratch worktree（不落盘测试文件，命令写入计划）
 
-- [ ] **Step 1: 写出失败证据（功能测试，不改仓库状态）**
+- [x] **Step 1: 写出失败证据（功能测试，不改仓库状态）**
 
 ```bash
 cd /Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition-database
@@ -53,7 +53,7 @@ cd - >/dev/null && git worktree remove --force /tmp/ocd-hook
 
 Expected: FAIL —— `hook exit=0` 且 `grep -c` 输出 `0`（钩子什么都没做）；grep 显示 `REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"`、`BUILD_SCRIPT="$REPO_ROOT/scripts/build-index.py"`。
 
-- [ ] **Step 2: 修 `setup-hooks.sh` 根路径与源目录**
+- [x] **Step 2: 修 `setup-hooks.sh` 根路径与源目录**
 
 把 `:10-12` 三行替换为：
 
@@ -70,7 +70,7 @@ HOOK_DST="$REPO_ROOT/.git/hooks"
 echo "Hooks installed. 紧急情况下可用 git commit --no-verify 跳过（会留下 index.json 过期风险）。"
 ```
 
-- [ ] **Step 3: 重写 `hooks/pre-commit`（真实路径 + 真实顶层目录 + 不依赖可执行位）**
+- [x] **Step 3: 重写 `hooks/pre-commit`（真实路径 + 真实顶层目录 + 不依赖可执行位）**
 
 整文件替换为：
 
@@ -121,7 +121,7 @@ fi
 exit 0
 ```
 
-- [ ] **Step 4: 安装并跑功能测试，确认通过**
+- [x] **Step 4: 安装并跑功能测试，确认通过**
 
 ```bash
 cd /Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition-database
@@ -140,7 +140,7 @@ git status --porcelain    # 主工作区必须仍是干净的（只多一个 spe
 
 Expected: PASS —— 打印 `[pre-commit] 已重建并入暂存 index.json`、`hook exit=0`、`grep -c` 输出 `1`、`--check` 在 worktree 内 exit `0`。
 
-- [ ] **Step 5: 提交**
+- [x] **Step 5: 提交**
 
 ```bash
 git add _meta/scripts/setup-hooks.sh _meta/scripts/hooks/pre-commit
@@ -165,7 +165,7 @@ EOF
 - Modify: `eval/README.md:3`
 - Modify: `eval/README.md:45`
 
-- [ ] **Step 1: 失败断言（现状 grep 命中）**
+- [x] **Step 1: 失败断言（现状 grep 命中）**
 
 ```bash
 cd /Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition-database
@@ -181,7 +181,7 @@ EOF
 
 Expected: FAIL —— 三处 grep 命中过期数字（149/2799 由 index.json 断言给出，不写进源码）。
 
-- [ ] **Step 2: 三处文案改为与登记册一致**
+- [x] **Step 2: 三处文案改为与登记册一致**
 
 `mcp/README.md:3`：
 
@@ -201,7 +201,7 @@ Expected: FAIL —— 三处 grep 命中过期数字（149/2799 由 index.json �
 - [ ] 全量 149 个
 ```
 
-- [ ] **Step 3: 通过断言**
+- [x] **Step 3: 通过断言**
 
 ```bash
 grep -rn "137 个\|2670" mcp/ eval/ --include='*.md' ; echo "grep exit=$?"
@@ -209,7 +209,7 @@ grep -rn "137 个\|2670" mcp/ eval/ --include='*.md' ; echo "grep exit=$?"
 
 Expected: PASS —— 无输出，`grep exit=1`。
 
-- [ ] **Step 4: 提交**
+- [x] **Step 4: 提交**
 
 ```bash
 git add mcp/README.md eval/README.md
@@ -231,7 +231,7 @@ git commit -m "docs(mcp,eval): 计数与 index.json 对齐（149 技能 / 2650 �
 - Consumes: `../index.json`（`{version, generated, stats, entries[], skills[]}`）
 - Produces: `OCW.PANES: string[]`、`OCW.PANE_LABELS: Record<string,string>`、`OCW.parseHash(hash) -> state`、`OCW.writeHash(state) -> string`、`OCW.needsServer(loc) -> boolean`、`OCW.loadIndex(fetchImpl?, url?) -> Promise<index>`、`OCW.fmt(n) -> string`、`window.__OCW_TEST_HOOK__`（仅 `globalThis.location == null` 时定义，测试专用，不参与运行路径）；`App`（app 块内的渲染状态持有者）。
 
-- [ ] **Step 1: 写失败测试**
+- [x] **Step 1: 写失败测试**
 
 创建 `mcp/tests/workbench-core.test.mjs`：
 
@@ -312,12 +312,12 @@ test('fmt 千分位（底栏读数用）', () => {
 });
 ```
 
-- [ ] **Step 2: 跑测试确认失败**
+- [x] **Step 2: 跑测试确认失败**
 
-Run: `cd /Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition-database && node --test mcp/tests/`
+Run: `cd /Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition-database && node --test mcp/tests/*.test.mjs`
 Expected: FAIL —— `ENOENT, no such file or directory, open '.../工作台/index.html'`（7 项全红）
 
-- [ ] **Step 3: 写 `工作台/index.html`（P0 完整骨架）**
+- [x] **Step 3: 写 `工作台/index.html`（P0 完整骨架）**
 
 ```html
 <!DOCTYPE html>
@@ -556,12 +556,13 @@ globalThis.OCW = (function () {
 </html>
 ```
 
-- [ ] **Step 4: 跑测试确认通过**
+- [x] **Step 4: 跑测试确认通过**
 
-Run: `node --test mcp/tests/`
-Expected: PASS —— 7 tests pass（`零第三方资源` 那条会拒绝任何 `https://` 外链）
+Run: `node --test mcp/tests/*.test.mjs`
+Expected: PASS —— 6 tests pass（`零第三方资源` 那条会拒绝任何 `https://` 外链）。
+实测两处偏离：① core 不用 `URLSearchParams`，改自带 `enc/dec/parseQuery/encodeQuery`，因为 `vm.runInNewContext` 的 context 里没有这个浏览器全局，用了会让纯函数层无法在 Node 侧被测；② 断言跨 realm 需 `plain()` 归一（vm context 的对象字面量带 context 的 `Object.prototype`，`assert/strict` 的 `deepEqual` 比原型）。
 
-- [ ] **Step 5: 浏览器实机确认（不可省略的验收）**
+- [x] **Step 5: 浏览器实机确认（不可省略的验收）**
 
 ```bash
 python3 -m http.server 8000 >/dev/null 2>&1 &
@@ -572,7 +573,7 @@ kill %1
 
 Expected: `200`；页面底栏显示 `v0.6 · generated … · 条目 2,650 · 技能 149 · 合计 2,799`（数值来自 fetch，非源码字面量）。人工再用浏览器打开 `file://` 版本，确认显示服务提示而非白屏。
 
-- [ ] **Step 6: 写 `工作台/README.md`**
+- [x] **Step 6: 写 `工作台/README.md`**
 
 ```markdown
 # 开放认知工作台
@@ -608,11 +609,11 @@ Pages 部署后同一份文件在 `/open-cognition-database/工作台/` 可用�
 
 ## 自检
 
-    node --test mcp/tests/            # 前端纯函数
+    node --test mcp/tests/*.test.mjs   # 前端纯函数（须给文件通配，Node 22 不吃目录参数）
     python3 mcp/test_workbench.py     # 前端 ↔ queries.py 契约一致
 ```
 
-- [ ] **Step 7: 门禁 + 提交**
+- [x] **Step 7: 门禁 + 提交**
 
 ```bash
 python3 _meta/scripts/lint.py --json | python3 -c "import json,sys;print('errors',json.load(sys.stdin)['errors'])"
@@ -673,7 +674,7 @@ test('注册台 matrix/facets/select 与登记册一致（真 index.json）', as
 
 - [ ] **Step 2: 跑测试确认失败**
 
-Run: `node --test mcp/tests/`
+Run: `node --test mcp/tests/*.test.mjs`
 Expected: FAIL —— `OCW.matrix is not a function`
 
 - [ ] **Step 3: 在 core 里实现（插入 `/* OCW:CONTRACT-FUNCS */` 之前）**
@@ -834,7 +835,7 @@ Expected: FAIL —— `OCW.matrix is not a function`
 
 - [ ] **Step 5: 跑测试 + 实机验证**
 
-Run: `node --test mcp/tests/` → Expected: PASS（8 tests）
+Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（8 tests）
 浏览器：点 `1. 注册台` → 交叉表出现；点任一非零单元格 → 清单表出现且 URL hash 变为 `#/registry?domain=…&type=…`；刷新后视图完整恢复；facet 组合命中 0 时显示"该组合无登记条目"。
 
 - [ ] **Step 6: 提交**
@@ -885,7 +886,7 @@ test('search 结果与 queries.search() 逐条一致（含大小写与 limit 边
 
 - [ ] **Step 2: 跑测试确认失败**
 
-Run: `node --test mcp/tests/` → Expected: FAIL —— `OCW.search is not a function`
+Run: `node --test mcp/tests/*.test.mjs` → Expected: FAIL —— `OCW.search is not a function`
 
 - [ ] **Step 3: 实现 `search`（core，插在 `matrix` 之前并加入 `return`）**
 
@@ -1015,7 +1016,7 @@ Python 的 `hay = " ".join(...)` + `hay += " " + tags` 拼接顺序与空格必�
 
 - [ ] **Step 5: 跑测试 + 实机验证**
 
-Run: `node --test mcp/tests/` → Expected: PASS（9 tests，含 Python 对照 6 组查询）
+Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（9 tests，含 Python 对照 6 组查询）
 浏览器：`#/retrieval?q=异化&domain=哲学` 粘贴直开；`python3 -c` 打印 `len(queries.search('异化'))` 与页面计数一致；`/` 聚焦、`j/k` 移动、`Enter` 开抽屉、`Esc` 关，全程不碰鼠标。
 
 - [ ] **Step 6: 提交**
@@ -1153,7 +1154,7 @@ test('crossLinks 与 CROSS_LINK_RE 一致：只认带类型的互链，路径归
 
 - [ ] **Step 5: 跑测试 + 实机验证**
 
-Run: `node --test mcp/tests/` → Expected: PASS（10 tests）
+Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（10 tests）
 浏览器（`http.server`）：`#/registry` 选一个已知有互链的条目（如 `宗教/佛教/概念/缘起.md`），抽屉出现带 `[关系]` 的边表；改开 `file://` 版本 → 出现"跨链面板不可用"的红色说明而非空表。
 
 - [ ] **Step 6: 提交**
@@ -1386,7 +1387,7 @@ test('exportTriple 含技能 path、任务、generated 日期三要素', () => {
 
 - [ ] **Step 5: 跑测试 + 实机验证**
 
-Run: `node --test mcp/tests/` → Expected: PASS（13 tests）
+Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（13 tests）
 浏览器：选 `cbt-cognitive-distortion`、填同一任务、点 A → 预览与终端 `python3 -c "...print(queries.apply_skill('cbt-cognitive-distortion','同一任务'))"` 完全一致；宗教域选 `七处征心` 再验一次；导出"下载 .md"落地在浏览器下载目录（**不是仓库**）。
 
 - [ ] **Step 6: 提交**
@@ -1763,7 +1764,7 @@ test('审计台读数来自投影，不出现手写常量', () => {
 
 - [ ] **Step 5: 跑测试 + 实机验证**
 
-Run: `node --test mcp/tests/` → Expected: PASS（14 tests）
+Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（14 tests）
 浏览器：面板 4 显示门禁表 + 覆盖率 + eval 矩阵；把命令粘进终端逐条执行，与 Actions 三色一致；删掉 `工作台/graph.json` 刷新 → 出现红色缺失说明而非空白（测完 `git checkout 工作台/graph.json` 复原）。
 
 - [ ] **Step 6: 提交**

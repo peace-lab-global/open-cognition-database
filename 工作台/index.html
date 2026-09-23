@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=1280">
+<title>开放认知工作台 · Open Cognition Workbench</title>
+<style>
+:root{
+  --ink:#1f2328; --muted:#59636e; --line:#d1d9e0; --bg:#f6f8fa; --panel:#fff;
+  --ok:#1a7f37; --warn:#9a6700; --err:#cf222e; --accent:#0969da;
+  --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{
+  display:grid; height:100vh; overflow:hidden;
+  grid-template-columns:212px minmax(0,1fr) 344px;
+  grid-template-rows:46px minmax(0,1fr) 28px;
+  grid-template-areas:"brand brand drawer" "nav main drawer" "bar bar bar";
+  font:13.5px/1.65 var(--mono); color:var(--ink); background:var(--bg);
+}
+body[data-drawer="closed"]{grid-template-columns:212px minmax(0,1fr) 0}
+body[data-drawer="closed"] #drawer{display:none}
+#brand{grid-area:brand;display:flex;align-items:center;gap:12px;padding:0 14px;
+  background:#24292f;color:#fff;border-bottom:1px solid #1c2128}
+#brand b{font-weight:600;letter-spacing:.02em}
+#brand .dim{color:#afb8c1;font-size:11.5px}
+nav{grid-area:nav;border-right:1px solid var(--line);background:var(--panel);padding:10px 0;overflow:auto}
+nav button{display:block;width:100%;text-align:left;padding:6px 14px;border:0;background:none;
+  font:inherit;color:var(--muted);cursor:pointer}
+nav button[aria-current="page"]{background:#ddf4ff;color:var(--accent);font-weight:600}
+nav .grp{padding:14px 14px 4px;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+main{grid-area:main;overflow:auto;padding:14px 16px}
+.pane[hidden]{display:none}
+.drawer{grid-area:drawer;border-left:1px solid var(--line);background:var(--panel);overflow:auto;padding:12px 14px}
+.bar{grid-area:bar;display:flex;align-items:center;gap:10px;padding:0 12px;border-top:1px solid var(--line);
+  background:var(--panel);font-size:11.5px;color:var(--muted)}
+.bar .grow{flex:1}
+table{border-collapse:collapse;width:100%;font-size:12.5px}
+th,td{border-bottom:1px solid var(--line);padding:4px 8px;text-align:left;vertical-align:top}
+th{background:var(--bg);position:sticky;top:0;font-weight:600;color:var(--muted)}
+tr[cursor] td{background:#ddf4ff}
+td.num{text-align:right;font-variant-numeric:tabular-nums}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0}
+.chip{border:1px solid var(--line);background:var(--panel);border-radius:20px;padding:1px 10px;font:inherit;font-size:12px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+input[type=search],select,textarea{font:inherit;padding:4px 6px;border:1px solid var(--line);border-radius:4px;background:#fff}
+textarea{width:100%;min-height:90px}
+button{font:inherit}
+.btn{padding:4px 10px;border:1px solid var(--line);border-radius:4px;background:#fff;cursor:pointer}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+pre{white-space:pre-wrap;word-break:break-word;background:#0d1117;color:#e6edf3;padding:10px;border-radius:6px;font-size:12px;max-height:46vh;overflow:auto}
+.empty{padding:28px 4px;color:var(--muted)}
+.note{padding:8px 10px;border-left:3px solid var(--accent);background:#ddf4ff66;margin:8px 0;font-size:12.5px}
+.note.bad{border-color:var(--err);background:#cf222e1a}
+.pill{font-size:11px;padding:0 6px;border-radius:10px;border:1px solid var(--line);color:var(--muted)}
+.pill.ok{color:var(--ok);border-color:var(--ok)}
+.pill.warn{color:var(--warn);border-color:var(--warn)}
+.pill.bad{color:var(--err);border-color:var(--err)}
+kbd{border:1px solid var(--line);border-bottom-width:2px;border-radius:3px;padding:0 4px;font-size:11px}
+</style>
+</head>
+<body data-drawer="closed">
+<div id="brand"><b>开放认知工作台</b><span class="dim">registry · retrieval · production · audit</span>
+  <span style="flex:1"></span>
+  <span class="dim"><kbd>/</kbd> 检索 <kbd>1..4</kbd> 面板 <kbd>j/k</kbd> 行 <kbd>Enter</kbd> 溯源 <kbd>Esc</kbd> 关</span>
+</div>
+<nav id="nav" aria-label="面板"></nav>
+<main id="main">
+  <section id="pane-registry" class="pane" hidden></section>
+  <section id="pane-retrieval" class="pane" hidden></section>
+  <section id="pane-production" class="pane" hidden></section>
+  <section id="pane-audit" class="pane" hidden></section>
+  <section id="pane-boot" class="pane"></section>
+</main>
+<aside id="drawer" class="drawer" aria-label="溯源"></aside>
+<footer class="bar"><span id="bar-read">正在读取登记册…</span><span class="grow"></span>
+  <button class="btn" id="copy-url" type="button">当前 URL</button></footer>
+
+<script id="ocw-core">
+/* 与 DOM 无关的纯函数层。每个原语旁边标注它在 Python 侧的出处；
+   改动 mcp/open_cognition_mcp/queries.py 时必须同步这里
+   （CONTRIBUTING.md 评审项；机械校验见 mcp/test_workbench.py）。 */
+globalThis.OCW = (function () {
+  'use strict';
+
+  const PANES = ['registry', 'retrieval', 'production', 'audit'];
+  const PANE_LABELS = { registry: '注册台', retrieval: '检索台', production: '实验台', audit: '审计台' };
+
+  /* ---- hash 编码：自带最小 query 编解码，不依赖 URLSearchParams
+          （浏览器有，但 Node vm 新 context 没有，测试会在沙箱里跑这些函数） ---- */
+  function enc(s) { return encodeURIComponent(String(s)).replace(/'/g, '%27'); }
+  function dec(s) {
+    const raw = String(s).replace(/\+/g, ' ');
+    try { return decodeURIComponent(raw); } catch (e) { return raw; }
+  }
+  function parseQuery(qs) {
+    const out = {};
+    String(qs || '').split('&').forEach(function (pair) {
+      if (!pair) return;
+      const i = pair.indexOf('=');
+      out[dec(i < 0 ? pair : pair.slice(0, i))] = i < 0 ? '' : dec(pair.slice(i + 1));
+    });
+    return out;
+  }
+  function encodeQuery(obj, skip) {
+    return Object.keys(obj)
+      .filter(function (k) { return k !== skip && obj[k] !== '' && obj[k] != null; })
+      .sort()
+      .map(function (k) { return enc(k) + '=' + enc(obj[k]); })
+      .join('&');
+  }
+
+  /* ---- 路由：面板状态全进 hash（可复现） ---- */
+  function parseHash(hash) {
+    const raw = String(hash || '').replace(/^#/, '');
+    const cut = raw.indexOf('?');
+    const pane = (cut < 0 ? raw : raw.slice(0, cut)).replace(/^\//, '');
+    const state = { pane: PANES.indexOf(pane) >= 0 ? pane : 'registry' };
+    const q = parseQuery(cut < 0 ? '' : raw.slice(cut + 1));
+    Object.keys(q).forEach(function (k) { state[k] = q[k]; });
+    return state;
+  }
+
+  function writeHash(state) {
+    const pane = PANES.indexOf(state.pane) >= 0 ? state.pane : 'registry';
+    const qs = encodeQuery(state, 'pane');
+    return '#/' + pane + (qs ? '?' + qs : '');
+  }
+
+  /* ---- 取数：只读，唯一数据源是登记册 index.json ---- */
+  function needsServer(loc) {
+    return String(loc || '').indexOf('file:') === 0;
+  }
+
+  async function loadIndex(fetchImpl, url) {
+    const f = fetchImpl || globalThis.fetch;
+    if (!f) throw new Error('此环境无 fetch：请用 python3 -m http.server 8000 后访问 /工作台/');
+    const res = await f(url || '../index.json');
+    if (!res.ok) throw new Error('index.json HTTP ' + res.status);
+    const data = await res.json();
+    if (!data || !Array.isArray(data.entries) || !Array.isArray(data.skills)) {
+      throw new Error('index.json 结构不符（缺 entries/skills 数组）');
+    }
+    return data;
+  }
+
+  function fmt(n) {
+    return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+  }
+
+  /* OCW:CONTRACT-FUNCS */
+  return { PANES, PANE_LABELS, parseHash, writeHash, needsServer, loadIndex, fmt, enc, dec };
+})();
+</script>
+
+<script id="ocw-app">
+(function () {
+  'use strict';
+  const OCW = globalThis.OCW;
+
+  const App = {
+    index: null, graph: null, error: null,
+    state: OCW.parseHash(globalThis.location ? globalThis.location.hash : ''),
+    rows: [], cursor: 0,
+  };
+  globalThis.__OCW_APP__ = App;
+
+  function el(tag, attrs, kids) {
+    const n = document.createElement(tag);
+    for (const k in attrs || {}) {
+      if (k === 'text') n.textContent = attrs[k];
+      else if (k === 'html') n.innerHTML = attrs[k];
+      else if (k.slice(0, 2) === 'on') n.addEventListener(k.slice(2).toLowerCase(), attrs[k]);
+      else if (attrs[k] === true) n.setAttribute(k, '');
+      else if (attrs[k] !== false && attrs[k] != null) n.setAttribute(k, attrs[k]);
+    }
+    (Array.isArray(kids) ? kids : kids == null ? [] : [kids]).forEach(function (c) {
+      if (c != null) n.appendChild(typeof c === 'string' ? document.createTextNode(c) : c);
+    });
+    return n;
+  }
+  App.el = el;
+
+  function renderBar() {
+    const bar = document.getElementById('bar-read');
+    if (App.error) { bar.textContent = '登记册不可读：' + App.error; return; }
+    if (!App.index) { bar.textContent = '正在读取登记册…'; return; }
+    const s = App.index.stats;
+    bar.textContent = App.index.version + ' · generated ' + App.index.generated +
+      ' · 条目 ' + OCW.fmt(s.entries) + ' · 技能 ' + OCW.fmt(s.skills) +
+      ' · 合计 ' + OCW.fmt(s.total) + ' · 契约自检 未启用(P4 前)';
+  }
+
+  function renderNav() {
+    const nav = document.getElementById('nav');
+    nav.textContent = '';
+    nav.appendChild(el('div', { class: 'grp', text: '面板' }));
+    OCW.PANES.forEach(function (p, i) {
+      nav.appendChild(el('button', {
+        type: 'button',
+        'aria-current': App.state.pane === p ? 'page' : false,
+        onclick: function () { go({ pane: p }); },
+      }, (i + 1) + '. ' + OCW.PANE_LABELS[p]));
+    });
+  }
+
+  function go(patch) {
+    const next = Object.assign({}, App.state, patch);
+    App.state = next;
+    globalThis.history.pushState(null, '', OCW.writeHash(next));
+    render();
+  }
+  App.go = go;
+
+  function show(id, on) { document.getElementById(id).hidden = !on; }
+
+  function renderPanes() {
+    OCW.PANES.forEach(function (p) { show('pane-' + p, p === App.state.pane && !App.error && App.index); });
+    show('pane-boot', App.error ? App.rows.length === 0 : !App.index);
+    const boot = document.getElementById('pane-boot');
+    if (!App.index && !App.error) { boot.textContent = ''; return; }
+    if (App.error) {
+      boot.textContent = '';
+      boot.appendChild(el('div', { class: 'note bad', text: App.error }));
+      if (OCW.needsServer(globalThis.location.href)) {
+        boot.appendChild(el('div', { class: 'note', text:
+          'file:// 下 fetch ../index.json 会被 CORS 拦截。请在仓库根执行 python3 -m http.server 8000，再访问 http://localhost:8000/工作台/' }));
+      }
+    }
+  }
+
+  function render() { renderBar(); renderNav(); renderPanes(); }
+  App.render = render;
+
+  document.getElementById('copy-url').addEventListener('click', function () {
+    const url = globalThis.location.href;
+    if (navigator.clipboard) navigator.clipboard.writeText(url);
+    this.textContent = '已复制';
+    setTimeout(() => { this.textContent = '当前 URL'; }, 1200);
+  });
+  globalThis.addEventListener('hashchange', function () {
+    App.state = OCW.parseHash(globalThis.location.hash);
+    App.cursor = 0;
+    render();
+  });
+
+  OCW.loadIndex().then(function (index) { App.index = index; render(); })
+    .catch(function (e) { App.error = String((e && e.message) || e); render(); });
+
+  render();
+})();
+</script>
+</body>
+</html>
