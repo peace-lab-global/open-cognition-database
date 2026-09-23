@@ -347,11 +347,71 @@ globalThis.OCW = (function () {
     return index.entries.filter(function (e) { return e.type === 'redirect'; }).length;
   }
 
+  /* ---------------------------- Task 8 · P3 审计台 ---------------------------- */
+
+  function pct(n, d) { return d ? (100 * n / d).toFixed(1) + '%' : '—'; }
+
+  /* 门禁 = CI 实际跑的命令，逐条被 workbench-core.test 回查 ci.yml 的 run 步骤。
+     工作台不另造质量标准：这里能复制出去的每一条，都是 Actions 三色里已经存在的一条。
+     第 5 条 CI 不跑（需要密钥与网络），因此标 ci:false，不冒充门禁。 */
+  function gates() {
+    return [
+      { name: '条目 lint', cmd: 'python3 _meta/scripts/lint.py --json', ci: true,
+        note: 'errors 必须为 0；warnings（W006 缺互链等）是设计内 backlog，不阻塞' },
+      { name: '索引新鲜', cmd: 'python3 _meta/scripts/build-index.py --check', ci: true,
+        note: 'index.json 必须等于一次全新构建（忽略 generated 日期）；STALE 即 exit 1' },
+      { name: '投影新鲜', cmd: 'python3 _meta/scripts/build-workbench-graph.py --check', ci: true,
+        note: '本台面的覆盖率与跨链图都读自 graph.json；投影过期即 exit 1，缺文件 exit 2' },
+      { name: '导航机械断链', cmd: 'python3 _meta/scripts/check-nav-links.py --errors-only', ci: true,
+        note: '只阻塞"目标在库内存在却写错路径"的链接；指向未撰写条目的链接属内容 backlog' },
+      { name: 'eval 拼装（离线）', cmd: 'python3 eval/run_eval.py --dry', ci: false,
+        note: 'CI 不跑：只校验用例格式与 prompt 拼装；真实评测需 OPENAI_BASE_URL / API_KEY / MODEL' },
+    ];
+  }
+
+  /* 结构健康：全部现算自投影字段。gap 是判出来的红，不是"这格留空"。 */
+  function coverageRows(graph) {
+    const c = graph.coverage, ev = graph.eval;
+    return [
+      { dim: '登记条目', value: c.entries, ratio: '—', gap: false,
+        why: 'index.json entries，不含 skills；redirect 子树指针也算登记项' },
+      { dim: '技能', value: c.skills, ratio: '—', gap: false,
+        why: 'index.json skills（技能与条目分列，故合计大于条目数）' },
+      { dim: 'school 填充', value: c.school_filled, ratio: pct(c.school_filled, c.entries),
+        gap: c.school_filled / c.entries < 0.8,
+        why: '无学派归属即无法按学派导航；阈值 80% 是硬编码判据，不是数据' },
+      { dim: 'tags 填充', value: c.tags_filled, ratio: pct(c.tags_filled, c.entries),
+        gap: c.tags_filled / c.entries < 0.8,
+        why: '唯一标签 ' + c.unique_tags + ' 个 → 长尾极碎，需受控词表' },
+      { dim: '显式跨链条目', value: graph.typed_entries, ratio: pct(graph.typed_entries, c.entries),
+        gap: graph.typed_entries / c.entries < 0.5,
+        why: '质量标准要求每条至少 1 条跨领域互链；全库边数 ' + graph.edges.length + '，阈值 50%' },
+      { dim: 'eval 覆盖', value: ev.covered, ratio: pct(ev.covered, ev.skills_total),
+        gap: ev.covered / ev.skills_total < 0.5,
+        why: '结构完整 ≠ 已验证能正确引导 LLM 执行；分母是技能数 ' + ev.skills_total },
+    ];
+  }
+
+  /* 按域拆 eval 覆盖：分母取登记册技能，分子取能解析到技能的用例文件。
+     以技能名为准而非用例里的 domain 字段——用例常缺省域，投影已按技能回填。 */
+  function evalMatrix(index, graph) {
+    const covered = {};
+    for (const c of (graph.eval.cases || [])) covered[c.skill_id] = c.file;
+    const byDomain = {};
+    for (const s of (index && index.skills) || []) {
+      const row = byDomain[s.domain] || (byDomain[s.domain] = { domain: s.domain, total: 0, covered: 0 });
+      row.total += 1;
+      if (covered[s.name]) row.covered += 1;
+    }
+    return Object.keys(byDomain).sort().map(function (d) { return byDomain[d]; });
+  }
+
   /* OCW:CONTRACT-FUNCS */
   return { PANES, PANE_LABELS, parseHash, writeHash, needsServer, loadIndex, fmt, enc, dec, search,
            crossLinks, resolveEntryPath, edgesFrom, danglingSet, canReadSources,
            applySkill, findSkill, templateB, templateC, exportTriple,
-           matrix, facets, selectEntries, redirectCount, LIST_ONLY_FIELDS };
+           matrix, facets, selectEntries, redirectCount, LIST_ONLY_FIELDS,
+           pct, gates, coverageRows, evalMatrix };
 })();
 </script>
 
@@ -834,6 +894,123 @@ globalThis.OCW = (function () {
     prodNote('已触发下载 ' + name + '（落浏览器下载目录，不写仓库）。');
   }
 
+  /* ------------------------------ P3 审计台 ------------------------------ */
+
+  function copyBtn(text) {
+    const b = el('button', { class: 'btn', type: 'button', text: '复制' });
+    b.addEventListener('click', function () {
+      const say = function (ok) {
+        b.textContent = ok ? '已复制' : '请手动选中';
+        setTimeout(function () { b.textContent = '复制'; }, 1400);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(function () { say(true); }, function () { say(false); });
+      } else say(false);
+    });
+    return b;
+  }
+
+  function headRow(labels) {
+    return el('tr', {}, labels.map(function (h) { return el('th', { text: h }); }));
+  }
+
+  function renderAudit() {
+    const host = document.getElementById('pane-audit');
+    host.textContent = '';
+    host.appendChild(el('h2', { text: '审计台 · 我们知道得可靠吗' }));
+
+    if (!App.graph) {
+      host.appendChild(el('div', { class: 'note bad', text:
+        '缺 graph.json 投影 → 覆盖率、跨链密度与 eval 缺口都不可读（下方只出示门禁命令）。' +
+        '这是"读不到"，不是"没问题"。本地请在仓库根运行 python3 _meta/scripts/build-workbench-graph.py 后刷新。' }));
+    }
+
+    host.appendChild(el('h3', { text: '门禁（与 CI 同源，可复制执行）' }));
+    const gt = el('table');
+    gt.appendChild(headRow(['项', '命令', '判定']));
+    OCW.gates().forEach(function (g) {
+      gt.appendChild(el('tr', {}, [
+        el('th', {}, [g.ci ? '' : '⊘ ', g.name]),
+        el('td', {}, [el('code', { style: 'user-select:all', text: g.cmd }), ' ', copyBtn(g.cmd)]),
+        el('td', { text: g.note }),
+      ]));
+    });
+    host.appendChild(gt);
+    host.appendChild(el('div', { class: 'note', text:
+      '前 4 条即 .github/workflows/ci.yml 的 run 步骤（单测逐条回查，改名即失败）；⊘ 标记的第 5 条 CI 不跑，只是本地离线校验。' +
+      '浏览器不能执行 Python：本表给命令与判定规则，真实三色以 Actions 或本地实跑为准。' }));
+
+    if (App.graph) {
+      if (App.graph.generated && App.index.generated && App.graph.generated !== App.index.generated) {
+        host.appendChild(el('div', { class: 'note bad', text:
+          '投影派生自登记册 ' + App.graph.generated + '，当前登记册是 ' + App.index.generated +
+          ' → 下面的读数属于旧版本，--check 会判 STALE。' }));
+      }
+      host.appendChild(el('h3', { text: '结构健康与缺口' }));
+      const ct = el('table');
+      ct.appendChild(headRow(['维度', '读数', '占比', '说明与判据']));
+      OCW.coverageRows(App.graph).forEach(function (r) {
+        ct.appendChild(el('tr', {}, [
+          el('th', { text: r.dim }),
+          el('td', { class: 'num', text: OCW.fmt(r.value) }),
+          el('td', {}, [el('span', { class: 'pill ' + (r.gap ? 'bad' : 'ok'), text: r.ratio })]),
+          el('td', { text: r.why }),
+        ]));
+      });
+      host.appendChild(ct);
+
+      const ev = App.graph.eval;
+      host.appendChild(el('h3', { text: 'eval 覆盖矩阵（技能 × 有无用例）' }));
+      const et = el('table');
+      et.appendChild(headRow(['域', '技能', '有用例', '覆盖率']));
+      OCW.evalMatrix(App.index, App.graph).forEach(function (v) {
+        et.appendChild(el('tr', {}, [
+          el('th', { text: v.domain }),
+          el('td', { class: 'num', text: OCW.fmt(v.total) }),
+          el('td', { class: 'num', text: OCW.fmt(v.covered) }),
+          el('td', {}, [el('span', { class: 'pill ' + (v.covered ? 'warn' : 'bad'), text: OCW.pct(v.covered, v.total) })]),
+        ]));
+      });
+      host.appendChild(et);
+      host.appendChild(el('div', { class: 'note bad', text:
+        '全库 eval 覆盖 ' + OCW.fmt(ev.covered) + ' / ' + OCW.fmt(ev.skills_total) +
+        '（' + OCW.pct(ev.covered, ev.skills_total) + '）。这是本台面最需要说出口的数字：' +
+        '绝大多数技能从未被验证过能正确引导执行——上面 4 条门禁全绿，也只证明结构一致，不证明语义有效。' }));
+
+      const unresolved = ev.cases.filter(function (c) { return !c.resolved; });
+      const caseList = el('ul');
+      ev.cases.forEach(function (c) {
+        caseList.appendChild(el('li', { text: c.skill_id + ' → ' + c.file + (c.resolved ? '' : '（技能不存在）') }));
+      });
+      host.appendChild(el('details', { class: 'note' }, [
+        el('summary', { text: '用例清单（' + ev.cases.length + ' 个文件，覆盖 ' + ev.covered + ' 个技能）' +
+          (unresolved.length ? '，其中 ' + unresolved.length + ' 个指向不存在的技能' : '') }),
+        caseList,
+      ]));
+
+      /* 盲区：能算出来的算出来，算不出来的说清边界（绝不以"表里没有"冒充"没有问题"） */
+      const skillPaths = {};
+      (App.index.skills || []).forEach(function (s) { skillPaths[s.path] = true; });
+      const skillSources = {};
+      App.graph.edges.forEach(function (e) { if (skillPaths[e.source]) skillSources[e.source] = true; });
+      const blind = el('ul', {}, [
+        el('li', { text: '跨链只认带类型标记的互链（[标签](x.md) `[关系]`）→ "显式跨链条目"是下界，正文里的普通链接与文字提及不计入。' }),
+        el('li', { text: '有 ' + App.graph.dangling.length + ' 个边目标在库内不存在（早期中文化把旧英文路径留在了正文里）：边是真的，断的是落点。' }),
+        el('li', { text: Object.keys(skillSources).length
+          ? '有 ' + Object.keys(skillSources).length + ' 个技能正文贡献了边。'
+          : '技能正文一条边都不贡献（' + Object.keys(skillSources).length + ' / ' + App.index.stats.skills +
+            '）：技能之间的互链目前对跨链图完全不可见。' }),
+        el('li', { text: '登记册只扫 build-index.py 的 12 个域目录，并跳过 README/INDEX 类文件 → 名言/、_meta/、工作台/ 的 md 不在覆盖率与跨链图的视野内。' }),
+        el('li', { text: 'lint 的 warnings 不阻塞 CI（W006 缺互链正是"显式跨链条目"偏低的直接来源），所以门禁绿不等于内容达标。' }),
+        el('li', { text: 'school 与 tags 的填充率是字段有没有写，不检验写得对不对；无第三方可核验来源，语义正确性只能靠人读与 eval。' }),
+      ]);
+      host.appendChild(el('h3', { text: '登记册盲区' }));
+      host.appendChild(el('div', { class: 'note bad' }, [
+        el('div', { text: '以下是"这份读数覆盖不到什么"，每条都可由上表命令或投影字段复核：' }), blind,
+      ]));
+    }
+  }
+
   function renderPanes() {
     OCW.PANES.forEach(function (p) { show('pane-' + p, p === App.state.pane && !App.error && App.index); });
     show('pane-boot', App.error ? App.rows.length === 0 : !App.index);
@@ -851,6 +1028,7 @@ globalThis.OCW = (function () {
       if (App.state.pane === 'registry') renderRegistry();
       if (App.state.pane === 'retrieval') renderRetrieval();
       if (App.state.pane === 'production') renderProduction();
+      if (App.state.pane === 'audit') renderAudit();
     }
   }
 

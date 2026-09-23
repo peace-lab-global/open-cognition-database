@@ -323,3 +323,63 @@ test('graph.json 出边与 queries.cross_links() 逐字段一致（3 个真实�
   const edgeTargets = new Set(graph.edges.map((e) => e.target));
   for (const t of graph.dangling) assert.equal(edgeTargets.has(t), true, t + ' 不在任何边上');
 });
+
+/* ----------------------- Task 8 · P3 审计台：门禁与覆盖率 ----------------------- */
+
+test('审计台覆盖率读数现算自投影，不出现手写常量', () => {
+  const OCW = loadCore();
+  const graph = JSON.parse(readFileSync(REPO_ROOT + '工作台/graph.json', 'utf8'));
+  const rows = OCW.coverageRows(graph);
+  const byDim = Object.fromEntries(rows.map((r) => [r.dim, r]));
+  const c = graph.coverage, ev = graph.eval;
+
+  assert.equal(byDim['登记条目'].value, c.entries);
+  assert.equal(byDim['技能'].value, c.skills);
+  assert.equal(byDim['school 填充'].value, c.school_filled);
+  assert.equal(byDim['school 填充'].ratio, (100 * c.school_filled / c.entries).toFixed(1) + '%');
+  assert.equal(byDim['tags 填充'].ratio, (100 * c.tags_filled / c.entries).toFixed(1) + '%');
+  assert.equal(byDim['显式跨链条目'].value, graph.typed_entries);
+  assert.equal(byDim['显式跨链条目'].why.includes(String(graph.edges.length)), true, '边数应来自投影');
+  assert.equal(byDim['eval 覆盖'].value, ev.covered);
+  assert.equal(byDim['eval 覆盖'].ratio, (100 * ev.covered / ev.skills_total).toFixed(1) + '%');
+  assert.ok(rows.every((r) => Number.isFinite(r.value) && r.ratio), '每行都要有读数与占比');
+
+  /* 缺口必须显式判出来，而不是"这一行不写" */
+  assert.ok(byDim['eval 覆盖'].gap, 'eval 覆盖 10/149 必须标红');
+  assert.ok(byDim['school 填充'].gap);
+
+  /* 换一份投影，读数跟着变——这是对"没有手写常量"的机械证明 */
+  const fake = plain(graph);
+  fake.typed_entries = 7;
+  fake.edges = fake.edges.slice(0, 13);
+  fake.coverage = Object.assign({}, fake.coverage, { entries: 100 });
+  fake.eval = Object.assign({}, fake.eval, { covered: 1, skills_total: 4 });
+  const fakeRows = Object.fromEntries(OCW.coverageRows(fake).map((r) => [r.dim, r]));
+  assert.equal(Object.keys(fakeRows).length, rows.length, '维度集合固定，不随数据增减');
+  assert.equal(fakeRows['显式跨链条目'].value, 7);
+  assert.equal(fakeRows['显式跨链条目'].ratio, '7.0%');
+  assert.equal(fakeRows['显式跨链条目'].why.includes('13'), true);
+  assert.equal(fakeRows['eval 覆盖'].ratio, '25.0%');
+});
+
+test('审计台门禁与 ci.yml 同源：4 条 CI 命令逐条可回查 + 1 条离线校验标明', () => {
+  const OCW = loadCore();
+  const ciText = readFileSync(REPO_ROOT + '.github/workflows/ci.yml', 'utf8');
+  const ciRuns = ciText.split('\n')
+    .filter((l) => /^\s*(- )?run:/.test(l))
+    .map((l) => l.replace(/^\s*(- )?run:\s*/, '').trim());
+  const gates = OCW.gates();
+
+  const inCI = (cmd) => ciRuns.some((line) => line === cmd || line.indexOf(cmd + ' ') === 0);
+  assert.equal(gates.filter((g) => g.ci).length, 4, 'CI 实际跑的门禁恰好 4 条');
+  for (const g of gates.filter((x) => x.ci)) {
+    assert.equal(/^python3 \S+/.test(g.cmd), true, g.name + ' 命令形态异常');
+    assert.equal(inCI(g.cmd), true, '审计台里的门禁命令不在 ci.yml 的 run 步骤中：' + g.cmd);
+    assert.ok(g.note, g.name + ' 必须写清判定规则');
+  }
+  assert.ok(gates.map((g) => g.cmd).join('\n').includes('_meta/scripts/build-workbench-graph.py --check'));
+
+  /* 第 5 条是本地离线校验：CI 不跑它，就必须标 ci:false，否则审计台在冒充门禁 */
+  assert.equal(gates.length, 5);
+  assert.equal(gates.filter((g) => !g.ci).map((g) => g.cmd).join('\n'), 'python3 eval/run_eval.py --dry');
+});

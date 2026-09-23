@@ -1709,7 +1709,7 @@ git commit -m "feat(workbench): P3 跨链图投影 graph.json（复用 queries.p
 - Consumes: `App.index`、`App.graph`
 - Produces: `OCW.gates(index)` → `[{name, cmd, note}]`（4 条 = CI 实际跑的命令）；`OCW.coverageRows(graph)` → `[{dim, value, ratio, gap:boolean, why}]`；`OCW.pct(n, d) -> string`
 
-- [ ] **Step 1: 写失败测试**
+- [x] **Step 1: 写失败测试**
 
 ```js
 test('审计台读数来自投影，不出现手写常量', () => {
@@ -1730,9 +1730,9 @@ test('审计台读数来自投影，不出现手写常量', () => {
 });
 ```
 
-- [ ] **Step 2: 跑测试确认失败** → Expected: FAIL —— `OCW.coverageRows is not a function`
+- [x] **Step 2: 跑测试确认失败** → Expected: FAIL —— `OCW.coverageRows is not a function`
 
-- [ ] **Step 3: 实现（core）**
+- [x] **Step 3: 实现（core）**
 
 ```js
   function pct(n, d) { return d ? (100 * n / d).toFixed(1) + '%' : '—'; }
@@ -1763,7 +1763,7 @@ test('审计台读数来自投影，不出现手写常量', () => {
 
 `gates()` 的 5 条里前 4 条即 CI 门禁；第 5 条是本地离线校验（验收标准要求"4 条门禁命令 + 可复制"，多给的 eval 行同样可复制且注明离线，不构成偏差）。若评审严格要求恰好 4 条，删掉 `eval 拼装` 那一项即可——测试断言 `>= 4` 时改回 `=== 4` 并同步删除该对象。
 
-- [ ] **Step 4: app 渲染审计台**
+- [x] **Step 4: app 渲染审计台**
 
 ```js
   function renderAudit() {
@@ -1845,17 +1845,27 @@ test('审计台读数来自投影，不出现手写常量', () => {
 
 `renderPanes()` 分派补 `audit`。底栏"契约自检"读数在 Task 9 前保持 `未启用(P4 前)`。
 
-- [ ] **Step 5: 跑测试 + 实机验证**
+- [x] **Step 5: 跑测试 + 实机验证**
 
 Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（14 tests）
 浏览器：面板 4 显示门禁表 + 覆盖率 + eval 矩阵；把命令粘进终端逐条执行，与 Actions 三色一致；删掉 `工作台/graph.json` 刷新 → 出现红色缺失说明而非空白（测完 `git checkout 工作台/graph.json` 复原）。
 
-- [ ] **Step 6: 提交**
+- [x] **Step 6: 提交**
 
 ```bash
 git add 工作台/index.html mcp/tests/workbench-core.test.mjs
 git commit -m "feat(workbench): P3 审计台（门禁同源 + 投影覆盖率 + eval 缺口显式）"
 ```
+
+**Task 8 实测与偏差（执行时记录）**
+
+1. **门禁 4→5 行，每行带 `ci` 布尔**：计划测试断言 `gates.length === 4`，而 Step 3 实现列了 5 条（末条是真实的离线校验 `eval/run_eval.py --dry`，删掉它反而违反"可复制"的初衷）。决议：`gates()` 返回 5 行，每行带 `ci: true/false`，"4 条 = CI 实际跑的命令"按字面成立——node 测试解析 ci.yml 的 `run:` 步骤，逐条证明 4 条 `ci:true` 命令都在其中且只有 1 条非 CI 行。计划 1764 行的备选（删 eval 行、断言改回 `=== 4`）未采用。
+2. **`gates()` 签名**：计划版 `gates(index)` 的 `index` 是死参——`g.cmd !== '__never__'` 过滤器永不触发。改为无参 `gates()`：CI 命令清单不依赖登记册内容。core 返回行同步更新。
+3. **Step 1 恒真式断言重写**：原断言 `!rows.some((r) => typeof r.value === 'string' && /^[\d.]+$/.test(r.value) === false && r.value === '')` 对任何 rows 都为真。改为两条实质断言：(a) 凡有 ratio 的行 `Number.isFinite(value) && ratio 非空`；(b) 用变异投影（篡改 coverage/eval 数值的 `fake` graph）喂 `coverageRows`，行读数跟随变异——证明读数现算、没有手写常量。
+4. **计划 Step 4 片段两处缺陷**：(a) `el('details', …, [[sum, ul]])` 嵌套数组——`el()` 只展开一层，嵌套数组被直接 `appendChild` 抛类型错；异常逃出 `renderAudit` 被 App 全局 handler 捕获 → `App.error` 置位 → 全部面板被隐藏（浏览器实测首跑即此症状）。修法：提 `caseList` 变量、传平铺 `[summary, caseList]`，并让 summary 带上未解析用例计数。(b) 片段末尾 `host.appendChild(el('div', { class: 'note bad', text: '登记册盲区：' });` 语法未闭合且只有标题。实作补全为 6 条盲区清单（dangling 62 落点、技能文件零出边、tags 长尾 6770、eval 10/149、check-nav 203 backlog、门禁绿≠语义有效），并在 core 增 `evalMatrix(index, graph)` 出"域 × 技能 × 有无用例"矩阵——矩阵行和 = `stats.skills`、Σ有用例 = `eval.covered` 的不变量在浏览器 harness 里对磁盘读数核过。
+5. **Step 5"删掉 graph.json"改为可逆改名**：`renameSync` 到 `/tmp`（不 `rm`、不 `git checkout`），`finally` 改回并断言 sha256 前后相等。顺带发现 `python3 -m http.server` 只发 `Last-Modified`，Chrome 启发式缓存会端出改名前的旧文件，造成"缺投影"测试假阴性——测试加 `Network.setCacheDisabled` 并轮询 `App.graph === null`。
+6. **实测**：`/tmp/ocw-task8-check.mjs`（一次性脚本不入库）11 节全过——`#/audit` 深链直达、门禁表 5 行（前 4 无 ⊘、第 5 行 ⊘ 前缀）、复制按钮落在"已复制/请手动选中"之一、覆盖率 6 行读数与磁盘 graph.json 逐字段一致、eval 矩阵行和、盲区 6 条、用例 `<details>` 10 项、无假 STALE + 注入旧 `generated` 后出真 STALE、footer 仍是"未启用(P4 前)"、全程 `Runtime.exceptionThrown == 0`、缺投影降级文案如实。5 条门禁命令本机逐条 exit 0（lint errors 0 / index --check OK 2799 / graph --check OK / nav-links 0 机械错链 / eval --dry 10 用例全过）；`node --test` 19/19。
+7. **提交范围**：在本步两文件之外补加本计划文件（偏差块所在），与 Task 7 同例。
 
 ---
 
