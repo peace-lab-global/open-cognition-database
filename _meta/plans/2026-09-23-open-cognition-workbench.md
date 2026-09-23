@@ -636,7 +636,7 @@ Expected: `errors 0`；`--check` exit 0；`test_queries.py` 全绿。
 - Consumes: `App.index`（Task 2）
 - Produces: `OCW.matrix(index) -> {domains:string[], types:string[], cells:Record<domain,Record<type,number>>, substantive:number}`；`OCW.facets(index) -> {domain:[{value,count}], type:[...], school:[...], tags:[...]}`（按 count 降序，`school`/`tags` 仅计有值条目）；`OCW.selectEntries(index, state) -> entries[]`；`OCW.redirectCount(index) -> number`。
 
-- [ ] **Step 1: 写失败测试**（追加到 `mcp/tests/workbench-core.test.mjs` 末尾）
+- [x] **Step 1: 写失败测试**（追加到 `mcp/tests/workbench-core.test.mjs` 末尾）
 
 ```js
 test('注册台 matrix/facets/select 与登记册一致（真 index.json）', async () => {
@@ -672,12 +672,12 @@ test('注册台 matrix/facets/select 与登记册一致（真 index.json）', as
 });
 ```
 
-- [ ] **Step 2: 跑测试确认失败**
+- [x] **Step 2: 跑测试确认失败**
 
 Run: `node --test mcp/tests/*.test.mjs`
 Expected: FAIL —— `OCW.matrix is not a function`
 
-- [ ] **Step 3: 在 core 里实现（插入 `/* OCW:CONTRACT-FUNCS */` 之前）**
+- [x] **Step 3: 在 core 里实现（插入 `/* OCW:CONTRACT-FUNCS */` 之前）**
 
 ```js
   /* ---- 注册台：一切读数由登记册现算 ---- */
@@ -744,7 +744,7 @@ Expected: FAIL —— `OCW.matrix is not a function`
            matrix, facets, selectEntries, redirectCount, LIST_ONLY_FIELDS };
 ```
 
-- [ ] **Step 4: app 块渲染注册台（在 `renderPanes()` 之前插入 `renderRegistry()`，并在 `renderPanes` 末尾调用）**
+- [x] **Step 4: app 块渲染注册台（在 `renderPanes()` 之前插入 `renderRegistry()`，并在 `renderPanes` 末尾调用）**
 
 ```js
   function chips(kind, list, active) {
@@ -833,12 +833,17 @@ Expected: FAIL —— `OCW.matrix is not a function`
     }
 ```
 
-- [ ] **Step 5: 跑测试 + 实机验证**
+- [x] **Step 5: 跑测试 + 实机验证**
 
-Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（8 tests）
+Run: `node --test mcp/tests/*.test.mjs` → Expected: PASS（计划写 8，实测 7：P0 的 6 个 + 本任务的注册台对照 1 个）
+
+实测偏离两处（已按实况落地）：① `matrix()` 的 `cells[domain][type]` 改为满格输出（缺组合补 0），
+因为测试与行小计都直接消费该表达式，否则求和为 `NaN`；`renderRegistry` 里因此去掉了 `|| 0`。
+② `assert.deepEqual(fx.type…)` 需先 `plain()` 归一——vm context 返回的数组带该 context 的
+`Array.prototype`，`assert/strict` 判原不等。
 浏览器：点 `1. 注册台` → 交叉表出现；点任一非零单元格 → 清单表出现且 URL hash 变为 `#/registry?domain=…&type=…`；刷新后视图完整恢复；facet 组合命中 0 时显示"该组合无登记条目"。
 
-- [ ] **Step 6: 提交**
+- [x] **Step 6: 提交**
 
 ```bash
 git add 工作台/index.html mcp/tests/workbench-core.test.mjs

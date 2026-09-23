@@ -58,6 +58,14 @@ pre{white-space:pre-wrap;word-break:break-word;background:#0d1117;color:#e6edf3;
 .pill.warn{color:var(--warn);border-color:var(--warn)}
 .pill.bad{color:var(--err);border-color:var(--err)}
 kbd{border:1px solid var(--line);border-bottom-width:2px;border-radius:3px;padding:0 4px;font-size:11px}
+.dim{color:var(--muted)}
+h2{font-size:14px;margin:2px 0 10px}
+h3{font-size:12.5px;margin:16px 0 4px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+h4{font-size:12.5px;margin:14px 0 4px;color:var(--muted)}
+.drawer dl{margin:6px 0;display:grid;grid-template-columns:64px minmax(0,1fr);gap:2px 8px}
+.drawer dt{color:var(--muted)}
+.drawer dd{margin:0;word-break:break-all}
+.drawer a.btn{display:inline-block;margin-top:8px;text-decoration:none;color:var(--ink)}
 </style>
 </head>
 <body data-drawer="closed">
@@ -149,8 +157,67 @@ globalThis.OCW = (function () {
     return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ',');
   }
 
+  /* ---- 注册台：一切读数由登记册现算 ---- */
+  const LIST_ONLY_FIELDS = ['category', 'channel', 'angle'];
+
+  function bump(table, key, sub) {
+    const row = table[key] || (table[key] = {});
+    row[sub] = (row[sub] || 0) + 1;
+  }
+
+  function matrix(index) {
+    const cells = {};
+    const types = [];
+    for (const e of index.entries) {
+      bump(cells, e.domain, e.type);
+      if (types.indexOf(e.type) < 0) types.push(e.type);
+    }
+    const domains = Object.keys(cells).sort();
+    /* 满格输出：缺组合补 0，消费方（交叉表/行小计）不必判空 */
+    for (const d of domains) for (const t of types) if (!cells[d][t]) cells[d][t] = 0;
+    let substantive = 0;
+    for (const e of index.entries) if (e.type !== 'redirect') substantive += 1;
+    return { domains: domains, types: types, cells: cells, substantive: substantive };
+  }
+
+  function tally(map, value) {
+    if (value == null || value === '') return;
+    map[value] = (map[value] || 0) + 1;
+  }
+
+  function toSorted(map) {
+    return Object.keys(map).map(function (value) {
+      return { value: value, count: map[value] };
+    }).sort(function (a, b) { return b.count - a.count || (a.value < b.value ? -1 : 1); });
+  }
+
+  function facets(index) {
+    const d = {}, t = {}, s = {}, g = {};
+    for (const e of index.entries) {
+      tally(d, e.domain); tally(t, e.type); tally(s, e.school);
+      (e.tags || []).forEach(function (x) { tally(g, x); });
+    }
+    return { domain: toSorted(d), type: toSorted(t), school: toSorted(s), tags: toSorted(g) };
+  }
+
+  function selectEntries(index, state) {
+    return index.entries.filter(function (e) {
+      if (state.domain && e.domain !== state.domain) return false;
+      if (state.type && e.type !== state.type) return false;
+      if (state.school && e.school !== state.school) return false;
+      if (state.tag && (e.tags || []).indexOf(state.tag) < 0) return false;
+      for (const f of LIST_ONLY_FIELDS) if (state[f] && String(e[f] || '') !== state[f]) return false;
+      return true;
+    });
+  }
+
+  function redirectCount(index) {
+    return index.entries.filter(function (e) { return e.type === 'redirect'; }).length;
+  }
+
   /* OCW:CONTRACT-FUNCS */
-  return { PANES, PANE_LABELS, parseHash, writeHash, needsServer, loadIndex, fmt, enc, dec };
+  return { PANES, PANE_LABELS, parseHash, writeHash, needsServer, loadIndex, fmt, enc, dec,
+           matrix, facets, selectEntries, redirectCount, LIST_ONLY_FIELDS };
 })();
 </script>
 
@@ -215,6 +282,112 @@ globalThis.OCW = (function () {
 
   function show(id, on) { document.getElementById(id).hidden = !on; }
 
+  function tallyInto(m, v) { m[v] = (m[v] || 0) + 1; }
+
+  function chips(kind, list, active) {
+    const box = el('div', { class: 'chips' });
+    list.slice(0, kind === 'tags' ? 40 : 400).forEach(function (f) {
+      box.appendChild(el('button', {
+        class: 'chip', type: 'button', 'aria-pressed': active === f.value ? 'true' : 'false',
+        onclick: function () { go(App.state[kind] === f.value ? { [kind]: '' } : { [kind]: f.value }); },
+      }, f.value + ' (' + OCW.fmt(f.count) + ')'));
+    });
+    return box;
+  }
+
+  /* 溯源抽屉：Task 3 起注册台行点击即用，Task 4 检索台复用同一实现 */
+  function openDrawer(entry) {
+    const d = document.getElementById('drawer');
+    d.textContent = '';
+    d.appendChild(el('h3', { text: '溯源' }));
+    d.appendChild(el('dl', {}, [
+      el('dt', { text: 'path' }), el('dd', { text: entry.path }),
+      el('dt', { text: 'id' }), el('dd', { text: entry.id }),
+      el('dt', { text: '域 · 类型' }), el('dd', { text: entry.domain + ' · ' + entry.type }),
+      el('dt', { text: '登记册' }), el('dd', { text: App.index.version + ' / generated ' + App.index.generated }),
+    ]));
+    d.appendChild(el('a', { class: 'btn', href: '../' + encodeURI(entry.path), target: '_blank', rel: 'noopener', text: '打开源文件（站点/仓库）' }));
+    document.body.setAttribute('data-drawer', 'open');
+    App.drawerEntry = entry;
+    renderCrossLinkPane(entry);
+  }
+  function closeDrawer() {
+    document.body.setAttribute('data-drawer', 'closed');
+    document.getElementById('drawer').textContent = '';
+    App.drawerEntry = null;
+  }
+  function renderCrossLinkPane(entry) {
+    const d = document.getElementById('drawer');
+    d.appendChild(el('h4', { text: '跨链（cross_links）' }));
+    d.appendChild(el('div', { class: 'note', text: 'Task 5 起由本地图投影提供；当前未加载。' }));
+  }
+  App.openDrawer = openDrawer;
+  App.closeDrawer = closeDrawer;
+
+  function renderRegistry() {
+    const host = document.getElementById('pane-registry');
+    host.textContent = '';
+    const mx = OCW.matrix(App.index);
+    const table = el('table');
+    table.appendChild(el('tr', {}, [el('th', { text: '领域' })].concat(
+      mx.types.map((t) => el('th', { class: 'num', text: t })),
+      [el('th', { class: 'num', text: '小计' })])));
+    mx.domains.forEach(function (d) {
+      let rowTotal = 0;
+      const cells = mx.types.map(function (t) {
+        const n = mx.cells[d][t]; rowTotal += n;
+        return el('td', { class: 'num' }, [n ? el('button', {
+          class: 'btn', type: 'button', text: OCW.fmt(n),
+          onclick: function () { go({ domain: d, type: t, cell: '' }); },
+        }) : el('span', { class: 'dim', text: '0' })]);
+      });
+      table.appendChild(el('tr', {}, [el('th', { text: d })].concat(cells, [el('td', { class: 'num', text: OCW.fmt(rowTotal) })])));
+    });
+    host.appendChild(el('h2', { text: '注册台 · 领域 × 类型' }));
+    host.appendChild(table);
+    host.appendChild(el('div', { class: 'note', text:
+      '登记册合计 ' + OCW.fmt(App.index.stats.entries) + '；其中 redirect ' +
+      OCW.fmt(OCW.redirectCount(App.index)) + ' 条为子树指针，不计入实质条目（实质 ' +
+      OCW.fmt(mx.substantive) + '）。全部数字现算自 index.json。' }));
+
+    const fx = OCW.facets(App.index);
+    host.appendChild(el('h3', { text: 'facet' }));
+    host.appendChild(chips('domain', fx.domain, App.state.domain));
+    host.appendChild(chips('type', fx.type, App.state.type));
+    host.appendChild(chips('school', fx.school, App.state.school));
+    host.appendChild(chips('tags', fx.tags, App.state.tag));
+    if (App.state.type === 'list') {
+      const extra = {};
+      OCW.LIST_ONLY_FIELDS.forEach(function (f) {
+        const m = {};
+        App.index.entries.forEach(function (e) { if (e[f]) tallyInto(m, e[f]); });
+        extra[f] = Object.keys(m).map((v) => ({ value: v, count: m[v] })).sort((a, b) => b.count - a.count);
+      });
+      OCW.LIST_ONLY_FIELDS.forEach(function (f) { host.appendChild(chips(f, extra[f], App.state[f])); });
+    }
+
+    const rows = OCW.selectEntries(App.index, App.state);
+    App.rows = rows;
+    host.appendChild(el('h3', { text: '清单 · ' + OCW.fmt(rows.length) + ' 条' }));
+    if (!rows.length) { host.appendChild(el('div', { class: 'empty', text: '该组合无登记条目' })); return; }
+    const list = el('table');
+    list.appendChild(el('tr', {}, ['path', 'id', '标题', '类型', '域'].map((h) => el('th', { text: h }))));
+    rows.slice(0, 300).forEach(function (e, i) {
+      const tr = el('tr', {
+        onclick: function () { App.cursor = i; openDrawer(e); },
+      }, [
+        el('td', { text: e.path }), el('td', { text: e.id }),
+        el('td', { text: e.title }),
+        el('td', { text: e.type + (e.type === 'redirect' ? ' · 指向子树' : '') }),
+        el('td', { text: e.domain }),
+      ]);
+      if (i === App.cursor) tr.setAttribute('cursor', '');
+      list.appendChild(tr);
+    });
+    host.appendChild(list);
+    if (rows.length > 300) host.appendChild(el('div', { class: 'note', text: '仅渲染前 300 行；用 facet 或检索台缩小范围。' }));
+  }
+
   function renderPanes() {
     OCW.PANES.forEach(function (p) { show('pane-' + p, p === App.state.pane && !App.error && App.index); });
     show('pane-boot', App.error ? App.rows.length === 0 : !App.index);
@@ -227,6 +400,9 @@ globalThis.OCW = (function () {
         boot.appendChild(el('div', { class: 'note', text:
           'file:// 下 fetch ../index.json 会被 CORS 拦截。请在仓库根执行 python3 -m http.server 8000，再访问 http://localhost:8000/工作台/' }));
       }
+    }
+    if (App.index && !App.error) {
+      if (App.state.pane === 'registry') renderRegistry();
     }
   }
 

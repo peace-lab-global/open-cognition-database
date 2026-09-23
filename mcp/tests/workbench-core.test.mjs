@@ -81,3 +81,38 @@ test('fmt 千分位（底栏读数用）', () => {
   assert.equal(OCW.fmt(27990), '27,990');
   assert.equal(OCW.fmt(999), '999');
 });
+
+/* ---------------------------------- Task 3: 注册台 --------------------------------- */
+
+test('注册台 matrix/facets/select 与登记册一致（真 index.json）', () => {
+  const OCW = loadCore();
+  const index = JSON.parse(readFileSync(REPO_ROOT + 'index.json', 'utf8'));
+
+  const mx = OCW.matrix(index);
+  assert.equal(mx.domains.length, index.stats.domains.length);
+  assert.equal(
+    mx.domains.reduce((a, d) => mx.types.reduce((b, t) => b + mx.cells[d][t], a), 0),
+    index.stats.entries
+  );
+  // redirect 是子树指针，不计入实质条目读数
+  assert.equal(mx.substantive, index.entries.filter((e) => e.type !== 'redirect').length);
+  assert.ok(mx.substantive < index.stats.entries);
+
+  const fx = OCW.facets(index);
+  assert.deepEqual(plain(fx.type).map((x) => x.value).sort(),
+    [...new Set(index.entries.map((e) => e.type))].sort());
+  assert.equal(fx.domain.find((x) => x.value === '宗教').count,
+    index.entries.filter((e) => e.domain === '宗教').length);
+  assert.equal(fx.school.reduce((a, s) => a + s.count, 0),
+    index.entries.filter((e) => e.school).length);
+
+  assert.equal(plain(OCW.selectEntries(index, { type: 'list' })).length,
+    index.entries.filter((e) => e.type === 'list').length);
+  assert.deepEqual(
+    plain(OCW.selectEntries(index, { domain: '哲学', type: 'concept' })).map((e) => e.path).slice(0, 3),
+    index.entries.filter((e) => e.domain === '哲学' && e.type === 'concept').map((e) => e.path).slice(0, 3)
+  );
+  assert.equal(plain(OCW.selectEntries(index, { domain: '不存在' })).length, 0);
+  assert.equal(OCW.redirectCount(index),
+    index.entries.filter((e) => e.type === 'redirect').length);
+});
