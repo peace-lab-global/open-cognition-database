@@ -1478,14 +1478,14 @@ git commit -m "feat(workbench): P2 实验台（模板 A/B/C，A 与 queries.appl
 - Consumes: `mcp/open_cognition_mcp/queries.py`（`stats`、`list_skills`、`get_skill`、`cross_links`、`read_entry`）；`eval/cases/*.yaml`
 - Produces: `工作台/graph.json` = `{version, generated, edges:[{source,target,relation,label}], typed_entries, eval:{cases:[{skill_id,domain,file}],skills_total,covered,domains:Record<domain,number>}, coverage:{entries,school_filled,tags_filled,unique_tags,skills}}`；CLI `--out` / `--check`（语义同 `build-index.py`：只比内容，忽略 `generated`）
 
-- [ ] **Step 1: 失败断言**
+- [x] **Step 1: 失败断言**
 
 ```bash
 ls 工作台/graph.json 2>/dev/null || echo "MISSING (expected)"
 python3 _meta/scripts/build-workbench-graph.py --check; echo "exit=$? (expected 2 / no such file)"
 ```
 
-- [ ] **Step 2: 写脚本**（`_meta/scripts/build-workbench-graph.py`）
+- [x] **Step 2: 写脚本**（`_meta/scripts/build-workbench-graph.py`）
 
 ```python
 #!/usr/bin/env python3
@@ -1635,7 +1635,7 @@ if __name__ == "__main__":
     raise SystemExit(main())
 ```
 
-- [ ] **Step 3: 生成并核对与规格实测数字一致**
+- [x] **Step 3: 生成并核对与规格实测数字一致**
 
 ```bash
 python3 _meta/scripts/build-workbench-graph.py
@@ -1652,7 +1652,7 @@ EOF
 
 Expected: PASS。若 `edges` 不等于 1111：以脚本输出为准（登记册自上次测量后可能新增互链），**不要**回改断言成硬编码常量，改为记录新基线并在 commit message 里说明——工作台的原则是"数字来自投影"。
 
-- [ ] **Step 4: 验证 `--check` 的腐坏检测**
+- [x] **Step 4: 验证 `--check` 的腐坏检测**
 
 ```bash
 python3 _meta/scripts/build-workbench-graph.py --check; echo "fresh exit=$? (期望 0)"
@@ -1667,19 +1667,35 @@ python3 _meta/scripts/build-workbench-graph.py   # 复原
 
 Expected: `fresh exit=0`、`stale exit=1`（STALE 提示），最后复原。
 
-- [ ] **Step 5: CI 保鲜步骤**（`.github/workflows/ci.yml`，`index-consistency` job 的 `--check` 那步之后追加）
+实测（2026-09-23）：`fresh exit=0` → 篡改 `typed_entries` 后 `STALE: …工作台/graph.json — 运行 python3 _meta/scripts/build-workbench-graph.py` / `stale exit=1` → 重生成后 `restored exit=0`。另测得缺失文件时 exit=2（与 `build-index.py` 的 MISSING 约定一致）。
+
+- [x] **Step 5: CI 保鲜步骤**（`.github/workflows/ci.yml`，`index-consistency` job 的 `--check` 那步之后追加）
 
 ```yaml
       - name: Verify workbench projection matches sources
         run: python3 _meta/scripts/build-workbench-graph.py --check
 ```
 
-- [ ] **Step 6: 提交**
+- [x] **Step 6: 提交**
 
 ```bash
-git add _meta/scripts/build-workbench-graph.py 工作台/graph.json .github/workflows/ci.yml
+git add _meta/scripts/build-workbench-graph.py 工作台/graph.json .github/workflows/ci.yml \
+    工作台/index.html mcp/tests/workbench-core.test.mjs _meta/plans/2026-09-23-open-cognition-workbench.md
 git commit -m "feat(workbench): P3 跨链图投影 graph.json（复用 queries.py）+ CI 保鲜"
 ```
+
+**Task 7 实测与偏差（执行时记录）**
+
+1. **Step 3 数字**：`Wrote 工作台/graph.json: 1111 edges / 296 typed entries; eval 10/149; dangling targets 62`。计划的四条规格断言（296 / 1111 / 149·10 / 1400·1897）全中，不需要改基线。关系分布：88 种标签，Top = 平行 255、基础 129、互补 100、发展 95。
+2. **投影日期拆开**：计划里 `generated` 一个字段同时当"登记册日期"和"构建日期"。改为 `generated` 继承 index.json 且**参与** `--check` 比较（投影必须自述它是哪一版登记册派生的），另加 `projection` = 构建当日且**不**参与比较。否则登记册每天重建会让投影误报 STALE，或者反过来让投影谎报自己的新鲜度。
+3. **`dangling` 字段（计划外）**：1111 条边里 62 个目标文件不存在（涉及 52 个源条目，另有 1 条自环——自环不是错，条目可以引用自己）。根因是早期中文化把旧英文路径留在正文里。**没有**去改 md 正文：那超出 Task 7 范围，而且会让投影与 `queries.cross_links()` 不再逐字段同源。改为投影自述 `dangling` 清单，抽屉里断链对端标红 + 一句"边本身是真的，断的是落点——修的是 md 链接，不是删掉这条边"。
+4. **eval 域直方图回填**：`eval/cases/*.yaml` 里没有一条写了 `domain:`，照计划直算会得到空方图。改为从解析到的技能回填 domain，并给每个 case 记 `resolved`（10 命中登记册 / 139 未覆盖）——缺口本身就是审计台要显示的东西。
+5. **exit 码**：文件缺失 → 2（对齐 `build-index.py` 的 MISSING），计划正文只写了 0/1。
+6. **同源性改成机械证据**：新增测试 `graph.json 出边与 queries.cross_links() 逐字段一致`——从真投影取排序后 source 序列的首/中/尾三条，与 Python 现算结果比**多重集**（投影按 (source,target,relation) 全局排序，Python 按正文顺序；顺序差不是漂移，字段差才是）。这是 Task 9 契约自检的前置。
+7. **技能文件目前零出边**：296 个 typed source 全部来自 entries，149 个 SKILL.md 无一命中 `CROSS_LINK_RE`。首版测试按"概念/技能/其他"分层抽样，因此拿不到第三个样本而失败——改为首/中/尾，并把这一事实写进测试注释而不是假装分层成立。
+8. **file:// 文案过期**：降级提示原文是"…或等 P3 的 graph.json 落地"，投影落地后这句成了谎话 → 改为"取不到 graph.json 投影，也无法读源 md"，并把可执行的下一步写全（`python3 -m http.server 8000` → `http://localhost:8000/工作台/`）。
+
+**实机验证**（`/tmp/ocw-task7-check.mjs`，一次性脚本不入库）：http:// 下投影加载并与磁盘逐字段一致；混合条目 17 行表格 / 1 处断链标红 / 两条 note 到位；纯入边条目 4 行全为 ←；零边条目走"无显式类型跨链"而不是"面板不可用"；file:// 下 `App.graph === null` 且降级措辞如实；全程 `Runtime.exceptionThrown == 0`。门禁：`node --test` 17/17、lint errors 0、`build-index --check` 0、`build-workbench-graph --check` 0、`mcp/test_queries.py` 全绿、`check-nav-links --errors-only` 0。
 
 ---
 

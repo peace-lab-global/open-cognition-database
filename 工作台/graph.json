@@ -1,0 +1,6818 @@
+{
+  "version": "v0.6",
+  "generated": "2026-09-23",
+  "projection": "2026-09-23",
+  "typed_entries": 296,
+  "dangling": [
+    "伦理政治/concepts/honor.md",
+    "伦理政治/schools/capability-approach/nussbaum.md",
+    "伦理政治/schools/care-ethics/noddings.md",
+    "哲学/concepts/circular-time.md",
+    "哲学/学派/empiricism/hume.md",
+    "哲学/学派/东方哲学/existentialism/heidegger/concepts/authenticity.md",
+    "哲学/学派/东方哲学/existentialism/heidegger/concepts/being-towards-death.md",
+    "哲学/学派/东方哲学/existentialism/heidegger/concepts/turn.md",
+    "哲学/学派/东方哲学/existentialism/sartre/concepts/nothingness.md",
+    "哲学/学派/东方哲学/phenomenology/husserl/concepts/phenomenological-reduction.md",
+    "哲学/学派/东方哲学/post-structuralism/adorno.md",
+    "哲学/学派/东方哲学/庄子/laozi/concepts/dao.md",
+    "哲学/学派/东方哲学/庄子/laozi/concepts/reversal.md",
+    "哲学/学派/东方哲学/老子/zhuangzi/concepts/xu.md",
+    "哲学/学派/宗教/传统/印度教/甘地.md",
+    "哲学/学派/宗教/传统/基督教/帕斯卡尔.md",
+    "哲学/学派/实用主义/dewey.md",
+    "哲学/学派/文学/学派/古典文学/希腊悲剧.md",
+    "哲学/学派/现象学/eastern/zhuangzi/concepts/transformation.md",
+    "哲学/学派/现象学/existentialism/sartre/concepts/existence-essence.md",
+    "哲学/学派/现象学/heidegger.md",
+    "哲学/学派/现象学/post-structuralism/deleuze.md",
+    "哲学/学派/现象学/梅洛庞蒂/husserl/concepts/lifeworld.md",
+    "哲学/学派/社会学/schools/post-structuralism/fanon.md",
+    "哲学/心理学/schools/gestalt/kohler.md",
+    "哲学/概念/nature.md",
+    "宗教/concepts/icon.md",
+    "宗教/concepts/interreligious-dialogue.md",
+    "宗教/traditions/christianity/mysticism.md",
+    "宗教/traditions/hinduism/karma-samsara.md",
+    "宗教/传统/buddhism/four-noble-truths.md",
+    "宗教/传统/christianity/grace-redemption.md",
+    "宗教/传统/christianity/mysticism.md",
+    "宗教/哲学/学派/古希腊/buddha.md",
+    "宗教/智慧大师/大师/china/hui-neng.md",
+    "宗教/智慧大师/大师/tibet/milarepa.md",
+    "宗教/智慧大师/大师/中国/hui-neng.md",
+    "宗教/智慧大师/大师/中国/linji-yixuan.md",
+    "宗教/智慧大师/大师/印度.md",
+    "宗教/智慧大师/大师/泰国/ajahn-chah.md",
+    "心理/疗法/认知行为疗法.md",
+    "心理学/学派/积极心理学/flourishing.md",
+    "文学/concepts/fictionality.md",
+    "文学/学派/小说家/兰陵笑笑生.md",
+    "文学/学派/小说家/福克纳.md",
+    "文学/学派/诗人/维吉尔.md",
+    "社会学/concepts/feminism.md",
+    "社会学/concepts/postcolonialism.md",
+    "科学/concepts/color-theory.md",
+    "美学/学派/诗性思想/virgil.md",
+    "美学/概念/imagination.md",
+    "艺术/concepts/gesamtkunstwerk.md",
+    "艺术/schools/romanticism/romanticism.md",
+    "艺术/学派/视觉艺术/毕加索.md",
+    "艺术/学派/音乐/斯特拉文斯基.md",
+    "认知科学/concepts/oral-memory.md",
+    "认知系统/concepts/human-reliability-analysis.md",
+    "认知系统/concepts/situated-cognition.md",
+    "认知系统/学派/控制论/weiner.md",
+    "认知系统/概念/human-reliability-analysis.md",
+    "认知系统/概念/ooda-loop.md",
+    "认知系统/概念/socratic-questioning.md"
+  ],
+  "edges": [
+    {
+      "source": "伦理政治/概念/人权.md",
+      "target": "伦理政治/schools/capability-approach/nussbaum.md",
+      "relation": "互补",
+      "label": "努斯鲍姆 · Nussbaum"
+    },
+    {
+      "source": "伦理政治/概念/人权.md",
+      "target": "伦理政治/学派/社会契约论/约翰-rawls.md",
+      "relation": "发展",
+      "label": "罗尔斯 · Rawls"
+    },
+    {
+      "source": "伦理政治/概念/人权.md",
+      "target": "伦理政治/学派/道义论/康德.md",
+      "relation": "继承",
+      "label": "康德 · Kant"
+    },
+    {
+      "source": "伦理政治/概念/功利.md",
+      "target": "心理学/学派/精神分析/西格蒙德.md",
+      "relation": "平行",
+      "label": "弗洛伊德 · 快乐原则"
+    },
+    {
+      "source": "伦理政治/概念/功利.md",
+      "target": "社会学/学派/古典社会学/韦伯.md",
+      "relation": "发展",
+      "label": "边沁学派立法改革"
+    },
+    {
+      "source": "伦理政治/概念/定言命令.md",
+      "target": "伦理政治/学派/结果主义/密尔.md",
+      "relation": "对立",
+      "label": "密尔 · 功利主义"
+    },
+    {
+      "source": "伦理政治/概念/定言命令.md",
+      "target": "社会学/学派/批判理论/哈贝马斯.md",
+      "relation": "发展",
+      "label": "哈贝马斯 · 交往理性"
+    },
+    {
+      "source": "伦理政治/概念/德性.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "对立",
+      "label": "卡尼曼 · 双系统"
+    },
+    {
+      "source": "伦理政治/概念/德性.md",
+      "target": "社会学/学派/结构主义/布迪厄.md",
+      "relation": "同源",
+      "label": "布迪厄 · 惯习"
+    },
+    {
+      "source": "伦理政治/概念/无知之幕.md",
+      "target": "伦理政治/学派/道义论/康德.md",
+      "relation": "同源",
+      "label": "康德 · 定言命令"
+    },
+    {
+      "source": "伦理政治/概念/无知之幕.md",
+      "target": "心理学/学派/认知心理学/柯尔伯格.md",
+      "relation": "平行",
+      "label": "科尔伯格 · 道德发展"
+    },
+    {
+      "source": "伦理政治/概念/正义感.md",
+      "target": "心理学/学派/认知心理学/柯尔伯格.md",
+      "relation": "平行",
+      "label": "科尔伯格 · 道德发展"
+    },
+    {
+      "source": "伦理政治/概念/正义感.md",
+      "target": "社会学/学派/古典社会学/涂尔干.md",
+      "relation": "同源",
+      "label": "涂尔干 · 集体意识"
+    },
+    {
+      "source": "伦理政治/概念/环境伦理.md",
+      "target": "伦理政治/schools/care-ethics/noddings.md",
+      "relation": "互补",
+      "label": "诺丁斯 · Noddings"
+    },
+    {
+      "source": "伦理政治/概念/环境伦理.md",
+      "target": "伦理政治/学派/社会契约论/约翰-rawls.md",
+      "relation": "继承",
+      "label": "罗尔斯 · Rawls"
+    },
+    {
+      "source": "伦理政治/概念/环境伦理.md",
+      "target": "社会学/学派/现代性/贝克.md",
+      "relation": "互补",
+      "label": "贝克 · Beck"
+    },
+    {
+      "source": "伦理政治/概念/社会契约.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "平行",
+      "label": "皮亚杰 · 道德发展"
+    },
+    {
+      "source": "伦理政治/概念/社会契约.md",
+      "target": "社会学/学派/古典社会学/涂尔干.md",
+      "relation": "互补",
+      "label": "涂尔干 · 社会团结"
+    },
+    {
+      "source": "伦理政治/概念/自然权利.md",
+      "target": "伦理政治/概念/定言命令.md",
+      "relation": "同源",
+      "label": "康德 · 定言命令"
+    },
+    {
+      "source": "伦理政治/概念/自然权利.md",
+      "target": "社会学/学派/古典社会学/涂尔干.md",
+      "relation": "互补",
+      "label": "涂尔干 · 社会团结"
+    },
+    {
+      "source": "哲学/学派/东方哲学/孔子.md",
+      "target": "哲学/学派/古希腊/亚里士多德.md",
+      "relation": "平行",
+      "label": "亚里士多德 · 德性伦理"
+    },
+    {
+      "source": "哲学/学派/东方哲学/孔子.md",
+      "target": "心理学/学派/人本主义/卡尔.md",
+      "relation": "对立",
+      "label": "罗杰斯 · 真实自我"
+    },
+    {
+      "source": "哲学/学派/东方哲学/庄子/概念/无.md",
+      "target": "哲学/学派/东方哲学/existentialism/heidegger/concepts/being-towards-death.md",
+      "relation": "平行",
+      "label": "海德格尔·虚无"
+    },
+    {
+      "source": "哲学/学派/东方哲学/庄子/概念/无.md",
+      "target": "哲学/学派/东方哲学/existentialism/sartre/concepts/nothingness.md",
+      "relation": "对照",
+      "label": "萨特·虚无"
+    },
+    {
+      "source": "哲学/学派/东方哲学/庄子/概念/无.md",
+      "target": "哲学/学派/东方哲学/庄子/laozi/concepts/dao.md",
+      "relation": "发展",
+      "label": "老子·有无"
+    },
+    {
+      "source": "哲学/学派/东方哲学/庄子/概念/无用之用.md",
+      "target": "哲学/学派/东方哲学/post-structuralism/adorno.md",
+      "relation": "平行",
+      "label": "阿多诺·艺术哲学"
+    },
+    {
+      "source": "哲学/学派/东方哲学/庄子/概念/无用之用.md",
+      "target": "哲学/学派/东方哲学/老子/概念/无为.md",
+      "relation": "发展",
+      "label": "老子·无为"
+    },
+    {
+      "source": "哲学/学派/东方哲学/庄子/概念/物化.md",
+      "target": "哲学/学派/东方哲学/庄子/laozi/concepts/reversal.md",
+      "relation": "发展",
+      "label": "老子·反"
+    },
+    {
+      "source": "哲学/学派/东方哲学/庄子/概念/逍遥.md",
+      "target": "哲学/学派/东方哲学/existentialism/heidegger/concepts/authenticity.md",
+      "relation": "平行",
+      "label": "海德格尔·本真存在"
+    },
+    {
+      "source": "哲学/学派/东方哲学/庄子/概念/逍遥.md",
+      "target": "哲学/学派/东方哲学/老子/概念/无为.md",
+      "relation": "发展",
+      "label": "老子·无为"
+    },
+    {
+      "source": "哲学/学派/东方哲学/庄子/概念/逍遥.md",
+      "target": "哲学/学派/存在主义/萨特/概念/自由.md",
+      "relation": "对照",
+      "label": "萨特·自由"
+    },
+    {
+      "source": "哲学/学派/东方哲学/庄子/概念/齐物.md",
+      "target": "哲学/学派/东方哲学/庄子/laozi/concepts/reversal.md",
+      "relation": "发展",
+      "label": "老子·反"
+    },
+    {
+      "source": "哲学/学派/东方哲学/庄子/概念/齐物.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "平行",
+      "label": "维特根斯坦·语言游戏"
+    },
+    {
+      "source": "哲学/学派/东方哲学/老子/概念/反.md",
+      "target": "哲学/学派/东方哲学/庄子/概念/齐物.md",
+      "relation": "发展",
+      "label": "庄子·齐物"
+    },
+    {
+      "source": "哲学/学派/东方哲学/老子/概念/反.md",
+      "target": "哲学/学派/德国唯心论/黑格尔.md",
+      "relation": "对照",
+      "label": "黑格尔·辩证法"
+    },
+    {
+      "source": "哲学/学派/东方哲学/老子/概念/无为.md",
+      "target": "哲学/学派/东方哲学/existentialism/heidegger/concepts/turn.md",
+      "relation": "平行",
+      "label": "海德格尔·泰然任之"
+    },
+    {
+      "source": "哲学/学派/东方哲学/老子/概念/无为.md",
+      "target": "哲学/学派/东方哲学/庄子/概念/逍遥.md",
+      "relation": "发展",
+      "label": "庄子·逍遥游"
+    },
+    {
+      "source": "哲学/学派/东方哲学/老子/概念/自然.md",
+      "target": "哲学/学派/东方哲学/庄子/概念/齐物.md",
+      "relation": "发展",
+      "label": "庄子·齐物论"
+    },
+    {
+      "source": "哲学/学派/东方哲学/老子/概念/自然.md",
+      "target": "哲学/学派/古希腊/亚里士多德.md",
+      "relation": "平行",
+      "label": "亚里士多德·physis"
+    },
+    {
+      "source": "哲学/学派/东方哲学/老子/概念/虚.md",
+      "target": "哲学/学派/东方哲学/phenomenology/husserl/concepts/phenomenological-reduction.md",
+      "relation": "平行",
+      "label": "胡塞尔·悬置"
+    },
+    {
+      "source": "哲学/学派/东方哲学/老子/概念/虚.md",
+      "target": "哲学/学派/东方哲学/老子/zhuangzi/concepts/xu.md",
+      "relation": "发展",
+      "label": "庄子·心斋"
+    },
+    {
+      "source": "哲学/学派/东方哲学/老子/概念/道.md",
+      "target": "哲学/学派/东方哲学/庄子/概念/逍遥.md",
+      "relation": "发展",
+      "label": "庄子·逍遥"
+    },
+    {
+      "source": "哲学/学派/东方哲学/老子/概念/道.md",
+      "target": "哲学/学派/存在主义/海德格尔/概念/此在.md",
+      "relation": "平行",
+      "label": "海德格尔·存在"
+    },
+    {
+      "source": "哲学/学派/中世纪经院/邓斯.md",
+      "target": "哲学/学派/中世纪经院/托马斯.md",
+      "relation": "对立",
+      "label": "阿奎那"
+    },
+    {
+      "source": "哲学/学派/中世纪经院/邓斯.md",
+      "target": "哲学/学派/现象学/胡塞尔.md",
+      "relation": "同源",
+      "label": "胡塞尔 · 直观"
+    },
+    {
+      "source": "哲学/学派/中世纪经院/邓斯.md",
+      "target": "哲学/学派/苏格兰常识学派/托马斯.md",
+      "relation": "同源",
+      "label": "里德 · 直接实在论"
+    },
+    {
+      "source": "哲学/学派/中世纪经院/邓斯.md",
+      "target": "研究/02-直接认知/README.md",
+      "relation": "同源",
+      "label": "直接认知（本研究）"
+    },
+    {
+      "source": "哲学/学派/中世纪经院/邓斯.md",
+      "target": "认知系统/概念/奥卡姆剃刀.md",
+      "relation": "发展",
+      "label": "奥卡姆剃刀"
+    },
+    {
+      "source": "哲学/学派/古希腊/普罗提诺.md",
+      "target": "哲学/学派/古希腊/亚里士多德.md",
+      "relation": "发展",
+      "label": "亚里士多德 · Aristotle"
+    },
+    {
+      "source": "哲学/学派/古希腊/普罗提诺.md",
+      "target": "哲学/学派/古希腊/柏拉图.md",
+      "relation": "继承",
+      "label": "柏拉图 · Plato"
+    },
+    {
+      "source": "哲学/学派/古希腊/普罗提诺.md",
+      "target": "哲学/学派/斯多亚/README.md",
+      "relation": "发展",
+      "label": "斯多亚学派 · Stoicism"
+    },
+    {
+      "source": "哲学/学派/古希腊/普罗提诺.md",
+      "target": "宗教/传统/基督教/奥古斯丁.md",
+      "relation": "影响",
+      "label": "奥古斯丁 · Augustine"
+    },
+    {
+      "source": "哲学/学派/存在主义/加缪/概念/反抗.md",
+      "target": "哲学/学派/宗教/传统/印度教/甘地.md",
+      "relation": "平行",
+      "label": "甘地·非暴力"
+    },
+    {
+      "source": "哲学/学派/存在主义/加缪/概念/哲学性自杀.md",
+      "target": "哲学/学派/宗教/传统/基督教/帕斯卡尔.md",
+      "relation": "批判",
+      "label": "帕斯卡尔·赌注论证"
+    },
+    {
+      "source": "哲学/学派/存在主义/加缪/概念/地中海思想.md",
+      "target": "README.md",
+      "relation": "继承",
+      "label": "蒙田"
+    },
+    {
+      "source": "哲学/学派/存在主义/加缪/概念/地中海思想.md",
+      "target": "哲学/学派/存在主义/尼采/README.md",
+      "relation": "继承",
+      "label": "尼采·狄奥尼索斯"
+    },
+    {
+      "source": "哲学/学派/存在主义/加缪/概念/地中海思想.md",
+      "target": "哲学/学派/文学/学派/古典文学/希腊悲剧.md",
+      "relation": "根源",
+      "label": "希腊悲剧"
+    },
+    {
+      "source": "哲学/学派/存在主义/加缪/概念/局外人.md",
+      "target": "美学/学派/文学思想/卡夫卡.md",
+      "relation": "平行",
+      "label": "卡夫卡·审判"
+    },
+    {
+      "source": "哲学/学派/存在主义/加缪/概念/荒诞工作.md",
+      "target": "哲学/学派/存在主义/尼采/README.md",
+      "relation": "对比",
+      "label": "尼采·酒神精神"
+    },
+    {
+      "source": "哲学/学派/存在主义/加缪/概念/荒诞工作.md",
+      "target": "美学/学派/文学思想/卡夫卡.md",
+      "relation": "平行",
+      "label": "卡夫卡·荒诞文学"
+    },
+    {
+      "source": "哲学/学派/存在主义/加缪/概念/西西弗神话.md",
+      "target": "哲学/学派/存在主义/尼采/README.md",
+      "relation": "对比",
+      "label": "尼采·永恒轮回"
+    },
+    {
+      "source": "哲学/学派/存在主义/加缪/概念/量与质.md",
+      "target": "哲学/学派/存在主义/尼采/README.md",
+      "relation": "对比",
+      "label": "尼采·超人"
+    },
+    {
+      "source": "哲学/学派/实用主义/皮尔士.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "对照",
+      "label": "维特根斯坦 Wittgenstein"
+    },
+    {
+      "source": "哲学/学派/实用主义/皮尔士.md",
+      "target": "哲学/学派/实用主义/dewey.md",
+      "relation": "继承",
+      "label": "杜威 Dewey"
+    },
+    {
+      "source": "哲学/学派/实用主义/皮尔士.md",
+      "target": "宗教/佛教/概念/认知理论/量论.md",
+      "relation": "平行",
+      "label": "量论 · Pramāṇa"
+    },
+    {
+      "source": "哲学/学派/斯多亚/塞涅卡.md",
+      "target": "哲学/学派/斯多亚/README.md",
+      "relation": "归属",
+      "label": "斯多亚学派 · Stoicism"
+    },
+    {
+      "source": "哲学/学派/斯多亚/塞涅卡.md",
+      "target": "哲学/学派/斯多亚/奥勒留.md",
+      "relation": "平行",
+      "label": "奥勒留 · Marcus Aurelius"
+    },
+    {
+      "source": "哲学/学派/斯多亚/塞涅卡.md",
+      "target": "哲学/学派/斯多亚/爱比克泰德.md",
+      "relation": "平行",
+      "label": "爱比克泰德 · Epictetus"
+    },
+    {
+      "source": "哲学/学派/斯多亚/塞涅卡.md",
+      "target": "心理/疗法/认知行为疗法.md",
+      "relation": "互补",
+      "label": "认知行为疗法"
+    },
+    {
+      "source": "哲学/学派/斯多亚/奥勒留.md",
+      "target": "哲学/学派/古希腊/柏拉图.md",
+      "relation": "继承",
+      "label": "柏拉图 · Plato"
+    },
+    {
+      "source": "哲学/学派/斯多亚/奥勒留.md",
+      "target": "哲学/学派/斯多亚/README.md",
+      "relation": "归属",
+      "label": "斯多亚学派 · Stoicism"
+    },
+    {
+      "source": "哲学/学派/斯多亚/奥勒留.md",
+      "target": "哲学/学派/斯多亚/塞涅卡.md",
+      "relation": "平行",
+      "label": "塞涅卡 · Seneca"
+    },
+    {
+      "source": "哲学/学派/斯多亚/奥勒留.md",
+      "target": "哲学/学派/斯多亚/爱比克泰德.md",
+      "relation": "继承",
+      "label": "爱比克泰德 · Epictetus"
+    },
+    {
+      "source": "哲学/学派/斯多亚/爱比克泰德.md",
+      "target": "哲学/学派/古希腊/苏格拉底.md",
+      "relation": "继承",
+      "label": "苏格拉底 · Socrates"
+    },
+    {
+      "source": "哲学/学派/斯多亚/爱比克泰德.md",
+      "target": "哲学/学派/斯多亚/README.md",
+      "relation": "归属",
+      "label": "斯多亚学派 · Stoicism"
+    },
+    {
+      "source": "哲学/学派/斯多亚/爱比克泰德.md",
+      "target": "哲学/学派/斯多亚/塞涅卡.md",
+      "relation": "平行",
+      "label": "塞涅卡 · Seneca"
+    },
+    {
+      "source": "哲学/学派/斯多亚/爱比克泰德.md",
+      "target": "哲学/学派/斯多亚/奥勒留.md",
+      "relation": "影响",
+      "label": "奥勒留 · Marcus Aurelius"
+    },
+    {
+      "source": "哲学/学派/洛克.md",
+      "target": "伦理政治/学派/结果主义/密尔.md",
+      "relation": "发展",
+      "label": "密尔 · John Stuart Mill"
+    },
+    {
+      "source": "哲学/学派/洛克.md",
+      "target": "伦理政治/学派/结果主义/边沁.md",
+      "relation": "发展",
+      "label": "边沁 · Jeremy Bentham"
+    },
+    {
+      "source": "哲学/学派/洛克.md",
+      "target": "哲学/学派/理性论/勒内.md",
+      "relation": "对立",
+      "label": "笛卡尔 · René Descartes"
+    },
+    {
+      "source": "哲学/学派/洛克.md",
+      "target": "哲学/学派/经验主义/休谟.md",
+      "relation": "发展",
+      "label": "休谟 · David Hume"
+    },
+    {
+      "source": "哲学/学派/洛克.md",
+      "target": "哲学/学派/贝克莱.md",
+      "relation": "发展",
+      "label": "贝克莱 · George Berkeley"
+    },
+    {
+      "source": "哲学/学派/现象学/扎哈维.md",
+      "target": "哲学/学派/现象学/梅青格.md",
+      "relation": "张力",
+      "label": "梅青格 Metzinger"
+    },
+    {
+      "source": "哲学/学派/现象学/扎哈维.md",
+      "target": "哲学/学派/现象学/汤普森.md",
+      "relation": "同源",
+      "label": "汤普森 Thompson"
+    },
+    {
+      "source": "哲学/学派/现象学/扎哈维.md",
+      "target": "宗教/佛教/概念/认知理论/五蕴的认知读法.md",
+      "relation": "张力",
+      "label": "五蕴的认知读法"
+    },
+    {
+      "source": "哲学/学派/现象学/扎哈维.md",
+      "target": "宗教/佛教/概念/认知理论/默照的认知结构.md",
+      "relation": "平行",
+      "label": "默照的认知结构"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/交织.md",
+      "target": "哲学/学派/存在主义/海德格尔/概念/在世存在.md",
+      "relation": "具体化",
+      "label": "海德格尔·共在"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/交织.md",
+      "target": "哲学/学派/现象学/eastern/zhuangzi/concepts/transformation.md",
+      "relation": "平行",
+      "label": "庄子·物化"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/交织.md",
+      "target": "哲学/学派/现象学/胡塞尔/概念/意向性.md",
+      "relation": "批判与发展",
+      "label": "胡塞尔·主体间性"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/活的身体.md",
+      "target": "哲学/学派/存在主义/萨特/概念/自由.md",
+      "relation": "批判",
+      "label": "萨特·身体"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/活的身体.md",
+      "target": "哲学/学派/现象学/胡塞尔/概念/意向性.md",
+      "relation": "发展",
+      "label": "胡塞尔·Leib"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/活的身体.md",
+      "target": "哲学/学派/社会学/schools/post-structuralism/fanon.md",
+      "relation": "发展",
+      "label": "法农·种族化身体"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/活的身体.md",
+      "target": "认知系统/概念/生成认知.md",
+      "relation": "发展",
+      "label": "具身认知"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/知觉.md",
+      "target": "哲学/学派/存在主义/海德格尔/概念/在世存在.md",
+      "relation": "具体化",
+      "label": "海德格尔·在世存在"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/知觉.md",
+      "target": "哲学/学派/现象学/胡塞尔/概念/意向性.md",
+      "relation": "发展",
+      "label": "胡塞尔·意向性"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/知觉.md",
+      "target": "哲学/心理学/schools/gestalt/kohler.md",
+      "relation": "借鉴与超越",
+      "label": "格式塔心理学·Kohler"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/肉身.md",
+      "target": "哲学/学派/存在主义/海德格尔/概念/此在.md",
+      "relation": "平行",
+      "label": "海德格尔·存在"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/肉身.md",
+      "target": "哲学/学派/现象学/post-structuralism/deleuze.md",
+      "relation": "发展",
+      "label": "德勒兹·感觉的逻辑"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/肉身.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂/husserl/concepts/lifeworld.md",
+      "relation": "发展",
+      "label": "胡塞尔·生活世界"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/身体主体.md",
+      "target": "哲学/学派/现象学/existentialism/sartre/concepts/existence-essence.md",
+      "relation": "批判",
+      "label": "萨特·自在与自为"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/身体主体.md",
+      "target": "哲学/学派/现象学/胡塞尔/概念/意向性.md",
+      "relation": "发展",
+      "label": "胡塞尔·Leib概念"
+    },
+    {
+      "source": "哲学/学派/现象学/梅洛庞蒂/概念/身体主体.md",
+      "target": "认知系统/概念/生成认知.md",
+      "relation": "发展",
+      "label": "具身认知"
+    },
+    {
+      "source": "哲学/学派/现象学/梅青格.md",
+      "target": "哲学/学派/现象学/扎哈维.md",
+      "relation": "张力",
+      "label": "扎哈维 · Dan Zahavi"
+    },
+    {
+      "source": "哲学/学派/现象学/梅青格.md",
+      "target": "哲学/学派/现象学/梅青格/README.md",
+      "relation": "方法借鉴",
+      "label": "胡塞尔 · Edmund Husserl"
+    },
+    {
+      "source": "哲学/学派/现象学/梅青格.md",
+      "target": "哲学/学派/现象学/梅青格/README.md",
+      "relation": "身体哲学资源",
+      "label": "梅洛-庞蒂 · Maurice Merleau-Ponty"
+    },
+    {
+      "source": "哲学/学派/现象学/梅青格.md",
+      "target": "哲学/学派/现象学/汤普森.md",
+      "relation": "同源",
+      "label": "汤普森 · Evan Thompson"
+    },
+    {
+      "source": "哲学/学派/现象学/梅青格.md",
+      "target": "宗教/佛教/学派/唯识 Yogācāra.md",
+      "relation": "平行",
+      "label": "唯识 · Yogācāra"
+    },
+    {
+      "source": "哲学/学派/现象学/梅青格.md",
+      "target": "宗教/佛教/概念/认知理论/五蕴的认知读法.md",
+      "relation": "平行",
+      "label": "五蕴的认知读法"
+    },
+    {
+      "source": "哲学/学派/现象学/汤普森.md",
+      "target": "哲学/学派/现象学/扎哈维.md",
+      "relation": "同源",
+      "label": "扎哈维 Zahavi"
+    },
+    {
+      "source": "哲学/学派/现象学/汤普森.md",
+      "target": "哲学/学派/现象学/梅青格.md",
+      "relation": "张力",
+      "label": "梅青格 Metzinger"
+    },
+    {
+      "source": "哲学/学派/现象学/汤普森.md",
+      "target": "宗教/佛教/概念/认知理论/五蕴的认知读法.md",
+      "relation": "平行",
+      "label": "五蕴的认知读法"
+    },
+    {
+      "source": "哲学/学派/理性论/勒内.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "对立",
+      "label": "康德 · Kant"
+    },
+    {
+      "source": "哲学/学派/理性论/勒内.md",
+      "target": "哲学/学派/现象学/胡塞尔.md",
+      "relation": "发展",
+      "label": "现象学"
+    },
+    {
+      "source": "哲学/学派/理性论/勒内.md",
+      "target": "哲学/学派/理性论/巴鲁赫.md",
+      "relation": "发展",
+      "label": "斯宾诺莎 · Spinoza"
+    },
+    {
+      "source": "哲学/学派/理性论/勒内.md",
+      "target": "哲学/学派/理性论/戈特弗里德.md",
+      "relation": "发展",
+      "label": "莱布尼茨 · Leibniz"
+    },
+    {
+      "source": "哲学/学派/理性论/巴鲁赫.md",
+      "target": "哲学/学派/后结构主义/德勒兹.md",
+      "relation": "发展",
+      "label": "德勒兹 · Deleuze"
+    },
+    {
+      "source": "哲学/学派/理性论/巴鲁赫.md",
+      "target": "哲学/学派/德国唯心论/黑格尔.md",
+      "relation": "发展",
+      "label": "黑格尔 · Hegel"
+    },
+    {
+      "source": "哲学/学派/理性论/巴鲁赫.md",
+      "target": "哲学/学派/理性论/勒内.md",
+      "relation": "发展",
+      "label": "笛卡尔 · Descartes"
+    },
+    {
+      "source": "哲学/学派/理性论/巴鲁赫.md",
+      "target": "哲学/学派/理性论/戈特弗里德.md",
+      "relation": "对立",
+      "label": "莱布尼茨 · Leibniz"
+    },
+    {
+      "source": "哲学/学派/理性论/戈特弗里德.md",
+      "target": "哲学/学派/分析哲学/弗雷格.md",
+      "relation": "发展",
+      "label": "分析哲学"
+    },
+    {
+      "source": "哲学/学派/理性论/戈特弗里德.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "对立",
+      "label": "康德 · Kant"
+    },
+    {
+      "source": "哲学/学派/理性论/戈特弗里德.md",
+      "target": "哲学/学派/理性论/勒内.md",
+      "relation": "发展",
+      "label": "笛卡尔 · Descartes"
+    },
+    {
+      "source": "哲学/学派/理性论/戈特弗里德.md",
+      "target": "哲学/学派/理性论/巴鲁赫.md",
+      "relation": "对立",
+      "label": "斯宾诺莎 · Spinoza"
+    },
+    {
+      "source": "哲学/学派/苏格兰常识学派/托马斯.md",
+      "target": "哲学/学派/empiricism/hume.md",
+      "relation": "对立",
+      "label": "休谟"
+    },
+    {
+      "source": "哲学/学派/苏格兰常识学派/托马斯.md",
+      "target": "哲学/学派/古希腊/亚里士多德.md",
+      "relation": "同源",
+      "label": "亚里士多德"
+    },
+    {
+      "source": "哲学/学派/苏格兰常识学派/托马斯.md",
+      "target": "哲学/学派/现象学/胡塞尔.md",
+      "relation": "发展",
+      "label": "胡塞尔 · 现象学"
+    },
+    {
+      "source": "哲学/学派/苏格兰常识学派/托马斯.md",
+      "target": "宗教/佛教/概念/认知理论/量论.md",
+      "relation": "平行",
+      "label": "量论 · 现量"
+    },
+    {
+      "source": "哲学/学派/苏格兰常识学派/托马斯.md",
+      "target": "研究/02-直接认知/README.md",
+      "relation": "同源",
+      "label": "直接认知（本研究）"
+    },
+    {
+      "source": "哲学/学派/苏格兰常识学派/托马斯.md",
+      "target": "认知系统/学派/生态认知/吉布森.md",
+      "relation": "平行",
+      "label": "吉布森 · 直接知觉"
+    },
+    {
+      "source": "哲学/学派/贝克莱.md",
+      "target": "哲学/学派/分析哲学/霍维.md",
+      "relation": "平行",
+      "label": "霍维 · Jakob Hohwy"
+    },
+    {
+      "source": "哲学/学派/贝克莱.md",
+      "target": "哲学/学派/分析哲学/麦金.md",
+      "relation": "平行",
+      "label": "麦金 · Colin McGinn"
+    },
+    {
+      "source": "哲学/学派/贝克莱.md",
+      "target": "哲学/学派/洛克.md",
+      "relation": "发展",
+      "label": "洛克 · John Locke"
+    },
+    {
+      "source": "哲学/学派/贝克莱.md",
+      "target": "哲学/学派/理性论/勒内.md",
+      "relation": "批判",
+      "label": "笛卡尔 · René Descartes"
+    },
+    {
+      "source": "哲学/学派/贝克莱.md",
+      "target": "哲学/学派/经验主义/休谟.md",
+      "relation": "发展",
+      "label": "休谟 · David Hume"
+    },
+    {
+      "source": "哲学/概念/存在.md",
+      "target": "宗教/传统/佛教/禅宗.md",
+      "relation": "平行",
+      "label": "禅宗 · 真如"
+    },
+    {
+      "source": "哲学/概念/存在.md",
+      "target": "心理学/学派/分析心理学/卡尔.md",
+      "relation": "平行",
+      "label": "荣格 · 个体化"
+    },
+    {
+      "source": "哲学/概念/美学.md",
+      "target": "美学/概念/创造力.md",
+      "relation": "互补",
+      "label": "创造力"
+    },
+    {
+      "source": "哲学/概念/美学.md",
+      "target": "美学/概念/审美经验.md",
+      "relation": "互补",
+      "label": "审美经验"
+    },
+    {
+      "source": "哲学/概念/美学.md",
+      "target": "美学/概念/艺术界.md",
+      "relation": "下位",
+      "label": "艺术界"
+    },
+    {
+      "source": "哲学/概念/认识论.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "互补",
+      "label": "卡尼曼 · 双系统"
+    },
+    {
+      "source": "哲学/概念/认识论.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "同源",
+      "label": "皮亚杰 · 认知发展"
+    },
+    {
+      "source": "哲学/概念/辩证法.md",
+      "target": "宗教/传统/佛教/禅宗.md",
+      "relation": "平行",
+      "label": "禅宗"
+    },
+    {
+      "source": "哲学/概念/辩证法.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "发展",
+      "label": "马克思 · 异化"
+    },
+    {
+      "source": "宗教/传统/伊斯兰教/五功.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "张力",
+      "label": "康德 · 道德实践"
+    },
+    {
+      "source": "宗教/传统/伊斯兰教/五功.md",
+      "target": "宗教/传统/伊斯兰教/苏菲主义.md",
+      "relation": "互补",
+      "label": "苏菲主义"
+    },
+    {
+      "source": "宗教/传统/伊斯兰教/五功.md",
+      "target": "社会学/学派/古典社会学/涂尔干.md",
+      "relation": "互补",
+      "label": "涂尔干 · 仪式与社会团结"
+    },
+    {
+      "source": "宗教/传统/伊斯兰教/苏菲主义.md",
+      "target": "哲学/学派/存在主义/尼采.md",
+      "relation": "张力",
+      "label": "尼采 · 超越自我"
+    },
+    {
+      "source": "宗教/传统/伊斯兰教/苏菲主义.md",
+      "target": "宗教/传统/christianity/mysticism.md",
+      "relation": "同源",
+      "label": "基督教神秘主义"
+    },
+    {
+      "source": "宗教/传统/伊斯兰教/苏菲主义.md",
+      "target": "宗教/传统/佛教/禅宗.md",
+      "relation": "平行",
+      "label": "禅宗"
+    },
+    {
+      "source": "宗教/传统/伊斯兰教/苏菲主义.md",
+      "target": "心理学/学派/分析心理学/卡尔.md",
+      "relation": "平行",
+      "label": "荣格 · 个体化"
+    },
+    {
+      "source": "宗教/传统/佛教/四圣谛与八正道.md",
+      "target": "哲学/学派/存在主义/尼采.md",
+      "relation": "对立",
+      "label": "尼采"
+    },
+    {
+      "source": "宗教/传统/佛教/四圣谛与八正道.md",
+      "target": "心理学/学派/积极心理学/米哈里.md",
+      "relation": "平行",
+      "label": "米哈里 · 心流"
+    },
+    {
+      "source": "宗教/传统/佛教/四圣谛与八正道.md",
+      "target": "心理学/学派/认知心理学/贝克.md",
+      "relation": "平行",
+      "label": "贝克 · CBT"
+    },
+    {
+      "source": "宗教/传统/佛教/四圣谛与八正道.md",
+      "target": "社会学/学派/现代性/鲍曼.md",
+      "relation": "互补",
+      "label": "鲍曼 · 流动现代性"
+    },
+    {
+      "source": "宗教/传统/佛教/大乘空性.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "平行",
+      "label": "维特根斯坦 · 语言游戏"
+    },
+    {
+      "source": "宗教/传统/佛教/大乘空性.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔 · 存在"
+    },
+    {
+      "source": "宗教/传统/佛教/禅宗.md",
+      "target": "哲学/学派/东方哲学/老子.md",
+      "relation": "同源",
+      "label": "老子"
+    },
+    {
+      "source": "宗教/传统/佛教/禅宗.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "平行",
+      "label": "维特根斯坦"
+    },
+    {
+      "source": "宗教/传统/佛教/禅宗.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔"
+    },
+    {
+      "source": "宗教/传统/佛教/禅宗.md",
+      "target": "心理学/学派/人本主义/卡尔.md",
+      "relation": "平行",
+      "label": "罗杰斯 · 真实自我"
+    },
+    {
+      "source": "宗教/传统/印度教/业与轮回.md",
+      "target": "哲学/学派/存在主义/尼采.md",
+      "relation": "平行",
+      "label": "尼采 · 永恒轮回"
+    },
+    {
+      "source": "宗教/传统/印度教/业与轮回.md",
+      "target": "宗教/传统/buddhism/four-noble-truths.md",
+      "relation": "发展",
+      "label": "四圣谛与八正道"
+    },
+    {
+      "source": "宗教/传统/印度教/业与轮回.md",
+      "target": "心理学/学派/行为主义/斯金纳.md",
+      "relation": "平行",
+      "label": "斯金纳 · 操作性条件作用"
+    },
+    {
+      "source": "宗教/传统/印度教/业与轮回.md",
+      "target": "社会学/学派/古典社会学/涂尔干.md",
+      "relation": "互补",
+      "label": "涂尔干 · 道德分工"
+    },
+    {
+      "source": "宗教/传统/基督教/基督教神秘主义.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "借用",
+      "label": "海德格尔"
+    },
+    {
+      "source": "宗教/传统/基督教/基督教神秘主义.md",
+      "target": "宗教/传统/伊斯兰教/苏菲主义.md",
+      "relation": "同源",
+      "label": "苏菲主义"
+    },
+    {
+      "source": "宗教/传统/基督教/基督教神秘主义.md",
+      "target": "宗教/传统/佛教/禅宗.md",
+      "relation": "平行",
+      "label": "禅宗"
+    },
+    {
+      "source": "宗教/传统/基督教/基督教神秘主义.md",
+      "target": "心理学/学派/人本主义/马斯洛.md",
+      "relation": "平行",
+      "label": "马斯洛 · 高峰体验"
+    },
+    {
+      "source": "宗教/传统/基督教/奥古斯丁.md",
+      "target": "哲学/学派/中世纪经院/托马斯.md",
+      "relation": "发展",
+      "label": "托马斯·阿奎那 · Thomas Aquinas"
+    },
+    {
+      "source": "宗教/传统/基督教/奥古斯丁.md",
+      "target": "哲学/学派/古希腊/亚里士多德.md",
+      "relation": "互补",
+      "label": "亚里士多德 · Aristotle"
+    },
+    {
+      "source": "宗教/传统/基督教/奥古斯丁.md",
+      "target": "哲学/学派/古希腊/柏拉图.md",
+      "relation": "发展",
+      "label": "柏拉图 · Plato"
+    },
+    {
+      "source": "宗教/传统/基督教/奥古斯丁.md",
+      "target": "宗教/传统/基督教/恩典与救赎.md",
+      "relation": "同源",
+      "label": "恩典与救赎 · Grace and Salvation"
+    },
+    {
+      "source": "宗教/传统/基督教/恩典与救赎.md",
+      "target": "哲学/学派/存在主义/尼采.md",
+      "relation": "对立",
+      "label": "尼采"
+    },
+    {
+      "source": "宗教/传统/基督教/恩典与救赎.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "批判",
+      "label": "康德"
+    },
+    {
+      "source": "宗教/传统/基督教/恩典与救赎.md",
+      "target": "心理学/学派/人本主义/卡尔.md",
+      "relation": "平行",
+      "label": "罗杰斯 · 无条件积极关注"
+    },
+    {
+      "source": "宗教/传统/基督教/恩典与救赎.md",
+      "target": "社会学/学派/古典社会学/涂尔干.md",
+      "relation": "互补",
+      "label": "涂尔干 · 集体良心"
+    },
+    {
+      "source": "宗教/传统/犹太教/律法与盟约.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "发展",
+      "label": "利维纳斯 · 他者"
+    },
+    {
+      "source": "宗教/传统/犹太教/律法与盟约.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "发展",
+      "label": "康德 · 道德律"
+    },
+    {
+      "source": "宗教/传统/犹太教/律法与盟约.md",
+      "target": "宗教/传统/christianity/grace-redemption.md",
+      "relation": "张力",
+      "label": "恩典与救赎"
+    },
+    {
+      "source": "宗教/传统/犹太教/律法与盟约.md",
+      "target": "社会学/学派/古典社会学/涂尔干.md",
+      "relation": "互补",
+      "label": "涂尔干 · 集体良心"
+    },
+    {
+      "source": "宗教/传统/耆那教/核心教义.md",
+      "target": "伦理政治/学派/非暴力抵抗/圣雄甘地.md",
+      "relation": "借用",
+      "label": "圣雄甘地"
+    },
+    {
+      "source": "宗教/传统/耆那教/核心教义.md",
+      "target": "伦理政治/学派/非暴力抵抗/圣雄甘地.md",
+      "relation": "借用",
+      "label": "非暴力抵抗 · 圣雄甘地"
+    },
+    {
+      "source": "宗教/传统/耆那教/核心教义.md",
+      "target": "哲学/概念/真理.md",
+      "relation": "互补",
+      "label": "哲学/概念/真理"
+    },
+    {
+      "source": "宗教/传统/耆那教/核心教义.md",
+      "target": "宗教/传统/佛教/四圣谛与八正道.md",
+      "relation": "平行",
+      "label": "四圣谛与八正道"
+    },
+    {
+      "source": "宗教/传统/耆那教/核心教义.md",
+      "target": "宗教/传统/印度教/业与轮回.md",
+      "relation": "同源",
+      "label": "业与轮回"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/庄周梦蝶.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "发展",
+      "label": "老子 · 反"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/庄周梦蝶.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "平行",
+      "label": "博尔赫斯 · 同一性"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/庄周梦蝶.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "平行",
+      "label": "唯识 · 缘起"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/庄周梦蝶.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "平行",
+      "label": "帕菲特 · 个人同一性"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/心斋.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "发展",
+      "label": "老子 · 无为"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/心斋.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "对照",
+      "label": "佛教 · 止观"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/心斋.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "平行",
+      "label": "卡巴金 · 正念"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/无用之用.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "发展",
+      "label": "老子 · 无为"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/无用之用.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "对照",
+      "label": "韦伯 · 工具理性"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/无用之用.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "平行",
+      "label": "阿多诺 · 艺术哲学"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/逍遥游.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "发展",
+      "label": "老子 · 无为"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/逍遥游.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "对照",
+      "label": "萨特 · 自由"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/逍遥游.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "平行",
+      "label": "海德格尔 · 本真存在"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/逍遥游.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "平行",
+      "label": "契克森米哈赖 · 心流"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/齐物论.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "发展",
+      "label": "老子 · 反"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/齐物论.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "平行",
+      "label": "唯识 · 平等性智"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/齐物论.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "平行",
+      "label": "维特根斯坦 · 语言游戏"
+    },
+    {
+      "source": "宗教/传统/道教/大师/庄子/概念/齐物论.md",
+      "target": "宗教/传统/道教/大师/庄子/README.md",
+      "relation": "平行",
+      "label": "德里达 · 延异"
+    },
+    {
+      "source": "宗教/传统/道教/无为.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔 · Gelassenheit 任之"
+    },
+    {
+      "source": "宗教/传统/道教/无为.md",
+      "target": "宗教/传统/佛教/禅宗.md",
+      "relation": "同源",
+      "label": "禅宗"
+    },
+    {
+      "source": "宗教/传统/道教/无为.md",
+      "target": "心理学/概念/心流.md",
+      "relation": "平行",
+      "label": "心流 · Flow"
+    },
+    {
+      "source": "宗教/传统/道教/无为.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "张力",
+      "label": "马克思 · 异化劳动"
+    },
+    {
+      "source": "宗教/佛教/大师/无著/概念/八识体系.md",
+      "target": "宗教/佛教/大师/无著/概念/阿赖耶识.md",
+      "relation": "核心组成",
+      "label": "阿赖耶识"
+    },
+    {
+      "source": "宗教/佛教/大师/无著/概念/种子与熏习.md",
+      "target": "宗教/佛教/大师/无著/概念/阿赖耶识.md",
+      "relation": "储存基底",
+      "label": "阿赖耶识"
+    },
+    {
+      "source": "宗教/佛教/大师/无著/概念/转识成智.md",
+      "target": "宗教/佛教/大师/无著/概念/三性.md",
+      "relation": "认识论框架",
+      "label": "三性"
+    },
+    {
+      "source": "宗教/佛教/大师/无著/概念/转识成智.md",
+      "target": "宗教/佛教/大师/无著/概念/八识体系.md",
+      "relation": "基础",
+      "label": "八识体系"
+    },
+    {
+      "source": "宗教/佛教/大师/清辨.md",
+      "target": "宗教/佛教/大师/月称/README.md",
+      "relation": "论争",
+      "label": "月称"
+    },
+    {
+      "source": "宗教/佛教/大师/清辨.md",
+      "target": "宗教/佛教/大师/陈那.md",
+      "relation": "承接",
+      "label": "陈那"
+    },
+    {
+      "source": "宗教/佛教/大师/清辨.md",
+      "target": "宗教/佛教/大师/龙树/README.md",
+      "relation": "继承",
+      "label": "龙树"
+    },
+    {
+      "source": "宗教/佛教/大师/觉音.md",
+      "target": "宗教/佛教/大师/月称/README.md",
+      "relation": "对比",
+      "label": "月称"
+    },
+    {
+      "source": "宗教/佛教/大师/觉音.md",
+      "target": "宗教/佛教/大师/陈那.md",
+      "relation": "同时代",
+      "label": "陈那"
+    },
+    {
+      "source": "宗教/佛教/大师/觉音.md",
+      "target": "宗教/概念/冥想与默观.md",
+      "relation": "核心概念",
+      "label": "冥想与默观"
+    },
+    {
+      "source": "宗教/佛教/概念/独立概念/八识体系.md",
+      "target": "心理学/学派/精神分析/西格蒙德.md",
+      "relation": "平行",
+      "label": "弗洛伊德·潜意识"
+    },
+    {
+      "source": "宗教/佛教/概念/独立概念/八识体系.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "平行",
+      "label": "卡尼曼·双系统"
+    },
+    {
+      "source": "宗教/佛教/概念/独立概念/八识体系.md",
+      "target": "社会学/学派/结构主义/布迪厄.md",
+      "relation": "平行",
+      "label": "布迪厄·惯习"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/七处征心.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "平行",
+      "label": "维特根斯坦 · 语言界限"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/七处征心.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔 · 存在问题"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/三性.md",
+      "target": "哲学/学派/分析哲学/怀特海.md",
+      "relation": "平行",
+      "label": "怀特海 · 过程哲学"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/三性.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔 · 存在论差异"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/三性.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "平行",
+      "label": "康德 · 现象与物自身"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/三性.md",
+      "target": "心理学/学派/认知心理学/弗里斯顿.md",
+      "relation": "平行",
+      "label": "预测编码理论"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/二谛.md",
+      "target": "哲学/学派/分析哲学/内格尔.md",
+      "relation": "平行",
+      "label": "内格尔 · 无何之见"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/二谛.md",
+      "target": "哲学/学派/分析哲学/卡尔纳普.md",
+      "relation": "平行",
+      "label": "卡尔纳普 · 内外问题"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/二谛.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "平行",
+      "label": "维特根斯坦 · 梯子喻"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/二谛.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "平行但不同",
+      "label": "康德 · 现象与物自身"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/五蕴的认知读法.md",
+      "target": "哲学/学派/分析哲学/丹尼特.md",
+      "relation": "平行",
+      "label": "丹尼特 · 叙事自我"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/五蕴的认知读法.md",
+      "target": "哲学/学派/分析哲学/帕菲特.md",
+      "relation": "平行",
+      "label": "帕菲特 · 人格同一性"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/五蕴的认知读法.md",
+      "target": "哲学/学派/现象学/梅青格.md",
+      "relation": "平行",
+      "label": "Metzinger · 自我隧道"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/五蕴的认知读法.md",
+      "target": "哲学/学派/经验主义/休谟.md",
+      "relation": "平行",
+      "label": "休谟 · 自我束论"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/五蕴的认知读法.md",
+      "target": "认知系统/学派/认知工程/明斯基.md",
+      "relation": "平行",
+      "label": "Minsky · 心智社会"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/八识体系.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "平行",
+      "label": "康德 · 先验范畴"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/八识体系.md",
+      "target": "心理学/学派/精神分析/西格蒙德.md",
+      "relation": "平行",
+      "label": "弗洛伊德 · 潜意识"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/八识体系.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "平行",
+      "label": "卡尼曼 · 双系统"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/八还辨见.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔 · 无蔽"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/八还辨见.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "平行",
+      "label": "梅洛-庞蒂 · 身体现象学"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/公案与话头的认知机制.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "平行",
+      "label": "维特根斯坦 · 语言界限"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/公案与话头的认知机制.md",
+      "target": "哲学/学派/分析哲学/麦金.md",
+      "relation": "平行",
+      "label": "McGinn · 认知闭合"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/公案与话头的认知机制.md",
+      "target": "哲学/学派/后结构主义/雅克.md",
+      "relation": "平行",
+      "label": "德里达 · 解构"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/公案与话头的认知机制.md",
+      "target": "心理学/学派/认知心理学/比曼.md",
+      "relation": "平行",
+      "label": "Kounios & Beeman · 顿悟神经"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/十二因缘的认知读法.md",
+      "target": "心理学/学派/行为主义/斯金纳.md",
+      "relation": "平行",
+      "label": "行为主义 · 刺激-反应链"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/十二因缘的认知读法.md",
+      "target": "心理学/学派/认知心理学/弗里斯顿.md",
+      "relation": "平行",
+      "label": "预测编码 · 主动推理"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/十二因缘的认知读法.md",
+      "target": "心理学/学派/认知心理学/贝克.md",
+      "relation": "平行",
+      "label": "认知行为疗法 · 认知三角"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/十二因缘的认知读法.md",
+      "target": "认知系统/学派/控制论/weiner.md",
+      "relation": "平行",
+      "label": "系统论 · 反馈回路"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/四念处作为元认知训练.md",
+      "target": "心理学/学派/认知心理学/卡巴金.md",
+      "relation": "应用",
+      "label": "Kabat-Zinn · MBSR"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/四念处作为元认知训练.md",
+      "target": "心理学/学派/认知心理学/弗拉维尔.md",
+      "relation": "平行",
+      "label": "Flavell · 元认知"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/四念处作为元认知训练.md",
+      "target": "心理学/学派/认知心理学/海耶斯.md",
+      "relation": "应用",
+      "label": "Hayes · ACT"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/四念处作为元认知训练.md",
+      "target": "认知系统/学派/生态认知/瓦雷拉.md",
+      "relation": "平行",
+      "label": "Varela · 神经现象学"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/止观的认知分工.md",
+      "target": "心理学/学派/认知心理学/卡巴金.md",
+      "relation": "应用",
+      "label": "Kabat-Zinn · MBSR"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/止观的认知分工.md",
+      "target": "心理学/学派/认知心理学/卢茨.md",
+      "relation": "平行",
+      "label": "Lutz & Davidson · 冥想神经科学"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/止观的认知分工.md",
+      "target": "心理学/学派/认知心理学/巴尔斯.md",
+      "relation": "平行",
+      "label": "Baars · 全局工作空间"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/止观的认知分工.md",
+      "target": "心理学/学派/认知心理学/波斯纳.md",
+      "relation": "平行",
+      "label": "Posner · 注意力网络"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/种子与熏习.md",
+      "target": "心理学/学派/精神分析/西格蒙德.md",
+      "relation": "平行",
+      "label": "弗洛伊德 · 潜意识印记"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/种子与熏习.md",
+      "target": "心理学/学派/行为主义/斯金纳.md",
+      "relation": "平行",
+      "label": "行为主义 · 习惯形成"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/种子与熏习.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "平行",
+      "label": "康纳曼 · 系统1"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/种子与熏习.md",
+      "target": "认知系统/学派/认知工程/鲁梅尔哈特.md",
+      "relation": "平行",
+      "label": "联结主义 · 权重更新"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/量论.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "张力",
+      "label": "维特根斯坦 · 私人语言"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/量论.md",
+      "target": "哲学/学派/实用主义/皮尔士.md",
+      "relation": "平行",
+      "label": "皮尔士 · 符号学"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/量论.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "平行",
+      "label": "康德 · 直观与概念"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/量论.md",
+      "target": "哲学/学派/现象学/胡塞尔.md",
+      "relation": "平行",
+      "label": "胡塞尔 · 本质直观"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/金刚经.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "平行",
+      "label": "维特根斯坦 · 语言游戏"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/金刚经.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "平行",
+      "label": "康德 · 物自体"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/阿毗达磨心识论.md",
+      "target": "哲学/学派/分析哲学/福多.md",
+      "relation": "张力",
+      "label": "Fodor · 心智模块"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/阿毗达磨心识论.md",
+      "target": "心理学/学派/功能主义/威廉.md",
+      "relation": "平行",
+      "label": "威廉·詹姆斯 · 意识流"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/阿毗达磨心识论.md",
+      "target": "心理学/学派/认知心理学/巴尔斯.md",
+      "relation": "平行",
+      "label": "Baars · 全局工作空间"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/阿毗达磨心识论.md",
+      "target": "心理学/学派/认知心理学/巴雷特.md",
+      "relation": "平行",
+      "label": "Lisa Barrett · 情绪构造"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/默照的认知结构.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "Heidegger · 澄明"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/默照的认知结构.md",
+      "target": "哲学/学派/现象学/扎哈维.md",
+      "relation": "平行",
+      "label": "Zahavi · 前反思自身意识"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/默照的认知结构.md",
+      "target": "心理学/学派/认知心理学/卢茨.md",
+      "relation": "平行",
+      "label": "Lutz · 开放监控"
+    },
+    {
+      "source": "宗教/佛教/概念/认知理论/默照的认知结构.md",
+      "target": "美学/学派/艺术思想/约翰.md",
+      "relation": "应用",
+      "label": "John Cage · 4'33\""
+    },
+    {
+      "source": "宗教/智慧大师/大师/中国/临济义玄.md",
+      "target": "宗教/智慧大师/大师/中国/hui-neng.md",
+      "relation": "同源",
+      "label": "慧能·无住"
+    },
+    {
+      "source": "宗教/智慧大师/大师/中国/慧能.md",
+      "target": "宗教/传统/佛教/禅宗.md",
+      "relation": "发展",
+      "label": "禅宗"
+    },
+    {
+      "source": "宗教/智慧大师/大师/中国/马祖道一.md",
+      "target": "宗教/传统/道教/大师/老子.md",
+      "relation": "平行",
+      "label": "老庄"
+    },
+    {
+      "source": "宗教/智慧大师/大师/中国/马祖道一.md",
+      "target": "宗教/智慧大师/大师/中国/hui-neng.md",
+      "relation": "继承",
+      "label": "慧能"
+    },
+    {
+      "source": "宗教/智慧大师/大师/中国/马祖道一.md",
+      "target": "宗教/智慧大师/大师/中国/linji-yixuan.md",
+      "relation": "发展",
+      "label": "临济"
+    },
+    {
+      "source": "宗教/智慧大师/大师/日本/道元.md",
+      "target": "宗教/智慧大师/大师/china/hui-neng.md",
+      "relation": "平行",
+      "label": "慧能·顿悟"
+    },
+    {
+      "source": "宗教/智慧大师/大师/泰国/佛使比丘.md",
+      "target": "宗教/concepts/interreligious-dialogue.md",
+      "relation": "发展",
+      "label": "宗教对话"
+    },
+    {
+      "source": "宗教/智慧大师/大师/泰国/佛使比丘.md",
+      "target": "宗教/哲学/学派/古希腊/buddha.md",
+      "relation": "继承",
+      "label": "佛陀"
+    },
+    {
+      "source": "宗教/智慧大师/大师/泰国/佛使比丘.md",
+      "target": "宗教/智慧大师/大师/泰国/ajahn-chah.md",
+      "relation": "平行",
+      "label": "阿姜查"
+    },
+    {
+      "source": "宗教/智慧大师/大师/泰国/阿姜查.md",
+      "target": "宗教/哲学/学派/古希腊/buddha.md",
+      "relation": "继承",
+      "label": "佛陀"
+    },
+    {
+      "source": "宗教/智慧大师/大师/泰国/阿姜查.md",
+      "target": "宗教/智慧大师/大师/西方/一行禅师.md",
+      "relation": "平行",
+      "label": "一行禅师"
+    },
+    {
+      "source": "宗教/智慧大师/大师/西方/一行禅师.md",
+      "target": "宗教/智慧大师/大师/china/hui-neng.md",
+      "relation": "平行",
+      "label": "慧能·平常心"
+    },
+    {
+      "source": "宗教/智慧大师/大师/西方/一行禅师.md",
+      "target": "宗教/智慧大师/大师/tibet/milarepa.md",
+      "relation": "发展",
+      "label": "米拉日巴·觉性"
+    },
+    {
+      "source": "宗教/智慧大师/大师/西藏/米拉日巴.md",
+      "target": "宗教/智慧大师/大师/china/hui-neng.md",
+      "relation": "平行",
+      "label": "慧能·顿悟"
+    },
+    {
+      "source": "宗教/智慧大师/大师/西藏/米拉日巴.md",
+      "target": "宗教/智慧大师/大师/西方/一行禅师.md",
+      "relation": "发展",
+      "label": "一行禅师·正念"
+    },
+    {
+      "source": "宗教/概念/启示.md",
+      "target": "宗教/概念/仪式.md",
+      "relation": "平行",
+      "label": "仪式"
+    },
+    {
+      "source": "宗教/概念/启示.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "核心关联",
+      "label": "神圣性"
+    },
+    {
+      "source": "宗教/概念/救赎.md",
+      "target": "宗教/traditions/hinduism/karma-samsara.md",
+      "relation": "下位",
+      "label": "业与轮回"
+    },
+    {
+      "source": "宗教/概念/救赎.md",
+      "target": "宗教/传统/佛教/四圣谛与八正道.md",
+      "relation": "下位",
+      "label": "四圣谛与八正道"
+    },
+    {
+      "source": "宗教/概念/救赎.md",
+      "target": "宗教/传统/基督教/恩典与救赎.md",
+      "relation": "下位",
+      "label": "恩典与救赎"
+    },
+    {
+      "source": "宗教/概念/救赎.md",
+      "target": "心理学/学派/积极心理学/flourishing.md",
+      "relation": "平行",
+      "label": "积极心理学 · 繁盛"
+    },
+    {
+      "source": "宗教/概念/救赎.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "平行",
+      "label": "马克思 · 解放"
+    },
+    {
+      "source": "宗教/概念/末世论.md",
+      "target": "宗教/概念/启示.md",
+      "relation": "文本载体",
+      "label": "启示"
+    },
+    {
+      "source": "宗教/概念/末世论.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "关联",
+      "label": "神圣性"
+    },
+    {
+      "source": "宗教/概念/祈祷.md",
+      "target": "宗教/概念/仪式.md",
+      "relation": "上位概念",
+      "label": "仪式"
+    },
+    {
+      "source": "宗教/概念/祈祷.md",
+      "target": "宗教/概念/冥想与默观.md",
+      "relation": "核心关联",
+      "label": "冥想与默观"
+    },
+    {
+      "source": "宗教/概念/祈祷.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "关联",
+      "label": "神圣性"
+    },
+    {
+      "source": "宗教/概念/神圣性.md",
+      "target": "宗教/traditions/christianity/mysticism.md",
+      "relation": "平行",
+      "label": "基督教神秘主义"
+    },
+    {
+      "source": "宗教/概念/神圣性.md",
+      "target": "宗教/传统/佛教/禅宗.md",
+      "relation": "张力",
+      "label": "禅宗"
+    },
+    {
+      "source": "宗教/概念/神圣性.md",
+      "target": "心理学/学派/分析心理学/卡尔.md",
+      "relation": "平行",
+      "label": "荣格 · 原型"
+    },
+    {
+      "source": "宗教/概念/神圣性.md",
+      "target": "社会学/学派/古典社会学/涂尔干.md",
+      "relation": "同源",
+      "label": "涂尔干"
+    },
+    {
+      "source": "宗教/概念/神圣性.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "批判",
+      "label": "马克思 · 商品拜物教"
+    },
+    {
+      "source": "宗教/概念/苦行.md",
+      "target": "宗教/概念/冥想与默观.md",
+      "relation": "实践关联",
+      "label": "冥想与默观"
+    },
+    {
+      "source": "宗教/概念/苦行.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "关联",
+      "label": "神圣性"
+    },
+    {
+      "source": "心理学/学派/发展心理学/安斯沃斯.md",
+      "target": "心理学/学派/发展心理学/皮亚杰.md",
+      "relation": "平行",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "心理学/学派/发展心理学/安斯沃斯.md",
+      "target": "心理学/学派/发展心理学/约翰.md",
+      "relation": "继承",
+      "label": "鲍尔比"
+    },
+    {
+      "source": "心理学/学派/发展心理学/安斯沃斯.md",
+      "target": "心理学/学派/精神分析/西格蒙德.md",
+      "relation": "对立",
+      "label": "弗洛伊德"
+    },
+    {
+      "source": "心理学/学派/格式塔心理学/考夫卡.md",
+      "target": "心理学/学派/发展心理学/皮亚杰.md",
+      "relation": "平行",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "心理学/学派/格式塔心理学/考夫卡.md",
+      "target": "心理学/学派/格式塔心理学/韦特海默.md",
+      "relation": "互补",
+      "label": "韦特海默"
+    },
+    {
+      "source": "心理学/学派/格式塔心理学/考夫卡.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "平行",
+      "label": "维纳"
+    },
+    {
+      "source": "心理学/学派/格式塔心理学/苛勒.md",
+      "target": "心理学/学派/发展心理学/皮亚杰.md",
+      "relation": "互补",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "心理学/学派/格式塔心理学/苛勒.md",
+      "target": "心理学/学派/格式塔心理学/韦特海默.md",
+      "relation": "互补",
+      "label": "韦特海默"
+    },
+    {
+      "source": "心理学/学派/格式塔心理学/苛勒.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "平行",
+      "label": "维纳"
+    },
+    {
+      "source": "心理学/学派/格式塔心理学/韦特海默.md",
+      "target": "心理学/学派/发展心理学/皮亚杰.md",
+      "relation": "互补",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "心理学/学派/格式塔心理学/韦特海默.md",
+      "target": "心理学/学派/格式塔心理学/苛勒.md",
+      "relation": "互补",
+      "label": "苛勒"
+    },
+    {
+      "source": "心理学/学派/格式塔心理学/韦特海默.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "平行",
+      "label": "维纳"
+    },
+    {
+      "source": "心理学/学派/精神分析/雅克.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "平行",
+      "label": "维特根斯坦"
+    },
+    {
+      "source": "心理学/学派/精神分析/雅克.md",
+      "target": "心理学/学派/精神分析/西格蒙德.md",
+      "relation": "继承",
+      "label": "弗洛伊德"
+    },
+    {
+      "source": "心理学/学派/精神分析/雅克.md",
+      "target": "美学/学派/文学理论/索绪尔.md",
+      "relation": "发展",
+      "label": "索绪尔"
+    },
+    {
+      "source": "心理学/学派/认知心理学/乔姆斯基.md",
+      "target": "哲学/学派/分析哲学/福多.md",
+      "relation": "同源",
+      "label": "福多（心智模块性）"
+    },
+    {
+      "source": "心理学/学派/认知心理学/乔姆斯基.md",
+      "target": "哲学/学派/理性论/勒内.md",
+      "relation": "继承",
+      "label": "笛卡尔"
+    },
+    {
+      "source": "心理学/学派/认知心理学/乔姆斯基.md",
+      "target": "哲学/概念/语言.md",
+      "relation": "互补",
+      "label": "语言"
+    },
+    {
+      "source": "心理学/学派/认知心理学/乔姆斯基.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "张力",
+      "label": "维果茨基（社会文化）"
+    },
+    {
+      "source": "心理学/学派/认知心理学/乔姆斯基.md",
+      "target": "心理学/学派/行为主义/斯金纳.md",
+      "relation": "对立",
+      "label": "斯金纳（行为主义）"
+    },
+    {
+      "source": "心理学/学派/认知心理学/乔姆斯基.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "张力",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "文学/学派/剧作家/亨利克.md",
+      "target": "哲学/学派/存在主义/索伦.md",
+      "relation": "互补",
+      "label": "克尔凯郭尔"
+    },
+    {
+      "source": "文学/学派/剧作家/亨利克.md",
+      "target": "心理学/学派/精神分析/西格蒙德.md",
+      "relation": "互补",
+      "label": "心理分析"
+    },
+    {
+      "source": "文学/学派/剧作家/亨利克.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "平行",
+      "label": "马克思"
+    },
+    {
+      "source": "文学/学派/剧作家/威廉.md",
+      "target": "伦理政治/概念/德性.md",
+      "relation": "探讨",
+      "label": "伦理学"
+    },
+    {
+      "source": "文学/学派/剧作家/威廉.md",
+      "target": "哲学/学派/存在主义/尼采.md",
+      "relation": "平行",
+      "label": "尼采"
+    },
+    {
+      "source": "文学/学派/剧作家/威廉.md",
+      "target": "哲学/学派/存在主义/萨特.md",
+      "relation": "平行",
+      "label": "存在主义"
+    },
+    {
+      "source": "文学/学派/剧作家/威廉.md",
+      "target": "心理学/学派/精神分析/西格蒙德.md",
+      "relation": "应用",
+      "label": "弗洛伊德"
+    },
+    {
+      "source": "文学/学派/剧作家/索福克勒斯.md",
+      "target": "哲学/学派/古希腊/亚里士多德.md",
+      "relation": "发展",
+      "label": "亚里士多德"
+    },
+    {
+      "source": "文学/学派/剧作家/索福克勒斯.md",
+      "target": "哲学/学派/古希腊/柏拉图.md",
+      "relation": "对立",
+      "label": "柏拉图"
+    },
+    {
+      "source": "文学/学派/剧作家/索福克勒斯.md",
+      "target": "心理学/学派/精神分析/西格蒙德.md",
+      "relation": "应用",
+      "label": "弗洛伊德"
+    },
+    {
+      "source": "文学/学派/剧作家/索福克勒斯.md",
+      "target": "美学/概念/悲剧.md",
+      "relation": "同源",
+      "label": "悲剧"
+    },
+    {
+      "source": "文学/学派/剧作家/萨缪尔.md",
+      "target": "哲学/学派/悲观主义/叔本华.md",
+      "relation": "平行",
+      "label": "叔本华/悲观主义"
+    },
+    {
+      "source": "文学/学派/剧作家/萨缪尔.md",
+      "target": "哲学/概念/语言.md",
+      "relation": "批判",
+      "label": "语言哲学"
+    },
+    {
+      "source": "文学/学派/剧作家/萨缪尔.md",
+      "target": "心理学/学派/存在心理学/维克多.md",
+      "relation": "互补",
+      "label": "弗兰克尔"
+    },
+    {
+      "source": "文学/学派/剧作家/萨缪尔.md",
+      "target": "美学/学派/文学思想/卡夫卡.md",
+      "relation": "同源",
+      "label": "卡夫卡"
+    },
+    {
+      "source": "文学/学派/剧作家/贝托尔特.md",
+      "target": "文学/学派/剧作家/威廉.md",
+      "relation": "对立",
+      "label": "莎士比亚"
+    },
+    {
+      "source": "文学/学派/剧作家/贝托尔特.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "同源",
+      "label": "马克思"
+    },
+    {
+      "source": "文学/学派/剧作家/贝托尔特.md",
+      "target": "美学/学派/批判美学/瓦尔特.md",
+      "relation": "互补",
+      "label": "本雅明"
+    },
+    {
+      "source": "文学/学派/剧作家/贝托尔特.md",
+      "target": "美学/学派/批判美学/西奥多.md",
+      "relation": "批判",
+      "label": "阿多诺"
+    },
+    {
+      "source": "文学/学派/小说家/伍尔夫.md",
+      "target": "哲学/学派/现象学/胡塞尔.md",
+      "relation": "平行",
+      "label": "现象学"
+    },
+    {
+      "source": "文学/学派/小说家/伍尔夫.md",
+      "target": "文学/学派/小说家/马塞尔.md",
+      "relation": "平行",
+      "label": "普鲁斯特"
+    },
+    {
+      "source": "文学/学派/小说家/伍尔夫.md",
+      "target": "社会学/concepts/feminism.md",
+      "relation": "互补",
+      "label": "女性主义理论"
+    },
+    {
+      "source": "文学/学派/小说家/曹雪芹.md",
+      "target": "宗教/佛教/大师/龙树.md",
+      "relation": "互补",
+      "label": "佛教空观"
+    },
+    {
+      "source": "文学/学派/小说家/曹雪芹.md",
+      "target": "文学/学派/小说家/兰陵笑笑生.md",
+      "relation": "继承",
+      "label": "世情小说传统"
+    },
+    {
+      "source": "文学/学派/小说家/曹雪芹.md",
+      "target": "艺术/concepts/gesamtkunstwerk.md",
+      "relation": "平行",
+      "label": "总体艺术"
+    },
+    {
+      "source": "文学/学派/小说家/米格尔.md",
+      "target": "文学/concepts/fictionality.md",
+      "relation": "同源",
+      "label": "虚构性"
+    },
+    {
+      "source": "文学/学派/小说家/米格尔.md",
+      "target": "文学/学派/剧作家/威廉.md",
+      "relation": "平行",
+      "label": "莎士比亚"
+    },
+    {
+      "source": "文学/学派/小说家/米格尔.md",
+      "target": "美学/学派/文学思想/博尔赫斯.md",
+      "relation": "发展",
+      "label": "博尔赫斯"
+    },
+    {
+      "source": "文学/学派/小说家/米格尔.md",
+      "target": "美学/学派/文学理论/巴赫金.md",
+      "relation": "互补",
+      "label": "巴赫金"
+    },
+    {
+      "source": "文学/学派/小说家/詹姆斯.md",
+      "target": "哲学/概念/语言.md",
+      "relation": "平行",
+      "label": "维特根斯坦/语言"
+    },
+    {
+      "source": "文学/学派/小说家/詹姆斯.md",
+      "target": "文学/学派/剧作家/萨缪尔.md",
+      "relation": "发展",
+      "label": "贝克特"
+    },
+    {
+      "source": "文学/学派/小说家/詹姆斯.md",
+      "target": "文学/学派/小说家/马塞尔.md",
+      "relation": "平行",
+      "label": "普鲁斯特"
+    },
+    {
+      "source": "文学/学派/小说家/詹姆斯.md",
+      "target": "美学/学派/文学理论/巴赫金.md",
+      "relation": "互补",
+      "label": "巴赫金"
+    },
+    {
+      "source": "文学/学派/小说家/马塞尔.md",
+      "target": "哲学/学派/现象学/胡塞尔.md",
+      "relation": "互补",
+      "label": "胡塞尔/现象学"
+    },
+    {
+      "source": "文学/学派/小说家/马塞尔.md",
+      "target": "哲学/概念/时间.md",
+      "relation": "同源",
+      "label": "柏格森/时间"
+    },
+    {
+      "source": "文学/学派/小说家/马塞尔.md",
+      "target": "文学/学派/小说家/詹姆斯.md",
+      "relation": "平行",
+      "label": "乔伊斯"
+    },
+    {
+      "source": "文学/学派/小说家/马尔克斯.md",
+      "target": "哲学/concepts/circular-time.md",
+      "relation": "互补",
+      "label": "循环时间观"
+    },
+    {
+      "source": "文学/学派/小说家/马尔克斯.md",
+      "target": "文学/学派/小说家/福克纳.md",
+      "relation": "继承",
+      "label": "福克纳"
+    },
+    {
+      "source": "文学/学派/小说家/马尔克斯.md",
+      "target": "社会学/concepts/postcolonialism.md",
+      "relation": "平行",
+      "label": "后殖民理论"
+    },
+    {
+      "source": "文学/学派/诗人/沃尔特.md",
+      "target": "哲学/学派/东方哲学/孔子.md",
+      "relation": "同源",
+      "label": "爱默生/超验主义"
+    },
+    {
+      "source": "文学/学派/诗人/沃尔特.md",
+      "target": "哲学/学派/存在主义/尼采.md",
+      "relation": "平行",
+      "label": "尼采"
+    },
+    {
+      "source": "文学/学派/诗人/沃尔特.md",
+      "target": "哲学/学派/实用主义/约翰.md",
+      "relation": "平行",
+      "label": "杜威/实用主义"
+    },
+    {
+      "source": "文学/学派/诗人/沃尔特.md",
+      "target": "心理学/学派/精神分析/西格蒙德.md",
+      "relation": "互补",
+      "label": "心理分析/身体"
+    },
+    {
+      "source": "文学/学派/诗人/约翰.md",
+      "target": "哲学/学派/存在主义/尼采.md",
+      "relation": "影响",
+      "label": "尼采"
+    },
+    {
+      "source": "文学/学派/诗人/约翰.md",
+      "target": "哲学/概念/nature.md",
+      "relation": "探讨",
+      "label": "自然哲学"
+    },
+    {
+      "source": "文学/学派/诗人/约翰.md",
+      "target": "艺术/schools/romanticism/romanticism.md",
+      "relation": "影响",
+      "label": "浪漫主义"
+    },
+    {
+      "source": "文学/学派/诗人/荷马.md",
+      "target": "伦理政治/concepts/honor.md",
+      "relation": "平行",
+      "label": "英雄伦理与荣誉文化"
+    },
+    {
+      "source": "文学/学派/诗人/荷马.md",
+      "target": "文学/学派/诗人/维吉尔.md",
+      "relation": "继承",
+      "label": "维吉尔"
+    },
+    {
+      "source": "文学/学派/诗人/荷马.md",
+      "target": "认知科学/concepts/oral-memory.md",
+      "relation": "互补",
+      "label": "口头传统与记忆"
+    },
+    {
+      "source": "文学/概念/不可靠叙述者.md",
+      "target": "哲学/学派/现象学/胡塞尔.md",
+      "relation": "机制",
+      "label": "哲学 · 现象学"
+    },
+    {
+      "source": "文学/概念/不可靠叙述者.md",
+      "target": "哲学/概念/真理.md",
+      "relation": "基础",
+      "label": "哲学 · 真理"
+    },
+    {
+      "source": "文学/概念/不可靠叙述者.md",
+      "target": "文学/概念/聚焦.md",
+      "relation": "依赖",
+      "label": "聚焦"
+    },
+    {
+      "source": "文学/概念/主导.md",
+      "target": "文学/概念/文学性.md",
+      "relation": "基础",
+      "label": "文学性"
+    },
+    {
+      "source": "文学/概念/主导.md",
+      "target": "文学/概念/陌生化.md",
+      "relation": "对照",
+      "label": "陌生化"
+    },
+    {
+      "source": "文学/概念/元小说.md",
+      "target": "哲学/学派/后结构主义/雅克.md",
+      "relation": "基础",
+      "label": "哲学 · 后结构主义"
+    },
+    {
+      "source": "文学/概念/元小说.md",
+      "target": "哲学/概念/真理.md",
+      "relation": "基础",
+      "label": "哲学 · 真理"
+    },
+    {
+      "source": "文学/概念/元小说.md",
+      "target": "文学/概念/互文性.md",
+      "relation": "基础",
+      "label": "互文性"
+    },
+    {
+      "source": "文学/概念/元小说.md",
+      "target": "文学/概念/复调.md",
+      "relation": "基础",
+      "label": "复调"
+    },
+    {
+      "source": "文学/概念/元小说.md",
+      "target": "文学/概念/新历史主义.md",
+      "relation": "同源",
+      "label": "解构批评"
+    },
+    {
+      "source": "文学/概念/后殖民文学批评.md",
+      "target": "哲学/学派/后结构主义/雅克.md",
+      "relation": "基础",
+      "label": "哲学 · 后结构主义"
+    },
+    {
+      "source": "文学/概念/后殖民文学批评.md",
+      "target": "文学/概念/世界文学.md",
+      "relation": "重写",
+      "label": "世界文学"
+    },
+    {
+      "source": "文学/概念/后殖民文学批评.md",
+      "target": "文学/概念/女性主义文论.md",
+      "relation": "交叉",
+      "label": "女性主义文论"
+    },
+    {
+      "source": "文学/概念/情节.md",
+      "target": "哲学/概念/时间.md",
+      "relation": "基础",
+      "label": "哲学 · 时间"
+    },
+    {
+      "source": "文学/概念/情节.md",
+      "target": "宗教/概念/救赎.md",
+      "relation": "平行",
+      "label": "宗教 · 救赎史"
+    },
+    {
+      "source": "文学/概念/情节.md",
+      "target": "心理学/概念/人格.md",
+      "relation": "应用",
+      "label": "心理学 · 叙事治疗"
+    },
+    {
+      "source": "文学/概念/情节.md",
+      "target": "文学/概念/叙事性.md",
+      "relation": "基础",
+      "label": "叙事性"
+    },
+    {
+      "source": "文学/概念/情节.md",
+      "target": "文学/概念/故事与话语.md",
+      "relation": "派生",
+      "label": "故事与话语"
+    },
+    {
+      "source": "文学/概念/情节.md",
+      "target": "文学/概念/聚焦.md",
+      "relation": "互补",
+      "label": "聚焦"
+    },
+    {
+      "source": "文学/概念/情节.md",
+      "target": "认知系统/概念/预测加工.md",
+      "relation": "机制",
+      "label": "认知科学 · 脚本与图式"
+    },
+    {
+      "source": "文学/概念/接受美学.md",
+      "target": "哲学/学派/现象学/胡塞尔.md",
+      "relation": "基础",
+      "label": "哲学 · 现象学"
+    },
+    {
+      "source": "文学/概念/接受美学.md",
+      "target": "哲学/学派/诠释学/伽达默尔.md",
+      "relation": "基础",
+      "label": "哲学 · 诠释学"
+    },
+    {
+      "source": "文学/概念/接受美学.md",
+      "target": "文学/概念/互文性.md",
+      "relation": "同源",
+      "label": "互文性"
+    },
+    {
+      "source": "文学/概念/接受美学.md",
+      "target": "文学/概念/细读.md",
+      "relation": "张力",
+      "label": "新批评 close reading"
+    },
+    {
+      "source": "文学/概念/接受美学.md",
+      "target": "文学/概念/隐含读者.md",
+      "relation": "基础",
+      "label": "隐含读者"
+    },
+    {
+      "source": "文学/概念/接受美学.md",
+      "target": "认知系统/概念/预测加工.md",
+      "relation": "机制",
+      "label": "认知科学 · 预测加工"
+    },
+    {
+      "source": "文学/概念/故事与话语.md",
+      "target": "文学/概念/不可靠叙述者.md",
+      "relation": "机制",
+      "label": "不可靠叙述者"
+    },
+    {
+      "source": "文学/概念/故事与话语.md",
+      "target": "文学/概念/情节.md",
+      "relation": "派生",
+      "label": "情节"
+    },
+    {
+      "source": "文学/概念/故事与话语.md",
+      "target": "文学/概念/聚焦.md",
+      "relation": "依赖",
+      "label": "聚焦"
+    },
+    {
+      "source": "文学/概念/故事与话语.md",
+      "target": "认知系统/概念/分布式认知.md",
+      "relation": "机制",
+      "label": "认知科学 · 事件结构"
+    },
+    {
+      "source": "文学/概念/文学性.md",
+      "target": "哲学/概念/语言.md",
+      "relation": "基础",
+      "label": "哲学 · 语言"
+    },
+    {
+      "source": "文学/概念/文学性.md",
+      "target": "文学/概念/主导.md",
+      "relation": "同源",
+      "label": "主导"
+    },
+    {
+      "source": "文学/概念/文学性.md",
+      "target": "文学/概念/互文性.md",
+      "relation": "工具",
+      "label": "互文性"
+    },
+    {
+      "source": "文学/概念/文学性.md",
+      "target": "文学/概念/陌生化.md",
+      "relation": "同源",
+      "label": "陌生化"
+    },
+    {
+      "source": "文学/概念/文类.md",
+      "target": "哲学/概念/存在.md",
+      "relation": "基础",
+      "label": "哲学 · 分类"
+    },
+    {
+      "source": "文学/概念/文类.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "平行",
+      "label": "宗教 · 经文类型"
+    },
+    {
+      "source": "文学/概念/文类.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "机制",
+      "label": "心理学 · 图式"
+    },
+    {
+      "source": "文学/概念/文类.md",
+      "target": "社会学/学派/结构主义/布迪厄.md",
+      "relation": "扩展",
+      "label": "社会学 · 文化生产"
+    },
+    {
+      "source": "文学/概念/模拟.md",
+      "target": "哲学/学派/后结构主义/雅克.md",
+      "relation": "基础",
+      "label": "哲学 · 后结构主义"
+    },
+    {
+      "source": "文学/概念/模拟.md",
+      "target": "哲学/概念/主体性.md",
+      "relation": "基础",
+      "label": "哲学 · 主体性"
+    },
+    {
+      "source": "文学/概念/模拟.md",
+      "target": "文学/概念/互文性.md",
+      "relation": "应用",
+      "label": "互文性"
+    },
+    {
+      "source": "文学/概念/模拟.md",
+      "target": "文学/概念/后殖民文学批评.md",
+      "relation": "基础",
+      "label": "后殖民文学批评"
+    },
+    {
+      "source": "文学/概念/模拟.md",
+      "target": "文学/概念/后殖民文学批评.md",
+      "relation": "基础",
+      "label": "后殖民文学批评"
+    },
+    {
+      "source": "文学/概念/模拟.md",
+      "target": "文学/概念/女性主义文论.md",
+      "relation": "交叉",
+      "label": "女性主义文论"
+    },
+    {
+      "source": "文学/概念/细读.md",
+      "target": "哲学/学派/诠释学/伽达默尔.md",
+      "relation": "对话",
+      "label": "哲学 · 诠释学"
+    },
+    {
+      "source": "文学/概念/细读.md",
+      "target": "宗教/概念/冥想与默观.md",
+      "relation": "平行",
+      "label": "宗教 · 经注学"
+    },
+    {
+      "source": "文学/概念/细读.md",
+      "target": "心理学/学派/积极心理学/米哈里.md",
+      "relation": "机制",
+      "label": "心理学 · 注意力"
+    },
+    {
+      "source": "文学/概念/细读.md",
+      "target": "社会学/学派/结构主义/布迪厄.md",
+      "relation": "张力",
+      "label": "社会学 · 文化消费"
+    },
+    {
+      "source": "文学/概念/自由间接引语.md",
+      "target": "文学/概念/不可靠叙述者.md",
+      "relation": "同源",
+      "label": "不可靠叙述者"
+    },
+    {
+      "source": "文学/概念/自由间接引语.md",
+      "target": "文学/概念/元小说.md",
+      "relation": "对照",
+      "label": "元小说"
+    },
+    {
+      "source": "文学/概念/自由间接引语.md",
+      "target": "文学/概念/聚焦.md",
+      "relation": "基础",
+      "label": "聚焦"
+    },
+    {
+      "source": "文学/概念/陌生化.md",
+      "target": "哲学/学派/现象学/胡塞尔.md",
+      "relation": "同源",
+      "label": "哲学 · 现象学"
+    },
+    {
+      "source": "文学/概念/陌生化.md",
+      "target": "哲学/概念/语言.md",
+      "relation": "基础",
+      "label": "哲学 · 语言"
+    },
+    {
+      "source": "文学/概念/陌生化.md",
+      "target": "宗教/传统/佛教/禅宗.md",
+      "relation": "平行",
+      "label": "佛教 · 禅宗"
+    },
+    {
+      "source": "文学/概念/陌生化.md",
+      "target": "文学/概念/主导.md",
+      "relation": "同源",
+      "label": "主导"
+    },
+    {
+      "source": "文学/概念/陌生化.md",
+      "target": "文学/概念/互文性.md",
+      "relation": "对照",
+      "label": "互文性"
+    },
+    {
+      "source": "文学/概念/陌生化.md",
+      "target": "文学/概念/文学性.md",
+      "relation": "同源",
+      "label": "文学性"
+    },
+    {
+      "source": "文学/概念/隐含作者.md",
+      "target": "哲学/学派/诠释学/伽达默尔.md",
+      "relation": "同源",
+      "label": "哲学 · 诠释学"
+    },
+    {
+      "source": "文学/概念/隐含作者.md",
+      "target": "哲学/概念/主体性.md",
+      "relation": "基础",
+      "label": "哲学 · 主体性"
+    },
+    {
+      "source": "文学/概念/隐含作者.md",
+      "target": "文学/概念/不可靠叙述者.md",
+      "relation": "基础",
+      "label": "不可靠叙述者"
+    },
+    {
+      "source": "文学/概念/隐含作者.md",
+      "target": "文学/概念/聚焦.md",
+      "relation": "工具",
+      "label": "聚焦"
+    },
+    {
+      "source": "文学/概念/隐含作者.md",
+      "target": "文学/概念/隐含读者.md",
+      "relation": "并列",
+      "label": "隐含读者"
+    },
+    {
+      "source": "文学/概念/隐含读者.md",
+      "target": "哲学/学派/现象学/胡塞尔.md",
+      "relation": "基础",
+      "label": "哲学 · 现象学"
+    },
+    {
+      "source": "文学/概念/隐含读者.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "平行",
+      "label": "宗教 · 经注学"
+    },
+    {
+      "source": "文学/概念/隐含读者.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "机制",
+      "label": "心理学 · 心智理论"
+    },
+    {
+      "source": "文学/概念/隐含读者.md",
+      "target": "社会学/学派/结构主义/布迪厄.md",
+      "relation": "扩展",
+      "label": "社会学 · 阐释共同体"
+    },
+    {
+      "source": "社会学/学派/古典社会学/mills.md",
+      "target": "哲学/学派/政治哲学/汉娜.md",
+      "relation": "平行",
+      "label": "阿伦特 Arendt"
+    },
+    {
+      "source": "社会学/学派/古典社会学/mills.md",
+      "target": "社会学/学派/功能主义/帕森斯.md",
+      "relation": "批判",
+      "label": "帕森斯 Parsons"
+    },
+    {
+      "source": "社会学/学派/古典社会学/mills.md",
+      "target": "社会学/学派/古典社会学/mills.md",
+      "relation": "平行",
+      "label": "米尔斯 Mills"
+    },
+    {
+      "source": "社会学/学派/古典社会学/mills.md",
+      "target": "社会学/学派/古典社会学/韦伯.md",
+      "relation": "发展",
+      "label": "韦伯 Weber"
+    },
+    {
+      "source": "社会学/学派/古典社会学/mills.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "发展",
+      "label": "马克思 Marx"
+    },
+    {
+      "source": "社会学/概念/个体化.md",
+      "target": "哲学/概念/主体性.md",
+      "relation": "基础",
+      "label": "哲学 · 主体性"
+    },
+    {
+      "source": "社会学/概念/个体化.md",
+      "target": "社会学/概念/失范.md",
+      "relation": "并列",
+      "label": "失范"
+    },
+    {
+      "source": "社会学/概念/个体化.md",
+      "target": "社会学/概念/文化记忆.md",
+      "relation": "应用",
+      "label": "文化记忆"
+    },
+    {
+      "source": "社会学/概念/个体化.md",
+      "target": "社会学/概念/治理术.md",
+      "relation": "应用",
+      "label": "治理术"
+    },
+    {
+      "source": "社会学/概念/个体化.md",
+      "target": "社会学/概念/流动的现代性.md",
+      "relation": "基础",
+      "label": "流动的现代性"
+    },
+    {
+      "source": "社会学/概念/个体化.md",
+      "target": "社会学/概念/网络社会.md",
+      "relation": "应用",
+      "label": "网络社会"
+    },
+    {
+      "source": "社会学/概念/个体化.md",
+      "target": "社会学/概念/风险社会.md",
+      "relation": "基础",
+      "label": "风险社会"
+    },
+    {
+      "source": "社会学/概念/交往行为.md",
+      "target": "文学/概念/互文性.md",
+      "relation": "同源",
+      "label": "互文性"
+    },
+    {
+      "source": "社会学/概念/交往行为.md",
+      "target": "文学/概念/复调.md",
+      "relation": "同源",
+      "label": "复调"
+    },
+    {
+      "source": "社会学/概念/交往行为.md",
+      "target": "文学/概念/复调.md",
+      "relation": "同源",
+      "label": "文学 · 复调"
+    },
+    {
+      "source": "社会学/概念/交往行为.md",
+      "target": "社会学/概念/公共领域.md",
+      "relation": "基础",
+      "label": "公共领域"
+    },
+    {
+      "source": "社会学/概念/交往行为.md",
+      "target": "社会学/概念/治理术.md",
+      "relation": "并列",
+      "label": "治理术"
+    },
+    {
+      "source": "社会学/概念/全景监狱.md",
+      "target": "社会学/概念/权力.md",
+      "relation": "基础",
+      "label": "哲学 · 福柯"
+    },
+    {
+      "source": "社会学/概念/全景监狱.md",
+      "target": "社会学/概念/标签理论.md",
+      "relation": "同源",
+      "label": "标签理论"
+    },
+    {
+      "source": "社会学/概念/全景监狱.md",
+      "target": "社会学/概念/标签理论.md",
+      "relation": "同源",
+      "label": "污名"
+    },
+    {
+      "source": "社会学/概念/全球化.md",
+      "target": "文学/概念/后殖民文学批评.md",
+      "relation": "应用",
+      "label": "后殖民批评"
+    },
+    {
+      "source": "社会学/概念/全球化.md",
+      "target": "社会学/概念/流动的现代性.md",
+      "relation": "基础",
+      "label": "流动的现代性"
+    },
+    {
+      "source": "社会学/概念/公共领域.md",
+      "target": "社会学/概念/景观社会.md",
+      "relation": "对照",
+      "label": "景观社会"
+    },
+    {
+      "source": "社会学/概念/公共领域.md",
+      "target": "社会学/概念/治理术.md",
+      "relation": "并列",
+      "label": "治理术"
+    },
+    {
+      "source": "社会学/概念/加速社会.md",
+      "target": "社会学/概念/个体化.md",
+      "relation": "应用",
+      "label": "个体化"
+    },
+    {
+      "source": "社会学/概念/加速社会.md",
+      "target": "社会学/概念/全球化.md",
+      "relation": "基础",
+      "label": "全球化"
+    },
+    {
+      "source": "社会学/概念/加速社会.md",
+      "target": "社会学/概念/景观社会.md",
+      "relation": "应用",
+      "label": "景观社会"
+    },
+    {
+      "source": "社会学/概念/加速社会.md",
+      "target": "社会学/概念/流动的现代性.md",
+      "relation": "基础",
+      "label": "流动的现代性"
+    },
+    {
+      "source": "社会学/概念/加速社会.md",
+      "target": "社会学/概念/网络社会.md",
+      "relation": "并列",
+      "label": "网络社会"
+    },
+    {
+      "source": "社会学/概念/加速社会.md",
+      "target": "社会学/概念/风险社会.md",
+      "relation": "基础",
+      "label": "风险社会"
+    },
+    {
+      "source": "社会学/概念/医学社会学.md",
+      "target": "社会学/概念/全景监狱.md",
+      "relation": "基础",
+      "label": "全景监狱"
+    },
+    {
+      "source": "社会学/概念/医学社会学.md",
+      "target": "社会学/概念/文化记忆.md",
+      "relation": "应用",
+      "label": "文化记忆"
+    },
+    {
+      "source": "社会学/概念/医学社会学.md",
+      "target": "社会学/概念/治理术.md",
+      "relation": "应用",
+      "label": "治理术"
+    },
+    {
+      "source": "社会学/概念/医学社会学.md",
+      "target": "社会学/概念/身体社会学.md",
+      "relation": "基础",
+      "label": "身体社会学"
+    },
+    {
+      "source": "社会学/概念/医学社会学.md",
+      "target": "社会学/概念/风险社会.md",
+      "relation": "应用",
+      "label": "风险社会"
+    },
+    {
+      "source": "社会学/概念/印象管理.md",
+      "target": "社会学/概念/拟剧论.md",
+      "relation": "基础",
+      "label": "拟剧论"
+    },
+    {
+      "source": "社会学/概念/印象管理.md",
+      "target": "社会学/概念/标签理论.md",
+      "relation": "对照",
+      "label": "标签理论"
+    },
+    {
+      "source": "社会学/概念/印象管理.md",
+      "target": "社会学/概念/符号互动.md",
+      "relation": "基础",
+      "label": "符号互动"
+    },
+    {
+      "source": "社会学/概念/印象管理.md",
+      "target": "社会学/概念/镜像自我.md",
+      "relation": "基础",
+      "label": "镜像自我"
+    },
+    {
+      "source": "社会学/概念/多元文化主义.md",
+      "target": "文学/概念/后殖民文学批评.md",
+      "relation": "基础",
+      "label": "后殖民文学批评"
+    },
+    {
+      "source": "社会学/概念/多元文化主义.md",
+      "target": "文学/概念/女性主义文论.md",
+      "relation": "并列",
+      "label": "女性主义文论"
+    },
+    {
+      "source": "社会学/概念/多元文化主义.md",
+      "target": "社会学/概念/全球化.md",
+      "relation": "应用",
+      "label": "全球化"
+    },
+    {
+      "source": "社会学/概念/多元文化主义.md",
+      "target": "社会学/概念/市民社会.md",
+      "relation": "基础",
+      "label": "市民社会"
+    },
+    {
+      "source": "社会学/概念/失范.md",
+      "target": "社会学/概念/集体意识.md",
+      "relation": "基础",
+      "label": "集体意识/集体良知"
+    },
+    {
+      "source": "社会学/概念/宗教社会学.md",
+      "target": "社会学/概念/文化记忆.md",
+      "relation": "应用",
+      "label": "文化记忆"
+    },
+    {
+      "source": "社会学/概念/宗教社会学.md",
+      "target": "社会学/概念/集体意识.md",
+      "relation": "基础",
+      "label": "集体意识"
+    },
+    {
+      "source": "社会学/概念/市民社会.md",
+      "target": "社会学/概念/个体化.md",
+      "relation": "并列",
+      "label": "个体化"
+    },
+    {
+      "source": "社会学/概念/市民社会.md",
+      "target": "社会学/概念/全球化.md",
+      "relation": "应用",
+      "label": "全球化"
+    },
+    {
+      "source": "社会学/概念/市民社会.md",
+      "target": "社会学/概念/公共领域.md",
+      "relation": "基础",
+      "label": "公共领域"
+    },
+    {
+      "source": "社会学/概念/市民社会.md",
+      "target": "社会学/概念/异化.md",
+      "relation": "并列",
+      "label": "异化"
+    },
+    {
+      "source": "社会学/概念/市民社会.md",
+      "target": "社会学/概念/治理术.md",
+      "relation": "并列",
+      "label": "治理术"
+    },
+    {
+      "source": "社会学/概念/市民社会.md",
+      "target": "社会学/概念/网络社会.md",
+      "relation": "应用",
+      "label": "网络社会"
+    },
+    {
+      "source": "社会学/概念/异化.md",
+      "target": "社会学/概念/失范.md",
+      "relation": "并列",
+      "label": "失范"
+    },
+    {
+      "source": "社会学/概念/拟像.md",
+      "target": "社会学/概念/景观社会.md",
+      "relation": "基础",
+      "label": "景观社会"
+    },
+    {
+      "source": "社会学/概念/拟剧论.md",
+      "target": "文学/概念/元小说.md",
+      "relation": "同源",
+      "label": "文学 · 元小说"
+    },
+    {
+      "source": "社会学/概念/拟剧论.md",
+      "target": "文学/概念/女性主义文论.md",
+      "relation": "同源",
+      "label": "女性主义文论"
+    },
+    {
+      "source": "社会学/概念/拟剧论.md",
+      "target": "社会学/概念/符号互动.md",
+      "relation": "基础",
+      "label": "符号互动"
+    },
+    {
+      "source": "社会学/概念/数字社会.md",
+      "target": "社会学/学派/结构主义/福柯.md",
+      "relation": "发展",
+      "label": "福柯 · Foucault"
+    },
+    {
+      "source": "社会学/概念/数字社会.md",
+      "target": "社会学/学派/结构化理论/吉登斯.md",
+      "relation": "互补",
+      "label": "吉登斯 · Giddens"
+    },
+    {
+      "source": "社会学/概念/数字社会.md",
+      "target": "社会学/学派/网络社会/卡斯特.md",
+      "relation": "继承",
+      "label": "卡斯特 · Castells"
+    },
+    {
+      "source": "社会学/概念/文化帝国主义.md",
+      "target": "文学/概念/后殖民文学批评.md",
+      "relation": "基础",
+      "label": "后殖民文学批评"
+    },
+    {
+      "source": "社会学/概念/文化帝国主义.md",
+      "target": "社会学/概念/全景监狱.md",
+      "relation": "应用",
+      "label": "全景监狱"
+    },
+    {
+      "source": "社会学/概念/文化帝国主义.md",
+      "target": "社会学/概念/全球化.md",
+      "relation": "并列",
+      "label": "全球化"
+    },
+    {
+      "source": "社会学/概念/文化帝国主义.md",
+      "target": "社会学/概念/拟像.md",
+      "relation": "基础",
+      "label": "拟像"
+    },
+    {
+      "source": "社会学/概念/文化帝国主义.md",
+      "target": "社会学/概念/消费社会.md",
+      "relation": "应用",
+      "label": "消费社会"
+    },
+    {
+      "source": "社会学/概念/文化帝国主义.md",
+      "target": "社会学/概念/网络社会.md",
+      "relation": "应用",
+      "label": "网络社会"
+    },
+    {
+      "source": "社会学/概念/文化记忆.md",
+      "target": "社会学/概念/公共领域.md",
+      "relation": "应用",
+      "label": "公共领域"
+    },
+    {
+      "source": "社会学/概念/文化记忆.md",
+      "target": "社会学/概念/集体意识.md",
+      "relation": "基础",
+      "label": "集体意识"
+    },
+    {
+      "source": "社会学/概念/文化资本.md",
+      "target": "宗教/传统/基督教/恩典与救赎.md",
+      "relation": "张力",
+      "label": "恩典与救赎"
+    },
+    {
+      "source": "社会学/概念/文化资本.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "发展",
+      "label": "马克思 · 资本"
+    },
+    {
+      "source": "社会学/概念/族群.md",
+      "target": "文学/概念/后殖民文学批评.md",
+      "relation": "应用",
+      "label": "后殖民文学批评"
+    },
+    {
+      "source": "社会学/概念/族群.md",
+      "target": "社会学/概念/市民社会.md",
+      "relation": "基础",
+      "label": "市民社会"
+    },
+    {
+      "source": "社会学/概念/族群.md",
+      "target": "社会学/概念/文化记忆.md",
+      "relation": "基础",
+      "label": "文化记忆"
+    },
+    {
+      "source": "社会学/概念/标签理论.md",
+      "target": "社会学/概念/权力.md",
+      "relation": "同源",
+      "label": "哲学 · 福柯"
+    },
+    {
+      "source": "社会学/概念/治理术.md",
+      "target": "社会学/概念/全景监狱.md",
+      "relation": "基础",
+      "label": "全景监狱"
+    },
+    {
+      "source": "社会学/概念/治理术.md",
+      "target": "社会学/概念/权力.md",
+      "relation": "基础",
+      "label": "哲学 · 福柯"
+    },
+    {
+      "source": "社会学/概念/流动的现代性.md",
+      "target": "社会学/概念/景观社会.md",
+      "relation": "基础",
+      "label": "景观社会"
+    },
+    {
+      "source": "社会学/概念/流动的现代性.md",
+      "target": "社会学/概念/风险社会.md",
+      "relation": "基础",
+      "label": "风险社会"
+    },
+    {
+      "source": "社会学/概念/消费社会.md",
+      "target": "社会学/概念/个体化.md",
+      "relation": "应用",
+      "label": "个体化"
+    },
+    {
+      "source": "社会学/概念/消费社会.md",
+      "target": "社会学/概念/拟像.md",
+      "relation": "并列",
+      "label": "拟像"
+    },
+    {
+      "source": "社会学/概念/消费社会.md",
+      "target": "社会学/概念/文化记忆.md",
+      "relation": "应用",
+      "label": "文化记忆"
+    },
+    {
+      "source": "社会学/概念/消费社会.md",
+      "target": "社会学/概念/景观社会.md",
+      "relation": "基础",
+      "label": "景观社会"
+    },
+    {
+      "source": "社会学/概念/消费社会.md",
+      "target": "社会学/概念/流动的现代性.md",
+      "relation": "应用",
+      "label": "流动的现代性"
+    },
+    {
+      "source": "社会学/概念/消费社会.md",
+      "target": "社会学/概念/网络社会.md",
+      "relation": "应用",
+      "label": "网络社会"
+    },
+    {
+      "source": "社会学/概念/社会事实.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "发展",
+      "label": "康德 · 范畴"
+    },
+    {
+      "source": "社会学/概念/社会事实.md",
+      "target": "宗教/传统/犹太教/律法与盟约.md",
+      "relation": "同源",
+      "label": "律法与盟约"
+    },
+    {
+      "source": "社会学/概念/经济社会学.md",
+      "target": "社会学/概念/全球化.md",
+      "relation": "应用",
+      "label": "全球化"
+    },
+    {
+      "source": "社会学/概念/经济社会学.md",
+      "target": "社会学/概念/文化记忆.md",
+      "relation": "应用",
+      "label": "文化记忆"
+    },
+    {
+      "source": "社会学/概念/经济社会学.md",
+      "target": "社会学/概念/消费社会.md",
+      "relation": "应用",
+      "label": "消费社会"
+    },
+    {
+      "source": "社会学/概念/经济社会学.md",
+      "target": "社会学/概念/网络社会.md",
+      "relation": "应用",
+      "label": "网络社会"
+    },
+    {
+      "source": "社会学/概念/网络社会.md",
+      "target": "社会学/概念/全景监狱.md",
+      "relation": "应用",
+      "label": "全景监狱"
+    },
+    {
+      "source": "社会学/概念/网络社会.md",
+      "target": "社会学/概念/全球化.md",
+      "relation": "基础",
+      "label": "全球化"
+    },
+    {
+      "source": "社会学/概念/网络社会.md",
+      "target": "社会学/概念/文化记忆.md",
+      "relation": "应用",
+      "label": "文化记忆"
+    },
+    {
+      "source": "社会学/概念/网络社会.md",
+      "target": "社会学/概念/流动的现代性.md",
+      "relation": "并列",
+      "label": "流动的现代性"
+    },
+    {
+      "source": "社会学/概念/网络社会.md",
+      "target": "社会学/概念/风险社会.md",
+      "relation": "并列",
+      "label": "风险社会"
+    },
+    {
+      "source": "社会学/概念/规训.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "张力",
+      "label": "康德 · 道德律"
+    },
+    {
+      "source": "社会学/概念/规训.md",
+      "target": "宗教/传统/佛教/禅宗.md",
+      "relation": "张力",
+      "label": "禅宗 · 自我"
+    },
+    {
+      "source": "社会学/概念/规训.md",
+      "target": "心理学/学派/行为主义/斯金纳.md",
+      "relation": "平行",
+      "label": "斯金纳 · 强化"
+    },
+    {
+      "source": "社会学/概念/规训.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "发展",
+      "label": "马克思 · 异化劳动"
+    },
+    {
+      "source": "社会学/概念/角色理论.md",
+      "target": "社会学/概念/印象管理.md",
+      "relation": "应用",
+      "label": "印象管理"
+    },
+    {
+      "source": "社会学/概念/角色理论.md",
+      "target": "社会学/概念/拟剧论.md",
+      "relation": "并列",
+      "label": "拟剧论"
+    },
+    {
+      "source": "社会学/概念/角色理论.md",
+      "target": "社会学/概念/标签理论.md",
+      "relation": "对照",
+      "label": "标签理论"
+    },
+    {
+      "source": "社会学/概念/角色理论.md",
+      "target": "社会学/概念/符号互动.md",
+      "relation": "基础",
+      "label": "符号互动"
+    },
+    {
+      "source": "社会学/概念/角色理论.md",
+      "target": "社会学/概念/镜像自我.md",
+      "relation": "基础",
+      "label": "镜像自我"
+    },
+    {
+      "source": "社会学/概念/身体社会学.md",
+      "target": "文学/概念/女性主义文论.md",
+      "relation": "应用",
+      "label": "女性主义文论"
+    },
+    {
+      "source": "社会学/概念/身体社会学.md",
+      "target": "社会学/概念/全景监狱.md",
+      "relation": "基础",
+      "label": "全景监狱"
+    },
+    {
+      "source": "社会学/概念/身体社会学.md",
+      "target": "社会学/概念/治理术.md",
+      "relation": "并列",
+      "label": "治理术"
+    },
+    {
+      "source": "社会学/概念/身体社会学.md",
+      "target": "美学/概念/性别美学.md",
+      "relation": "应用",
+      "label": "性别美学"
+    },
+    {
+      "source": "社会学/概念/身体社会学.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "应用",
+      "label": "行为艺术"
+    },
+    {
+      "source": "社会学/概念/镜像自我.md",
+      "target": "社会学/概念/拟剧论.md",
+      "relation": "应用",
+      "label": "拟剧论"
+    },
+    {
+      "source": "社会学/概念/镜像自我.md",
+      "target": "社会学/概念/符号互动.md",
+      "relation": "基础",
+      "label": "符号互动"
+    },
+    {
+      "source": "社会学/概念/集体意识.md",
+      "target": "社会学/概念/失范.md",
+      "relation": "并列",
+      "label": "失范"
+    },
+    {
+      "source": "美学/学派/德国美学/kant-aesthetics.md",
+      "target": "README.md",
+      "relation": "整合",
+      "label": "康德专题：理性的三问与批判的统一"
+    },
+    {
+      "source": "美学/学派/德国美学/康德美学.md",
+      "target": "研究/03-康德/README.md",
+      "relation": "整合",
+      "label": "康德专题：理性的三问与批判的统一"
+    },
+    {
+      "source": "美学/学派/文学思想/托尔斯泰.md",
+      "target": "伦理政治/学派/非暴力抵抗/圣雄甘地.md",
+      "relation": "发展",
+      "label": "甘地"
+    },
+    {
+      "source": "美学/学派/文学思想/托尔斯泰.md",
+      "target": "宗教/智慧大师/大师/西方/一行禅师.md",
+      "relation": "平行",
+      "label": "一行禅师"
+    },
+    {
+      "source": "美学/学派/文学思想/托尔斯泰.md",
+      "target": "社会学/学派/古典社会学/齐美尔.md",
+      "relation": "平行",
+      "label": "齐美尔"
+    },
+    {
+      "source": "美学/学派/文学思想/托尔斯泰.md",
+      "target": "美学/学派/德国美学/kant-aesthetics.md",
+      "relation": "批判",
+      "label": "康德美学"
+    },
+    {
+      "source": "美学/学派/文学思想/托尔斯泰.md",
+      "target": "美学/学派/文学思想/陀思妥耶夫斯基.md",
+      "relation": "同源",
+      "label": "陀思妥耶夫斯基"
+    },
+    {
+      "source": "美学/学派/文学思想/泰戈尔.md",
+      "target": "伦理政治/学派/非暴力抵抗/圣雄甘地.md",
+      "relation": "互补",
+      "label": "甘地"
+    },
+    {
+      "source": "美学/学派/文学思想/泰戈尔.md",
+      "target": "哲学/学派/东方哲学/孔子.md",
+      "relation": "平行",
+      "label": "孔子"
+    },
+    {
+      "source": "美学/学派/文学思想/泰戈尔.md",
+      "target": "哲学/学派/东方哲学/庄子.md",
+      "relation": "同源",
+      "label": "庄子"
+    },
+    {
+      "source": "美学/学派/文学思想/泰戈尔.md",
+      "target": "哲学/学派/实用主义/约翰.md",
+      "relation": "平行",
+      "label": "杜威"
+    },
+    {
+      "source": "美学/学派/文学思想/泰戈尔.md",
+      "target": "宗教/智慧大师/大师/西方/一行禅师.md",
+      "relation": "平行",
+      "label": "一行禅师"
+    },
+    {
+      "source": "美学/学派/文学理论/巴特.md",
+      "target": "哲学/学派/后结构主义/雅克.md",
+      "relation": "同源",
+      "label": "德里达"
+    },
+    {
+      "source": "美学/学派/文学理论/巴特.md",
+      "target": "社会学/学派/结构主义/福柯.md",
+      "relation": "平行",
+      "label": "福柯"
+    },
+    {
+      "source": "美学/学派/文学理论/巴特.md",
+      "target": "美学/学派/批判美学/瓦尔特.md",
+      "relation": "平行",
+      "label": "本雅明"
+    },
+    {
+      "source": "美学/学派/文学理论/巴特.md",
+      "target": "美学/学派/文学理论/索绪尔.md",
+      "relation": "发展",
+      "label": "索绪尔"
+    },
+    {
+      "source": "美学/学派/文学理论/巴赫金.md",
+      "target": "哲学/学派/德国唯心论/黑格尔.md",
+      "relation": "平行",
+      "label": "黑格尔"
+    },
+    {
+      "source": "美学/学派/文学理论/巴赫金.md",
+      "target": "哲学/学派/诠释学/伽达默尔.md",
+      "relation": "平行",
+      "label": "伽达默尔"
+    },
+    {
+      "source": "美学/学派/文学理论/巴赫金.md",
+      "target": "社会学/学派/互动论/戈夫曼.md",
+      "relation": "平行",
+      "label": "戈夫曼"
+    },
+    {
+      "source": "美学/学派/文学理论/巴赫金.md",
+      "target": "社会学/学派/批判理论/哈贝马斯.md",
+      "relation": "平行",
+      "label": "哈贝马斯"
+    },
+    {
+      "source": "美学/学派/文学理论/巴赫金.md",
+      "target": "美学/学派/文学思想/陀思妥耶夫斯基.md",
+      "relation": "发展",
+      "label": "陀思妥耶夫斯基"
+    },
+    {
+      "source": "美学/学派/文学理论/弗莱.md",
+      "target": "哲学/学派/古希腊/亚里士多德.md",
+      "relation": "发展",
+      "label": "亚里士多德"
+    },
+    {
+      "source": "美学/学派/文学理论/弗莱.md",
+      "target": "心理学/学派/分析心理学/卡尔.md",
+      "relation": "平行",
+      "label": "荣格"
+    },
+    {
+      "source": "美学/学派/文学理论/弗莱.md",
+      "target": "美学/学派/尼采美学/nietzsche-aesthetics.md",
+      "relation": "平行",
+      "label": "尼采"
+    },
+    {
+      "source": "美学/学派/文学理论/弗莱.md",
+      "target": "美学/学派/文学理论/巴特.md",
+      "relation": "对立",
+      "label": "巴特"
+    },
+    {
+      "source": "美学/学派/文学理论/索绪尔.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "平行",
+      "label": "维特根斯坦"
+    },
+    {
+      "source": "美学/学派/文学理论/索绪尔.md",
+      "target": "哲学/学派/后结构主义/雅克.md",
+      "relation": "批判",
+      "label": "德里达"
+    },
+    {
+      "source": "美学/学派/文学理论/索绪尔.md",
+      "target": "社会学/学派/结构主义/福柯.md",
+      "relation": "平行",
+      "label": "福柯"
+    },
+    {
+      "source": "美学/学派/文学理论/索绪尔.md",
+      "target": "美学/学派/文学理论/巴特.md",
+      "relation": "发展",
+      "label": "巴特"
+    },
+    {
+      "source": "美学/学派/诗性思想/但丁.md",
+      "target": "哲学/学派/中世纪经院/托马斯.md",
+      "relation": "同源",
+      "label": "阿奎那 Aquinas"
+    },
+    {
+      "source": "美学/学派/诗性思想/但丁.md",
+      "target": "哲学/学派/古希腊/亚里士多德.md",
+      "relation": "发展",
+      "label": "亚里士多德 Aristotle"
+    },
+    {
+      "source": "美学/学派/诗性思想/但丁.md",
+      "target": "宗教/传统/基督教/基督教神秘主义.md",
+      "relation": "同源",
+      "label": "基督教神秘主义"
+    },
+    {
+      "source": "美学/学派/诗性思想/但丁.md",
+      "target": "美学/学派/诗性思想/virgil.md",
+      "relation": "发展",
+      "label": "维吉尔 Virgil"
+    },
+    {
+      "source": "美学/学派/诗性思想/李白.md",
+      "target": "哲学/学派/东方哲学/庄子.md",
+      "relation": "同源",
+      "label": "庄子"
+    },
+    {
+      "source": "美学/学派/诗性思想/李白.md",
+      "target": "哲学/学派/东方哲学/老子.md",
+      "relation": "同源",
+      "label": "老子"
+    },
+    {
+      "source": "美学/学派/诗性思想/李白.md",
+      "target": "哲学/学派/存在主义/尼采.md",
+      "relation": "平行",
+      "label": "尼采"
+    },
+    {
+      "source": "美学/学派/诗性思想/李白.md",
+      "target": "宗教/传统/佛教/禅宗.md",
+      "relation": "平行",
+      "label": "禅宗"
+    },
+    {
+      "source": "美学/学派/诗性思想/鲁米.md",
+      "target": "哲学/学派/古希腊/柏拉图.md",
+      "relation": "平行",
+      "label": "柏拉图"
+    },
+    {
+      "source": "美学/学派/诗性思想/鲁米.md",
+      "target": "宗教/传统/伊斯兰教/苏菲主义.md",
+      "relation": "同源",
+      "label": "苏菲主义"
+    },
+    {
+      "source": "美学/学派/诗性思想/鲁米.md",
+      "target": "宗教/概念/冥想与默观.md",
+      "relation": "平行",
+      "label": "佛教·慈悲"
+    },
+    {
+      "source": "美学/学派/诗性思想/鲁米.md",
+      "target": "心理学/学派/存在心理学/维克多.md",
+      "relation": "平行",
+      "label": "弗兰克尔"
+    },
+    {
+      "source": "美学/概念/丑.md",
+      "target": "美学/概念/创造力.md",
+      "relation": "应用",
+      "label": "创造力"
+    },
+    {
+      "source": "美学/概念/丑.md",
+      "target": "美学/概念/崇高.md",
+      "relation": "并列",
+      "label": "崇高"
+    },
+    {
+      "source": "美学/概念/丑.md",
+      "target": "美学/概念/怪诞.md",
+      "relation": "并列",
+      "label": "怪诞"
+    },
+    {
+      "source": "美学/概念/丑.md",
+      "target": "美学/概念/悲剧.md",
+      "relation": "并列",
+      "label": "悲剧"
+    },
+    {
+      "source": "美学/概念/丑.md",
+      "target": "美学/概念/模仿.md",
+      "relation": "对照",
+      "label": "模仿"
+    },
+    {
+      "source": "美学/概念/丑.md",
+      "target": "美学/概念/美.md",
+      "relation": "对立",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/中国古典美学.md",
+      "target": "美学/概念/崇高.md",
+      "relation": "对照",
+      "label": "崇高"
+    },
+    {
+      "source": "美学/概念/中国古典美学.md",
+      "target": "美学/概念/悲剧.md",
+      "relation": "对照",
+      "label": "悲剧"
+    },
+    {
+      "source": "美学/概念/中国古典美学.md",
+      "target": "美学/概念/模仿.md",
+      "relation": "对照",
+      "label": "模仿"
+    },
+    {
+      "source": "美学/概念/中国古典美学.md",
+      "target": "美学/概念/禅宗美学.md",
+      "relation": "并列",
+      "label": "禅宗美学"
+    },
+    {
+      "source": "美学/概念/中国古典美学.md",
+      "target": "美学/概念/美.md",
+      "relation": "基础",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/中国古典美学.md",
+      "target": "美学/概念/道家美学.md",
+      "relation": "基础",
+      "label": "道家美学"
+    },
+    {
+      "source": "美学/概念/分析美学.md",
+      "target": "哲学/学派/分析哲学/伯特兰.md",
+      "relation": "基础",
+      "label": "哲学 · 分析哲学"
+    },
+    {
+      "source": "美学/概念/分析美学.md",
+      "target": "哲学/概念/语言.md",
+      "relation": "基础",
+      "label": "哲学 · 语言分析"
+    },
+    {
+      "source": "美学/概念/分析美学.md",
+      "target": "美学/概念/叙事.md",
+      "relation": "应用",
+      "label": "叙事"
+    },
+    {
+      "source": "美学/概念/分析美学.md",
+      "target": "美学/概念/形式主义美学.md",
+      "relation": "并列",
+      "label": "形式主义美学"
+    },
+    {
+      "source": "美学/概念/分析美学.md",
+      "target": "美学/概念/想象力.md",
+      "relation": "基础",
+      "label": "想象力"
+    },
+    {
+      "source": "美学/概念/分析美学.md",
+      "target": "美学/概念/模仿.md",
+      "relation": "基础",
+      "label": "模仿"
+    },
+    {
+      "source": "美学/概念/分析美学.md",
+      "target": "美学/概念/美.md",
+      "relation": "基础",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/分析美学.md",
+      "target": "美学/概念/艺术界.md",
+      "relation": "基础",
+      "label": "艺术界"
+    },
+    {
+      "source": "美学/概念/创造力.md",
+      "target": "心理学/学派/人本主义/马斯洛.md",
+      "relation": "发展",
+      "label": "马斯洛"
+    },
+    {
+      "source": "美学/概念/创造力.md",
+      "target": "心理学/学派/分析心理学/卡尔.md",
+      "relation": "互补",
+      "label": "荣格"
+    },
+    {
+      "source": "美学/概念/创造力.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "互补",
+      "label": "卡尼曼 · 双系统"
+    },
+    {
+      "source": "美学/概念/创造力.md",
+      "target": "心理学/概念/心流.md",
+      "relation": "同源",
+      "label": "心流"
+    },
+    {
+      "source": "美学/概念/创造力.md",
+      "target": "心理学/概念/意识.md",
+      "relation": "发展",
+      "label": "认知科学"
+    },
+    {
+      "source": "美学/概念/创造力.md",
+      "target": "美学/学派/德国美学/kant-aesthetics.md",
+      "relation": "同源",
+      "label": "康德美学 · 天才"
+    },
+    {
+      "source": "美学/概念/创造力.md",
+      "target": "美学/学派/艺术思想/达.md",
+      "relation": "同源",
+      "label": "达·芬奇"
+    },
+    {
+      "source": "美学/概念/创造力.md",
+      "target": "美学/概念/imagination.md",
+      "relation": "基础",
+      "label": "想象力"
+    },
+    {
+      "source": "美学/概念/叙事.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "同源",
+      "label": "海德格尔"
+    },
+    {
+      "source": "美学/概念/叙事.md",
+      "target": "心理学/学派/叙事疗法/迈克尔.md",
+      "relation": "同源",
+      "label": "怀特 · 叙事实践"
+    },
+    {
+      "source": "美学/概念/叙事.md",
+      "target": "心理学/学派/存在心理学/维克多.md",
+      "relation": "平行",
+      "label": "弗兰克尔"
+    },
+    {
+      "source": "美学/概念/叙事.md",
+      "target": "心理学/概念/创伤.md",
+      "relation": "互补",
+      "label": "创伤"
+    },
+    {
+      "source": "美学/概念/叙事.md",
+      "target": "社会学/学派/批判理论/哈贝马斯.md",
+      "relation": "互补",
+      "label": "哈贝马斯 · 交往理性"
+    },
+    {
+      "source": "美学/概念/叙事.md",
+      "target": "美学/学派/文学理论/巴特.md",
+      "relation": "互补",
+      "label": "巴特"
+    },
+    {
+      "source": "美学/概念/叙事.md",
+      "target": "美学/学派/文学理论/巴赫金.md",
+      "relation": "发展",
+      "label": "巴赫金"
+    },
+    {
+      "source": "美学/概念/叙事.md",
+      "target": "美学/学派/文学理论/弗莱.md",
+      "relation": "发展",
+      "label": "弗莱"
+    },
+    {
+      "source": "美学/概念/实用主义美学.md",
+      "target": "美学/概念/创造力.md",
+      "relation": "应用",
+      "label": "创造力"
+    },
+    {
+      "source": "美学/概念/实用主义美学.md",
+      "target": "美学/概念/审美经验.md",
+      "relation": "基础",
+      "label": "审美经验"
+    },
+    {
+      "source": "美学/概念/实用主义美学.md",
+      "target": "美学/概念/日常美学.md",
+      "relation": "基础",
+      "label": "日常美学"
+    },
+    {
+      "source": "美学/概念/实用主义美学.md",
+      "target": "美学/概念/环境美学.md",
+      "relation": "并列",
+      "label": "环境美学"
+    },
+    {
+      "source": "美学/概念/实用主义美学.md",
+      "target": "美学/概念/艺术界.md",
+      "relation": "应用",
+      "label": "艺术界"
+    },
+    {
+      "source": "美学/概念/形式主义美学.md",
+      "target": "文学/概念/陌生化.md",
+      "relation": "应用",
+      "label": "俄国形式主义"
+    },
+    {
+      "source": "美学/概念/形式主义美学.md",
+      "target": "文学/概念/陌生化.md",
+      "relation": "应用",
+      "label": "文学 · 俄国形式主义"
+    },
+    {
+      "source": "美学/概念/形式主义美学.md",
+      "target": "美学/概念/创造力.md",
+      "relation": "基础",
+      "label": "创造力"
+    },
+    {
+      "source": "美学/概念/形式主义美学.md",
+      "target": "美学/概念/崇高.md",
+      "relation": "并列",
+      "label": "崇高"
+    },
+    {
+      "source": "美学/概念/形式主义美学.md",
+      "target": "美学/概念/悲剧.md",
+      "relation": "并列",
+      "label": "悲剧"
+    },
+    {
+      "source": "美学/概念/形式主义美学.md",
+      "target": "美学/概念/模仿.md",
+      "relation": "对照",
+      "label": "模仿"
+    },
+    {
+      "source": "美学/概念/形式主义美学.md",
+      "target": "美学/概念/美.md",
+      "relation": "基础",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/形式主义美学.md",
+      "target": "美学/概念/艺术界.md",
+      "relation": "对照",
+      "label": "艺术界"
+    },
+    {
+      "source": "美学/概念/性别美学.md",
+      "target": "文学/概念/女性主义文论.md",
+      "relation": "并列",
+      "label": "女性主义文论"
+    },
+    {
+      "source": "美学/概念/性别美学.md",
+      "target": "文学/概念/女性主义文论.md",
+      "relation": "并列",
+      "label": "文学 · 女性主义文论"
+    },
+    {
+      "source": "美学/概念/性别美学.md",
+      "target": "文学/概念/模拟.md",
+      "relation": "并列",
+      "label": "模拟"
+    },
+    {
+      "source": "美学/概念/性别美学.md",
+      "target": "美学/概念/创造力.md",
+      "relation": "应用",
+      "label": "创造力"
+    },
+    {
+      "source": "美学/概念/性别美学.md",
+      "target": "美学/概念/审美经验.md",
+      "relation": "基础",
+      "label": "审美经验"
+    },
+    {
+      "source": "美学/概念/性别美学.md",
+      "target": "美学/概念/崇高.md",
+      "relation": "并列",
+      "label": "崇高"
+    },
+    {
+      "source": "美学/概念/性别美学.md",
+      "target": "美学/概念/美.md",
+      "relation": "基础",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/性别美学.md",
+      "target": "美学/概念/美.md",
+      "relation": "批判",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/怪诞.md",
+      "target": "文学/概念/复调.md",
+      "relation": "基础",
+      "label": "复调"
+    },
+    {
+      "source": "美学/概念/怪诞.md",
+      "target": "美学/概念/丑.md",
+      "relation": "并列",
+      "label": "丑"
+    },
+    {
+      "source": "美学/概念/怪诞.md",
+      "target": "美学/概念/创造力.md",
+      "relation": "应用",
+      "label": "创造力"
+    },
+    {
+      "source": "美学/概念/怪诞.md",
+      "target": "美学/概念/崇高.md",
+      "relation": "并列",
+      "label": "崇高"
+    },
+    {
+      "source": "美学/概念/怪诞.md",
+      "target": "美学/概念/悲剧.md",
+      "relation": "并列",
+      "label": "悲剧"
+    },
+    {
+      "source": "美学/概念/怪诞.md",
+      "target": "美学/概念/想象力.md",
+      "relation": "基础",
+      "label": "想象力"
+    },
+    {
+      "source": "美学/概念/怪诞.md",
+      "target": "美学/概念/模仿.md",
+      "relation": "对照",
+      "label": "模仿"
+    },
+    {
+      "source": "美学/概念/怪诞.md",
+      "target": "美学/概念/美.md",
+      "relation": "对照",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/想象力.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "平行",
+      "label": "维特根斯坦"
+    },
+    {
+      "source": "美学/概念/想象力.md",
+      "target": "哲学/学派/德国唯心论/康德.md",
+      "relation": "同源",
+      "label": "康德"
+    },
+    {
+      "source": "美学/概念/想象力.md",
+      "target": "心理学/学派/分析心理学/卡尔.md",
+      "relation": "平行",
+      "label": "荣格"
+    },
+    {
+      "source": "美学/概念/想象力.md",
+      "target": "美学/概念/创造力.md",
+      "relation": "发展",
+      "label": "创造力"
+    },
+    {
+      "source": "美学/概念/想象力.md",
+      "target": "美学/概念/审美经验.md",
+      "relation": "互补",
+      "label": "审美经验"
+    },
+    {
+      "source": "美学/概念/想象力.md",
+      "target": "认知系统/概念/生成认知.md",
+      "relation": "互补",
+      "label": "生成认知"
+    },
+    {
+      "source": "美学/概念/想象力.md",
+      "target": "认知系统/概念/预测加工.md",
+      "relation": "发展",
+      "label": "预测加工"
+    },
+    {
+      "source": "美学/概念/接受美学.md",
+      "target": "文学/概念/情节.md",
+      "relation": "对照",
+      "label": "新批评 close reading"
+    },
+    {
+      "source": "美学/概念/接受美学.md",
+      "target": "文学/概念/情节.md",
+      "relation": "并列",
+      "label": "隐含作者"
+    },
+    {
+      "source": "美学/概念/接受美学.md",
+      "target": "文学/概念/情节.md",
+      "relation": "并列",
+      "label": "后结构主义"
+    },
+    {
+      "source": "美学/概念/接受美学.md",
+      "target": "文学/概念/陌生化.md",
+      "relation": "对照",
+      "label": "俄国形式主义"
+    },
+    {
+      "source": "美学/概念/接受美学.md",
+      "target": "美学/概念/现象学美学.md",
+      "relation": "基础",
+      "label": "现象学美学"
+    },
+    {
+      "source": "美学/概念/接受美学.md",
+      "target": "美学/概念/解释学美学.md",
+      "relation": "并列",
+      "label": "解释学美学"
+    },
+    {
+      "source": "美学/概念/日常美学.md",
+      "target": "美学/概念/创造力.md",
+      "relation": "应用",
+      "label": "创造力"
+    },
+    {
+      "source": "美学/概念/日常美学.md",
+      "target": "美学/概念/审美经验.md",
+      "relation": "基础",
+      "label": "审美经验"
+    },
+    {
+      "source": "美学/概念/日常美学.md",
+      "target": "美学/概念/形式主义美学.md",
+      "relation": "对照",
+      "label": "形式主义美学"
+    },
+    {
+      "source": "美学/概念/日常美学.md",
+      "target": "美学/概念/想象力.md",
+      "relation": "应用",
+      "label": "想象力"
+    },
+    {
+      "source": "美学/概念/日常美学.md",
+      "target": "美学/概念/环境美学.md",
+      "relation": "基础",
+      "label": "环境美学"
+    },
+    {
+      "source": "美学/概念/日常美学.md",
+      "target": "美学/概念/美.md",
+      "relation": "基础",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/模仿.md",
+      "target": "哲学/学派/古希腊/柏拉图.md",
+      "relation": "源流",
+      "label": "柏拉图 · 理念论"
+    },
+    {
+      "source": "美学/概念/模仿.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "张力",
+      "label": "宗教 · 圣像"
+    },
+    {
+      "source": "美学/概念/模仿.md",
+      "target": "心理学/学派/分析心理学/卡尔.md",
+      "relation": "平行",
+      "label": "荣格 · 原型"
+    },
+    {
+      "source": "美学/概念/模仿.md",
+      "target": "社会学/学派/结构主义/布迪厄.md",
+      "relation": "扩展",
+      "label": "社会学 · 布迪厄"
+    },
+    {
+      "source": "美学/概念/环境美学.md",
+      "target": "美学/概念/审美经验.md",
+      "relation": "基础",
+      "label": "审美经验"
+    },
+    {
+      "source": "美学/概念/环境美学.md",
+      "target": "美学/概念/崇高.md",
+      "relation": "基础",
+      "label": "崇高"
+    },
+    {
+      "source": "美学/概念/环境美学.md",
+      "target": "美学/概念/美.md",
+      "relation": "基础",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/现象学美学.md",
+      "target": "美学/概念/审美经验.md",
+      "relation": "基础",
+      "label": "审美经验"
+    },
+    {
+      "source": "美学/概念/现象学美学.md",
+      "target": "美学/概念/接受美学.md",
+      "relation": "基础",
+      "label": "接受美学"
+    },
+    {
+      "source": "美学/概念/现象学美学.md",
+      "target": "美学/概念/环境美学.md",
+      "relation": "应用",
+      "label": "环境美学"
+    },
+    {
+      "source": "美学/概念/现象学美学.md",
+      "target": "美学/概念/解释学美学.md",
+      "relation": "并列",
+      "label": "解释学美学"
+    },
+    {
+      "source": "美学/概念/现象学美学.md",
+      "target": "美学/概念/身体美学.md",
+      "relation": "应用",
+      "label": "身体美学"
+    },
+    {
+      "source": "美学/概念/生态美学.md",
+      "target": "文学/概念/后殖民文学批评.md",
+      "relation": "应用",
+      "label": "生态批评"
+    },
+    {
+      "source": "美学/概念/生态美学.md",
+      "target": "美学/概念/分析美学.md",
+      "relation": "并列",
+      "label": "分析美学"
+    },
+    {
+      "source": "美学/概念/生态美学.md",
+      "target": "美学/概念/崇高.md",
+      "relation": "基础",
+      "label": "崇高"
+    },
+    {
+      "source": "美学/概念/生态美学.md",
+      "target": "美学/概念/日常美学.md",
+      "relation": "并列",
+      "label": "日常美学"
+    },
+    {
+      "source": "美学/概念/生态美学.md",
+      "target": "美学/概念/环境美学.md",
+      "relation": "基础",
+      "label": "环境美学"
+    },
+    {
+      "source": "美学/概念/生态美学.md",
+      "target": "美学/概念/美.md",
+      "relation": "基础",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/神经美学.md",
+      "target": "美学/概念/分析美学.md",
+      "relation": "并列",
+      "label": "分析美学"
+    },
+    {
+      "source": "美学/概念/神经美学.md",
+      "target": "美学/概念/创造力.md",
+      "relation": "应用",
+      "label": "创造力"
+    },
+    {
+      "source": "美学/概念/神经美学.md",
+      "target": "美学/概念/审美经验.md",
+      "relation": "基础",
+      "label": "审美经验"
+    },
+    {
+      "source": "美学/概念/神经美学.md",
+      "target": "美学/概念/形式主义美学.md",
+      "relation": "对照",
+      "label": "形式主义美学"
+    },
+    {
+      "source": "美学/概念/神经美学.md",
+      "target": "美学/概念/美.md",
+      "relation": "基础",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/禅宗美学.md",
+      "target": "美学/概念/中国古典美学.md",
+      "relation": "基础",
+      "label": "中国古典美学"
+    },
+    {
+      "source": "美学/概念/禅宗美学.md",
+      "target": "美学/概念/道家美学.md",
+      "relation": "并列",
+      "label": "道家美学"
+    },
+    {
+      "source": "美学/概念/美.md",
+      "target": "哲学/概念/美学.md",
+      "relation": "上位",
+      "label": "哲学/概念/美学"
+    },
+    {
+      "source": "美学/概念/美.md",
+      "target": "认知系统/概念/可供性.md",
+      "relation": "借用",
+      "label": "认知系统/概念/可供性"
+    },
+    {
+      "source": "美学/概念/艺术界.md",
+      "target": "哲学/概念/语言.md",
+      "relation": "方法",
+      "label": "哲学 · 语言"
+    },
+    {
+      "source": "美学/概念/艺术界.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "平行",
+      "label": "宗教 · 神圣"
+    },
+    {
+      "source": "美学/概念/艺术界.md",
+      "target": "心理学/学派/分析心理学/卡尔.md",
+      "relation": "对话",
+      "label": "心理学 · 集体无意识"
+    },
+    {
+      "source": "美学/概念/艺术界.md",
+      "target": "社会学/学派/结构主义/布迪厄.md",
+      "relation": "平行",
+      "label": "社会学 · 布迪厄 · 文化场域"
+    },
+    {
+      "source": "美学/概念/解释学美学.md",
+      "target": "哲学/概念/真理.md",
+      "relation": "基础",
+      "label": "真"
+    },
+    {
+      "source": "美学/概念/解释学美学.md",
+      "target": "美学/概念/接受美学.md",
+      "relation": "并列",
+      "label": "接受美学"
+    },
+    {
+      "source": "美学/概念/解释学美学.md",
+      "target": "美学/概念/现象学美学.md",
+      "relation": "基础",
+      "label": "现象学美学"
+    },
+    {
+      "source": "美学/概念/解释学美学.md",
+      "target": "美学/概念/美.md",
+      "relation": "基础",
+      "label": "美"
+    },
+    {
+      "source": "美学/概念/身体美学.md",
+      "target": "社会学/概念/身体社会学.md",
+      "relation": "并列",
+      "label": "身体社会学"
+    },
+    {
+      "source": "美学/概念/身体美学.md",
+      "target": "美学/概念/实用主义美学.md",
+      "relation": "基础",
+      "label": "实用主义美学"
+    },
+    {
+      "source": "美学/概念/身体美学.md",
+      "target": "美学/概念/性别美学.md",
+      "relation": "应用",
+      "label": "性别美学"
+    },
+    {
+      "source": "美学/概念/身体美学.md",
+      "target": "美学/概念/日常美学.md",
+      "relation": "基础",
+      "label": "日常美学"
+    },
+    {
+      "source": "美学/概念/身体美学.md",
+      "target": "美学/概念/现象学美学.md",
+      "relation": "基础",
+      "label": "现象学美学"
+    },
+    {
+      "source": "美学/概念/身体美学.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "应用",
+      "label": "行为艺术"
+    },
+    {
+      "source": "美学/概念/道家美学.md",
+      "target": "美学/概念/中国古典美学.md",
+      "relation": "基础",
+      "label": "中国古典美学"
+    },
+    {
+      "source": "美学/概念/道家美学.md",
+      "target": "美学/概念/日常美学.md",
+      "relation": "应用",
+      "label": "日常生活美学"
+    },
+    {
+      "source": "美学/概念/道家美学.md",
+      "target": "美学/概念/生态美学.md",
+      "relation": "应用",
+      "label": "生态美学"
+    },
+    {
+      "source": "美学/概念/道家美学.md",
+      "target": "美学/概念/禅宗美学.md",
+      "relation": "并列",
+      "label": "禅宗美学"
+    },
+    {
+      "source": "艺术/学派/表演艺术/塔可夫斯基.md",
+      "target": "哲学/学派/现象学/heidegger.md",
+      "relation": "平行",
+      "label": "海德格尔"
+    },
+    {
+      "source": "艺术/学派/表演艺术/塔可夫斯基.md",
+      "target": "宗教/concepts/icon.md",
+      "relation": "互补",
+      "label": "东正教圣像学"
+    },
+    {
+      "source": "艺术/学派/表演艺术/塔可夫斯基.md",
+      "target": "艺术/学派/表演艺术/谢尔盖/README.md",
+      "relation": "对立",
+      "label": "爱森斯坦"
+    },
+    {
+      "source": "艺术/学派/视觉艺术/塞尚.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "互补",
+      "label": "现象学"
+    },
+    {
+      "source": "艺术/学派/视觉艺术/塞尚.md",
+      "target": "科学/concepts/color-theory.md",
+      "relation": "平行",
+      "label": "歌德色彩学"
+    },
+    {
+      "source": "艺术/学派/视觉艺术/塞尚.md",
+      "target": "艺术/学派/视觉艺术/毕加索.md",
+      "relation": "发展",
+      "label": "立体主义"
+    },
+    {
+      "source": "艺术/学派/视觉艺术/罗丹.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "互补",
+      "label": "梅洛-庞蒂"
+    },
+    {
+      "source": "艺术/学派/视觉艺术/罗丹.md",
+      "target": "美学/学派/诗性思想/但丁.md",
+      "relation": "继承",
+      "label": "但丁"
+    },
+    {
+      "source": "艺术/学派/视觉艺术/罗丹.md",
+      "target": "艺术/学派/视觉艺术/米开朗基罗.md",
+      "relation": "继承",
+      "label": "米开朗基罗"
+    },
+    {
+      "source": "艺术/学派/音乐/柴可夫斯基.md",
+      "target": "文学/学派/小说家/费奥多尔/README.md",
+      "relation": "平行",
+      "label": "陀思妥耶夫斯基"
+    },
+    {
+      "source": "艺术/学派/音乐/柴可夫斯基.md",
+      "target": "艺术/学派/音乐/斯特拉文斯基.md",
+      "relation": "发展",
+      "label": "斯特拉文斯基"
+    },
+    {
+      "source": "艺术/学派/音乐/柴可夫斯基.md",
+      "target": "艺术/学派/音乐/路德维希/README.md",
+      "relation": "继承",
+      "label": "贝多芬"
+    },
+    {
+      "source": "艺术/概念/公共艺术.md",
+      "target": "艺术/概念/关系美学.md",
+      "relation": "应用",
+      "label": "关系美学"
+    },
+    {
+      "source": "艺术/概念/公共艺术.md",
+      "target": "艺术/概念/大地艺术.md",
+      "relation": "应用",
+      "label": "大地艺术"
+    },
+    {
+      "source": "艺术/概念/公共艺术.md",
+      "target": "艺术/概念/极少主义.md",
+      "relation": "基础",
+      "label": "极少主义"
+    },
+    {
+      "source": "艺术/概念/公共艺术.md",
+      "target": "艺术/概念/社区艺术.md",
+      "relation": "并列",
+      "label": "社区艺术"
+    },
+    {
+      "source": "艺术/概念/公共艺术.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "应用",
+      "label": "行为艺术"
+    },
+    {
+      "source": "艺术/概念/公共艺术.md",
+      "target": "艺术/概念/街头艺术.md",
+      "relation": "并列",
+      "label": "街头艺术"
+    },
+    {
+      "source": "艺术/概念/公共艺术.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "应用",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/关系美学.md",
+      "target": "社会学/概念/景观社会.md",
+      "relation": "对照",
+      "label": "景观社会"
+    },
+    {
+      "source": "艺术/概念/关系美学.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "应用",
+      "label": "行为艺术"
+    },
+    {
+      "source": "艺术/概念/关系美学.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "应用",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/关系美学.md",
+      "target": "艺术/概念/观念艺术.md",
+      "relation": "基础",
+      "label": "概念艺术"
+    },
+    {
+      "source": "艺术/概念/再现.md",
+      "target": "哲学/概念/语言.md",
+      "relation": "基础",
+      "label": "哲学 · 语言"
+    },
+    {
+      "source": "艺术/概念/再现.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "张力",
+      "label": "宗教 · 圣像"
+    },
+    {
+      "source": "艺术/概念/再现.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "机制",
+      "label": "心理学 · 知觉"
+    },
+    {
+      "source": "艺术/概念/再现.md",
+      "target": "社会学/概念/文化资本.md",
+      "relation": "扩展",
+      "label": "社会学 · 表征政治"
+    },
+    {
+      "source": "艺术/概念/大地艺术.md",
+      "target": "美学/概念/环境美学.md",
+      "relation": "应用",
+      "label": "环境美学"
+    },
+    {
+      "source": "艺术/概念/大地艺术.md",
+      "target": "美学/概念/生态美学.md",
+      "relation": "应用",
+      "label": "生态美学"
+    },
+    {
+      "source": "艺术/概念/大地艺术.md",
+      "target": "艺术/概念/关系美学.md",
+      "relation": "应用",
+      "label": "关系美学"
+    },
+    {
+      "source": "艺术/概念/大地艺术.md",
+      "target": "艺术/概念/极少主义.md",
+      "relation": "并列",
+      "label": "极少主义"
+    },
+    {
+      "source": "艺术/概念/大地艺术.md",
+      "target": "艺术/概念/现成品.md",
+      "relation": "并列",
+      "label": "现成品"
+    },
+    {
+      "source": "艺术/概念/大地艺术.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "并列",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/大地艺术.md",
+      "target": "艺术/概念/观念艺术.md",
+      "relation": "并列",
+      "label": "概念艺术"
+    },
+    {
+      "source": "艺术/概念/天才.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "源流",
+      "label": "宗教 · 灵感"
+    },
+    {
+      "source": "艺术/概念/天才.md",
+      "target": "心理学/学派/人本主义/马斯洛.md",
+      "relation": "机制",
+      "label": "心理学 · 创造力"
+    },
+    {
+      "source": "艺术/概念/天才.md",
+      "target": "社会学/学派/结构主义/布迪厄.md",
+      "relation": "批判",
+      "label": "社会学 · 文化资本"
+    },
+    {
+      "source": "艺术/概念/天才.md",
+      "target": "美学/概念/美.md",
+      "relation": "基础",
+      "label": "哲学 · 美学"
+    },
+    {
+      "source": "艺术/概念/媒介.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "基础",
+      "label": "哲学 · 技术"
+    },
+    {
+      "source": "艺术/概念/媒介.md",
+      "target": "宗教/概念/仪式.md",
+      "relation": "平行",
+      "label": "宗教 · 圣礼"
+    },
+    {
+      "source": "艺术/概念/媒介.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "机制",
+      "label": "心理学 · 感知"
+    },
+    {
+      "source": "艺术/概念/媒介.md",
+      "target": "社会学/概念/社会事实.md",
+      "relation": "扩展",
+      "label": "社会学 · 媒介生态"
+    },
+    {
+      "source": "艺术/概念/媚俗.md",
+      "target": "社会学/概念/景观社会.md",
+      "relation": "应用",
+      "label": "景观社会"
+    },
+    {
+      "source": "艺术/概念/媚俗.md",
+      "target": "美学/概念/日常美学.md",
+      "relation": "对照",
+      "label": "日常美学"
+    },
+    {
+      "source": "艺术/概念/工艺.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "基础",
+      "label": "哲学 · 存在"
+    },
+    {
+      "source": "艺术/概念/工艺.md",
+      "target": "宗教/概念/冥想与默观.md",
+      "relation": "平行",
+      "label": "宗教 · 修行"
+    },
+    {
+      "source": "艺术/概念/工艺.md",
+      "target": "心理学/学派/积极心理学/米哈里.md",
+      "relation": "机制",
+      "label": "心理学 · 心流"
+    },
+    {
+      "source": "艺术/概念/工艺.md",
+      "target": "社会学/概念/阶级.md",
+      "relation": "扩展",
+      "label": "社会学 · 劳动"
+    },
+    {
+      "source": "艺术/概念/工艺美术.md",
+      "target": "美学/概念/设计美学.md",
+      "relation": "基础",
+      "label": "设计美学"
+    },
+    {
+      "source": "艺术/概念/工艺美术.md",
+      "target": "艺术/概念/极少主义.md",
+      "relation": "并列",
+      "label": "极少主义"
+    },
+    {
+      "source": "艺术/概念/工艺美术.md",
+      "target": "艺术/概念/波普艺术.md",
+      "relation": "对照",
+      "label": "波普艺术"
+    },
+    {
+      "source": "艺术/概念/录像艺术.md",
+      "target": "艺术/概念/新媒体艺术.md",
+      "relation": "并列",
+      "label": "新媒体艺术"
+    },
+    {
+      "source": "艺术/概念/录像艺术.md",
+      "target": "艺术/概念/极少主义.md",
+      "relation": "并列",
+      "label": "极少主义"
+    },
+    {
+      "source": "艺术/概念/录像艺术.md",
+      "target": "艺术/概念/现成品.md",
+      "relation": "基础",
+      "label": "现成品"
+    },
+    {
+      "source": "艺术/概念/录像艺术.md",
+      "target": "艺术/概念/蒙太奇.md",
+      "relation": "应用",
+      "label": "蒙太奇"
+    },
+    {
+      "source": "艺术/概念/录像艺术.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "并列",
+      "label": "行为艺术"
+    },
+    {
+      "source": "艺术/概念/录像艺术.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "应用",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/录像艺术.md",
+      "target": "艺术/概念/观念艺术.md",
+      "relation": "并列",
+      "label": "概念艺术"
+    },
+    {
+      "source": "艺术/概念/技法.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "基础",
+      "label": "哲学 · 技术"
+    },
+    {
+      "source": "艺术/概念/技法.md",
+      "target": "宗教/概念/冥想与默观.md",
+      "relation": "平行",
+      "label": "宗教 · 修行"
+    },
+    {
+      "source": "艺术/概念/技法.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "机制",
+      "label": "心理学 · 专长"
+    },
+    {
+      "source": "艺术/概念/技法.md",
+      "target": "社会学/概念/阶级.md",
+      "relation": "扩展",
+      "label": "社会学 · 劳动分工"
+    },
+    {
+      "source": "艺术/概念/拼贴.md",
+      "target": "艺术/概念/大地艺术.md",
+      "relation": "应用",
+      "label": "大地艺术"
+    },
+    {
+      "source": "艺术/概念/拼贴.md",
+      "target": "艺术/概念/新媒体艺术.md",
+      "relation": "应用",
+      "label": "新媒体艺术"
+    },
+    {
+      "source": "艺术/概念/拼贴.md",
+      "target": "艺术/概念/极少主义.md",
+      "relation": "并列",
+      "label": "极少主义"
+    },
+    {
+      "source": "艺术/概念/拼贴.md",
+      "target": "艺术/概念/波普艺术.md",
+      "relation": "应用",
+      "label": "波普艺术"
+    },
+    {
+      "source": "艺术/概念/拼贴.md",
+      "target": "艺术/概念/现成品.md",
+      "relation": "并列",
+      "label": "现成品"
+    },
+    {
+      "source": "艺术/概念/拼贴.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "应用",
+      "label": "行为艺术"
+    },
+    {
+      "source": "艺术/概念/拼贴.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "应用",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/拼贴.md",
+      "target": "艺术/概念/观念艺术.md",
+      "relation": "应用",
+      "label": "概念艺术"
+    },
+    {
+      "source": "艺术/概念/新媒体艺术.md",
+      "target": "艺术/概念/关系美学.md",
+      "relation": "应用",
+      "label": "关系美学"
+    },
+    {
+      "source": "艺术/概念/新媒体艺术.md",
+      "target": "艺术/概念/大地艺术.md",
+      "relation": "并列",
+      "label": "大地艺术"
+    },
+    {
+      "source": "艺术/概念/新媒体艺术.md",
+      "target": "艺术/概念/媚俗.md",
+      "relation": "基础",
+      "label": "媚俗"
+    },
+    {
+      "source": "艺术/概念/新媒体艺术.md",
+      "target": "艺术/概念/极少主义.md",
+      "relation": "基础",
+      "label": "极少主义"
+    },
+    {
+      "source": "艺术/概念/新媒体艺术.md",
+      "target": "艺术/概念/波普艺术.md",
+      "relation": "基础",
+      "label": "波普艺术"
+    },
+    {
+      "source": "艺术/概念/新媒体艺术.md",
+      "target": "艺术/概念/现成品.md",
+      "relation": "基础",
+      "label": "现成品"
+    },
+    {
+      "source": "艺术/概念/新媒体艺术.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "并列",
+      "label": "行为艺术"
+    },
+    {
+      "source": "艺术/概念/新媒体艺术.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "并列",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/新媒体艺术.md",
+      "target": "艺术/概念/观念艺术.md",
+      "relation": "基础",
+      "label": "概念艺术"
+    },
+    {
+      "source": "艺术/概念/极少主义.md",
+      "target": "美学/概念/形式主义美学.md",
+      "relation": "基础",
+      "label": "形式主义美学"
+    },
+    {
+      "source": "艺术/概念/极少主义.md",
+      "target": "艺术/概念/关系美学.md",
+      "relation": "应用",
+      "label": "关系美学"
+    },
+    {
+      "source": "艺术/概念/极少主义.md",
+      "target": "艺术/概念/现成品.md",
+      "relation": "并列",
+      "label": "现成品"
+    },
+    {
+      "source": "艺术/概念/极少主义.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "应用",
+      "label": "行为艺术"
+    },
+    {
+      "source": "艺术/概念/极少主义.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "应用",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/极少主义.md",
+      "target": "艺术/概念/观念艺术.md",
+      "relation": "并列",
+      "label": "概念艺术"
+    },
+    {
+      "source": "艺术/概念/构图.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "平行",
+      "label": "宗教 · 圣像"
+    },
+    {
+      "source": "艺术/概念/构图.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "基础",
+      "label": "心理学 · 格式塔"
+    },
+    {
+      "source": "艺术/概念/构图.md",
+      "target": "社会学/概念/文化资本.md",
+      "relation": "扩展",
+      "label": "社会学 · 视觉文化"
+    },
+    {
+      "source": "艺术/概念/构图.md",
+      "target": "美学/概念/美.md",
+      "relation": "对话",
+      "label": "哲学 · 美学"
+    },
+    {
+      "source": "艺术/概念/波普艺术.md",
+      "target": "社会学/概念/文化帝国主义.md",
+      "relation": "应用",
+      "label": "文化帝国主义"
+    },
+    {
+      "source": "艺术/概念/波普艺术.md",
+      "target": "社会学/概念/景观社会.md",
+      "relation": "基础",
+      "label": "景观社会"
+    },
+    {
+      "source": "艺术/概念/波普艺术.md",
+      "target": "社会学/概念/消费社会.md",
+      "relation": "基础",
+      "label": "消费社会"
+    },
+    {
+      "source": "艺术/概念/波普艺术.md",
+      "target": "艺术/概念/媚俗.md",
+      "relation": "并列",
+      "label": "媚俗"
+    },
+    {
+      "source": "艺术/概念/波普艺术.md",
+      "target": "艺术/概念/极少主义.md",
+      "relation": "并列",
+      "label": "极少主义"
+    },
+    {
+      "source": "艺术/概念/波普艺术.md",
+      "target": "艺术/概念/现成品.md",
+      "relation": "基础",
+      "label": "现成品"
+    },
+    {
+      "source": "艺术/概念/波普艺术.md",
+      "target": "艺术/概念/观念艺术.md",
+      "relation": "并列",
+      "label": "概念艺术"
+    },
+    {
+      "source": "艺术/概念/涂鸦.md",
+      "target": "艺术/概念/媚俗.md",
+      "relation": "基础",
+      "label": "媚俗"
+    },
+    {
+      "source": "艺术/概念/涂鸦.md",
+      "target": "艺术/概念/拼贴.md",
+      "relation": "基础",
+      "label": "拼贴"
+    },
+    {
+      "source": "艺术/概念/涂鸦.md",
+      "target": "艺术/概念/波普艺术.md",
+      "relation": "基础",
+      "label": "波普艺术"
+    },
+    {
+      "source": "艺术/概念/涂鸦.md",
+      "target": "艺术/概念/现成品.md",
+      "relation": "并列",
+      "label": "现成品"
+    },
+    {
+      "source": "艺术/概念/涂鸦.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "并列",
+      "label": "行为艺术"
+    },
+    {
+      "source": "艺术/概念/涂鸦.md",
+      "target": "艺术/概念/街头艺术.md",
+      "relation": "并列",
+      "label": "街头艺术"
+    },
+    {
+      "source": "艺术/概念/涂鸦.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "并列",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/涂鸦.md",
+      "target": "艺术/概念/观念艺术.md",
+      "relation": "并列",
+      "label": "概念艺术"
+    },
+    {
+      "source": "艺术/概念/现成品.md",
+      "target": "美学/概念/分析美学.md",
+      "relation": "基础",
+      "label": "分析美学"
+    },
+    {
+      "source": "艺术/概念/现成品.md",
+      "target": "美学/概念/艺术界.md",
+      "relation": "基础",
+      "label": "艺术界"
+    },
+    {
+      "source": "艺术/概念/现成品.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "应用",
+      "label": "行为艺术"
+    },
+    {
+      "source": "艺术/概念/现成品.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "应用",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/现成品.md",
+      "target": "艺术/概念/观念艺术.md",
+      "relation": "基础",
+      "label": "概念艺术"
+    },
+    {
+      "source": "艺术/概念/社区艺术.md",
+      "target": "艺术/概念/关系美学.md",
+      "relation": "基础",
+      "label": "关系美学"
+    },
+    {
+      "source": "艺术/概念/社区艺术.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "并列",
+      "label": "行为艺术"
+    },
+    {
+      "source": "艺术/概念/社区艺术.md",
+      "target": "艺术/概念/街头艺术.md",
+      "relation": "并列",
+      "label": "街头艺术"
+    },
+    {
+      "source": "艺术/概念/社区艺术.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "并列",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/社区艺术.md",
+      "target": "艺术/概念/观念艺术.md",
+      "relation": "并列",
+      "label": "概念艺术"
+    },
+    {
+      "source": "艺术/概念/艺术作品.md",
+      "target": "哲学/概念/存在.md",
+      "relation": "基础",
+      "label": "哲学 · 存在"
+    },
+    {
+      "source": "艺术/概念/艺术作品.md",
+      "target": "宗教/概念/神圣性.md",
+      "relation": "平行",
+      "label": "宗教 · 圣像"
+    },
+    {
+      "source": "艺术/概念/艺术作品.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "机制",
+      "label": "心理学 · 感知"
+    },
+    {
+      "source": "艺术/概念/艺术作品.md",
+      "target": "社会学/学派/结构主义/布迪厄.md",
+      "relation": "张力",
+      "label": "社会学 · 文化生产"
+    },
+    {
+      "source": "艺术/概念/蒙太奇.md",
+      "target": "艺术/概念/拼贴.md",
+      "relation": "并列",
+      "label": "拼贴"
+    },
+    {
+      "source": "艺术/概念/蒙太奇.md",
+      "target": "艺术/概念/新媒体艺术.md",
+      "relation": "应用",
+      "label": "新媒体艺术"
+    },
+    {
+      "source": "艺术/概念/蒙太奇.md",
+      "target": "艺术/概念/极少主义.md",
+      "relation": "对照",
+      "label": "极少主义"
+    },
+    {
+      "source": "艺术/概念/蒙太奇.md",
+      "target": "艺术/概念/现成品.md",
+      "relation": "基础",
+      "label": "现成品"
+    },
+    {
+      "source": "艺术/概念/蒙太奇.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "并列",
+      "label": "行为艺术"
+    },
+    {
+      "source": "艺术/概念/蒙太奇.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "应用",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/街头艺术.md",
+      "target": "艺术/概念/媚俗.md",
+      "relation": "基础",
+      "label": "媚俗"
+    },
+    {
+      "source": "艺术/概念/街头艺术.md",
+      "target": "艺术/概念/极少主义.md",
+      "relation": "并列",
+      "label": "极少主义"
+    },
+    {
+      "source": "艺术/概念/街头艺术.md",
+      "target": "艺术/概念/波普艺术.md",
+      "relation": "基础",
+      "label": "波普艺术"
+    },
+    {
+      "source": "艺术/概念/街头艺术.md",
+      "target": "艺术/概念/行为艺术.md",
+      "relation": "并列",
+      "label": "行为艺术"
+    },
+    {
+      "source": "艺术/概念/街头艺术.md",
+      "target": "艺术/概念/装置艺术.md",
+      "relation": "并列",
+      "label": "装置艺术"
+    },
+    {
+      "source": "艺术/概念/风格.md",
+      "target": "哲学/概念/存在.md",
+      "relation": "对话",
+      "label": "哲学 · 存在"
+    },
+    {
+      "source": "艺术/概念/风格.md",
+      "target": "宗教/概念/仪式.md",
+      "relation": "平行",
+      "label": "宗教 · 仪式"
+    },
+    {
+      "source": "艺术/概念/风格.md",
+      "target": "心理学/概念/人格.md",
+      "relation": "类比",
+      "label": "心理学 · 人格"
+    },
+    {
+      "source": "艺术/概念/风格.md",
+      "target": "社会学/学派/结构主义/布迪厄.md",
+      "relation": "扩展",
+      "label": "社会学 · 场域"
+    },
+    {
+      "source": "认知系统/学派/人工智能/艾伦-图灵.md",
+      "target": "哲学/学派/分析哲学/约翰.md",
+      "relation": "对立",
+      "label": "塞尔"
+    },
+    {
+      "source": "认知系统/学派/人工智能/艾伦-图灵.md",
+      "target": "认知系统/学派/复杂系统/普里高津.md",
+      "relation": "互补",
+      "label": "普里高津"
+    },
+    {
+      "source": "认知系统/学派/人工智能/艾伦-图灵.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "平行",
+      "label": "维纳"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/engestrom.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "继承",
+      "label": "维果茨基"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/engestrom.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "继承",
+      "label": "马克思"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/engestrom.md",
+      "target": "认知系统/学派/分布式认知/hutchins.md",
+      "relation": "互补",
+      "label": "哈钦斯"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/engestrom.md",
+      "target": "认知系统/学派/分布式认知/leontiev.md",
+      "relation": "发展",
+      "label": "列昂捷夫"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/hutchins.md",
+      "target": "宗教/佛教/概念/认知理论/心物一元.md",
+      "relation": "平行",
+      "label": "佛教心物一元"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/hutchins.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "继承",
+      "label": "维果茨基"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/hutchins.md",
+      "target": "社会学/学派/行动者网络/拉图尔.md",
+      "relation": "平行",
+      "label": "拉图尔"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/hutchins.md",
+      "target": "认知系统/concepts/situated-cognition.md",
+      "relation": "互补",
+      "label": "情境化认知 · Situated Cognition"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/hutchins.md",
+      "target": "认知系统/学派/生态认知/clark.md",
+      "relation": "互补",
+      "label": "克拉克"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/hutchins.md",
+      "target": "认知系统/学派/自动化社会技术/金.md",
+      "relation": "互补",
+      "label": "维森特 Vicente"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/leontiev.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "继承/发展",
+      "label": "维果茨基"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/leontiev.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "平行",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/leontiev.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "继承",
+      "label": "马克思"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/leontiev.md",
+      "target": "认知系统/学派/分布式认知/engestrom.md",
+      "relation": "影响",
+      "label": "恩格斯托姆"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/列昂捷夫.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "继承/发展",
+      "label": "维果茨基"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/列昂捷夫.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "平行",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/列昂捷夫.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "继承",
+      "label": "马克思"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/列昂捷夫.md",
+      "target": "认知系统/学派/分布式认知/engestrom.md",
+      "relation": "影响",
+      "label": "恩格斯托姆"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/哈钦斯.md",
+      "target": "宗教/佛教/概念/认知理论/转识成智.md",
+      "relation": "平行",
+      "label": "佛教心物一元"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/哈钦斯.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "继承",
+      "label": "维果茨基"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/哈钦斯.md",
+      "target": "社会学/学派/行动者网络/拉图尔.md",
+      "relation": "平行",
+      "label": "拉图尔"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/哈钦斯.md",
+      "target": "认知系统/concepts/situated-cognition.md",
+      "relation": "互补",
+      "label": "情境化认知 · Situated Cognition"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/哈钦斯.md",
+      "target": "认知系统/学派/生态认知/clark.md",
+      "relation": "互补",
+      "label": "克拉克"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/哈钦斯.md",
+      "target": "认知系统/学派/自动化社会技术/金.md",
+      "relation": "互补",
+      "label": "维森特 Vicente"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/恩格斯托姆.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "继承",
+      "label": "维果茨基"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/恩格斯托姆.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "继承",
+      "label": "马克思"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/恩格斯托姆.md",
+      "target": "认知系统/学派/分布式认知/hutchins.md",
+      "relation": "互补",
+      "label": "哈钦斯"
+    },
+    {
+      "source": "认知系统/学派/分布式认知/恩格斯托姆.md",
+      "target": "认知系统/学派/分布式认知/leontiev.md",
+      "relation": "发展",
+      "label": "列昂捷夫"
+    },
+    {
+      "source": "认知系统/学派/复杂系统/普里高津.md",
+      "target": "心理学/学派/发展心理学/皮亚杰.md",
+      "relation": "平行",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "认知系统/学派/复杂系统/普里高津.md",
+      "target": "认知系统/学派/人工智能/艾伦-图灵.md",
+      "relation": "互补",
+      "label": "图灵"
+    },
+    {
+      "source": "认知系统/学派/复杂系统/普里高津.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "互补",
+      "label": "维纳"
+    },
+    {
+      "source": "认知系统/学派/控制论/维纳.md",
+      "target": "宗教/佛教/概念/认知理论/八识体系.md",
+      "relation": "平行",
+      "label": "佛教八识体系"
+    },
+    {
+      "source": "认知系统/学派/控制论/维纳.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "平行",
+      "label": "卡尼曼"
+    },
+    {
+      "source": "认知系统/学派/控制论/维纳.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "平行",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "认知系统/学派/控制论/维纳.md",
+      "target": "社会学/学派/功能主义/帕森斯.md",
+      "relation": "发展",
+      "label": "帕森斯"
+    },
+    {
+      "source": "认知系统/学派/控制论/西蒙.md",
+      "target": "哲学/学派/东方哲学/庄子.md",
+      "relation": "平行",
+      "label": "庄子"
+    },
+    {
+      "source": "认知系统/学派/控制论/西蒙.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "发展",
+      "label": "卡尼曼"
+    },
+    {
+      "source": "认知系统/学派/控制论/西蒙.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "平行",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "认知系统/学派/控制论/西蒙.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "继承",
+      "label": "维纳"
+    },
+    {
+      "source": "认知系统/学派/控制论/西蒙.md",
+      "target": "认知系统/学派/自动化社会技术/克里斯托弗.md",
+      "relation": "发展",
+      "label": "威肯斯 Wickens"
+    },
+    {
+      "source": "认知系统/学派/控制论/阿什比.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "平行",
+      "label": "卡尼曼"
+    },
+    {
+      "source": "认知系统/学派/控制论/阿什比.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "平行",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "认知系统/学派/控制论/阿什比.md",
+      "target": "社会学/学派/现代性/贝克.md",
+      "relation": "平行",
+      "label": "贝克"
+    },
+    {
+      "source": "认知系统/学派/控制论/阿什比.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "发展",
+      "label": "维纳"
+    },
+    {
+      "source": "认知系统/学派/控制论/阿什比.md",
+      "target": "认知系统/学派/认知工程/南希.md",
+      "relation": "继承",
+      "label": "莱文森 Leveson"
+    },
+    {
+      "source": "认知系统/学派/生态认知/clark.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "同源",
+      "label": "梅洛-庞蒂"
+    },
+    {
+      "source": "认知系统/学派/生态认知/clark.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "继承",
+      "label": "维果茨基"
+    },
+    {
+      "source": "认知系统/学派/生态认知/clark.md",
+      "target": "认知系统/学派/分布式认知/哈钦斯.md",
+      "relation": "互补",
+      "label": "哈钦斯"
+    },
+    {
+      "source": "认知系统/学派/生态认知/clark.md",
+      "target": "认知系统/学派/生态认知/gibson.md",
+      "relation": "继承",
+      "label": "吉布森"
+    },
+    {
+      "source": "认知系统/学派/生态认知/gibson.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "同源",
+      "label": "梅洛-庞蒂"
+    },
+    {
+      "source": "认知系统/学派/生态认知/gibson.md",
+      "target": "宗教/佛教/概念/认知理论/六根六尘六识.md",
+      "relation": "平行",
+      "label": "佛教六根六尘六识"
+    },
+    {
+      "source": "认知系统/学派/生态认知/gibson.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "对立",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "认知系统/学派/生态认知/gibson.md",
+      "target": "认知系统/学派/认知工程/诺曼.md",
+      "relation": "发展",
+      "label": "诺曼"
+    },
+    {
+      "source": "认知系统/学派/生态认知/varela.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔"
+    },
+    {
+      "source": "认知系统/学派/生态认知/varela.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "继承",
+      "label": "梅洛-庞蒂"
+    },
+    {
+      "source": "认知系统/学派/生态认知/varela.md",
+      "target": "宗教/佛教/概念/认知理论/中观.md",
+      "relation": "平行",
+      "label": "佛教中观·空"
+    },
+    {
+      "source": "认知系统/学派/生态认知/varela.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "发展",
+      "label": "维纳"
+    },
+    {
+      "source": "认知系统/学派/生态认知/varela.md",
+      "target": "认知系统/学派/生态认知/gibson.md",
+      "relation": "互补",
+      "label": "吉布森"
+    },
+    {
+      "source": "认知系统/学派/生态认知/克拉克.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "同源",
+      "label": "梅洛-庞蒂"
+    },
+    {
+      "source": "认知系统/学派/生态认知/克拉克.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "继承",
+      "label": "维果茨基"
+    },
+    {
+      "source": "认知系统/学派/生态认知/克拉克.md",
+      "target": "认知系统/学派/分布式认知/哈钦斯.md",
+      "relation": "互补",
+      "label": "哈钦斯"
+    },
+    {
+      "source": "认知系统/学派/生态认知/克拉克.md",
+      "target": "认知系统/学派/生态认知/gibson.md",
+      "relation": "继承",
+      "label": "吉布森"
+    },
+    {
+      "source": "认知系统/学派/生态认知/吉布森.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "同源",
+      "label": "梅洛-庞蒂"
+    },
+    {
+      "source": "认知系统/学派/生态认知/吉布森.md",
+      "target": "宗教/智慧大师/大师/印度.md",
+      "relation": "平行",
+      "label": "佛教六根六尘六识"
+    },
+    {
+      "source": "认知系统/学派/生态认知/吉布森.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "对立",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "认知系统/学派/生态认知/吉布森.md",
+      "target": "认知系统/学派/认知工程/诺曼.md",
+      "relation": "发展",
+      "label": "诺曼"
+    },
+    {
+      "source": "认知系统/学派/生态认知/瓦雷拉.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔"
+    },
+    {
+      "source": "认知系统/学派/生态认知/瓦雷拉.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "继承",
+      "label": "梅洛-庞蒂"
+    },
+    {
+      "source": "认知系统/学派/生态认知/瓦雷拉.md",
+      "target": "宗教/佛教/概念/认知理论/心物一元.md",
+      "relation": "平行",
+      "label": "佛教中观·空"
+    },
+    {
+      "source": "认知系统/学派/生态认知/瓦雷拉.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "发展",
+      "label": "维纳"
+    },
+    {
+      "source": "认知系统/学派/生态认知/瓦雷拉.md",
+      "target": "认知系统/学派/生态认知/gibson.md",
+      "relation": "互补",
+      "label": "吉布森"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/wickens.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "继承",
+      "label": "卡尼曼 Kahneman"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/wickens.md",
+      "target": "认知系统/学派/控制论/西蒙.md",
+      "relation": "继承",
+      "label": "西蒙 Simon"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/wickens.md",
+      "target": "认知系统/学派/自然决策/斯威勒.md",
+      "relation": "互补",
+      "label": "斯威勒 Sweller"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/wickens.md",
+      "target": "认知系统/学派/认知工程/诺曼.md",
+      "relation": "互补",
+      "label": "诺曼 Norman"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/克里斯托弗.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "继承",
+      "label": "卡尼曼 Kahneman"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/克里斯托弗.md",
+      "target": "认知系统/学派/控制论/西蒙.md",
+      "relation": "继承",
+      "label": "西蒙 Simon"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/克里斯托弗.md",
+      "target": "认知系统/学派/自然决策/斯威勒.md",
+      "relation": "互补",
+      "label": "斯威勒 Sweller"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/克里斯托弗.md",
+      "target": "认知系统/学派/认知工程/诺曼.md",
+      "relation": "互补",
+      "label": "诺曼 Norman"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/拉贾.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "互补",
+      "label": "卡尼曼 Kahneman"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/莱桑.md",
+      "target": "认知系统/学派/认知工程/诺曼.md",
+      "relation": "平行",
+      "label": "诺曼 Norman"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/金.md",
+      "target": "认知系统/学派/分布式认知/哈钦斯.md",
+      "relation": "互补",
+      "label": "哈钦斯 Hutchins"
+    },
+    {
+      "source": "认知系统/学派/自动化社会技术/金.md",
+      "target": "认知系统/学派/认知工程/拉斯穆森.md",
+      "relation": "继承",
+      "label": "拉斯穆森 Rasmussen"
+    },
+    {
+      "source": "认知系统/学派/自然决策/克莱因.md",
+      "target": "宗教/传统/佛教/禅宗.md",
+      "relation": "平行",
+      "label": "佛教禅宗"
+    },
+    {
+      "source": "认知系统/学派/自然决策/克莱因.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "对话/张力",
+      "label": "卡尼曼"
+    },
+    {
+      "source": "认知系统/学派/自然决策/克莱因.md",
+      "target": "认知系统/学派/控制论/西蒙.md",
+      "relation": "继承",
+      "label": "西蒙"
+    },
+    {
+      "source": "认知系统/学派/自然决策/克莱因.md",
+      "target": "认知系统/学派/认知工程/拉斯穆森.md",
+      "relation": "平行",
+      "label": "拉斯穆森"
+    },
+    {
+      "source": "认知系统/学派/自然决策/斯威勒.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "互补",
+      "label": "卡尼曼"
+    },
+    {
+      "source": "认知系统/学派/自然决策/斯威勒.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "对话",
+      "label": "皮亚杰"
+    },
+    {
+      "source": "认知系统/学派/自然决策/斯威勒.md",
+      "target": "认知系统/学派/控制论/西蒙.md",
+      "relation": "继承",
+      "label": "西蒙"
+    },
+    {
+      "source": "认知系统/学派/自然决策/斯威勒.md",
+      "target": "认知系统/学派/自动化社会技术/克里斯托弗.md",
+      "relation": "互补",
+      "label": "威肯斯 Wickens"
+    },
+    {
+      "source": "认知系统/学派/自然决策/斯威勒.md",
+      "target": "认知系统/学派/认知工程/诺曼.md",
+      "relation": "互补",
+      "label": "诺曼"
+    },
+    {
+      "source": "认知系统/学派/自然决策/维克.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔"
+    },
+    {
+      "source": "认知系统/学派/自然决策/维克.md",
+      "target": "社会学/学派/批判理论/哈贝马斯.md",
+      "relation": "平行",
+      "label": "哈贝马斯"
+    },
+    {
+      "source": "认知系统/学派/自然决策/维克.md",
+      "target": "社会学/学派/结构化理论/吉登斯.md",
+      "relation": "平行",
+      "label": "吉登斯"
+    },
+    {
+      "source": "认知系统/学派/自然决策/维克.md",
+      "target": "认知系统/学派/生态认知/varela.md",
+      "relation": "平行",
+      "label": "瓦雷拉"
+    },
+    {
+      "source": "认知系统/学派/认知工程/伍兹.md",
+      "target": "宗教/佛教/概念/认知理论/六根六尘六识.md",
+      "relation": "平行",
+      "label": "佛教转识成智"
+    },
+    {
+      "source": "认知系统/学派/认知工程/伍兹.md",
+      "target": "社会学/学派/现代性/贝克.md",
+      "relation": "平行",
+      "label": "贝克"
+    },
+    {
+      "source": "认知系统/学派/认知工程/伍兹.md",
+      "target": "认知系统/学派/分布式认知/哈钦斯.md",
+      "relation": "互补",
+      "label": "哈钦斯"
+    },
+    {
+      "source": "认知系统/学派/认知工程/伍兹.md",
+      "target": "认知系统/学派/认知工程/拉斯穆森.md",
+      "relation": "发展",
+      "label": "拉斯穆森"
+    },
+    {
+      "source": "认知系统/学派/认知工程/南希.md",
+      "target": "认知系统/学派/控制论/阿什比.md",
+      "relation": "继承",
+      "label": "阿什比 Ashby"
+    },
+    {
+      "source": "认知系统/学派/认知工程/南希.md",
+      "target": "认知系统/学派/认知工程/拉斯穆森.md",
+      "relation": "继承",
+      "label": "拉斯穆森 Rasmussen"
+    },
+    {
+      "source": "认知系统/学派/认知工程/拉斯穆森.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "平行",
+      "label": "卡尼曼"
+    },
+    {
+      "source": "认知系统/学派/认知工程/拉斯穆森.md",
+      "target": "认知系统/concepts/human-reliability-analysis.md",
+      "relation": "应用",
+      "label": "人因可靠性分析 · HRA"
+    },
+    {
+      "source": "认知系统/学派/认知工程/拉斯穆森.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "继承",
+      "label": "维纳"
+    },
+    {
+      "source": "认知系统/学派/认知工程/拉斯穆森.md",
+      "target": "认知系统/学派/生态认知/gibson.md",
+      "relation": "继承",
+      "label": "吉布森"
+    },
+    {
+      "source": "认知系统/学派/认知工程/拉斯穆森.md",
+      "target": "认知系统/学派/自动化社会技术/莱桑.md",
+      "relation": "互补",
+      "label": "班布里奇 Bainbridge"
+    },
+    {
+      "source": "认知系统/学派/认知工程/拉斯穆森.md",
+      "target": "认知系统/学派/自动化社会技术/金.md",
+      "relation": "继承",
+      "label": "维森特 Vicente"
+    },
+    {
+      "source": "认知系统/学派/认知工程/拉斯穆森.md",
+      "target": "认知系统/学派/认知工程/南希.md",
+      "relation": "互补",
+      "label": "莱文森 Leveson"
+    },
+    {
+      "source": "认知系统/学派/认知工程/明斯基.md",
+      "target": "宗教/佛教/概念/认知理论/五蕴的认知读法.md",
+      "relation": "平行",
+      "label": "五蕴的认知读法"
+    },
+    {
+      "source": "认知系统/学派/认知工程/明斯基.md",
+      "target": "宗教/佛教/概念/认知理论/八识体系.md",
+      "relation": "平行",
+      "label": "八识体系 · Eight Consciousnesses"
+    },
+    {
+      "source": "认知系统/学派/认知工程/明斯基.md",
+      "target": "认知系统/学派/认知工程/鲁梅尔哈特.md",
+      "relation": "对照",
+      "label": "鲁梅尔哈特 Rumelhart"
+    },
+    {
+      "source": "认知系统/学派/认知工程/诺曼.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "互补",
+      "label": "卡尼曼"
+    },
+    {
+      "source": "认知系统/学派/认知工程/诺曼.md",
+      "target": "认知系统/学派/控制论/西蒙.md",
+      "relation": "继承",
+      "label": "西蒙"
+    },
+    {
+      "source": "认知系统/学派/认知工程/诺曼.md",
+      "target": "认知系统/学派/生态认知/gibson.md",
+      "relation": "发展/改写",
+      "label": "吉布森"
+    },
+    {
+      "source": "认知系统/学派/认知工程/诺曼.md",
+      "target": "认知系统/学派/自动化社会技术/克里斯托弗.md",
+      "relation": "互补",
+      "label": "威肯斯 Wickens"
+    },
+    {
+      "source": "认知系统/学派/认知工程/诺曼.md",
+      "target": "认知系统/学派/自动化社会技术/莱桑.md",
+      "relation": "平行",
+      "label": "班布里奇 Bainbridge"
+    },
+    {
+      "source": "认知系统/学派/认知工程/诺曼.md",
+      "target": "认知系统/学派/自然决策/斯威勒.md",
+      "relation": "互补",
+      "label": "斯威勒"
+    },
+    {
+      "source": "认知系统/学派/认知工程/鲁梅尔哈特.md",
+      "target": "宗教/佛教/概念/认知理论/八识体系.md",
+      "relation": "平行",
+      "label": "八识体系 · Eight Consciousnesses"
+    },
+    {
+      "source": "认知系统/学派/认知工程/鲁梅尔哈特.md",
+      "target": "宗教/佛教/概念/认知理论/种子与熏习.md",
+      "relation": "平行",
+      "label": "种子与熏习 · Bīja-Vāsanā"
+    },
+    {
+      "source": "认知系统/学派/认知工程/鲁梅尔哈特.md",
+      "target": "认知系统/学派/认知工程/明斯基.md",
+      "relation": "对照",
+      "label": "明斯基 Minsky"
+    },
+    {
+      "source": "认知系统/学派/预测加工/霍维.md",
+      "target": "哲学/学派/分析哲学/克拉克.md",
+      "relation": "对立",
+      "label": "克拉克"
+    },
+    {
+      "source": "认知系统/学派/预测加工/霍维.md",
+      "target": "心理学/学派/认知心理学/弗里斯顿.md",
+      "relation": "继承",
+      "label": "弗里斯顿"
+    },
+    {
+      "source": "认知系统/学派/预测加工/霍维.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "平行",
+      "label": "维纳"
+    },
+    {
+      "source": "认知系统/概念/Cynefin 框架.md",
+      "target": "认知系统/概念/ooda-loop.md",
+      "relation": "域匹配",
+      "label": "OODA 循环"
+    },
+    {
+      "source": "认知系统/概念/Cynefin 框架.md",
+      "target": "认知系统/概念/意义建构.md",
+      "relation": "域匹配",
+      "label": "意义建构"
+    },
+    {
+      "source": "认知系统/概念/Cynefin 框架.md",
+      "target": "认知系统/概念/系统思维.md",
+      "relation": "域匹配",
+      "label": "系统思维"
+    },
+    {
+      "source": "认知系统/概念/Cynefin 框架.md",
+      "target": "认知系统/概念/设计思维.md",
+      "relation": "域匹配",
+      "label": "设计思维"
+    },
+    {
+      "source": "认知系统/概念/Cynefin 框架.md",
+      "target": "认知系统/概念/麦肯锡方法.md",
+      "relation": "域匹配",
+      "label": "麦肯锡方法"
+    },
+    {
+      "source": "认知系统/概念/OODA 循环.md",
+      "target": "认知系统/概念/心智模型.md",
+      "relation": "Orient 核心",
+      "label": "心智模型"
+    },
+    {
+      "source": "认知系统/概念/OODA 循环.md",
+      "target": "认知系统/概念/系统思维.md",
+      "relation": "理论基础",
+      "label": "系统思维"
+    },
+    {
+      "source": "认知系统/概念/OODA 循环.md",
+      "target": "认知系统/概念/贝叶斯思维.md",
+      "relation": "数学对应",
+      "label": "贝叶斯思维"
+    },
+    {
+      "source": "认知系统/概念/OODA 循环.md",
+      "target": "认知系统/概念/韧性工程.md",
+      "relation": "组织应用",
+      "label": "韧性工程"
+    },
+    {
+      "source": "认知系统/概念/二阶思维.md",
+      "target": "社会学/概念/数字社会.md",
+      "relation": "决策框架",
+      "label": "博弈论"
+    },
+    {
+      "source": "认知系统/概念/二阶思维.md",
+      "target": "认知系统/概念/系统思维.md",
+      "relation": "理论基础",
+      "label": "系统思维"
+    },
+    {
+      "source": "认知系统/概念/二阶思维.md",
+      "target": "认知系统/概念/麦肯锡方法.md",
+      "relation": "互补",
+      "label": "麦肯锡方法"
+    },
+    {
+      "source": "认知系统/概念/人因可靠性分析.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "启发",
+      "label": "卡尼曼 Kahneman"
+    },
+    {
+      "source": "认知系统/概念/人因可靠性分析.md",
+      "target": "社会学/学派/现代性/贝克.md",
+      "relation": "平行",
+      "label": "贝克 Beck"
+    },
+    {
+      "source": "认知系统/概念/人因可靠性分析.md",
+      "target": "认知系统/学派/控制论/阿什比.md",
+      "relation": "平行",
+      "label": "阿什比 Ashby"
+    },
+    {
+      "source": "认知系统/概念/人因可靠性分析.md",
+      "target": "认知系统/学派/认知工程/拉斯穆森.md",
+      "relation": "继承",
+      "label": "拉斯穆森 Rasmussen"
+    },
+    {
+      "source": "认知系统/概念/分布式态势感知.md",
+      "target": "哲学/学派/分析哲学/维特根斯坦.md",
+      "relation": "启发",
+      "label": "维特根斯坦 Wittgenstein"
+    },
+    {
+      "source": "认知系统/概念/分布式态势感知.md",
+      "target": "社会学/学派/行动者网络/拉图尔.md",
+      "relation": "平行",
+      "label": "拉图尔 Latour"
+    },
+    {
+      "source": "认知系统/概念/分布式态势感知.md",
+      "target": "认知系统/学派/分布式认知/哈钦斯.md",
+      "relation": "同源",
+      "label": "哈钦斯 Hutchins"
+    },
+    {
+      "source": "认知系统/概念/分布式认知.md",
+      "target": "宗教/佛教/概念/认知理论/转识成智.md",
+      "relation": "平行",
+      "label": "佛教心物一元"
+    },
+    {
+      "source": "认知系统/概念/分布式认知.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "继承",
+      "label": "维果茨基 Vygotsky"
+    },
+    {
+      "source": "认知系统/概念/分布式认知.md",
+      "target": "社会学/学派/批判理论/哈贝马斯.md",
+      "relation": "互补",
+      "label": "哈贝马斯 Habermas"
+    },
+    {
+      "source": "认知系统/概念/分布式认知.md",
+      "target": "社会学/学派/行动者网络/拉图尔.md",
+      "relation": "平行",
+      "label": "拉图尔 Latour"
+    },
+    {
+      "source": "认知系统/概念/可供性.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔"
+    },
+    {
+      "source": "认知系统/概念/可供性.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "同源",
+      "label": "梅洛-庞蒂"
+    },
+    {
+      "source": "认知系统/概念/可供性.md",
+      "target": "宗教/智慧大师/大师/印度.md",
+      "relation": "平行",
+      "label": "佛教六根六尘"
+    },
+    {
+      "source": "认知系统/概念/可供性.md",
+      "target": "认知系统/学派/生态认知/gibson.md",
+      "relation": "原创",
+      "label": "吉布森"
+    },
+    {
+      "source": "认知系统/概念/团队认知.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "互补",
+      "label": "维果茨基 Vygotsky"
+    },
+    {
+      "source": "认知系统/概念/团队认知.md",
+      "target": "社会学/学派/古典社会学/涂尔干.md",
+      "relation": "平行",
+      "label": "社会学：涂尔干"
+    },
+    {
+      "source": "认知系统/概念/团队认知.md",
+      "target": "认知系统/学派/分布式认知/哈钦斯.md",
+      "relation": "同源",
+      "label": "哈钦斯 Hutchins"
+    },
+    {
+      "source": "认知系统/概念/团队认知.md",
+      "target": "认知系统/学派/自然决策/维克.md",
+      "relation": "互补",
+      "label": "维克 Weick"
+    },
+    {
+      "source": "认知系统/概念/奥卡姆剃刀.md",
+      "target": "认知系统/概念/批判性思维.md",
+      "relation": "评估工具",
+      "label": "批判性思维"
+    },
+    {
+      "source": "认知系统/概念/奥卡姆剃刀.md",
+      "target": "认知系统/概念/第一性原理思维.md",
+      "relation": "互补",
+      "label": "第一性原理思维"
+    },
+    {
+      "source": "认知系统/概念/奥卡姆剃刀.md",
+      "target": "认知系统/概念/认知负荷.md",
+      "relation": "认知约束",
+      "label": "认知负荷"
+    },
+    {
+      "source": "认知系统/概念/奥卡姆剃刀.md",
+      "target": "认知系统/概念/贝叶斯思维.md",
+      "relation": "概率化",
+      "label": "贝叶斯思维"
+    },
+    {
+      "source": "认知系统/概念/安全文化与公正文化.md",
+      "target": "伦理政治/概念/无知之幕.md",
+      "relation": "借用",
+      "label": "伦理政治/概念/无知之幕"
+    },
+    {
+      "source": "认知系统/概念/安全文化与公正文化.md",
+      "target": "伦理政治/概念/正义感.md",
+      "relation": "平行",
+      "label": "正义感"
+    },
+    {
+      "source": "认知系统/概念/安全文化与公正文化.md",
+      "target": "伦理政治/概念/责任.md",
+      "relation": "互补",
+      "label": "责任"
+    },
+    {
+      "source": "认知系统/概念/安全文化与公正文化.md",
+      "target": "社会学/学派/批判理论/哈贝马斯.md",
+      "relation": "平行",
+      "label": "参见"
+    },
+    {
+      "source": "认知系统/概念/宏观认知.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "互补",
+      "label": "卡尼曼 Kahneman"
+    },
+    {
+      "source": "认知系统/概念/宏观认知.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "发展",
+      "label": "皮亚杰 Piaget"
+    },
+    {
+      "source": "认知系统/概念/宏观认知.md",
+      "target": "认知系统/学派/自然决策/维克.md",
+      "relation": "同源",
+      "label": "维克 Weick"
+    },
+    {
+      "source": "认知系统/概念/宏观认知.md",
+      "target": "认知系统/学派/认知工程/伍兹.md",
+      "relation": "互补",
+      "label": "伍兹 Woods"
+    },
+    {
+      "source": "认知系统/概念/心智模型.md",
+      "target": "宗教/佛教/概念/认知理论/八识体系.md",
+      "relation": "平行",
+      "label": "佛教八识"
+    },
+    {
+      "source": "认知系统/概念/心智模型.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "互补",
+      "label": "卡尼曼 Kahneman"
+    },
+    {
+      "source": "认知系统/概念/心智模型.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "继承",
+      "label": "皮亚杰 Piaget"
+    },
+    {
+      "source": "认知系统/概念/心智模型.md",
+      "target": "认知系统/学派/认知工程/诺曼.md",
+      "relation": "发展",
+      "label": "诺曼 Norman"
+    },
+    {
+      "source": "认知系统/概念/态势感知.md",
+      "target": "宗教/概念/冥想与默观.md",
+      "relation": "平行",
+      "label": "佛教正念"
+    },
+    {
+      "source": "认知系统/概念/态势感知.md",
+      "target": "认知系统/学派/生态认知/gibson.md",
+      "relation": "继承",
+      "label": "吉布森 Gibson"
+    },
+    {
+      "source": "认知系统/概念/态势感知.md",
+      "target": "认知系统/学派/自然决策/克莱因.md",
+      "relation": "互补",
+      "label": "克莱因 Klein"
+    },
+    {
+      "source": "认知系统/概念/态势感知.md",
+      "target": "认知系统/学派/认知工程/拉斯穆森.md",
+      "relation": "互补",
+      "label": "拉斯穆森 Rasmussen"
+    },
+    {
+      "source": "认知系统/概念/情境化认知.md",
+      "target": "哲学/学派/实用主义/约翰.md",
+      "relation": "同源",
+      "label": "杜威 Dewey"
+    },
+    {
+      "source": "认知系统/概念/情境化认知.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "同源",
+      "label": "梅洛-庞蒂 Merleau-Ponty"
+    },
+    {
+      "source": "认知系统/概念/情境化认知.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "互补",
+      "label": "维果茨基 Vygotsky"
+    },
+    {
+      "source": "认知系统/概念/情境化认知.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "继承",
+      "label": "皮亚杰 Piaget"
+    },
+    {
+      "source": "认知系统/概念/情境化认知.md",
+      "target": "社会学/学派/结构主义/布迪厄.md",
+      "relation": "平行",
+      "label": "布迪厄 Bourdieu"
+    },
+    {
+      "source": "认知系统/概念/情境化认知.md",
+      "target": "社会学/学派/行动者网络/拉图尔.md",
+      "relation": "互补",
+      "label": "拉图尔 Latour"
+    },
+    {
+      "source": "认知系统/概念/情境化认知.md",
+      "target": "认知系统/学派/分布式认知/哈钦斯.md",
+      "relation": "互补",
+      "label": "哈钦斯 Hutchins"
+    },
+    {
+      "source": "认知系统/概念/意义建构.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔 Heidegger"
+    },
+    {
+      "source": "认知系统/概念/意义建构.md",
+      "target": "哲学/学派/诠释学/伽达默尔.md",
+      "relation": "平行",
+      "label": "伽达默尔 Gadamer"
+    },
+    {
+      "source": "认知系统/概念/意义建构.md",
+      "target": "宗教/佛教/概念/认知理论/心物一元.md",
+      "relation": "平行",
+      "label": "佛教缘起"
+    },
+    {
+      "source": "认知系统/概念/意义建构.md",
+      "target": "认知系统/学派/生态认知/varela.md",
+      "relation": "平行",
+      "label": "瓦雷拉 Varela"
+    },
+    {
+      "source": "认知系统/概念/批判性思维.md",
+      "target": "哲学/概念/辩证法.md",
+      "relation": "哲学根基",
+      "label": "辩证法"
+    },
+    {
+      "source": "认知系统/概念/批判性思维.md",
+      "target": "认知系统/概念/认知负荷.md",
+      "relation": "认知约束",
+      "label": "认知负荷"
+    },
+    {
+      "source": "认知系统/概念/批判性思维.md",
+      "target": "认知系统/概念/贝叶斯思维.md",
+      "relation": "量化互补",
+      "label": "贝叶斯思维"
+    },
+    {
+      "source": "认知系统/概念/批判性思维.md",
+      "target": "认知系统/概念/麦肯锡方法.md",
+      "relation": "工具互补",
+      "label": "麦肯锡方法"
+    },
+    {
+      "source": "认知系统/概念/有限理性.md",
+      "target": "哲学/学派/东方哲学/庄子.md",
+      "relation": "平行",
+      "label": "庄子 Zhuangzi"
+    },
+    {
+      "source": "认知系统/概念/有限理性.md",
+      "target": "宗教/佛教/概念/认知理论/心物一元.md",
+      "relation": "平行",
+      "label": "佛教中观"
+    },
+    {
+      "source": "认知系统/概念/有限理性.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "发展",
+      "label": "卡尼曼 Kahneman"
+    },
+    {
+      "source": "认知系统/概念/有限理性.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "平行",
+      "label": "维纳 Wiener"
+    },
+    {
+      "source": "认知系统/概念/根因分析.md",
+      "target": "认知系统/概念/human-reliability-analysis.md",
+      "relation": "工程应用",
+      "label": "人类可靠性分析"
+    },
+    {
+      "source": "认知系统/概念/根因分析.md",
+      "target": "认知系统/概念/socratic-questioning.md",
+      "relation": "哲学原型",
+      "label": "苏格拉底诘问"
+    },
+    {
+      "source": "认知系统/概念/根因分析.md",
+      "target": "认知系统/概念/系统思维.md",
+      "relation": "系统互补",
+      "label": "系统思维"
+    },
+    {
+      "source": "认知系统/概念/根因分析.md",
+      "target": "认知系统/概念/韧性工程.md",
+      "relation": "组织应用",
+      "label": "韧性工程"
+    },
+    {
+      "source": "认知系统/概念/根因分析.md",
+      "target": "认知系统/概念/麦肯锡方法.md",
+      "relation": "结构互补",
+      "label": "麦肯锡方法"
+    },
+    {
+      "source": "认知系统/概念/水平思考.md",
+      "target": "哲学/概念/辩证法.md",
+      "relation": "哲学呼应",
+      "label": "辩证法"
+    },
+    {
+      "source": "认知系统/概念/水平思考.md",
+      "target": "认知系统/概念/心智模型.md",
+      "relation": "突破对象",
+      "label": "心智模型"
+    },
+    {
+      "source": "认知系统/概念/水平思考.md",
+      "target": "认知系统/概念/麦肯锡方法.md",
+      "relation": "互补",
+      "label": "麦肯锡方法"
+    },
+    {
+      "source": "认知系统/概念/活动理论.md",
+      "target": "宗教/佛教/概念/认知理论/心物一元.md",
+      "relation": "平行",
+      "label": "佛教缘起"
+    },
+    {
+      "source": "认知系统/概念/活动理论.md",
+      "target": "心理学/学派/发展心理学/列夫.md",
+      "relation": "继承",
+      "label": "维果茨基"
+    },
+    {
+      "source": "认知系统/概念/活动理论.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "平行",
+      "label": "皮亚杰 Piaget"
+    },
+    {
+      "source": "认知系统/概念/活动理论.md",
+      "target": "社会学/学派/古典社会学/马克思.md",
+      "relation": "继承",
+      "label": "马克思 Marx"
+    },
+    {
+      "source": "认知系统/概念/生成认知.md",
+      "target": "哲学/学派/存在主义/海德格尔.md",
+      "relation": "平行",
+      "label": "海德格尔"
+    },
+    {
+      "source": "认知系统/概念/生成认知.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "继承",
+      "label": "梅洛-庞蒂"
+    },
+    {
+      "source": "认知系统/概念/生成认知.md",
+      "target": "宗教/佛教/概念/认知理论/心物一元.md",
+      "relation": "平行",
+      "label": "佛教中观·空"
+    },
+    {
+      "source": "认知系统/概念/生成认知.md",
+      "target": "认知系统/学派/控制论/维纳.md",
+      "relation": "发展",
+      "label": "维纳 Wiener"
+    },
+    {
+      "source": "认知系统/概念/生成认知.md",
+      "target": "认知系统/学派/生态认知/varela.md",
+      "relation": "原创",
+      "label": "瓦雷拉 Varela"
+    },
+    {
+      "source": "认知系统/概念/第一性原理思维.md",
+      "target": "哲学/概念/认识论.md",
+      "relation": "哲学根基",
+      "label": "认识论"
+    },
+    {
+      "source": "认知系统/概念/第一性原理思维.md",
+      "target": "认知系统/概念/心智模型.md",
+      "relation": "元认知",
+      "label": "心智模型"
+    },
+    {
+      "source": "认知系统/概念/第一性原理思维.md",
+      "target": "认知系统/概念/麦肯锡方法.md",
+      "relation": "操作化",
+      "label": "麦肯锡方法"
+    },
+    {
+      "source": "认知系统/概念/系统思维.md",
+      "target": "认知系统/概念/意义建构.md",
+      "relation": "认知过程",
+      "label": "意义建构"
+    },
+    {
+      "source": "认知系统/概念/系统思维.md",
+      "target": "认知系统/概念/韧性工程.md",
+      "relation": "应用",
+      "label": "韧性工程"
+    },
+    {
+      "source": "认知系统/概念/系统思维.md",
+      "target": "认知系统/概念/麦肯锡方法.md",
+      "relation": "互补",
+      "label": "麦肯锡方法"
+    },
+    {
+      "source": "认知系统/概念/联合认知系统.md",
+      "target": "宗教/佛教/概念/认知理论/转识成智.md",
+      "relation": "平行",
+      "label": "佛教心物一元"
+    },
+    {
+      "source": "认知系统/概念/联合认知系统.md",
+      "target": "认知系统/学派/分布式认知/哈钦斯.md",
+      "relation": "互补",
+      "label": "哈钦斯 Hutchins"
+    },
+    {
+      "source": "认知系统/概念/联合认知系统.md",
+      "target": "认知系统/学派/生态认知/clark.md",
+      "relation": "互补",
+      "label": "克拉克 Clark"
+    },
+    {
+      "source": "认知系统/概念/联合认知系统.md",
+      "target": "认知系统/学派/认知工程/伍兹.md",
+      "relation": "原创",
+      "label": "伍兹 Woods"
+    },
+    {
+      "source": "认知系统/概念/苏格拉底诘问.md",
+      "target": "哲学/概念/辩证法.md",
+      "relation": "哲学演进",
+      "label": "辩证法"
+    },
+    {
+      "source": "认知系统/概念/苏格拉底诘问.md",
+      "target": "认知系统/概念/心智模型.md",
+      "relation": "认知目标",
+      "label": "心智模型"
+    },
+    {
+      "source": "认知系统/概念/苏格拉底诘问.md",
+      "target": "认知系统/概念/批判性思维.md",
+      "relation": "历史根基",
+      "label": "批判性思维"
+    },
+    {
+      "source": "认知系统/概念/苏格拉底诘问.md",
+      "target": "认知系统/概念/逆向思维.md",
+      "relation": "方法互补",
+      "label": "逆向思维"
+    },
+    {
+      "source": "认知系统/概念/认知负荷.md",
+      "target": "宗教/佛教/概念/认知理论/转识成智.md",
+      "relation": "平行",
+      "label": "佛教心物一元"
+    },
+    {
+      "source": "认知系统/概念/认知负荷.md",
+      "target": "心理学/学派/行为经济学/丹尼尔.md",
+      "relation": "互补",
+      "label": "卡尼曼 Kahneman"
+    },
+    {
+      "source": "认知系统/概念/认知负荷.md",
+      "target": "社会学/学派/古典社会学/齐美尔.md",
+      "relation": "平行",
+      "label": "齐美尔 Simmel"
+    },
+    {
+      "source": "认知系统/概念/认知负荷.md",
+      "target": "认知系统/学派/控制论/西蒙.md",
+      "relation": "继承",
+      "label": "西蒙 Simon"
+    },
+    {
+      "source": "认知系统/概念/设计思维.md",
+      "target": "认知系统/概念/意义建构.md",
+      "relation": "认知基础",
+      "label": "意义建构"
+    },
+    {
+      "source": "认知系统/概念/设计思维.md",
+      "target": "认知系统/概念/认知负荷.md",
+      "relation": "设计约束",
+      "label": "认知负荷"
+    },
+    {
+      "source": "认知系统/概念/设计思维.md",
+      "target": "认知系统/概念/麦肯锡方法.md",
+      "relation": "互补",
+      "label": "麦肯锡方法"
+    },
+    {
+      "source": "认知系统/概念/贝叶斯思维.md",
+      "target": "认知系统/概念/有限理性.md",
+      "relation": "认知约束",
+      "label": "有界理性"
+    },
+    {
+      "source": "认知系统/概念/贝叶斯思维.md",
+      "target": "认知系统/概念/预测加工.md",
+      "relation": "神经科学",
+      "label": "预测处理"
+    },
+    {
+      "source": "认知系统/概念/贝叶斯思维.md",
+      "target": "认知系统/概念/麦肯锡方法.md",
+      "relation": "互补",
+      "label": "麦肯锡方法"
+    },
+    {
+      "source": "认知系统/概念/逆向思维.md",
+      "target": "认知系统/概念/human-reliability-analysis.md",
+      "relation": "工程应用",
+      "label": "人类可靠性分析"
+    },
+    {
+      "source": "认知系统/概念/逆向思维.md",
+      "target": "认知系统/概念/韧性工程.md",
+      "relation": "系统应用",
+      "label": "韧性工程"
+    },
+    {
+      "source": "认知系统/概念/逆向思维.md",
+      "target": "认知系统/概念/麦肯锡方法.md",
+      "relation": "补充",
+      "label": "麦肯锡方法"
+    },
+    {
+      "source": "认知系统/概念/韧性工程.md",
+      "target": "宗教/佛教/概念/认知理论/六根六尘六识.md",
+      "relation": "平行",
+      "label": "佛教转识成智"
+    },
+    {
+      "source": "认知系统/概念/韧性工程.md",
+      "target": "社会学/学派/现代性/贝克.md",
+      "relation": "平行",
+      "label": "贝克 Beck"
+    },
+    {
+      "source": "认知系统/概念/韧性工程.md",
+      "target": "认知系统/学派/控制论/阿什比.md",
+      "relation": "继承",
+      "label": "阿什比 Ashby"
+    },
+    {
+      "source": "认知系统/概念/韧性工程.md",
+      "target": "认知系统/学派/认知工程/伍兹.md",
+      "relation": "原创",
+      "label": "伍兹 Woods"
+    },
+    {
+      "source": "认知系统/概念/预测加工.md",
+      "target": "哲学/学派/现象学/梅洛庞蒂.md",
+      "relation": "互补",
+      "label": "梅洛-庞蒂"
+    },
+    {
+      "source": "认知系统/概念/预测加工.md",
+      "target": "宗教/佛教/概念/认知理论/八识体系.md",
+      "relation": "平行",
+      "label": "佛教八识体系"
+    },
+    {
+      "source": "认知系统/概念/预测加工.md",
+      "target": "心理学/学派/认知心理学/皮亚杰.md",
+      "relation": "平行",
+      "label": "皮亚杰 Piaget"
+    },
+    {
+      "source": "认知系统/概念/预测加工.md",
+      "target": "认知系统/学派/生态认知/clark.md",
+      "relation": "原创",
+      "label": "克拉克 Clark"
+    },
+    {
+      "source": "认知系统/概念/麦肯锡方法.md",
+      "target": "认知系统/概念/意义建构.md",
+      "relation": "过程相似",
+      "label": "意义建构"
+    },
+    {
+      "source": "认知系统/概念/麦肯锡方法.md",
+      "target": "认知系统/概念/有限理性.md",
+      "relation": "理论前提",
+      "label": "有限理性"
+    },
+    {
+      "source": "认知系统/概念/麦肯锡方法.md",
+      "target": "认知系统/概念/认知负荷.md",
+      "relation": "理论支撑",
+      "label": "认知负荷"
+    }
+  ],
+  "eval": {
+    "cases": [
+      {
+        "file": "eval/cases/01-cbt-cognitive-distortion.yaml",
+        "skill_id": "cbt-cognitive-distortion",
+        "domain": "心理学",
+        "resolved": true
+      },
+      {
+        "file": "eval/cases/02-maslow-needs-diagnosis.yaml",
+        "skill_id": "maslow-needs-diagnosis",
+        "domain": "心理学",
+        "resolved": true
+      },
+      {
+        "file": "eval/cases/03-bourdieu-field-analysis.yaml",
+        "skill_id": "bourdieu-field-analysis",
+        "domain": "社会学",
+        "resolved": true
+      },
+      {
+        "file": "eval/cases/04-categorical-imperative.yaml",
+        "skill_id": "categorical-imperative-test",
+        "domain": "哲学",
+        "resolved": true
+      },
+      {
+        "file": "eval/cases/05-stpa-accident-analysis.yaml",
+        "skill_id": "stpa-accident-analysis",
+        "domain": "认知系统",
+        "resolved": true
+      },
+      {
+        "file": "eval/cases/06-four-noble-truths.yaml",
+        "skill_id": "four-noble-truths-framework",
+        "domain": "宗教",
+        "resolved": true
+      },
+      {
+        "file": "eval/cases/07-eight-consciousness.yaml",
+        "skill_id": "eight-consciousness-diagnosis",
+        "domain": "宗教",
+        "resolved": true
+      },
+      {
+        "file": "eval/cases/08-three-natures.yaml",
+        "skill_id": "three-natures-diagnosis",
+        "domain": "宗教",
+        "resolved": true
+      },
+      {
+        "file": "eval/cases/09-two-truths.yaml",
+        "skill_id": "two-truths-reframing",
+        "domain": "宗教",
+        "resolved": true
+      },
+      {
+        "file": "eval/cases/10-five-aggregates.yaml",
+        "skill_id": "five-aggregates-deconstruction",
+        "domain": "宗教",
+        "resolved": true
+      }
+    ],
+    "skills_total": 149,
+    "covered": 10,
+    "domains": {
+      "宗教": 5,
+      "心理学": 2,
+      "哲学": 1,
+      "社会学": 1,
+      "认知系统": 1
+    }
+  },
+  "coverage": {
+    "entries": 2650,
+    "school_filled": 1400,
+    "tags_filled": 1897,
+    "unique_tags": 6770,
+    "skills": 149
+  }
+}

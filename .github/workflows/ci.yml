@@ -43,6 +43,8 @@ jobs:
         run: pip install pyyaml
       - name: Verify index.json matches sources
         run: python3 _meta/scripts/build-index.py --check
+      - name: Verify workbench projection matches sources
+        run: python3 _meta/scripts/build-workbench-graph.py --check
 
   nav-links:
     runs-on: ubuntu-latest

@@ -53,6 +53,7 @@ pre{white-space:pre-wrap;word-break:break-word;background:#0d1117;color:#e6edf3;
 .empty{padding:28px 4px;color:var(--muted)}
 .note{padding:8px 10px;border-left:3px solid var(--accent);background:#ddf4ff66;margin:8px 0;font-size:12.5px}
 .note.bad{border-color:var(--err);background:#cf222e1a}
+td.bad{color:var(--err)}
 .pill{font-size:11px;padding:0 6px;border-radius:10px;border:1px solid var(--line);color:var(--muted)}
 .pill.ok{color:var(--ok);border-color:var(--ok)}
 .pill.warn{color:var(--warn);border-color:var(--warn)}
@@ -225,6 +226,13 @@ globalThis.OCW = (function () {
     return graph.edges.filter(function (e) { return e.source === path || e.target === path; });
   }
 
+  /* 投影自述的断链目标：这些"对端"文件不存在，不能当可达条目展示 */
+  function danglingSet(graph) {
+    const s = new Set();
+    ((graph && graph.dangling) || []).forEach(function (p) { s.add(String(p)); });
+    return s;
+  }
+
   /* ---- 实验台：模板 A/B/C 与导出（A 的权威是 queries.py，B/C 的权威是 AGENT.md） ---- */
   /* 对应 queries.py:110-125 的 apply_skill()。模板正文以该函数为唯一权威：
      AGENT.md 的 "{domain} 领域" + 直引号变体只是文档示意，改动本函数前先看
@@ -341,7 +349,7 @@ globalThis.OCW = (function () {
 
   /* OCW:CONTRACT-FUNCS */
   return { PANES, PANE_LABELS, parseHash, writeHash, needsServer, loadIndex, fmt, enc, dec, search,
-           crossLinks, resolveEntryPath, edgesFrom, canReadSources,
+           crossLinks, resolveEntryPath, edgesFrom, danglingSet, canReadSources,
            applySkill, findSkill, templateB, templateC, exportTriple,
            matrix, facets, selectEntries, redirectCount, LIST_ONLY_FIELDS };
 })();
@@ -460,22 +468,32 @@ globalThis.OCW = (function () {
       }
       const t = el('table');
       t.appendChild(el('tr', {}, ['方向', '关系', '对端'].map((h) => el('th', { text: h }))));
+      const miss = OCW.danglingSet(App.graph);
+      let missCount = 0;
       edges.forEach(function (e) {
         const outgoing = e.source === entry.path;
+        const other = outgoing ? e.target : e.source;
+        const dead = miss.has(other);
+        if (dead) missCount++;
         t.appendChild(el('tr', {}, [
           el('td', { text: outgoing ? '→' : '←' }),
           el('td', { text: '[' + e.relation + ']' }),
-          el('td', { text: outgoing ? e.target : e.source }),
+          el('td', dead ? { class: 'bad', text: other + '（目标文件不存在）' } : { text: other }),
         ]));
       });
       d.appendChild(t);
       d.appendChild(el('div', { class: 'note', text: '边表来自 graph.json（由 build-workbench-graph.py 复用 queries.cross_links 生成，CI --check 保鲜）。' }));
+      if (missCount) {
+        d.appendChild(el('div', { class: 'note bad', text:
+          '本条目有 ' + missCount + ' 条边的目标文件不存在（多为早期中文化遗留的旧英文路径写在正文里）。' +
+          '边本身是真的，断的是落点——修的是 md 链接，不是删掉这条边。' }));
+      }
       return;
     }
     if (!OCW.canReadSources(globalThis.location.href)) {
       d.appendChild(el('div', { class: 'note bad', text:
-        '此环境（file://）无法读源 md，且尚未加载 graph.json 投影 → 跨链面板不可用。这不是"无关联"。' +
-        '请用 python3 -m http.server 8000 打开，或等 P3 的 graph.json 落地。' }));
+        '此环境（file://）既取不到 graph.json 投影，也无法读源 md → 跨链面板不可用。这不是"无关联"。' +
+        '请在仓库根运行 python3 -m http.server 8000，再访问 http://localhost:8000/工作台/。' }));
       return;
     }
     try {

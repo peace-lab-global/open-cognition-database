@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { readFileSync } from 'node:fs';
+import { readFileSync, existsSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import vm from 'node:vm';
 
@@ -276,4 +276,50 @@ test('exportTriple 含技能 path、任务、generated 日期与 prompt 全文�
   }
   assert.ok(!s.includes('undefined'), s);
   assert.ok(s.indexOf('PROMPT') > s.indexOf('---'), '元信息在 prompt 之前');
+});
+
+test('danglingSet：投影自述的断链目标可判定；缺字段/缺投影时为空集而非崩', () => {
+  const OCW = loadCore();
+  const g = { dangling: ['a/x.md', 'b/y.md'] };
+  assert.equal(OCW.danglingSet(g).has('a/x.md'), true);
+  assert.equal(OCW.danglingSet(g).has('a/z.md'), false);
+  assert.equal(OCW.danglingSet({}).size, 0);
+  assert.equal(OCW.danglingSet(null).size, 0);
+});
+
+/** 投影与 MCP 服务同源的机械证据：真 graph.json 的出边 == queries.cross_links() 逐字段 */
+test('graph.json 出边与 queries.cross_links() 逐字段一致（3 个真实条目 + 计数自洽）', () => {
+  const graph = JSON.parse(readFileSync(REPO_ROOT + '工作台/graph.json', 'utf8'));
+  assert.ok(Array.isArray(graph.edges) && graph.edges.length > 1000, '投影应为全库边表');
+  assert.equal(graph.typed_entries, new Set(graph.edges.map((e) => e.source)).size,
+    'typed_entries 应等于有出边的条目数');
+
+  const pyCross = (p) => {
+    const py = ['import json,sys;sys.path.insert(0,"mcp")',
+      'from open_cognition_mcp import queries',
+      'sys.stdout.write(json.dumps(queries.cross_links(sys.argv[1]),ensure_ascii=False))'].join(';');
+    return JSON.parse(execFileSync('python3', ['-c', py, p], { cwd: REPO_ROOT }).toString());
+  };
+  /* 目前没有任何 SKILL.md 正文命中 cross_links 的语法，故样本全部落在 entries 上；
+     取排序后 source 序列的首/中/尾，跨域抽样而不是写死某个目录名。 */
+  const allSources = [...new Set(graph.edges.map((e) => e.source))];
+  const sources = [allSources[0], allSources[(allSources.length / 2) | 0], allSources[allSources.length - 1]];
+  assert.equal(new Set(sources).size, 3, '样本不足');
+  /* 投影按 (source,target,relation) 全局排序，Python 按正文出现顺序返回：
+     比的是同一条目出边的多重集，不是顺序——顺序不同不是漂移，字段不同才是。 */
+  const bag = (list) => plain(list)
+    .map((e) => JSON.stringify([e.target, e.relation, e.label]))
+    .sort()
+    .join('\n');
+  for (const src of sources) {
+    assert.equal(bag(graph.edges.filter((e) => e.source === src)), bag(pyCross(src)),
+      src + ' 投影出边与 Python 不一致');
+  }
+
+  /* 断链清单必须真断：逐条 stat，且与投影里的边目标自洽 */
+  for (const t of graph.dangling) {
+    assert.equal(existsSync(REPO_ROOT + t), false, t + ' 被误报为断链');
+  }
+  const edgeTargets = new Set(graph.edges.map((e) => e.target));
+  for (const t of graph.dangling) assert.equal(edgeTargets.has(t), true, t + ' 不在任何边上');
 });
